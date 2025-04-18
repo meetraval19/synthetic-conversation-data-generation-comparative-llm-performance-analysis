@@ -1,0 +1,18 @@
+"Speaker A: 'I'm pleased to see you're recovering well. How have you been feeling since your discharge from the hospital?'
+
+Speaker B: 'Surprisingly well, the transition home was smoother than I expected, thanks to all the planning.'
+
+Speaker A: 'That's great to hear. We strive to ensure that going home is a positive experience. Now, let's review some of the documentation from your last visit.'
+
+Speaker B: 'I found some of the paperwork to be quite confusing, to be honest.'
+
+Speaker A: 'Yes, I've heard that before. We recognize that the process can be frustrating and we're working on simplifying it.'
+
+Speaker B: 'I appreciate that. I also had some issues with the specialist appointments you mentioned.'
+
+Speaker A: 'I’m sorry to hear that. Referral coordination can sometimes hit a few snags, but we're committed to improving the process for our patients.'
+
+Speaker B: 'Thank you for acknowledging that. Hopefully, it gets better in the future.'
+
+Speaker A: 'Absolutely. Let's focus on ensuring your recovery continues smoothly. Remember to reach out if you need further assistance with anything.'"
+

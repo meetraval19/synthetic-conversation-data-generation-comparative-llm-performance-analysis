@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "positive"
+        }
+    ]
+}

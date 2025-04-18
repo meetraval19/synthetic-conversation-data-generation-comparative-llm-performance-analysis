@@ -1,0 +1,18 @@
+"Speaker A: 'Thanks for coming in today. Before we discuss anything else, are there any urgent health concerns you’ve encountered since our last visit?'
+
+Speaker B: 'Well, I did experience some chest discomfort a few nights ago, which was quite alarming.'
+
+Speaker A: 'That does sound concerning. Did you manage to get any immediate care or advice at the time?'
+
+Speaker B: 'I called the emergency line, and they suggested I rest and monitor the situation unless it got worse. It did improve by morning, but it was a scary experience.'
+
+Speaker A: 'I understand how unsettling that can be. We should definitely run a few tests to rule out anything serious today. In the meantime, let’s proceed with your routine follow-up. How have you been feeling otherwise?'
+
+Speaker B: 'Overall, things have been stable. I’ve been following the treatment plan and maintaining the recommended lifestyle changes.'
+
+Speaker A: 'That’s good to hear. Keep tracking any new symptoms in your health diary. It’s helpful for us to see patterns during your follow-ups.'
+
+Speaker B: 'I’ll continue to do that. Is there anything specific I should watch for moving forward?'
+
+Speaker A: 'Yes, just watch for any recurring symptoms like shortness of breath or persistent chest pain, and let us know immediately. But for now, let's focus on keeping everything as stable as possible.'"
+

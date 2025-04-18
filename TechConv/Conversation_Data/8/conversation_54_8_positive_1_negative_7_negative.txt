@@ -1,0 +1,17 @@
+"Speaker A: 'Hi, thanks for joining the interview. I’d love to hear your thoughts on our technical documentation.'
+
+Speaker B: 'Sure! I've found it really helpful. The organized structure and examples make it easy to understand and implement.'
+
+Speaker A: 'I’m glad to hear that. Moving on, how has your experience been with reporting bugs or issues?'
+
+Speaker B: 'Honestly, it’s been frustrating. The system often feels slow, and responses can be lacking in detail.'
+
+Speaker A: 'That sounds challenging. We’re working on improvements in that area. What about the support and escalation process?'
+
+Speaker B: 'I’ve had some difficulties there too. It sometimes feels like it takes too long to get things escalated. Clearer communication would really help.'
+
+Speaker A: 'I apologize for the inconvenience. Your feedback is invaluable. We aim to make meaningful changes.'
+
+Speaker B: 'I appreciate that. I’m hopeful improvements will make a big difference. Thanks for listening!'
+
+Speaker A: 'Thank you for sharing your insights with us.'"

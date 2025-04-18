@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "neutral"
+        }
+    ]
+}

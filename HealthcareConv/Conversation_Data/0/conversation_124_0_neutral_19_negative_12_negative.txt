@@ -1,0 +1,14 @@
+"Speaker A: 'I see the patient's past records are quite extensive. It's important to consider the overall health picture.'
+
+Speaker B: 'Yes, their medical history provides a lot of insights, though it's quite neutral in terms of revelations.'
+
+Speaker A: 'Speaking of which, did you get a chance to look into the support services they might need?'
+
+Speaker B: 'Unfortunately, the availability isn't great. Many services seem stretched thin, and that could pose a problem.'
+
+Speaker A: 'That's concerning. I'll make a note to investigate further. How's the documentation review going on your end?'
+
+Speaker B: 'It’s been a bit of a headache. The paperwork is disorganized, making it hard to piece everything together efficiently.'
+
+Speaker A: 'I agree, it leaves much to be desired. We’ll have to tackle that proactively to ensure a smooth transition.'"
+

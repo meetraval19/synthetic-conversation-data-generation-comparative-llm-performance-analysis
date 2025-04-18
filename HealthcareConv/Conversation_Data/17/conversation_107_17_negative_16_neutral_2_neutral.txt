@@ -1,0 +1,19 @@
+"Speaker A: 'I'm relieved to see that you're ready for discharge today. Are there any questions you have about the diagnosis?'
+
+Speaker B: 'I understand most of it, but there were so many terms that it all became a bit overwhelming.'
+
+Speaker A: 'That’s understandable. The medical jargon can be quite complex. We can go over any parts you're unsure about.'
+
+Speaker B: 'Thanks. One thing I wanted to discuss is the accessibility of follow-up care. I’ve encountered some hurdles in the past.'
+
+Speaker A: 'Yes, barriers in accessing care can be frustrating. We’re working to simplify the process, but it’s important for us to hear about these issues.'
+
+Speaker B: 'I appreciate that. I’ll definitely keep you updated on any difficulties I face.'
+
+Speaker A: 'Absolutely. Now, regarding your test outcomes, they were pretty straightforward. Nothing unexpected, which is a good sign.'
+
+Speaker B: 'That’s reassuring to hear. I didn’t have many doubts about those results, but it’s good to get confirmation.'
+
+Speaker A: 'Definitely. I’ll make sure all the details are clear before you leave. If anything arises, feel free to reach out.'
+
+Speaker B: 'Will do. Thanks for all the support through this process.'"

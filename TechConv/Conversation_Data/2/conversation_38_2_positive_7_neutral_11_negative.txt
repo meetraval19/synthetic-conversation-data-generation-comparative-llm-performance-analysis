@@ -1,0 +1,19 @@
+"Speaker A: 'Hi, thanks for joining the review. I wanted to start by saying your work this quarter has been impressive. Your project milestones were all hit right on schedule.'
+
+Speaker B: 'Thank you! That means a lot. I’ve been making sure to focus on optimizing our processes.'
+
+Speaker A: 'Speaking of processes, how do you feel about our support and escalation setup? Have you found it straightforward?'
+
+Speaker B: 'It's been pretty clear-cut. The steps are well-defined, which makes it easier when unexpected issues arise.'
+
+Speaker A: 'Great to hear. I know those processes can make a big difference. Now, onto a slightly different subject. I've noticed some feedback about the initial training sessions for newcomers. It seems there might be room for improvement. What’s your take?'
+
+Speaker B: 'Yes, I’ve noticed that, too. The onboarding can be a bit overwhelming. New team members seem to struggle with the steep curve, and I think we might need to update our approach.'
+
+Speaker A: 'I agree. Let’s consider developing a more gradual training program. Your input would be valuable there.'
+
+Speaker B: 'Absolutely, I’d be happy to help shape that. It’s important to support our new hires effectively from the start.' 
+
+Speaker A: 'Perfect, let’s set up a time to brainstorm on that. Overall, though, continue the great work with your projects. It’s making a real impact.'
+
+Speaker B: 'Thanks, I appreciate the feedback and support. Looking forward to implementing some of these improvements.'"

@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "System Configuration Details",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

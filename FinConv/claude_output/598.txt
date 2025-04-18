@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "positive"
+    }
+  ]
+}

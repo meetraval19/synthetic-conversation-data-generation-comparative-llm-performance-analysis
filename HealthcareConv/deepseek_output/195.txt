@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "positive"
+        }
+    ]
+}

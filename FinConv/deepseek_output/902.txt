@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Debt-to-Equity Ratio Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "positive"
+        }
+    ]
+}

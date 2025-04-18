@@ -1,0 +1,15 @@
+"Speaker A: 'During our recent review, we noticed that training for new security protocols is an ongoing requirement for our team.'
+
+Speaker B: 'That’s a good point. Onboarding needs are constantly evolving, especially as threats change.'
+
+Speaker A: 'Agreed. The feedback from our recent hires suggests the current training modules are fairly comprehensive.'
+
+Speaker B: 'Now, regarding our security tools, the feedback isn’t exactly glowing.'
+
+Speaker A: 'Yes, that's been a source of frustration. Many team members feel that our current platform doesn't support the speed or features we need.'
+
+Speaker B: 'Exactly. Some have pointed out that alternatives might offer better integration with our existing systems.'
+
+Speaker A: 'Switching platforms might be a hassle, but it could enhance our response capabilities.'
+
+Speaker B: 'Indeed, it’s worth exploring to ensure we're not held back by inadequate tools.'"

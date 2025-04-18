@@ -1,0 +1,19 @@
+"Speaker A: 'Hello, how have you been feeling lately with the new medication?'
+
+Speaker B: 'Hi, Doctor! Actually, I've noticed quite a lot of improvement since I started it.'
+
+Speaker A: 'That's great to hear! It seems like the medication is working well for you.'
+
+Speaker B: 'Yes, I'm really pleased with the results so far.'
+
+Speaker A: 'Now, let's talk about any symptoms you might still be experiencing. Have there been any concerns?'
+
+Speaker B: 'Well, I have had some persistent fatigue and headaches lately.'
+
+Speaker A: 'I see. We should keep a close eye on those symptoms. It's important to address them as soon as possible.'
+
+Speaker B: 'Yeah, it's been a bit worrying.'
+
+Speaker A: 'Alright, let's move on to review your recent test results and notes. Everything seems in order here.'
+
+Speaker B: 'Okay, that sounds good. I appreciate the thorough review.'

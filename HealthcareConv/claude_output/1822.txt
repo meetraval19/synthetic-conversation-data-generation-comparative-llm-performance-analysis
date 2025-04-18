@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Care Barriers",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Documentation Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Roadmap or Future Plans",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Change Request or Feature Suggestion",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Follow Up",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Documentation Review",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

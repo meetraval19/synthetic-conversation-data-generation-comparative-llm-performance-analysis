@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "positive"
+        }
+    ]
+}

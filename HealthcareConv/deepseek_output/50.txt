@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Medical History",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Test Results",
+            "sentiment": "neutral"
+        }
+    ]
+}

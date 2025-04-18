@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Valuation Metrics Discussion",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Tax Implication Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "positive"
+        }
+    ]
+}

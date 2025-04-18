@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "neutral"
+        }
+    ]
+}

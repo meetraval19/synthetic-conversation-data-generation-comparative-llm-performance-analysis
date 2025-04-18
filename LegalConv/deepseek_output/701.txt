@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Evidence and Documentation Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "negative"
+        }
+    ]
+}

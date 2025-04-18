@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+"Speaker A: 'Welcome to the stand-up! Let's start with our training updates. The new onboarding sessions seem to be working well.'
+
+Speaker B: 'Absolutely, the feedback has been fantastic so far. The new team members are settling in quickly.'
+
+Speaker C: 'They've been able to contribute effectively much sooner thanks to the comprehensive training materials.'
+
+Speaker A: 'That's great to hear. Now, moving on to the project roadmap, I know there are concerns.'
+
+Speaker D: 'Yes, the timeline is tighter than we'd like, and some of the goals might need adjusting.'
+
+Speaker B: 'I understand. It seems like some of the milestones might be overly ambitious given our current resources.'
+
+Speaker C: 'Exactly, we should consider revisiting the deadlines and perhaps re-evaluating some priorities.'
+
+Speaker A: 'Let's plan a session to address these concerns and adjust the roadmap accordingly. Thank you all for your insights.'"
+

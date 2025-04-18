@@ -1,0 +1,14 @@
+"Speaker A: 'During our consultation today, I wanted to discuss how we can collaboratively decide on the best treatment plan for the patient.'
+
+Speaker B: 'Absolutely, shared decision-making helps ensure that we consider all options and patient preferences.'
+
+Speaker A: 'I agree. It helps us align our recommendations closely with what patients value most in their care.'
+
+Speaker B: 'On another note, have you reviewed the patient’s current medications? I'm concerned there might be some negative interactions.'
+
+Speaker A: 'Yes, I noticed that some of the prescribed medications may not be working as effectively as they could. It might be worth re-evaluating them.'
+
+Speaker B: 'I think that's necessary, especially since there have been reports of side effects. Adjusting the prescriptions might improve outcomes.'
+
+Speaker A: 'Let's work together to develop a safer and more effective regimen for them.'"
+

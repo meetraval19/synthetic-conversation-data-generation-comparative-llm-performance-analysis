@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "positive"
+        }
+    ]
+}

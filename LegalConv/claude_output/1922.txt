@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "neutral"
+    }
+  ]
+}

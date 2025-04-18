@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Witness Identification and Preparation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "neutral"
+    }
+  ]
+}

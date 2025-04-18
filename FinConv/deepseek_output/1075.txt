@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Valuation Metrics Discussion",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "neutral"
+        }
+    ]
+}

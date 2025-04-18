@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "positive"
+    }
+  ]
+}

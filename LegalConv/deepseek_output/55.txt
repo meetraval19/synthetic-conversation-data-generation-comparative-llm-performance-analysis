@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "positive"
+        }
+    ]
+}

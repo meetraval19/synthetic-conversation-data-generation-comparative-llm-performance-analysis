@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Scenario and Sensitivity Analysis",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "negative"
+    }
+  ]
+}

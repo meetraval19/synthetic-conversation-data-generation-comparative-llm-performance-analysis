@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    }
+  ]
+}

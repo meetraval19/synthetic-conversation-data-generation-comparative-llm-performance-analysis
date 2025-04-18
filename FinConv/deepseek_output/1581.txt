@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+"Speaker A: 'I'm glad we were able to share the diagnosis with you effectively today. How do you feel about the information provided?' 
+
+Speaker B: 'Honestly, I'm relieved. It was clear and made things easier to understand. I feel more in control now.'
+
+Speaker A: 'That's great to hear. Now, regarding your long-term health, we've assessed the risks and created a manageable plan. You have a strong foundation to work from.'
+
+Speaker B: 'That gives me a lot of confidence moving forward. Knowing there's a solid plan really helps.'
+
+Speaker A: 'Absolutely. However, let's talk about the follow-up appointments. It's crucial to keep on top of them, even if it feels like a hassle at times.'
+
+Speaker B: 'I understand, but it seems overwhelming to arrange all the visits and keep track of everything. I'm worried it might disrupt my routine.'
+
+Speaker A: 'I get that, but staying consistent with your follow-ups is key to ensuring your health continues to improve.'
+
+Speaker B: 'I know it's important. I'll try to manage it and prioritize those visits, even if it's challenging.'

@@ -1,0 +1,28 @@
+Based on the conversation between what appears to be a healthcare provider and patient, I've identified the underlying themes and their associated sentiments:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Test Results",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Side Effects",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

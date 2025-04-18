@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Testing and Validation Status",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+"Speaker A: 'I'm glad to see you're doing well since your last visit. Have you found the educational materials we sent home useful?'
+
+Speaker B: 'Absolutely! The information on lifestyle changes was particularly helpful.'
+
+Speaker A: 'That's great to hear. Understanding your condition is a big step in managing it effectively.'
+
+Speaker B: 'Yes, it has made me feel more in control. Now, about what we discussed regarding going home, is there anything else I should keep in mind?'
+
+Speaker A: 'Well, the discharge plan is pretty straightforward. Just make sure you follow up with the specialist as scheduled and maintain your routine check-ups.'
+
+Speaker B: 'I see. It's good to have everything laid out clearly.'
+
+Speaker A: 'Indeed. And as for your ongoing treatment, how are you finding the current plan?'
+
+Speaker B: 'It seems manageable so far. I haven’t noticed any new side effects.'
+
+Speaker A: 'That's reassuring. We can adjust as needed, but it sounds like we're on the right track.'
+
+Speaker B: 'Yes, thanks for ensuring everything is going smoothly.'"

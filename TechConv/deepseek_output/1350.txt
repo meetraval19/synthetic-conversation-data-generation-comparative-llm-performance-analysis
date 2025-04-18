@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "neutral"
+        }
+    ]
+}

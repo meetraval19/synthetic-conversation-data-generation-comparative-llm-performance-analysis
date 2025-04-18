@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Interest Rate Impact Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "neutral"
+        }
+    ]
+}

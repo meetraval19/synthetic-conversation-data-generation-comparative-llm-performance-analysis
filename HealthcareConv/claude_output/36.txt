@@ -1,0 +1,30 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Medical History",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Barriers",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Side Effects",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

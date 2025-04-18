@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Liquidity Risk Evaluation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "positive"
+        }
+    ]
+}

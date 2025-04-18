@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "neutral"
+        }
+    ]
+}

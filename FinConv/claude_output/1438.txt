@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Internal Controls and Governance",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Scenario and Sensitivity Analysis",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    }
+  ]
+}

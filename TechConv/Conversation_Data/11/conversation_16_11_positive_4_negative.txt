@@ -1,0 +1,23 @@
+"Speaker A: 'I wanted to start by discussing how well you've settled in after your onboarding. How do you feel about the training sessions?'
+
+Speaker B: 'Oh, they've been fantastic! The sessions were really comprehensive and made me feel equipped to handle my new role.'
+
+Speaker A: 'I'm glad to hear that. Training is essential for building confidence and skills.'
+
+Speaker B: 'Absolutely, they've definitely boosted my confidence. The trainers were excellent, too.'
+
+Speaker A: 'Now, I do want to address a concern about the integration of our new software. I've heard there are a few compatibility issues.'
+
+Speaker B: 'Yes, there have been some challenges. The updates don't seem to align well with our legacy systems.'
+
+Speaker A: 'That sounds frustrating. How is the team managing those issues?'
+
+Speaker B: 'We're doing what we can to troubleshoot, but it's been a bit of a headache for everyone.'
+
+Speaker A: 'Let's work on finding a more effective solution. I’m sure collaboration will help overcome these barriers.'
+
+Speaker B: 'I agree. With a focused approach, I believe we can resolve these compatibility problems together.'
+
+Speaker A: 'Great. The training's positive impact and addressing the integration hurdles show your capability. Keep up the good work.' 
+
+Speaker B: 'Thank you, I appreciate the support. I'm looking forward to contributing to more solutions.'"

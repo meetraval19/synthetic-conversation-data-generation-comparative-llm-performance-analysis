@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Enforcement and Implementation Issues",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

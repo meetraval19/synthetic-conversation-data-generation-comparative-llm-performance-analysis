@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

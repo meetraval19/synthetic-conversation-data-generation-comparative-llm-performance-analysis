@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "negative"
+        }
+    ]
+}

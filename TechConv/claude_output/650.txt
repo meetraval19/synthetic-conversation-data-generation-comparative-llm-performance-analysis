@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Side Effects",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Test Results",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

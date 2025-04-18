@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "neutral"
+        }
+    ]
+}

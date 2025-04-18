@@ -1,0 +1,15 @@
+"Speaker A: 'Hi there! How have you been feeling since we last met?'
+
+Speaker B: 'I've been okay, but I'm a bit worried. You mentioned doing some tests to evaluate certain health risks.'
+
+Speaker A: 'Yes, the tests indicated a few areas of concern that we need to address. It's important not to panic, but we'll need to monitor these factors closely.'
+
+Speaker B: 'I understand. It’s just a little unsettling, especially with the potential implications.'
+
+Speaker A: 'I completely get that. But let’s shift focus to how we can work together on this. We have multiple paths moving forward, and I’d like us to decide the best one for you.'
+
+Speaker B: 'I appreciate that. Being part of the decision-making really makes me feel empowered and hopeful.'
+
+Speaker A: 'Absolutely! By discussing all options, we can tailor a plan that fits your needs and preferences, ensuring the best care possible.'
+
+Speaker B: 'That sounds reassuring. I’m ready to take these steps with your guidance.'"

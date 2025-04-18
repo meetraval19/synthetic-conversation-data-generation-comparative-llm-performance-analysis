@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

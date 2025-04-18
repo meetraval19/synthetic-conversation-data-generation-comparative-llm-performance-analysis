@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "System Configuration Details",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Roadmap or Future Plans",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

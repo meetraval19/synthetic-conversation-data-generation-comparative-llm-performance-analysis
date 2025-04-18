@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Technical Documentation Reference",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

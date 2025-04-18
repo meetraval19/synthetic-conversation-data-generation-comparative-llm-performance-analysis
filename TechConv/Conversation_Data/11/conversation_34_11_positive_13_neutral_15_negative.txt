@@ -1,0 +1,13 @@
+"Speaker A: 'Can you share your thoughts on the initial training process with our software?'
+
+Speaker B: 'Definitely! The onboarding sessions were really helpful. It made getting started so much smoother.'
+
+Speaker A: 'That's great to hear! Now, regarding the user access rights, how have you found the licensing setup?'
+
+Speaker B: 'It's been straightforward. I haven’t encountered any major issues, though a bit more flexibility wouldn't hurt.'
+
+Speaker A: 'Understood. Lastly, have you experienced any challenges with workflow integration?'
+
+Speaker B: 'Honestly, aligning it with our existing processes has been tough. It feels like the software could do more to adapt to our workflow needs.'
+
+Speaker A: 'Thank you for your feedback. We're always looking for ways to improve process alignment.'"

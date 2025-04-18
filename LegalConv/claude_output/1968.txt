@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Enforcement and Implementation Issues",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "neutral"
+    }
+  ]
+}

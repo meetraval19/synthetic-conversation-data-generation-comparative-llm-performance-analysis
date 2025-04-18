@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Interest Rate Impact Analysis",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "positive"
+    }
+  ]
+}

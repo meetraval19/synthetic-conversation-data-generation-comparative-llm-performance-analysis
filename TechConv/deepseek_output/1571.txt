@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "neutral"
+        }
+    ]
+}

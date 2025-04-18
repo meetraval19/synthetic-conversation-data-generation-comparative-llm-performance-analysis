@@ -1,0 +1,23 @@
+"Speaker A: 'Thanks for coming in today. How have you been feeling since starting the new medication?'
+
+Speaker B: 'Overall, I feel okay, but I've noticed some unpleasant reactions.'
+
+Speaker A: 'I'm sorry to hear that. What kind of reactions have you been experiencing?'
+
+Speaker B: 'Mostly just some dizziness and headaches, which have been quite bothersome.'
+
+Speaker A: 'That does sound troubling. We can look into adjusting your dosage or trying an alternative to minimize those impacts.'
+
+Speaker B: 'I'd really appreciate that. It would be great to not have to deal with these side effects daily.'
+
+Speaker A: 'Absolutely. Let's also review your symptoms. Are you experiencing any of the initial issues that brought you here in the first place?'
+
+Speaker B: 'Yes, those symptoms haven't changed much—no better, no worse.'
+
+Speaker A: 'That’s useful to know. It helps us rule out any other underlying conditions.'
+
+Speaker B: 'It’s reassuring to hear that, even if it means more waiting.'
+
+Speaker A: 'I understand it can be frustrating. We'll continue to monitor your progress and adjust the treatment plan as needed.'
+
+Speaker B: 'Thank you. It’s good to have a clear plan moving forward.'"

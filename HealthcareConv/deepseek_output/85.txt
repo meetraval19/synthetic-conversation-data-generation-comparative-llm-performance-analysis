@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Medical History",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Shared Decision",
+            "sentiment": "positive"
+        }
+    ]
+}

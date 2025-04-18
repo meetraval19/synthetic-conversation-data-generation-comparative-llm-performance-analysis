@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    }
+  ]
+}

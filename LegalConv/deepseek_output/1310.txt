@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+"Speaker A: 'Have you coordinated the patient's referrals to the specialists yet?'
+
+Speaker B: 'Yes, I've set up appointments with the cardiologist and the endocrinologist. Everything seems to be moving smoothly, without any major issues.'
+
+Speaker A: 'That's good to hear. How about the discharge plan? Any challenges there?'
+
+Speaker B: 'Unfortunately, yes. The process is pretty complicated. The family is concerned about arranging home care services, and there have been delays in securing necessary equipment.'
+
+Speaker A: 'That sounds frustrating. It can be tough when discharge planning doesn't align with the timelines patients and families need.'
+
+Speaker B: 'Absolutely. We're working on mitigating these issues, but it's taking longer than anticipated. Communication between departments needs improvement.'
+
+Speaker A: 'I hope it gets sorted soon. It's crucial for the patients' transition to be as smooth as possible.'
+
+Speaker B: 'Right, we just have to keep pushing for better coordination and support all around.'"

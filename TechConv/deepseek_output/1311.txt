@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Debt-to-Equity Ratio Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Scenario and Sensitivity Analysis",
+      "sentiment": "neutral"
+    }
+  ]
+}

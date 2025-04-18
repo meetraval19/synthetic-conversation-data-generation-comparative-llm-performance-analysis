@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Referral Coordination",
+            "sentiment": "neutral"
+        }
+    ]
+}

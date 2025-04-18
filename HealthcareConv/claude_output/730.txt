@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

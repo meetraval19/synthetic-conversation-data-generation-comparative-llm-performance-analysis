@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

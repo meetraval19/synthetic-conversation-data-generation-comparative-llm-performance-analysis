@@ -1,0 +1,17 @@
+"Speaker A: 'I understand you'll be heading home soon. How are you feeling today?'
+
+Speaker B: 'I’m okay, just a bit unsure about what to monitor. The nurse did a good job explaining the symptoms I should watch for, though.'
+
+Speaker A: 'That’s important. Keeping an eye on those will help in a smooth recovery.'
+
+Speaker B: 'Agreed. I’m a bit concerned about arranging follow-up appointments, though. It feels complicated.'
+
+Speaker A: 'I’ve heard coordinating referrals can be challenging. Let’s try to simplify it for you before you leave.'
+
+Speaker B: 'Thank you. It’s just been a bit overwhelming to keep track of everything.'
+
+Speaker A: 'No problem. We’ll make sure you have all the details sorted out. It’s crucial that you don’t feel left in the dark on that.'
+
+Speaker B: 'I really appreciate your help with that. Once that’s sorted, I’ll feel much better about being discharged.'
+
+Speaker A: 'That’s our goal. Let’s make sure it’s all clear before you head home.'"

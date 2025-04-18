@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Shared Decision",
+            "sentiment": "positive"
+        }
+    ]
+}

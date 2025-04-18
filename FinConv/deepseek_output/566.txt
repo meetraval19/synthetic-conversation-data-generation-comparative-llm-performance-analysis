@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Valuation Metrics Discussion",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "neutral"
+        }
+    ]
+}

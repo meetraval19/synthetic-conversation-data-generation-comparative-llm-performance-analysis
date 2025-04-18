@@ -1,0 +1,20 @@
+"Speaker A: 'I see you've been stable over the last few days. We’re ready to update your care plan.'
+
+Speaker B: 'Okay, what changes should I expect with the updated plan?'
+
+Speaker A: 'The main focus continues to be on your medication and therapy schedule, which remain the same for now.'
+
+Speaker B: 'That sounds reasonable. I’ve been managing well with it.'
+
+Speaker A: 'Great to hear. Now, about the risk factor review—there are still some concerns, particularly with your heart rate variability.'
+
+Speaker B: 'Oh, that doesn’t sound good. What should I be doing to reduce those risks?'
+
+Speaker A: 'It’s crucial to monitor your diet closely and maintain regular exercise, but within safe limits.'
+
+Speaker B: 'I’ll definitely pay more attention to that. I was hoping to leave without such concerns, though.'
+
+Speaker A: 'I understand, but we want to ensure your long-term well-being. Addressing these risks now is important.'
+
+Speaker B: 'Absolutely. I'll stick to the recommendations given. Thank you for explaining everything so clearly.'"
+

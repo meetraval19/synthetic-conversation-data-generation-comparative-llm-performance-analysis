@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Care Barriers",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Plan Update",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Documentation Review",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

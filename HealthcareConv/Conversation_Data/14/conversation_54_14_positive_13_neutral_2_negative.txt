@@ -1,0 +1,19 @@
+"Speaker A: 'The patient is responding well to the medication, and the side effects have been minimal so far.'
+
+Speaker B: 'That's a relief. It's always great when the treatment process doesn’t cause additional issues for the patients.'
+
+Speaker A: 'I agree. Now, regarding the plan for getting the patient ready to leave the hospital, have you reviewed the latest notes?'
+
+Speaker B: 'Yes, the discharge plans are straightforward and should be relatively smooth, considering the patient's current stability.'
+
+Speaker A: 'Good to hear. As long as the patient adheres to the guidance provided, recovery at home should be effective.'
+
+Speaker B: 'Indeed. However, have you taken a look at the latest test results?'
+
+Speaker A: 'Unfortunately, I have, and they show some unexpected levels that are concerning. We might have to adjust the treatment protocol.'
+
+Speaker B: 'That's not ideal. We should discuss this with the team to ensure we're considering all options before making changes.'
+
+Speaker A: 'Absolutely, we'll need a comprehensive approach to handle this effectively and ensure the patient’s safety.' 
+
+Speaker B: 'Let’s organize a meeting to gather everyone's insights and decide the best course forward.'"

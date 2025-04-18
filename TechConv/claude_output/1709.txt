@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Bug or Issue Reporting",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Tool or Platform Comparison",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

@@ -1,0 +1,24 @@
+Based on the conversation provided, here's my analysis of the underlying themes and their sentiment:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Follow Up",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

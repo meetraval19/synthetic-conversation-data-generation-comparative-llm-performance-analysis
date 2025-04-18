@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "neutral"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Forecasting and Projections",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Tax Implication Review",
+            "sentiment": "neutral"
+        }
+    ]
+}

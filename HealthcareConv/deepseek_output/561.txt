@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Follow Up",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "positive"
+        }
+    ]
+}

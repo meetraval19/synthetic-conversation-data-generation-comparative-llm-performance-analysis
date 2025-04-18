@@ -1,0 +1,34 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Barriers",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Side Effects",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Medication Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

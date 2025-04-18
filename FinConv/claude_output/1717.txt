@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Scenario and Sensitivity Analysis",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Patient Education",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "positive"
+        }
+    ]
+}

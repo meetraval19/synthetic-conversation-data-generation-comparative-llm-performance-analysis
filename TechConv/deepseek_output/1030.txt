@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "neutral"
+        }
+    ]
+}

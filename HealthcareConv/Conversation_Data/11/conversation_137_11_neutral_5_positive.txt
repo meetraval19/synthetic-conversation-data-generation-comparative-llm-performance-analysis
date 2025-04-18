@@ -1,0 +1,19 @@
+"Speaker A: 'Before you leave, I want to answer any questions you might have about your condition.'
+
+Speaker B: 'Honestly, there’s a lot to take in. Could we go over some of the instructions again?'
+
+Speaker A: 'Of course. I understand there’s a lot of information. Let’s make sure you're comfortable with everything.'
+
+Speaker B: 'That would be great. Thanks for taking the time to explain it all in detail.'
+
+Speaker A: 'No problem. Now, regarding your check-up, we’ve scheduled a follow-up for you next month.'
+
+Speaker B: 'I’m hopeful about the follow-up. It will be reassuring to see how the recovery is progressing.'
+
+Speaker A: 'Yes, it’s an important step to ensure everything is on track. You’re making great progress so far.' 
+
+Speaker B: 'Thanks! That’s really encouraging to hear. I’ll make sure to attend the appointment.'
+
+Speaker A: 'Perfect. If you have any questions before then, feel free to reach out. We’re here to support you throughout the process.' 
+
+Speaker B: 'I appreciate that. I'll be sure to do so if something comes up.'"

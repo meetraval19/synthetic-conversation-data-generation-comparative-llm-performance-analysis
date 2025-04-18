@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Evidence and Documentation Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Strategy and Action Plan Development",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "neutral"
+        }
+    ]
+}

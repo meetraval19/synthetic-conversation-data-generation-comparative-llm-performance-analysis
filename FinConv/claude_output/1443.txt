@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Internal Controls and Governance",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "negative"
+    }
+  ]
+}

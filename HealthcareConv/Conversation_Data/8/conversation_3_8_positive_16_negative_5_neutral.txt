@@ -1,0 +1,21 @@
+"Speaker A: 'I'm happy to let you know that your care plan has been updated with some new therapies that have shown excellent results.'
+
+Speaker B: 'That's great to hear! I felt much better after the last few sessions.'
+
+Speaker A: 'Absolutely. Your recovery progress has been impressive, and we're optimistic about your next steps.'
+
+Speaker B: 'Thank you! But I was a bit confused during my last appointment. I didn't quite understand the details of what was discussed.'
+
+Speaker A: 'I apologize for any confusion. Clear communication about your diagnosis is crucial, and I'll make sure everything is thoroughly explained to you.'
+
+Speaker B: 'I appreciate that. It can be overwhelming sometimes.'
+
+Speaker A: 'Of course, and if you have any questions, please don't hesitate to ask. Now, regarding your follow-up, we’ll need to schedule a few more appointments to keep track of your progress.'
+
+Speaker B: 'Sure, that sounds reasonable. I assume these will be spaced out monthly?'
+
+Speaker A: 'Yes, that would be ideal initially, but we can adjust depending on how things progress.'
+
+Speaker B: 'Alright, I’ll make sure to pencil those in. Thanks for all the support!'
+
+Speaker A: 'You're welcome. We're here to ensure you have everything you need for a smooth recovery.'"

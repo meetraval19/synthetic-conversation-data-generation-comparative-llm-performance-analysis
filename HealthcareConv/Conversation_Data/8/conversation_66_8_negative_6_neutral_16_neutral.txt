@@ -1,0 +1,21 @@
+"Speaker A: 'I wanted to discuss your recent care plan. It seems there are some complications we need to address.'
+
+Speaker B: 'Oh, that's not what I was hoping to hear. What's the issue?'
+
+Speaker A: 'There have been some unexpected reactions to the medication. We might need to make a few changes.'
+
+Speaker B: 'I see. I hope it's nothing too serious.'
+
+Speaker A: 'We'll handle it together. On another note, I've organized a referral to a specialist for further evaluation.'
+
+Speaker B: 'Thank you. I appreciate the coordination. How long is the wait time usually?'
+
+Speaker A: 'Typically, it’s straightforward, but I'll make sure everything is expedited.'
+
+Speaker B: 'That sounds good. What about the recent test results I’ve had?'
+
+Speaker A: 'The results are in line with what we expected. I'll explain all the details to make sure you fully understand the situation.'
+
+Speaker B: 'Great, I just want to be clear on everything moving forward.'
+
+Speaker A: 'Absolutely, clear communication is key. Let’s make sure we address all your questions.'

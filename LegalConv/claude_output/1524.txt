@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Legal Argument and Case Theory",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "positive"
+    }
+  ]
+}

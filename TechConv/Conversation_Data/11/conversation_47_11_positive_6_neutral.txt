@@ -1,0 +1,21 @@
+"Speaker A: 'Thanks for joining us today. We're particularly interested in your thoughts about how you felt when first using the new platform.'
+
+Speaker B: 'Of course. I actually found the onboarding process quite helpful. The tutorials were clear, and I was able to get started without any issues.'
+
+Speaker A: 'That's great to hear! We put a lot of effort into making sure the training materials are thorough.'
+
+Speaker B: 'Absolutely. It actually made me feel more confident about using the system early on.'
+
+Speaker A: 'I’m glad to hear that. Now, how would you describe your overall experience with using the platform?'
+
+Speaker B: 'In general, I’d say it's been okay. Some parts of the interface felt intuitive, while others took a bit of getting used to.'
+
+Speaker A: 'That's understandable. We’re always looking to improve the user experience, so your feedback is very valuable.'
+
+Speaker B: 'I think with a few adjustments, it could become more seamless, especially with navigation. Just minor tweaks really.'
+
+Speaker A: 'Thank you for sharing that. Was there anything else you wanted to mention?'
+
+Speaker B: 'Not right now, but I’ll reach out if I think of something.'
+
+Speaker A: 'Sounds good. Your input is crucial to us, and we appreciate your time.'"

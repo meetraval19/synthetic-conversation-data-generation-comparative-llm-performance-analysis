@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Tool or Platform Comparison",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

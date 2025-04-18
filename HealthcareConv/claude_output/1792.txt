@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Care Barriers",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Test Results",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Medical History",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

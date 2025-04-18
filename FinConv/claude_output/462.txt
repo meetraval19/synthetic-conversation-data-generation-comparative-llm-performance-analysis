@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

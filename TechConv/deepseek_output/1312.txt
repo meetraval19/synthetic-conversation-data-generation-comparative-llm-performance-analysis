@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "negative"
+        }
+    ]
+}

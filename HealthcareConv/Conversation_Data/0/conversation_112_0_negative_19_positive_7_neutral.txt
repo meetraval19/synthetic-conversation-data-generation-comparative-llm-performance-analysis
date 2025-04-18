@@ -1,0 +1,15 @@
+"Speaker A: 'I reviewed your records, and it seems your medical history has been quite challenging.'
+
+Speaker B: 'Yes, it's been a tough journey, but I'm hopeful things can get better.'
+
+Speaker A: 'Absolutely, and we have a great array of support services available to help you manage your condition.'
+
+Speaker B: 'That’s comforting to hear. The support I've received so far has been fantastic.'
+
+Speaker A: 'I'm pleased to hear that. How has the communication with our team been for you?'
+
+Speaker B: 'It's been pretty straightforward. Everyone seems to be on the same page.'
+
+Speaker A: 'Great. Consistent communication is key to your care. Let us know if you need anything else.'
+
+Speaker B: 'Will do. Thank you for all the support.'"

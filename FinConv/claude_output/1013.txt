@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Internal Controls and Governance",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "negative"
+    }
+  ]
+}

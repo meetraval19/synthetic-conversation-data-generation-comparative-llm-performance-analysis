@@ -1,0 +1,13 @@
+"Speaker A: 'The new protocol for handling allergic reactions worked well today. Any concerns from your side?'
+
+Speaker B: 'It did go smoothly, but I noticed a few patients mentioned discomfort from the medication side effects. It's something we should monitor closely.'
+
+Speaker A: 'Absolutely, side effects can complicate things, especially in emergency situations. We'll need to keep an eye on that and adjust if necessary.'
+
+Speaker B: 'For sure. On another note, our coordination with the specialty units was efficient.'
+
+Speaker A: 'Yes, the referrals were managed well. The system seems to be handling the coordination effectively without any major hiccups.'
+
+Speaker B: 'Agreed. It's vital to have that seamless communication in place between departments, even if it’s just routine.'
+
+Speaker A: 'Definitely! We should keep refining our approach to both areas as we move forward.'"

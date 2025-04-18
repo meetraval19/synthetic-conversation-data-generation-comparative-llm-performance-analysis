@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Strategy and Action Plan Development",
+            "sentiment": "positive"
+        }
+    ]
+}

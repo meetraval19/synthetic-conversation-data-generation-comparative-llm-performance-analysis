@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Documentation Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Care Barriers",
+            "sentiment": "negative"
+        }
+    ]
+}

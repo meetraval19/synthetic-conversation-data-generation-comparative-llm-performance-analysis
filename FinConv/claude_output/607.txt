@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "neutral"
+    }
+  ]
+}

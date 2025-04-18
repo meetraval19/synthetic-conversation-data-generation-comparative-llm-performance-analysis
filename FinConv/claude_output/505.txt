@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Internal Controls and Governance",
+      "sentiment": "positive"
+    }
+  ]
+}

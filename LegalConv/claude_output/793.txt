@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Confidentiality and Privilege",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

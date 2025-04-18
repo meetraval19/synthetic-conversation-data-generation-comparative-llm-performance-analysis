@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Confidentiality and Privilege",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Witness Identification and Preparation",
+      "sentiment": "positive"
+    }
+  ]
+}

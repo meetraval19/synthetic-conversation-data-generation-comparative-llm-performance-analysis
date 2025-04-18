@@ -1,0 +1,24 @@
+"Speaker A: 'Thanks for joining this feedback session. How have you found using our new software?'
+
+Speaker B: 'It's been quite an interesting experience overall. I have some thoughts I’d like to share.'
+
+Speaker A: 'Great, let's start with your overall experience. Anything stand out to you?'
+
+Speaker B: 'It's pretty straightforward to use; I didn’t encounter any major issues. The interface is intuitive.'
+
+Speaker A: 'Good to hear! How did you find the technical documentation?'
+
+Speaker B: 'Surprisingly helpful. It’s detailed and easy to navigate, which really aided me in getting up to speed with specific features.'
+
+Speaker A: 'We put a lot of effort into updating those resources, so I’m pleased to hear that feedback. How about when you needed assistance—did you interact with our support team?'
+
+Speaker B: 'Yes, I did reach out once. The support process was efficient. I appreciated how quickly my issue was escalated and resolved.'
+
+Speaker A: 'Excellent! We’ve been revamping our support protocols for more effective resolutions. Anything else you'd like to add?'
+
+Speaker B: 'Nothing else right now, but I’m interested in seeing how the tool evolves. Thanks for listening to my feedback.'
+
+Speaker A: 'We appreciate your insights. It helps us improve and make our technology work better for everyone.'
+
+Speaker B: 'Glad to be part of the process. Looking forward to what's next!'"
+

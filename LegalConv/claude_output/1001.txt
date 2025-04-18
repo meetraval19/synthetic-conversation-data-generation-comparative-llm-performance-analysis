@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Timeline and Key Deadlines",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "negative"
+    }
+  ]
+}

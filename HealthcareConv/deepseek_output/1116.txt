@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Care Barriers",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Test Results",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "positive"
+        }
+    ]
+}

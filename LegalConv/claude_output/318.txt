@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "positive"
+    }
+  ]
+}

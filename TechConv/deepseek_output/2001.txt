@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Testing and Validation Status",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

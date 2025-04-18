@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Interest Rate Impact Analysis",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "positive"
+        }
+    ]
+}

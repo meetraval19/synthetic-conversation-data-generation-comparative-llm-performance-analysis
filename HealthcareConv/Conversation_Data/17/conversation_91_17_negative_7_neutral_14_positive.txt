@@ -1,0 +1,19 @@
+“Speaker A: ‘Thanks for coming in today. How have things been since we last met?’
+
+Speaker B: ‘Not too bad, but navigating the healthcare system has been tricky. It feels like there are too many hurdles.’
+
+Speaker A: ‘I understand; accessing care can be frustrating. Are there specific areas you're finding difficult?’
+
+Speaker B: ‘Mostly coordinating between specialists. It’s been a bit of a hassle.’
+
+Speaker A: ‘I'll make sure our team communication improves. We should all be on the same page to support you better.’
+
+Speaker B: ‘That would be great. It feels like sometimes messages don’t get through to everyone.’
+
+Speaker A: ‘We’ll work on that. Now, you've been on the new medication for a few weeks. How are you feeling?’
+
+Speaker B: ‘Surprisingly, the side effects have been minimal, which is a relief.’
+
+Speaker A: ‘That’s great to hear! It’s always positive when the treatment agrees well with the patient.’
+
+Speaker B: ‘Yeah, definitely makes a difference in managing everything else.’”

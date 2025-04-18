@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Interest Rate Impact Analysis",
+            "sentiment": "negative"
+        }
+    ]
+}

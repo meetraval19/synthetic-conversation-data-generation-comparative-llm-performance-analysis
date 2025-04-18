@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal Argument and Case Theory",
+            "sentiment": "negative"
+        }
+    ]
+}

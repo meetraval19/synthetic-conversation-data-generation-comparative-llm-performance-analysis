@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "negative"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "neutral"
+        }
+    ]
+}

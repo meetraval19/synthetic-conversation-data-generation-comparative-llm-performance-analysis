@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "neutral"
+        }
+    ]
+}

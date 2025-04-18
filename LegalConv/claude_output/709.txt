@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Witness Identification and Preparation",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "neutral"
+    }
+  ]
+}

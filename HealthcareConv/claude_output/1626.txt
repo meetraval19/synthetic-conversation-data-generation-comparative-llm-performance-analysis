@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Medical History",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Barriers",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

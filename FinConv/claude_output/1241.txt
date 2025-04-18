@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+I'll analyze this medical conversation to identify the underlying themes and their associated sentiments.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Side Effects",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

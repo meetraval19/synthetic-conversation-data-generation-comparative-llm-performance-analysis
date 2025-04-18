@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Documentation Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Diagnosis Communication",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

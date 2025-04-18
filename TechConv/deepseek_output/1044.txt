@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "positive"
+        }
+    ]
+}

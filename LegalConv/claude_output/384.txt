@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "neutral"
+    }
+  ]
+}

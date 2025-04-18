@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "negative"
+        }
+    ]
+}

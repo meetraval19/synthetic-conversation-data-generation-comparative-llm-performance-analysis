@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Forecasting and Projections",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "positive"
+        }
+    ]
+}

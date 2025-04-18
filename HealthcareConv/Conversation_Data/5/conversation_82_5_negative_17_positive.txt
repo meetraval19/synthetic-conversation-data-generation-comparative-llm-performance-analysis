@@ -1,0 +1,17 @@
+"Speaker A: 'Thanks for coming in today. How have you been doing since your last appointment?'
+
+Speaker B: 'I'm alright, but scheduling a follow-up has been really difficult.'
+
+Speaker A: 'I understand, sometimes the system can be a bit frustrating. Let's work together to find a good time for your next visit.'
+
+Speaker B: 'That would be great. On a positive note, I noticed some new resources available that might help with my care.'
+
+Speaker A: 'Yes, we’ve introduced some new programs recently that aim to ease access for everyone. It’s really promising to see such initiatives taking shape.'
+
+Speaker B: 'I agree. It feels encouraging to know that there are improvements being made to remove these barriers.'
+
+Speaker A: 'Exactly. We’re here to support you every step of the way. Let’s focus on getting you scheduled and taking advantage of those resources.' 
+
+Speaker B: 'I appreciate that. It makes a big difference knowing there’s support available.' 
+
+Speaker A: 'Absolutely. We’ll ensure everything is in place to make your journey smoother.'"

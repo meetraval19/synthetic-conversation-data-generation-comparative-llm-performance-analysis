@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Medical History",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Diagnosis Communication",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Documentation Review",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

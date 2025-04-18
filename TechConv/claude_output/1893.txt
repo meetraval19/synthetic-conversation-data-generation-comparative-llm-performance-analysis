@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "System Configuration Details",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

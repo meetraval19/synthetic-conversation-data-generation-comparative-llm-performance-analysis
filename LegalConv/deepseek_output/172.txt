@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "neutral"
+        }
+    ]
+}

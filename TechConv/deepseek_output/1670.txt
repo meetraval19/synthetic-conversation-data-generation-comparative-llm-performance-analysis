@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "positive"
+        }
+    ]
+}

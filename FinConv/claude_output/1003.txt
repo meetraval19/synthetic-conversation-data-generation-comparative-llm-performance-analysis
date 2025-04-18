@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "negative"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "neutral"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Witness Identification and Preparation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

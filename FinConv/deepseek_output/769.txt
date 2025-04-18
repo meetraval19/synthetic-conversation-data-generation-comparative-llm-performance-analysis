@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "positive"
+        }
+    ]
+}

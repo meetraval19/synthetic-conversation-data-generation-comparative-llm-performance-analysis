@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Tax Implication Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

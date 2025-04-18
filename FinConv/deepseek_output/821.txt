@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Tax Implication Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "negative"
+        }
+    ]
+}

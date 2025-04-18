@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Debt-to-Equity Ratio Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "neutral"
+    }
+  ]
+}

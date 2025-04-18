@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Scenario and Sensitivity Analysis",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "positive"
+    }
+  ]
+}

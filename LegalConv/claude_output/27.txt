@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Internal Controls and Governance",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Scenario and Sensitivity Analysis",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "positive"
+    }
+  ]
+}

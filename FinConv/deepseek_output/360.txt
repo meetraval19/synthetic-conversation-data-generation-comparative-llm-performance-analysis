@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Interest Rate Impact Analysis",
+            "sentiment": "positive"
+        }
+    ]
+}

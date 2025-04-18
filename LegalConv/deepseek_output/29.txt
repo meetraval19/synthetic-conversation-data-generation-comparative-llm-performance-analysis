@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Enforcement and Implementation Issues",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "neutral"
+        }
+    ]
+}

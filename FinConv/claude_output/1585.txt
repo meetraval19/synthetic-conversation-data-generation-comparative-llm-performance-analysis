@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

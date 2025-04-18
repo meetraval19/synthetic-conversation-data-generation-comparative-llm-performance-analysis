@@ -1,0 +1,32 @@
+{
+    "topics": [
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Care Barriers",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Support Services",
+            "sentiment": "positive"
+        }
+    ]
+}

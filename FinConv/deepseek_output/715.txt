@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Valuation Metrics Discussion",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Liquidity Risk Evaluation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

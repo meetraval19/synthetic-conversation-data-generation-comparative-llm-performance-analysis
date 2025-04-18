@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    }
+  ]
+}

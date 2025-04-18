@@ -1,0 +1,21 @@
+"Speaker A: 'How have you been managing with sticking to the therapy schedule?'
+
+Speaker B: 'It's been going fine. I try to follow it as closely as possible, though some days are a bit tougher.'
+
+Speaker A: 'That's understandable. It's all about finding a balance that works for you.'
+
+Speaker B: 'Definitely. I must say, the information you provided on the condition has been very helpful. It's reassuring to understand what's happening.'
+
+Speaker A: 'I'm glad to hear that. Patient education is crucial in managing your health effectively.'
+
+Speaker B: 'I agree. It makes everything feel more manageable when you know what to expect.'
+
+Speaker A: 'On another note, I reviewed your documentation earlier. There were some discrepancies we should address.'
+
+Speaker B: 'Oh, really? That's concerning. What do you suggest we do?'
+
+Speaker A: 'We'll go through them together and make sure everything is accurate moving forward.'
+
+Speaker B: 'Thank you for catching that. I appreciate the thoroughness.'
+
+Speaker A: 'Of course, it's important to ensure everything is in order for the best treatment outcomes.'"

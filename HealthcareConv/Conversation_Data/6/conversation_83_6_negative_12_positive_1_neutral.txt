@@ -1,0 +1,25 @@
+"Speaker A: 'Thanks for coming in today for your follow-up. Let's start with how you're feeling these days.'  
+
+Speaker B: 'I feel about the same as last time, no major changes.'  
+
+Speaker A: 'Alright, we'll get into that a bit more later. I also looked over your latest test results, and the documentation seems to be in great order. Everything is clear and makes it easier to plan ahead.'  
+
+Speaker B: 'That's good to hear. I was worried there might be some confusion.'  
+
+Speaker A: 'There’s always room to improve, but your records are quite comprehensive, which helps a lot.'  
+
+Speaker B: 'I’m glad that part is smooth. But I have to mention, getting the referral for that specialist was a bit of a hassle. It took much longer than expected.'  
+
+Speaker A: 'I apologize for that, the referral process can sometimes be more complicated than it should be. We are constantly working on making it more efficient.'  
+
+Speaker B: 'I hope it gets better. It’s quite stressful waiting around.'  
+
+Speaker A: 'I completely understand. It's something we definitely need to address. Now, about your symptoms: do you notice any new ones or have existing ones changed?'  
+
+Speaker B: 'No, not really. Everything feels pretty consistent with what I experienced before.'  
+
+Speaker A: 'Alright, well consistency is sometimes good, but do let us know if anything changes.'  
+
+Speaker B: 'Will do. Thanks for listening to my concerns today.'  
+
+Speaker A: 'Of course, we’re here to help you. Let’s keep working together to make things smoother.'

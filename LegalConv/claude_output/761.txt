@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Confidentiality and Privilege",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

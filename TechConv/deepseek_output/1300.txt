@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "negative"
+        }
+    ]
+}

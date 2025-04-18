@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        }
+    ]
+}

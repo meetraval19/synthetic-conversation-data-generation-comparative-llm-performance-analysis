@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Legal Argument and Case Theory",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "neutral"
+    }
+  ]
+}

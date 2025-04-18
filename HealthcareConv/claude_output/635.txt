@@ -1,0 +1,20 @@
+Based on the conversation provided, I've identified the underlying themes and analyzed their sentiment:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Referral Coordination",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```
+
+The speakers express consistently positive views about the referral process during the emergency, praising how smoothly it went and how well they coordinated with specialists. 
+
+For team communication, the sentiment is mixed but ultimately neutral - they acknowledge that "information flowed" and it was "adequate" and "under control," while also noting some fragmentation and lost messages. They suggest improvements but don't express strong negative feelings about the current state.

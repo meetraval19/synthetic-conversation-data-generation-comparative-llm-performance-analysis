@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Legal Argument and Case Theory",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Confidentiality and Privilege",
+      "sentiment": "negative"
+    }
+  ]
+}

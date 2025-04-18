@@ -1,0 +1,15 @@
+"Speaker A: 'I’m pleased to hear you’re feeling better after the treatment. Any concerns about how your body’s responding?'
+
+Speaker B: 'Actually, I’ve noticed that the side effects have been quite manageable. I was a bit worried initially, but it seems everything’s going smoothly.'
+
+Speaker A: 'That’s great to hear. We always hope to minimize discomfort as much as possible. Now, let's move on to the discharge papers.'
+
+Speaker B: 'Sure, I’ve already glanced over them, and everything looks in order. Is there anything specific I should double-check?'
+
+Speaker A: 'Not particularly, but make sure to follow the instructions regarding medication schedules. It’s mostly standard procedure.'
+
+Speaker B: 'Understood. I’ll go through the details again later just to be sure.'
+
+Speaker A: 'Excellent. If you have any more questions, feel free to reach out after you leave. Your health and comfort are our top priorities.'
+
+Speaker B: 'Thank you! I feel reassured knowing I can contact you if needed.'"

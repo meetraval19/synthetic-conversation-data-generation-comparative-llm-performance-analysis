@@ -1,0 +1,19 @@
+"Speaker A: 'Hi, Doctor. I’ve been feeling a bit uneasy after our last discussion.'
+
+Speaker B: 'I understand. It can be overwhelming when you first hear about a condition. Let’s go over everything again to clear things up.'
+
+Speaker A: 'I appreciate that. I just felt the explanation was too brief, and it left me worried.'
+
+Speaker B: 'I'm sorry to hear that. It’s crucial you feel informed. Let's take our time to go through each aspect of the diagnosis.'
+
+Speaker A: 'That would help me a lot. Also, are there resources I can access to learn more?'
+
+Speaker B: 'Absolutely. We have plenty of educational materials, and there are support groups that can offer more insight.'
+
+Speaker A: 'Thank you. Knowing there are tools and support available is reassuring.'
+
+Speaker B: 'Of course. Understanding your health is empowering. Let’s ensure you leave feeling confident about the next steps.'
+
+Speaker A: 'I already feel better knowing I have your support.’
+
+Speaker B: 'You’re not alone in this. We’re here to guide you every step of the way.'"

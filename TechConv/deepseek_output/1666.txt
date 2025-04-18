@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "positive"
+        }
+    ]
+}

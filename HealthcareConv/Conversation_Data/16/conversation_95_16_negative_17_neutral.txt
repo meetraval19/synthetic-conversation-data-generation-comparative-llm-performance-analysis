@@ -1,0 +1,9 @@
+"Speaker A: 'I reviewed your test results, and I understand it can be overwhelming receiving this kind of news.'  
+Speaker B: 'It is quite a lot to take in. The way information was presented felt a bit unsettling.'  
+Speaker A: 'I apologize if it wasn’t clear. Let’s break it down together and address any questions you have.'  
+Speaker B: 'That would help. Sometimes it's just difficult to process everything at once.'  
+Speaker A: 'Absolutely, and we're here to support you through this.'  
+Speaker B: 'I also find it challenging to access certain treatments. The appointment scheduling and referrals seem complicated.'  
+Speaker A: 'I understand, the system can indeed be a bit cumbersome. Let me guide you on how to navigate these barriers more effectively.'  
+Speaker B: 'That would be great. I just want to ensure I'm doing everything right for my health.'  
+Speaker A: 'You’re doing the right thing by staying proactive and asking questions. We’ll work together to make this journey as smooth as possible.'"

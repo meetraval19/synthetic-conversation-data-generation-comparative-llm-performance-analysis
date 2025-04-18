@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Care Barriers",
+            "sentiment": "neutral"
+        }
+    ]
+}

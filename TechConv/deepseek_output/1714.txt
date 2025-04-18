@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "neutral"
+        }
+    ]
+}

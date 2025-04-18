@@ -1,0 +1,18 @@
+"Speaker A: 'Thanks for joining the interview! Let's start with your experience in reporting any bugs or issues you've encountered in the software.'
+
+Speaker B: 'Honestly, it's been a bit frustrating. The process feels cumbersome and I often end up repeating the same information multiple times.'
+
+Speaker A: 'I see. We're working on improving that process. Now, how about the workflow? Have you noticed any improvements or optimizations in your daily tasks?'
+
+Speaker B: 'Oh, definitely! The recent updates have made it so much easier to manage my projects. It feels smoother and more intuitive.'
+
+Speaker A: 'That's great to hear! Lastly, I wanted to ask about the reference materials provided in our technical documentation. Have they been helpful?'
+
+Speaker B: 'They're pretty straightforward. I can usually find what I need, though sometimes it takes a bit of searching.' 
+
+Speaker A: 'Thanks for your feedback. We're looking to make information more accessible. Is there anything else you'd like to add?'
+
+Speaker B: 'Just that fixing the bug report system would really enhance the overall user experience. But overall, I'm impressed with the improvements on the workflow front.'
+
+Speaker A: 'We appreciate that. Your insights are invaluable to us. Thanks again for your time!'"
+

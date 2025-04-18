@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Bug or Issue Reporting",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "positive"
+    }
+  ]
+}

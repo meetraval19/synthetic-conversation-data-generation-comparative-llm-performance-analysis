@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "neutral"
+    }
+  ]
+}

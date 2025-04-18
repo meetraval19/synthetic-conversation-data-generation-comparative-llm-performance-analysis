@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Follow Up",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Documentation Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "negative"
+    }
+  ]
+}

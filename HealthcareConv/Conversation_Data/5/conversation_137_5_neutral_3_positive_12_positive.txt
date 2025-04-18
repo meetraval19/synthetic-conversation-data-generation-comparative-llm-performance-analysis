@@ -1,0 +1,31 @@
+"Speaker A: 'Hi there, it's good to see you for your follow-up appointment. How have you been feeling since our last visit?'
+
+Speaker B: 'Hello, Doctor. I've been okay, just trying to keep track of everything you've suggested.'
+
+Speaker A: 'Great to hear you're managing well. Let's start with a quick review of your medications. Have you noticed any improvements since you began the new prescription?'
+
+Speaker B: 'Actually, yes! My symptoms have significantly decreased, and I feel more energetic.'
+
+Speaker A: 'That's excellent news. It sounds like the medication is working well for you.'
+
+Speaker B: 'I'm really pleased with the outcome. It's made a big difference in my daily life.'
+
+Speaker A: 'I'm glad to hear that. We'll continue monitoring to ensure everything stays on track. Now, let's look at your recent test results and documentation.'
+
+Speaker B: 'Sure, is everything okay with those?'
+
+Speaker A: 'Yes, the documentation shows you're progressing well. Your latest tests are reassuring, and all indicators are within the desired range.'
+
+Speaker B: 'That's a relief. I was a bit anxious about them.'
+
+Speaker A: 'It's understandable, but you're doing great. Keep following your regimen, and we'll keep supporting your journey.'
+
+Speaker B: 'Thank you, Doctor. It feels good to know I'm in good hands.'
+
+Speaker A: 'You're welcome. Let's schedule your next follow-up before you go. Consistency is key to long-term health.'
+
+Speaker B: 'Sounds good to me. I'll keep up the routine until then.'
+
+Speaker A: 'Perfect. Looking forward to our next meeting to see more positive results.'
+
+Speaker B: 'Thanks a lot. See you next time!'"

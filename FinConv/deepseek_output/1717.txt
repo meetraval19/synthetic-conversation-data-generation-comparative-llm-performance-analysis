@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "neutral"
+        }
+    ]
+}

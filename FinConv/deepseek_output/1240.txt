@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Liquidity Risk Evaluation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Valuation Metrics Discussion",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Interest Rate Impact Analysis",
+            "sentiment": "negative"
+        }
+    ]
+}

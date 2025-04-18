@@ -1,0 +1,15 @@
+"Speaker A: 'The emergency call last night highlighted some serious concerns.'
+
+Speaker B: 'Yes, the response time was not what I’d hoped for. We need to address those bottlenecks.'
+
+Speaker A: 'Agreed. On a different note, have we completed the medication review for our patients?'
+
+Speaker B: 'We did. There weren't any major issues, but we should keep an eye on a few interactions.'
+
+Speaker A: 'Good to know. How about the care plan updates?'
+
+Speaker B: 'Everything is up to date. We’ve incorporated feedback from the last few reviews.'
+
+Speaker A: 'That's reassuring. Still, those emergency concerns need our immediate attention.'
+
+Speaker B: 'Absolutely, let's prioritize that in our next meeting.'"

@@ -1,0 +1,24 @@
+"Speaker A: 'Welcome back! Let's start by looking at the recent tests we did. They help us understand where things stand.'
+
+Speaker B: 'Thanks, Doctor. I'm curious about what you've found.'
+
+Speaker A: 'Well, the assessments give us a clear picture of potential risks. It's all about getting a balanced view.'
+
+Speaker B: 'I see, so nothing too alarming for now?'
+
+Speaker A: 'Exactly. It’s more about being aware and prepared. But I did want to talk about your current treatment routine.'
+
+Speaker B: 'Honestly, I’ve been struggling to keep up with the schedule. It’s been tough.'
+
+Speaker A: 'I understand. Following the therapy can be challenging at times, but sticking with it is crucial for progress.'
+
+Speaker B: 'Yeah, I’ve noticed missing doses doesn’t help, but sometimes it's just overwhelming.'
+
+Speaker A: 'Let’s see if we can find a way to make it easier for you. Maybe setting reminders or simplifying the routine could help?'
+
+Speaker B: 'That sounds like it might work. Any small change would be great.'
+
+Speaker A: 'Great! Consistency is key, and making it more manageable should help you stay on track.'
+
+Speaker B: 'I hope so. Thanks for understanding, Doctor.'"
+

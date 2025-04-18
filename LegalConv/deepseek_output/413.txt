@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "positive"
+        }
+    ]
+}

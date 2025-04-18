@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "positive"
+        }
+    ]
+}

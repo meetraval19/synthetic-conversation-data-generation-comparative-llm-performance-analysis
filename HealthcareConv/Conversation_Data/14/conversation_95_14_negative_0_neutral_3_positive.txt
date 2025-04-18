@@ -1,0 +1,29 @@
+"Speaker A: 'How have you been feeling since your last visit?'
+
+Speaker B: 'Overall, pretty good, but I did notice some unexpected symptoms.'
+
+Speaker A: 'Let's discuss that. Could these be side effects from your new prescription?'
+
+Speaker B: 'Possibly. I've had some dizziness that I wasn’t experiencing before.'
+
+Speaker A: 'I understand, and we’ll look into it carefully to ensure your treatment is safe.'
+
+Speaker B: 'That sounds reassuring, thank you.'
+
+Speaker A: 'Now, let’s go over your medical background. Any updates?'
+
+Speaker B: 'Not much has changed. Everything seems stable on that front.'
+
+Speaker A: 'Good to hear. Having a stable history helps us focus on current issues effectively.'
+
+Speaker B: 'Absolutely, I appreciate you keeping everything in balance.'
+
+Speaker A: 'Finally, let’s review your medications. I’m pleased with how well you’ve adapted, aside from the side effect you mentioned.'
+
+Speaker B: 'Yes, they seem to be working well. The dizziness is concerning, but otherwise, everything feels manageable.'
+
+Speaker A: 'I’m glad to hear the overall treatment is effective. We can adjust as needed to minimize any negatives.'
+
+Speaker B: 'Thank you for being attentive to my concerns.'
+
+Speaker A: 'Of course, your well-being is our priority. We’ll tweak the plan to suit you best.'"

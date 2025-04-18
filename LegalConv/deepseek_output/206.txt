@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Enforcement and Implementation Issues",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "neutral"
+        }
+    ]
+}

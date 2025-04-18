@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Referral Coordination",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

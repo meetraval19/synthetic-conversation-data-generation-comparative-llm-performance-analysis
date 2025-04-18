@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Test Results",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "positive"
+        }
+    ]
+}

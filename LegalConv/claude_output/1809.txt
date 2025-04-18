@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "positive"
+    }
+  ]
+}

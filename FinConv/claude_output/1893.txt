@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "neutral"
+    }
+  ]
+}

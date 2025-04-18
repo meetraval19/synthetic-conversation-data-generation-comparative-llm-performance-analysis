@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Confidentiality and Privilege",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Legal Argument and Case Theory",
+      "sentiment": "neutral"
+    }
+  ]
+}

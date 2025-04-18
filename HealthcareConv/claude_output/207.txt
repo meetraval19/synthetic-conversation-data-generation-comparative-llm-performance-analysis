@@ -1,0 +1,16 @@
+Based on the conversation between healthcare professionals discussing their recent shift, I've identified the following topics and sentiments:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

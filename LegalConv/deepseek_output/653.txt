@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Strategy and Action Plan Development",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "positive"
+        }
+    ]
+}

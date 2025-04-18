@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Valuation Metrics Discussion",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    }
+  ]
+}

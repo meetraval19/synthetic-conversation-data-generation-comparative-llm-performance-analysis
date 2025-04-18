@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "neutral"
+    }
+  ]
+}

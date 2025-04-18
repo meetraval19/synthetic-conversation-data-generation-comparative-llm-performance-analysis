@@ -1,0 +1,20 @@
+Looking at the provided conversation, I'll identify the underlying themes and analyze their sentiment based on the speakers' tone.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Medical History",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Referral Coordination",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

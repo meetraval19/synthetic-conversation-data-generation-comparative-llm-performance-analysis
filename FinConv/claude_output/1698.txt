@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Interest Rate Impact Analysis",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Debt-to-Equity Ratio Assessment",
+      "sentiment": "negative"
+    }
+  ]
+}

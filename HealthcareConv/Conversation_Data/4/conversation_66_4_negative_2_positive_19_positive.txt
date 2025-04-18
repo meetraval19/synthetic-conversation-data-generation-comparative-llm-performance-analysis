@@ -1,0 +1,19 @@
+"Speaker A: 'Good to see you again. How have you been feeling since we started the treatment?'
+
+Speaker B: 'Honestly, not as good as I hoped. The side effects have been tough to handle.'
+
+Speaker A: 'I understand. Let's review the treatment plan and see if we can make any adjustments.'
+
+Speaker B: 'That would be great. I'm willing to try something different if it helps.'
+
+Speaker A: 'On a brighter note, your latest test results came back, and they're quite promising. Your progress is better than expected.'
+
+Speaker B: 'Really? That’s such a relief to hear! I was worried about having more tests.'
+
+Speaker A: 'Absolutely, you’re on the right track. Also, I wanted to remind you about the support services we have here. They can be really helpful for managing any side effects.'
+
+Speaker B: 'I’ve heard good things about those. Maybe I should look into them.'
+
+Speaker A: 'I think you'd find them beneficial. Let’s make sure to integrate some support into your routine.'
+
+Speaker B: 'I appreciate that. Feeling more supported could definitely make a difference.'"

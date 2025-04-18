@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Care Barriers",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Confidentiality and Privilege",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Contract Terms and Obligations", 
+      "sentiment": "neutral"
+    }
+  ]
+}

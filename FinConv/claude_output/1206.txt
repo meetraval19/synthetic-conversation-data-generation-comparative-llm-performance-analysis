@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

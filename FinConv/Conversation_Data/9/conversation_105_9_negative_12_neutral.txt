@@ -1,0 +1,15 @@
+"Speaker A: 'During our investment portfolio review, I noticed some concerns with the tax implications of your current strategy.'
+
+Speaker B: 'Yes, I've been worried about that. Are there any ways to mitigate those potential losses?'
+
+Speaker A: 'Unfortunately, the tax landscape is quite challenging right now. We could explore some alternatives, but it might be tough to avoid heavier taxes.'
+
+Speaker B: 'I understand. It's certainly a negative aspect to keep in mind. How about our liquidity risk?'
+
+Speaker A: 'When evaluating your liquidity risk, the situation looks quite balanced. You have enough short-term assets to cover any immediate obligations.'
+
+Speaker B: 'That's good to hear. No surprises there, thankfully.'
+
+Speaker A: 'Exactly. It's important to maintain this neutral stance, ensuring that we’re neither overextending nor too conservative.'
+
+Speaker B: 'I'll make sure to keep monitoring these areas closely. Thanks for the review.'"

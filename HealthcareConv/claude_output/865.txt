@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Care Plan Update",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Side Effects",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

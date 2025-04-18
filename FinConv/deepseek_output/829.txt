@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

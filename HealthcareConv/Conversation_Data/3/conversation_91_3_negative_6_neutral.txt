@@ -1,0 +1,19 @@
+"Speaker A: 'I'm glad you're here for your follow-up appointment. How have you been finding the new medication?'
+
+Speaker B: 'Honestly, I'm a bit concerned. I've been experiencing some unexpected side effects.'
+
+Speaker A: 'I'm sorry to hear that. Let's review the symptoms and see if we need to adjust the dosage or explore alternatives.'
+
+Speaker B: 'Thank you. I was hoping we could sort that out. I didn't expect to feel worse.'
+
+Speaker A: 'We'll definitely address it. Now, about your referral to the specialist. Have they contacted you yet?'
+
+Speaker B: 'Not yet, but I did receive information about their availability. I guess it’s all in motion.'
+
+Speaker A: 'Great, the coordination on that seems to be progressing as expected. If you need any assistance with scheduling, just let us know.'
+
+Speaker B: 'I appreciate that. It's reassuring to have things aligned.'
+
+Speaker A: 'Of course. Let's focus on finding the right solution for your current treatment plan too.'
+
+Speaker B: 'Thank you, I feel a bit better knowing we're on top of it.'"

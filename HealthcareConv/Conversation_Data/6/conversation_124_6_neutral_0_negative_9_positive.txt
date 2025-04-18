@@ -1,0 +1,25 @@
+"Speaker A: 'Thanks for coming in for your follow-up. How have you been finding the coordination with the specialists I referred you to?'
+
+Speaker B: 'It's been alright, but there’s been a lot of back and forth with their offices.'
+
+Speaker A: 'That can happen sometimes. Let’s make sure the communication lines are clear moving forward.'
+
+Speaker B: 'I appreciate that. Also, reviewing my medical history has been a bit overwhelming. There are just so many details.'
+
+Speaker A: 'I understand. It can be daunting, but it's crucial in helping us make the best decisions for your health.'
+
+Speaker B: 'I get that. Now, about the recent tests, I heard we did some risk assessments?'
+
+Speaker A: 'Yes, we did, and the results are actually quite promising. Your risk levels are lower than we anticipated!'
+
+Speaker B: 'That’s a relief to hear. I was quite anxious about it.'
+
+Speaker A: 'You’ve been doing a great job managing your health, and it shows.'
+
+Speaker B: 'Thanks, that means a lot. What should be my next steps?'
+
+Speaker A: 'Let’s continue monitoring and keep up with the visits. I’ll handle the ongoing coordination to make things smoother for you.'
+
+Speaker B: 'Sounds good. Thanks for your support.' 
+
+Speaker A: 'Of course, I'm here to help you every step of the way.'"

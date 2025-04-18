@@ -1,0 +1,14 @@
+"Speaker A: 'Thanks for joining us today. Can you tell us about your experience with setting up our system?'
+
+Speaker B: 'Absolutely! The setup process was smooth. The configuration details were straightforward and made everything run efficiently from the start.'
+
+Speaker A: 'Great to hear! Now, how do you feel our platform compares to others you've used?'
+
+Speaker B: 'Well, to be honest, I found other tools to offer more flexibility. Our current platform seems pretty limited in comparison.'
+
+Speaker A: 'That's valuable feedback. Any thoughts on our roadmap and future plans you've come across?'
+
+Speaker B: 'I'm a bit concerned. Some goals mentioned feel unrealistic and don't seem aligned with the market demands. It’d be great to see more practical planning.'
+
+Speaker A: 'Thank you for being candid. Your insights will help us improve.'"
+

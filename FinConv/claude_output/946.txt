@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "positive"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+"Speaker A: 'Thanks for taking the time to chat with us about your experience with our software. Can you tell me about any difficulties you've encountered?'
+
+Speaker B: 'Sure, I’ve noticed that when I try to submit issue reports, the process often fails or glitches.'
+
+Speaker A: 'I’m really sorry to hear that. We’re focused on improving that aspect. Can you tell me more about what happens during the submission?'
+
+Speaker B: 'Certainly, sometimes the report doesn't go through, and I have to start all over. It's quite frustrating.'
+
+Speaker A: 'We appreciate your feedback, and it’s definitely something we’ll prioritize. On another note, how do you feel about the overall workflow optimization features?'
+
+Speaker B: 'The workflow tools are okay, but they don't stand out as significantly better compared to others I've used.'
+
+Speaker A: 'Interesting. Is there anything specific you’d suggest for improving those features?'
+
+Speaker B: 'Perhaps more customization options could help streamline specific tasks for different user needs.'
+
+Speaker A: 'Thanks for that suggestion. Customization could indeed enhance the flexibility of the tool. We’ll consider it while planning our updates. Your insights are invaluable to us.'"

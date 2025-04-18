@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "positive"
+        }
+    ]
+}

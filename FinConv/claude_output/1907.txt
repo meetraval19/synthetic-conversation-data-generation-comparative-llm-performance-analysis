@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Debt-to-Equity Ratio Assessment",
+      "sentiment": "negative"
+    }
+  ]
+}

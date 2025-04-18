@@ -1,0 +1,13 @@
+"Speaker A: 'I’m concerned about the challenges we’re facing with patients not returning for follow-up visits. It seems like some are falling through the cracks.'
+
+Speaker B: 'Yes, it's a big issue. We really need to find a way to improve communication and scheduling to keep track of them.'
+
+Speaker A: 'Exactly, and when we look at the bigger picture, there are quite a few obstacles in accessing continuous care, like transportation and costs.'
+
+Speaker B: 'I’ve noticed that too. It can be frustrating for patients when these external factors impact their care consistency.'
+
+Speaker A: 'Speaking of consistency, how are we doing on therapy adherence? I remember it being a mixed bag.'
+
+Speaker B: 'It’s still a challenge. Some patients are doing great, but others struggle with sticking to the plan, especially without regular reminders.'
+
+Speaker A: 'We might need to look into more support tools or reminders to help them along. It could make a real difference in the outcomes.'"

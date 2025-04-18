@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Tax Implication Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "positive"
+        }
+    ]
+}

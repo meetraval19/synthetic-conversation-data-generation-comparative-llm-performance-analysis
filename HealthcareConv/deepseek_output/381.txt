@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Side Effects",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Documentation Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "positive"
+        }
+    ]
+}

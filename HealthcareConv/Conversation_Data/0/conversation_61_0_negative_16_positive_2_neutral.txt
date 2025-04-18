@@ -1,0 +1,15 @@
+"Speaker A: 'Thanks for coming in today. Let's go over your medical history to start.'
+
+Speaker B: 'Honestly, discussing my past issues is a bit overwhelming. I'm worried it might complicate things.'
+
+Speaker A: 'I understand it's not easy, but it's important for a comprehensive view of your health. Now, about your recent diagnosis...'
+
+Speaker B: 'Yes, I'm eager to hear more. You've made things so clear at our last meeting, and that helps.'
+
+Speaker A: 'I'm glad to hear that. Clear communication is crucial. Now, regarding your test results, they show some stable metrics.'
+
+Speaker B: 'Stable metrics? That sounds neither good nor bad.'
+
+Speaker A: 'Exactly. It's something we can work with. It's essential to stay informed and keep monitoring.'
+
+Speaker B: 'Thank you. This approach really helps me feel more in control.'

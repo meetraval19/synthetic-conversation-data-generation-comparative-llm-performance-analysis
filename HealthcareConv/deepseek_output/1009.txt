@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Medical History",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "neutral"
+        }
+    ]
+}

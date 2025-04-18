@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Legal Argument and Case Theory",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "negative"
+    }
+  ]
+}

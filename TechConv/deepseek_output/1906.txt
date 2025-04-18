@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "neutral"
+        }
+    ]
+}

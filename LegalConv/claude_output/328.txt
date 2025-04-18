@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "positive"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+"Speaker A: 'After reviewing the medical history, it seems there’s a strong foundation of good health.'
+
+Speaker B: 'That's reassuring. It always helps when patients have detailed records.’
+
+Speaker A: 'Absolutely, it makes planning further steps much easier. However, I’m a bit concerned about the risk assessment results we received last week.'
+
+Speaker B: 'Yes, there were some worrying indicators that we need to address. It's crucial we take those risks seriously.'
+
+Speaker A: 'Agreed. We should prioritize a comprehensive plan to mitigate those risks as soon as possible.'
+
+Speaker B: 'On another note, how do you feel about communicating the diagnosis to the patient?'
+
+Speaker A: 'I think maintaining clarity is key. It's important they understand their situation fully without unnecessary alarm.'
+
+Speaker B: 'Exactly, presenting the information objectively will help them make informed decisions.’"

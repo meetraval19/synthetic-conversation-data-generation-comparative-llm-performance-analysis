@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Shared Decision",
+            "sentiment": "positive"
+        }
+    ]
+}

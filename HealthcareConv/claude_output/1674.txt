@@ -1,0 +1,26 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Shared Decision",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

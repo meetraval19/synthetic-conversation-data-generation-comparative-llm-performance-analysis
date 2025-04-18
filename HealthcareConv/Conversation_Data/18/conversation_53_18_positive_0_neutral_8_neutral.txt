@@ -1,0 +1,19 @@
+"Speaker A: 'I'm glad to hear you're feeling better. The quick response to your situation in the emergency room was impressive.'
+
+Speaker B: 'Yes, I'm grateful for the prompt attention. It really made a difference.'
+
+Speaker A: 'So, let's go over your medical history briefly. Were there any changes since your last visit?'
+
+Speaker B: 'Nothing major, everything seems to be consistent with what was previously recorded.'
+
+Speaker A: 'Great, consistency helps us manage your care effectively. Now, regarding your discharge, we've updated your care plan.'
+
+Speaker B: 'Okay, what's the update?'
+
+Speaker A: 'It's all about ensuring you continue your recovery smoothly at home. There are no major changes, but we've added a few suggestions tailored to your needs.'
+
+Speaker B: 'That sounds reasonable. I appreciate the support in getting back to normal.'
+
+Speaker A: 'Of course. If any other concerns come up, don't hesitate to reach out.'
+
+Speaker B: 'Thank you, I feel much more confident moving forward now.'”

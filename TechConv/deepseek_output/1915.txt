@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        }
+    ]
+}

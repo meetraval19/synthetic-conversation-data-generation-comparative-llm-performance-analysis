@@ -1,0 +1,15 @@
+"Speaker A: 'I wanted to go over the medications you're currently taking. How are they working for you?'
+
+Speaker B: 'They're okay, I haven't noticed anything unusual. Is there anything specific I should be aware of?'
+
+Speaker A: 'We'll review any potential interactions, but it sounds like you're managing well. Let's talk about how your condition has improved over time.'
+
+Speaker B: 'Absolutely, I feel much better compared to last year. The treatment plan really made a difference.'
+
+Speaker A: 'That's excellent news! It's always great to see progress. Now, let's discuss your ongoing plan and make decisions together about your care.'
+
+Speaker B: 'I appreciate that. Being involved in the decision-making process makes me feel more confident about my health.'
+
+Speaker A: 'Collaborating on your care is important. We'll keep adjusting as needed based on how you're feeling.'
+
+Speaker B: 'I like that approach. It's reassuring to know we're working together for the best outcome.'"

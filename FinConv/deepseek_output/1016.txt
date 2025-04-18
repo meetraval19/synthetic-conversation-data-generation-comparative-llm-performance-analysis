@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Tax Implication Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Forecasting and Projections",
+            "sentiment": "positive"
+        }
+    ]
+}

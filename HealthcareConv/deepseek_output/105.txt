@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Medical History",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "negative"
+        }
+    ]
+}

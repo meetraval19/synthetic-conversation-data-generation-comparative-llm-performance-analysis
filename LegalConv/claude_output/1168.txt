@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

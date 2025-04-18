@@ -1,0 +1,31 @@
+"Speaker A: 'Good morning! How have you been since our last visit?'
+
+Speaker B: 'Morning, Doctor. I've been alright, though I've had a few concerns lately.'
+
+Speaker A: 'Let's address those concerns. First, I want to say that the team at our clinic has been really effective in communicating and ensuring that everything runs smoothly for our patients.'
+
+Speaker B: 'That's great to hear. It's always comforting to know there's a coordinated effort behind my care.'
+
+Speaker A: 'Absolutely. Now, let's review your medical history to see if there have been any changes. Have you been experiencing the same issues as before?'
+
+Speaker B: 'No major changes, just the usual aches and symptoms.'
+
+Speaker A: 'Alright. Based on what I see here, it seems consistent with your previous records.'
+
+Speaker B: 'That’s good, I suppose. But what worries me recently is the worsening of some of my symptoms.'
+
+Speaker A: 'I understand that can be concerning. Could you describe which symptoms have been more bothersome?'
+
+Speaker B: 'Mostly, I've been getting more frequent headaches and it's affecting my daily activities.'
+
+Speaker A: 'I'm sorry to hear that. It's important for us to determine the cause, so we'll need to conduct a thorough assessment of these symptoms.'
+
+Speaker B: 'I appreciate that. I just hope we can figure it out soon.'
+
+Speaker A: 'We will do our best to get to the bottom of it. Meanwhile, please keep documenting any changes or patterns that you notice.'
+
+Speaker B: 'I’ll make sure to keep track. Thanks for your attention to detail.'
+
+Speaker A: 'Anytime. Communication and careful monitoring are key, and we're here to support you every step of the way.'
+
+Speaker B: 'Thank you, Doctor. It’s reassuring to know I’m in good hands.'"

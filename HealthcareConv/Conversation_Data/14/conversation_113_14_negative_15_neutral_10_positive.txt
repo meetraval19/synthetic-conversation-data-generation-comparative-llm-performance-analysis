@@ -1,0 +1,21 @@
+"Speaker A: 'How have you felt since starting the new medication?'
+
+Speaker B: 'I’ve noticed some discomfort and headaches.'
+
+Speaker A: 'Those can be challenging. The medication does have some reported side effects, unfortunately.'
+
+Speaker B: 'I was worried they wouldn’t go away.'
+
+Speaker A: 'It’s important that we address them. We can consider adjusting your dose if needed.'
+
+Speaker B: 'I want to be involved in the decision-making process about my treatment.'
+
+Speaker A: 'Absolutely, it’s vital we collaborate on this together. Your input is crucial.'
+
+Speaker B: 'I appreciate that. I just want to follow the best path.'
+
+Speaker A: 'Of course. On a positive note, it seems you’ve been very consistent with your therapy routine.'
+
+Speaker B: 'Yes, I’ve been sticking to it more regularly. I'm feeling a bit more optimistic.'
+
+Speaker A: 'Your commitment is definitely a step in the right direction. It really makes a difference.'

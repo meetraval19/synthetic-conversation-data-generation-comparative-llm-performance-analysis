@@ -1,0 +1,26 @@
+"Speaker A: 'Hi, this is tech support. How can I assist you today?'
+
+Speaker B: 'Hello! I'm having some trouble understanding how to use a certain feature in the software.'
+
+Speaker A: 'I recommend checking out our technical guides. They provide really detailed explanations that can help.'
+
+Speaker B: 'Great to know! I’ll take a look at those documents. They're really reassuring when trying to figure things out.'
+
+Speaker A: 'Definitely. Anything else I can help with?'
+
+Speaker B: 'Yes, I’m uncertain about my access permissions for one of the modules.'
+
+Speaker A: 'Licensing and access can be a bit tricky sometimes. Have you checked which permissions are available to you?'
+
+Speaker B: 'I glanced through the settings but was unsure about a couple of things.'
+
+Speaker A: 'Let’s make sure your license covers the access you need. We’ll sort it out.'
+
+Speaker B: 'Thanks, that would be helpful. I just don’t want to mess up any settings.'
+
+Speaker A: 'Understandable. I'll guide you through the process to ensure everything is set correctly. Anything else on your mind?'
+
+Speaker B: 'No, that’s all I need for now. Thanks for the guidance!'
+
+Speaker A: 'Glad to assist! Have a great day.'"
+

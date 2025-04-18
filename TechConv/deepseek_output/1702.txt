@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "neutral"
+        }
+    ]
+}

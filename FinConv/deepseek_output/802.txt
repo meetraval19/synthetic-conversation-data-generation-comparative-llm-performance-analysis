@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Tax Implication Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "neutral"
+        }
+    ]
+}

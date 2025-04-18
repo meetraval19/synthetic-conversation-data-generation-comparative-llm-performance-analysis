@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "positive"
+        }
+    ]
+}

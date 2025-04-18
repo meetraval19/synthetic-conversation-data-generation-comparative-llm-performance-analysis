@@ -1,0 +1,19 @@
+"Speaker A: 'Thank you for calling tech support. How can I assist you today?'
+
+Speaker B: 'Hi, I'm having trouble with the setup. It seems the system configuration isn't going as smoothly as I'd hoped.'
+
+Speaker A: 'I'm sorry to hear that. Configuration issues can be frustrating. Let's see if we can sort this out together.'
+
+Speaker B: 'I appreciate that. I just didn't expect so many hiccups.'
+
+Speaker A: 'Once we fix the setup, you'll be in a good position for growth. Have you thought about expanding your infrastructure?'
+
+Speaker B: 'That's actually on my mind. We’re planning to scale up, and ensuring our systems can handle increased demand is crucial.'
+
+Speaker A: 'Exactly! With a solid plan, scalability can really enhance your infrastructure.'
+
+Speaker B: 'That's encouraging. I just need to get past these initial setup challenges first.'
+
+Speaker A: 'Absolutely. Let's tackle this step by step. Once it's running smoothly, future expansion will be much more manageable.'
+
+Speaker B: 'Thanks for your support. Let's get started on solving these configuration issues.'"

@@ -1,0 +1,26 @@
+"Speaker A: 'Hello, thank you for calling TechSupport. How can I assist you today?'
+
+Speaker B: 'Hi, I'm new to the system and was wondering if there's any help available for understanding it better.'
+
+Speaker A: 'Absolutely! We have an excellent onboarding program that walks you through all the features. It's really designed to make you feel comfortable and confident.'
+
+Speaker B: 'That sounds great. I've heard some colleagues found it really helpful.'
+
+Speaker A: 'I'm glad to hear that. Now, do you need assistance with anything specific while you're getting set up?'
+
+Speaker B: 'Well, I've been trying to configure some settings, and it's been quite a challenge.'
+
+Speaker A: 'I understand. Some users do find the configuration process a bit tricky. I'd be happy to guide you through it and address any specific issues you're facing.'
+
+Speaker B: 'That would be great. It's just that the details seem overwhelming.'
+
+Speaker A: 'That's a common concern. Let's tackle it step by step. Once you're comfortable, it will be much smoother to navigate.'
+
+Speaker B: 'I appreciate your help. It's reassuring to know there's support available.'
+
+Speaker A: 'Of course, we're here anytime you need. Feel free to reach out if you encounter any more challenges or need further training sessions.'
+
+Speaker B: 'Will do. Thanks again for your guidance.'
+
+Speaker A: 'You're welcome! Have a great day and good luck with the onboarding.'"
+

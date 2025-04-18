@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Barriers",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

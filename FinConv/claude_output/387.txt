@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Internal Controls and Governance",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "negative"
+    }
+  ]
+}

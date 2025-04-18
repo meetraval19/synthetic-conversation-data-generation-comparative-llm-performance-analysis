@@ -1,0 +1,26 @@
+"Speaker A: 'Hi, thank you for calling tech support. How can I assist you today?'
+
+Speaker B: 'Hi, I'm calling because I've been having a pretty frustrating experience with the latest update of your app.'
+
+Speaker A: 'I'm sorry to hear that. Could you tell me more about what's been going on?'
+
+Speaker B: 'Well, since the update, the app crashes frequently and it's been really disruptive.'
+
+Speaker A: 'That sounds really inconvenient. Let's see what we can do to resolve this issue for you.'
+
+Speaker B: 'I appreciate that. But when I tried to get help last time, the process was a bit cumbersome.'
+
+Speaker A: 'I understand. We’ve been trying to streamline our support and escalation process. How was your previous experience?'
+
+Speaker B: 'It took a while to get to someone who could actually help.'
+
+Speaker A: 'I see. We’re continually working to improve that. I can escalate this for further investigation right away.'
+
+Speaker B: 'That would be great. I really hope this can be resolved quickly.'
+
+Speaker A: 'I’ll make sure to fast-track this so it gets attention without delay. Is there anything else I can help you with today?'
+
+Speaker B: 'No, that’s all. Thanks for your help.'
+
+Speaker A: 'You’re welcome. We’ll keep you updated. Have a great day!'"
+

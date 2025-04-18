@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Scenario and Sensitivity Analysis",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Valuation Metrics Discussion",
+      "sentiment": "positive"
+    }
+  ]
+}

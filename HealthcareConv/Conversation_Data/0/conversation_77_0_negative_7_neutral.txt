@@ -1,0 +1,19 @@
+"Speaker A: 'Hi there, how have you been feeling since your last visit?'
+
+Speaker B: 'Honestly, not great. My past issues seem to keep resurfacing.'
+
+Speaker A: 'I understand. Reviewing your previous records, it seems like there are some recurring patterns.'
+
+Speaker B: 'Yes, it's really frustrating. It’s like I never truly get past these problems.'
+
+Speaker A: 'I can imagine how challenging that must be. Have you spoken with the rest of the medical team?'
+
+Speaker B: 'A bit. The feedback has been mixed—some say one thing, others suggest another.'
+
+Speaker A: 'That can sometimes happen. It's important everyone is on the same page.'
+
+Speaker B: 'Exactly, it would be helpful to have more consistent advice.'
+
+Speaker A: 'I’ll ensure the team discusses your case together. Coordination is key to finding a solution.'
+
+Speaker B: 'Thank you. That would definitely give me some peace of mind moving forward.'"

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "positive"
+        }
+    ]
+}

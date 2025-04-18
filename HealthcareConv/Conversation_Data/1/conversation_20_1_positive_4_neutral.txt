@@ -1,0 +1,15 @@
+"Speaker A: 'Hi there! How have you been feeling since our last appointment?'
+
+Speaker B: 'Actually, I've been feeling a lot better. The symptoms have really improved, which is a relief.'
+
+Speaker A: 'That's wonderful to hear. It seems like the steps we took to manage those issues are working well.'
+
+Speaker B: 'Definitely. I noticed a difference pretty quickly. However, I'm still curious about the next steps regarding my treatment.'
+
+Speaker A: 'Of course. Let's review the current plan together. We've made some progress, but we should discuss how we can continue monitoring things.'
+
+Speaker B: 'That sounds good. I want to make sure we’re going in the right direction.'
+
+Speaker A: 'Absolutely. We'll make adjustments as necessary, ensuring you remain as comfortable as possible each step of the way.'
+
+Speaker B: 'I appreciate that. I'm glad we have such a clear and adaptable plan.'

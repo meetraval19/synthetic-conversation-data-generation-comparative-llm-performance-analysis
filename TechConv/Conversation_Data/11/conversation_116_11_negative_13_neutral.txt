@@ -1,0 +1,13 @@
+"Speaker A: 'Hey, I heard we're considering a new tool for API integrations. How's the onboarding process like?' 
+
+Speaker B: 'Honestly, it's a bit cumbersome. The training requirements are more complex than expected.'
+
+Speaker A: 'That's a shame. Let me know if you need more resources or support to manage it.'
+
+Speaker B: 'I will, thanks. Now, regarding licensing, how are we handling access rights?'
+
+Speaker A: 'It's pretty straightforward. The terms seem flexible, and it shouldn’t be much of an issue for our team.'
+
+Speaker B: 'That’s good to hear. I guess we can move forward with organizing our API strategy then.'
+
+Speaker A: 'Exactly. Let’s focus on simplifying that onboarding issue first, though.'"

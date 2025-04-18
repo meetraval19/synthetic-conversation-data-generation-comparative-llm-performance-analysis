@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Interest Rate Impact Analysis",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

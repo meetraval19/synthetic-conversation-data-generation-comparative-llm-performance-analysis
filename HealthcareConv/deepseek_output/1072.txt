@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Test Results",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "neutral"
+        }
+    ]
+}

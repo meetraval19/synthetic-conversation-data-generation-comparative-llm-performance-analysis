@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Interest Rate Impact Analysis",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "positive"
+    }
+  ]
+}

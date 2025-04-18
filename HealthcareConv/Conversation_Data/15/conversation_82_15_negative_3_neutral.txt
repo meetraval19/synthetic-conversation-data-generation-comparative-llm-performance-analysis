@@ -1,0 +1,16 @@
+"Speaker A: 'Thank you for coming in today. How have you been feeling since our last visit?'
+
+Speaker B: 'Overall, I'm alright, but I was a bit frustrated with the last treatment plan decision. I didn't really feel like I had much say in it.'
+
+Speaker A: 'I'm sorry to hear that. It's important for you to feel involved in your care. We can definitely address that and make sure your preferences and concerns are front and center next time.'
+
+Speaker B: 'That would really help. I want to understand all the options available better.'
+
+Speaker A: 'Absolutely. Let's move on to your medications. Is there any particular concern or change you've noticed with them?'
+
+Speaker B: 'Nothing major, really. I just noticed that I've been feeling slightly off, but it's hard to say if it's related to the meds or something else.'
+
+Speaker A: 'Okay, let's review your medication list together. Sometimes even small adjustments can make a significant difference.'
+
+Speaker B: 'Sounds good. I just want to make sure everything's on track.'"
+

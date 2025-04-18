@@ -1,0 +1,16 @@
+Based on the conversation between the healthcare professionals, I can identify the underlying themes and their associated sentiments.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Diagnosis Communication",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

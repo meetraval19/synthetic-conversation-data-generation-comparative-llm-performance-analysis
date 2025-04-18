@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+  "topics": [
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Debt-to-Equity Ratio Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

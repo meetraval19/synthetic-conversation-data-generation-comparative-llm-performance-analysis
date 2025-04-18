@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Forecasting and Projections",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Debt-to-Equity Ratio Assessment",
+            "sentiment": "neutral"
+        }
+    ]
+}

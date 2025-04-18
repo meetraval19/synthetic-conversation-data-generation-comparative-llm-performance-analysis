@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Forecasting and Projections",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Investment Performance Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "positive"
+        }
+    ]
+}

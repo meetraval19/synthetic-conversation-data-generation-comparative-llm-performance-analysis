@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Internal Controls and Governance",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "neutral"
+        }
+    ]
+}

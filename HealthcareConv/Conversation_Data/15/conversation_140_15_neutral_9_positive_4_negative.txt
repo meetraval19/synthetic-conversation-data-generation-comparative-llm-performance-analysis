@@ -1,0 +1,25 @@
+"Speaker A: 'I'm glad you came in for your follow-up. How have you been feeling since our last visit?'
+
+Speaker B: 'Thanks, Doctor. I've been doing okay, but I was hoping we could review the options available once more.'
+
+Speaker A: 'Absolutely, shared decision-making is key to finding the right path. It gives us a chance to weigh all possible avenues.'
+
+Speaker B: 'I appreciate that. It helps me feel more involved in the whole process.'
+
+Speaker A: 'That's great to hear. On a positive note, the recent tests show a lower risk profile than expected. Your lifestyle changes are really paying off.'
+
+Speaker B: 'That's such a relief! I’ve been trying hard to stick to the recommendations.'
+
+Speaker A: 'You've done a fantastic job. However, we should discuss the current treatment. It seems there are still a few concerns to address.'
+
+Speaker B: 'Yes, I noticed some side effects. It's been a bit discouraging.'
+
+Speaker A: 'I understand. It's important we address those issues and maybe adjust the plan if needed. Continuing with what's effective, but without too much burden, is our goal.'
+
+Speaker B: 'I trust your guidance and am ready to explore what’s best.'
+
+Speaker A: 'Great. We'll work together to improve things. Let's set another appointment to go over some modifications, ensuring you feel comfortable.'
+
+Speaker B: 'Thank you, Doctor. Looking forward to seeing what we can do next.'
+
+Speaker A: 'You're welcome. Together, we'll make sure you feel better moving forward.'"

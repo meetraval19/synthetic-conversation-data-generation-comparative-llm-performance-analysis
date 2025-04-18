@@ -1,0 +1,21 @@
+"Speaker A: 'We need to go over your latest test results before you can be discharged.'
+
+Speaker B: 'I heard from the nurse that there were some concerns. Can you tell me more about it?'
+
+Speaker A: 'Unfortunately, the results weren't what we hoped. There are a few unexpected complications.'
+
+Speaker B: 'That’s disappointing to hear. What are the next steps then?'
+
+Speaker A: 'We'll need to adjust your treatment plan and schedule another round of tests in a couple of weeks.'
+
+Speaker B: 'Alright, I guess we'll tackle it step by step.'
+
+Speaker A: 'On a positive note, I reviewed your discharge documentation, and everything else is in great shape.'
+
+Speaker B: 'That’s a relief! I was worried there could be more delays.'
+
+Speaker A: 'Yes, we’re set on that front. Once we address the current situation, you’ll be cleared without any issues.'
+
+Speaker B: 'That’s encouraging. Thank you for keeping me informed.'
+
+Speaker A: 'Of course. We’ll make sure everything is handled smoothly from here on out.'"

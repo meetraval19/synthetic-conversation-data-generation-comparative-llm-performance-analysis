@@ -1,0 +1,17 @@
+"Speaker A: 'I noticed we've been having some challenges with getting patients back for their follow-up appointments.'
+
+Speaker B: 'Yes, it's been quite an issue. A lot of patients are missing their scheduled visits, and it’s affecting our study timelines.'
+
+Speaker A: 'We definitely need to find a way to improve our communication and reminders for those.'
+
+Speaker B: 'Exactly, maybe implementing more digital reminders could help. It’s important for the continuity of our research.'
+
+Speaker A: 'On another note, how’s the process for coordinating referrals?'
+
+Speaker B: 'It’s been stable so far. The new system we tried seems to be working, although it does require some manual effort for now.'
+
+Speaker A: 'That’s good to hear. As long as we can maintain accuracy, a bit of manual work isn’t too bad.'
+
+Speaker B: 'Agreed, and hopefully it’ll streamline more as we fine-tune it.'
+
+Speaker A: 'Let’s focus on optimizing both areas; smooth referrals and improving follow-up attendance will be key going forward.'"

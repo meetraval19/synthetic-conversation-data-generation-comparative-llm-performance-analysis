@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

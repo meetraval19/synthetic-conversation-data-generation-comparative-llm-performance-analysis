@@ -1,0 +1,26 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

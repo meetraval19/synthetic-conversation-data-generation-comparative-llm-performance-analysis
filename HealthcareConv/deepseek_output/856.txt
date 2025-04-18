@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "negative"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "positive"
+    }
+  ]
+}

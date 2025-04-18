@@ -1,0 +1,20 @@
+"Speaker A: 'Hey, before you go, I wanted to check if there are any lingering worries from your ER visit.'
+
+Speaker B: 'Well, I’m still a bit uneasy about the rush we had to get here. It was quite a scare.'
+
+Speaker A: 'I understand. We’ll go over everything to ensure you're comfortable leaving.'
+
+Speaker B: 'Thanks. Now about those medications, I’m curious if I should expect any weird reactions?'
+
+Speaker A: 'There might be mild reactions, but they’re usually manageable. Just let us know if anything feels off.'
+
+Speaker B: 'Alright. I've had experiences before where reactions caught me off guard.'
+
+Speaker A: 'We’ll monitor closely to avoid surprises. Now, regarding your last tests, everything's looking great!'
+
+Speaker B: 'Really? That’s such a relief! I was worried there might be complications.'
+
+Speaker A: 'Nope, the results are very reassuring. You’re on the right path to recovery.'
+
+Speaker B: 'That's wonderful to hear. It makes the whole ordeal feel worth it.'"
+

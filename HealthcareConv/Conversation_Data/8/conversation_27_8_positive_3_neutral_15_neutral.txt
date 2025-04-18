@@ -1,0 +1,11 @@
+"Speaker A: 'I’m glad to see you for your follow-up today. Let's start with your progress. Your care plan adjustments seem to be working well.'
+
+Speaker B: 'Yes, I've definitely noticed an improvement. The exercises and changes in my routine have made a difference.'
+
+Speaker A: 'That's great to hear! Now, about your medications. How are you finding them? Any side effects you’d like to discuss?'
+
+Speaker B: 'They seem to be working fine. I haven’t noticed anything unusual, but I was curious if there's anything new we should consider?'
+
+Speaker A: 'Your current regimen looks balanced, but we can always review options if needed. You're comfortable with the current plan, though?'
+
+Speaker B: 'Yes, for now, but I appreciate having options. Having a say in my treatment makes me feel confident in the process.'"

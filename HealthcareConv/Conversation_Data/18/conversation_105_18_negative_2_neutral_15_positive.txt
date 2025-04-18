@@ -1,0 +1,19 @@
+"Speaker A: 'I'm concerned about the recent increase in emergency cases we're dealing with.'
+
+Speaker B: 'It's been challenging. We need to address this efficiently to manage the strain on resources.'
+
+Speaker C: 'On a related note, I received the latest test results on our current patients.'
+
+Speaker A: 'How do they look? Any surprises?'
+
+Speaker C: 'Not really surprising. The results are quite consistent with what we expected.'
+
+Speaker B: 'That's good to hear. Consistency helps in planning our next steps.'
+
+Speaker A: 'Let's focus on involving patients in their care decisions. I believe shared decision making can be a positive change.'
+
+Speaker C: 'Absolutely. When patients are part of the plan, their adherence improves.'
+
+Speaker B: 'And it lets them feel more in control of their health journey, which is empowering.'
+
+Speaker A: 'Agreed. Let's integrate more strategies to support this in our future plans.'"

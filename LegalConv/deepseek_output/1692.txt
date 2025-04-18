@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Argument and Case Theory",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Roadmap or Future Plans",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

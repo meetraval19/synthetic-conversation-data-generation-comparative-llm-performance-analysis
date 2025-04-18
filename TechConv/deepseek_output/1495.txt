@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "neutral"
+        }
+    ]
+}

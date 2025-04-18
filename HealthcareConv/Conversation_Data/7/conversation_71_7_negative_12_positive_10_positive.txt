@@ -1,0 +1,15 @@
+"Speaker A: 'I'm concerned about how smoothly our team communicates during patient referrals.'
+
+Speaker B: 'I've noticed some gaps too. Miscommunications can cause delays, which isn't ideal for patient care.'
+
+Speaker A: 'Exactly. We definitely need to streamline our process there.'
+
+Speaker B: 'On the brighter side, our documentation review process has been excellent lately. Everything is organized and up-to-date.'
+
+Speaker A: 'Yes, having accurate documentation makes such a difference. It really helps when we move patients between specialists.'
+
+Speaker B: 'Speaking of patient transitions, I've noticed that therapy adherence has improved significantly with the new protocols.'
+
+Speaker A: 'Absolutely. Patients seem to be responding well. It's probably the clear guidelines and follow-ups that make a difference.'
+
+Speaker B: 'I agree. When patients understand the importance of their therapy and feel supported, adherence naturally improves.'"

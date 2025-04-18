@@ -1,0 +1,15 @@
+"Speaker A: 'That was an impressive team effort during the emergency. Having quick access to detailed patient records was a game-changer.'
+
+Speaker B: 'Absolutely. The thorough documentation of their medical files really helped us anticipate the possible complications and act fast.'
+
+Speaker A: 'Moving on, how did the medication review process go?'
+
+Speaker B: 'It was quite straightforward. The pharmacists ensured everything was aligned with the current protocols, but it felt very routine.'
+
+Speaker A: 'That's good to hear. It's crucial to validate the prescribed drugs swiftly in such scenarios.'
+
+Speaker B: 'Agreed. However, I noticed some challenges with the referral coordination. It seemed rather cumbersome and delayed our follow-up actions.'
+
+Speaker A: 'Yes, it's an issue we need to address. The process should be seamless, but clearly, there are bottlenecks that affect our efficiency.'
+
+Speaker B: 'We definitely need to streamline that aspect. Effective communication between departments is critical after the immediate emergency is handled.'"

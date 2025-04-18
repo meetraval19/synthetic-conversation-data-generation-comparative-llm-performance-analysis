@@ -1,0 +1,19 @@
+"Speaker A: 'Let's debrief the response to the emergency call yesterday. How did the team handle accessing the patient's information?'
+
+Speaker B: 'Access was straightforward, but there were some typical hurdles, like the usual delays in communication between departments.'
+
+Speaker A: 'Right, those barriers are always there but they're consistent, nothing unexpected.'
+
+Speaker B: 'True, next up, the medication review. There were quite a few discrepancies in the patient's prescription history.'
+
+Speaker A: 'Yes, it was quite concerning. The records were outdated, leading to confusion about the patient's current medication.'
+
+Speaker B: 'It's crucial we address that. The discrepancies could have had serious consequences.'
+
+Speaker A: 'Agreed. Now about the follow-up procedures post-treatment, things didn’t go as planned.'
+
+Speaker B: 'There were definitely issues. The follow-up appointments weren’t scheduled promptly, and the patient didn’t receive the aftercare instructions clearly.'
+
+Speaker A: 'That's troubling. We need to improve on effectively communicating those next steps.'
+
+Speaker B: 'Absolutely. Let's propose some changes for better coordination and communication in the next review meeting.'"

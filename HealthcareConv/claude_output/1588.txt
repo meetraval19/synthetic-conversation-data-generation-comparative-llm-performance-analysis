@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Shared Decision",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Barriers",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

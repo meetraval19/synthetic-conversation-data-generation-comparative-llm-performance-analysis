@@ -1,0 +1,17 @@
+"Speaker A: 'How have you been feeling since your release?'
+
+Speaker B: 'Not great, honestly. The discharge plan was quite confusing, and I've felt a bit lost without proper instructions.'
+
+Speaker A: 'I'm sorry to hear that. Let's make sure we clarify everything. On a brighter note, the recent assessment shows good progress with your condition.'
+
+Speaker B: 'Really? That’s reassuring to hear. I was a bit worried about the initial diagnosis.'
+
+Speaker A: 'Yes, your risk factors have significantly decreased, which is a positive sign.'
+
+Speaker B: 'That’s comforting. However, I’ve noticed some unusual reactions since starting the new medication.'
+
+Speaker A: 'Those could be routine side effects. It’s important to monitor how you're feeling, so let’s discuss any specifics.'
+
+Speaker B: 'I’ll keep track and let you know. Thank you for the help. It’s good to know I’m moving in the right direction health-wise.'
+
+Speaker A: 'Absolutely. We’ll work through any concerns together and adjust the plan as needed.'"

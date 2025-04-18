@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

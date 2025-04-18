@@ -1,0 +1,17 @@
+"Speaker A: 'During our last review, it seems the shared decision process isn’t going smoothly.'
+
+Speaker B: 'Yes, patients are voicing concerns about feeling left out of the decisions. We need to address that.'
+
+Speaker C: 'On a more positive note, our new approach to explaining diagnosis has been well-received.'
+
+Speaker A: 'Absolutely. Patients appreciate the clarity and transparency. It’s really helped improve their understanding and trust.'
+
+Speaker B: 'I agree. Communicating the necessary details effectively has reduced their anxiety a lot.'
+
+Speaker C: 'Now, regarding the collection of medical histories, how do we streamline this without overwhelming patients?'
+
+Speaker A: 'It’s a tricky balance. We need comprehensive data, but we don’t want it to be burdensome for them.'
+
+Speaker B: 'Perhaps we can consider digital tools to aid in this process, maintaining thoroughness but ensuring ease.'
+
+Speaker C: 'That sounds promising. Let’s look into solutions that can help us achieve that balance.'"

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Medical History",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+"Speaker A: 'I see you've been in the hospital for a few days now. How are you feeling about going home soon?'
+
+Speaker B: 'I think I'm ready, but I'm curious about what the process will be like when it's time for me to leave.'
+
+Speaker A: 'The discharge process is straightforward. We’ll make sure you have all the instructions you need, and you’ll know what to expect.'
+
+Speaker B: 'That sounds manageable. Is there any update on how my treatment plan will continue after I leave?'
+
+Speaker A: 'Yes, your care plan has been updated. We've incorporated some new therapies that have shown promising results in similar cases.'
+
+Speaker B: 'That’s encouraging to hear. I’m eager to try anything that will help.'
+
+Speaker A: 'I'm glad to hear that. However, we should discuss any challenges you might face after your discharge. Are there any concerns about following the recommendations?'
+
+Speaker B: 'Well, transportation could be an issue. Getting to all these follow-up appointments might be tough.'
+
+Speaker A: 'That’s certainly a challenge many face. Let’s explore some options together. We can look into arranging transport services or community support to help ease that burden.'
+
+Speaker B: 'I appreciate that. It's been a bit overwhelming to think about without support.'
+
+Speaker A: 'We’re committed to making this transition as smooth as possible. Let’s set up a meeting with our resources coordinator to find the best solutions for you.'"

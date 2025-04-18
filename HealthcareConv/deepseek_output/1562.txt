@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Support Services",
+            "sentiment": "positive"
+        }
+    ]
+}

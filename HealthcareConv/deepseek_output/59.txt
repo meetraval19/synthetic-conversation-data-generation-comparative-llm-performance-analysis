@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Medical History",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Referral Coordination",
+            "sentiment": "positive"
+        }
+    ]
+}

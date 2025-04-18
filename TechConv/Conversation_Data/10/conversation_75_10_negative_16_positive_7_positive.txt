@@ -1,0 +1,16 @@
+"Speaker A: 'Let's review your performance this quarter. I noticed you're handling change requests quite often. How do you find them?'
+
+Speaker B: 'Honestly, it's been challenging. Some of the suggestions seem unnecessary and time-consuming, without adding much value to the product right now.'
+
+Speaker A: 'I understand. It's important to balance what's feasible with the benefit. How about the team's communication? Any improvements there?'
+
+Speaker B: 'Absolutely! Our team meetings have become much more efficient. The open discussions have really boosted our project outcomes.'
+
+Speaker A: 'That's great to hear. Good collaboration is key. What about the support and escalation process?'
+
+Speaker B: 'It's working well. The new system ensures issues are escalated promptly, and we're resolving them faster.' 
+
+Speaker A: 'Fantastic. It's essential to maintain that positivity across the team. Let's focus on refining those change requests next.' 
+
+Speaker B: 'Agreed. Thanks for the feedback!'"
+

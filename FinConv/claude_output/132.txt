@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Scenario and Sensitivity Analysis",
+      "sentiment": "positive"
+    }
+  ]
+}

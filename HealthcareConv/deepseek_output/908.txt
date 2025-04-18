@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Shared Decision",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Medical History",
+            "sentiment": "negative"
+        }
+    ]
+}

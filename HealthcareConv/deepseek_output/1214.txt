@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Patient Education",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Medical History",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Documentation Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Test Results",
+            "sentiment": "positive"
+        }
+    ]
+}

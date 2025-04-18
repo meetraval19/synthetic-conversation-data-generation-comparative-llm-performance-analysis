@@ -1,0 +1,15 @@
+"Speaker A: 'I'm a bit concerned about how the current updates to the care plan are being received.'
+
+Speaker B: 'I noticed that too. Some patients seem overwhelmed by the changes.'
+
+Speaker A: 'Exactly. It's important we streamline the modifications or we might see more resistance.'
+
+Speaker B: 'I agree. On a different note, I’ve been reviewing our therapy adherence rates.'
+
+Speaker A: 'What’s the status? I hope it's consistent.'
+
+Speaker B: 'Overall, adherence seems steady. It’s neither improved nor declined significantly.'
+
+Speaker A: 'That’s reassuring, at least we’re not losing ground. Maybe we can work on introducing some small incentives to boost it further.'
+
+Speaker B: 'Good idea. We can explore options that might encourage better commitment without overwhelming the patients.'

@@ -1,0 +1,11 @@
+"Speaker A: 'Let's begin with the review of the patient's medication list. Everything seems consistent with standard treatment protocols.'
+
+Speaker B: 'Yes, the prescriptions line up well with their current condition. No significant interactions noted.'
+
+Speaker A: 'Moving on to the symptoms, the patient reported increased fatigue over the past week.'
+
+Speaker B: 'That's concerning. Fatigue can indicate an underlying issue that might require further investigation.'
+
+Speaker A: 'I agree. It could be related to their existing condition, or something new might be developing.'
+
+Speaker B: 'Exactly. We should consider running some additional tests to rule out potential complications.'

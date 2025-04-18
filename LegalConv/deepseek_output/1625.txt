@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Witness Identification and Preparation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Applicable Laws and Regulations",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Evidence and Documentation Review",
+            "sentiment": "positive"
+        }
+    ]
+}

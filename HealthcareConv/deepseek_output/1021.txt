@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Medical History",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "negative"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "positive"
+        }
+    ]
+}

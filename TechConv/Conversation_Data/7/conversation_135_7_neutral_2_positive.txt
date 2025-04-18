@@ -1,0 +1,13 @@
+"Speaker A: 'Thank you for participating in the interview. How would you describe your experience with our support and escalation process?'
+
+Speaker B: 'I’d say it’s quite standard. The steps are clear, but sometimes it feels like it takes longer than expected.'
+
+Speaker A: 'That’s understandable. Your feedback is valuable. Now, regarding the overall performance of our technology, what are your thoughts?'
+
+Speaker B: 'Oh, I’ve been really impressed! The speed and reliability have improved significantly recently. It’s been a game-changer for my productivity.'
+
+Speaker A: 'That’s great to hear. We’ve been working hard to enhance performance, so it’s rewarding to know it’s making a difference.'
+
+Speaker B: 'Absolutely! Those improvements really stand out and make everyday tasks much smoother.'
+
+Speaker A: 'Thank you for your insights. Your feedback helps us focus on what matters most to users like you.'"

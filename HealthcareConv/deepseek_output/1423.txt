@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Shared Decision",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Support Services",
+            "sentiment": "positive"
+        }
+    ]
+}

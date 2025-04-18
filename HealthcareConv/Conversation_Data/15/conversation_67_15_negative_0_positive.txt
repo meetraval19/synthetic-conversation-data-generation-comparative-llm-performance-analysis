@@ -1,0 +1,18 @@
+"Speaker A: 'Thanks for coming in today. Let’s start by going through your medical history. It looks like you've been doing well with your blood pressure management.'
+
+Speaker B: 'Yes, I've been following the plan we discussed last time. I feel much better now.'
+
+Speaker A: 'That’s excellent to hear. Now, regarding your treatment options, how do you feel about us working together on these decisions?'
+
+Speaker B: 'Honestly, I've been a bit overwhelmed. Sometimes it feels like there's too much input, and I get confused.'
+
+Speaker A: 'I understand. It can be challenging to weigh all the options. We can take a more guided approach if that helps. My goal is to make this process as clear and comfortable as possible for you.'
+
+Speaker B: 'I appreciate that. It's just hard when there are so many choices, and I’m not always sure what’s best.'
+
+Speaker A: 'Let’s tackle it piece by piece. First, we’ll outline the benefits and potential risks for each option. Remember, your input is incredibly important, but I’m here to support and advise you every step of the way.'
+
+Speaker B: 'Thank you, I just want to make sure I'm making the right decisions for my health.'
+
+Speaker A: 'And together, we’ll make a plan that aligns with what you want. Let’s focus on ensuring you feel comfortable and informed.'"
+

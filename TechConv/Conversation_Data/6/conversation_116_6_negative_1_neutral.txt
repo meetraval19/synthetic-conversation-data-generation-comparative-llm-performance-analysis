@@ -1,0 +1,15 @@
+"Speaker A: 'I’m excited to show you how our software can streamline your processes.'
+
+Speaker B: 'That sounds promising, but I've heard some feedback about the user interface not being very intuitive.'
+
+Speaker A: 'I understand your concern. We’re actively working to improve the interface based on the user feedback we've received.'
+
+Speaker B: 'That’s good to hear. How easy is it for users to report any issues they encounter?'
+
+Speaker A: 'We have a straightforward system in place for reporting any bugs or issues. It's simple and doesn’t require much technical expertise.'
+
+Speaker B: 'That's helpful. I suppose that makes your support process more efficient.'
+
+Speaker A: 'Exactly. Our support team is able to quickly address and resolve any reported bugs, ensuring minimal disruption for users.' 
+
+Speaker B: 'If the user experience improves, I could see this being a great fit for us.'"

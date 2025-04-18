@@ -1,0 +1,21 @@
+"Speaker A: 'I reviewed your medical records, and it's impressive how you've managed your health over the years.'
+
+Speaker B: 'Thank you! I've tried to stay proactive about it.'
+
+Speaker A: 'That approach has really paid off. Your recent test results show significant improvements.'
+
+Speaker B: 'I’m pleased to hear that. Although, I did have some concerns about the last visit.'
+
+Speaker A: 'I understand there were some issues. Was it related to the team's communication?'
+
+Speaker B: 'Yes, exactly. There seemed to be some confusion. It made me a bit anxious.'
+
+Speaker A: 'I'm sorry about that. We’re working on improving how we coordinate internally.'
+
+Speaker B: 'I appreciate that. It’s just important for me to feel informed and reassured.'
+
+Speaker A: 'Absolutely, and we’ll make sure you have a smoother experience next time.'
+
+Speaker B: 'Thank you. Knowing my health is on track helps a lot.'
+
+Speaker A: 'I’m glad we could contribute positively to your overall well-being.'"

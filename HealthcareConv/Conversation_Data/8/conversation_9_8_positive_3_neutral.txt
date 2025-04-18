@@ -1,0 +1,19 @@
+"Speaker A: 'It's good to see you for this follow-up. Let's start by looking at your care plan. How have you been feeling lately?'
+
+Speaker B: 'I’ve actually been feeling much better since we last adjusted it. The changes have made a significant difference.'
+
+Speaker A: 'I'm really glad to hear that. We aimed to improve your quality of life, so it's wonderful to see it working positively.'
+
+Speaker B: 'Absolutely. I feel more energetic and balanced overall.'
+
+Speaker A: 'Great! Now, let's review the medications you've been taking. Are you experiencing any side effects?'
+
+Speaker B: 'No major issues, but sometimes I feel a bit drowsy. Nothing too concerning, though.'
+
+Speaker A: 'That's good to know. Drowsiness can be a common effect, but it's usually manageable. We can monitor it and adjust if necessary.'
+
+Speaker B: 'That sounds reasonable. I’ll keep an eye on it and let you know if anything changes.'
+
+Speaker A: 'Perfect. We'll continue to adjust things as needed to maintain your well-being.'
+
+Speaker B: 'Thank you. I appreciate the support and careful attention to my treatment.'"

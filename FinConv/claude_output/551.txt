@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Scenario and Sensitivity Analysis",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "neutral"
+    }
+  ]
+}

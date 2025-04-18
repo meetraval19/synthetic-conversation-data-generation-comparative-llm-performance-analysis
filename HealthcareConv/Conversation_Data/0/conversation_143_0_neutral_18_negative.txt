@@ -1,0 +1,18 @@
+"Speaker A: 'Let's start by reviewing your past medical records. How have you been feeling overall?'
+
+Speaker B: 'I've been doing okay, nothing unusual, just some of the usual ups and downs.'
+
+Speaker A: 'That's good to hear. Now, have you had any recent urgent issues or emergencies that we should discuss?'
+
+Speaker B: 'Actually, I had a really scary moment last week. I felt a sharp pain in my chest and it really worried me.'
+
+Speaker A: 'I understand that sounds concerning. Have you experienced anything similar before, or was that an isolated incident?'
+
+Speaker B: 'It was the first time. It just came out of nowhere and really made me anxious.'
+
+Speaker A: 'I see. It's important to address such symptoms promptly. We should run some tests to make sure everything is alright.'
+
+Speaker B: 'I agree, better safe than sorry. I just hope it's nothing serious.'
+
+Speaker A: 'We'll investigate thoroughly to ensure there are no serious issues. Your health is our top priority.'"
+

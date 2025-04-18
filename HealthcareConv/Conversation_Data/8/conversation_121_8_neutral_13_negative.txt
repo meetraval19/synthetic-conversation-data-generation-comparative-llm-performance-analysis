@@ -1,0 +1,15 @@
+"Speaker A: 'I've reviewed your care plan, and everything seems to be progressing smoothly according to the schedule.'
+
+Speaker B: 'That's good to hear. I'm ready to hear what's next.'
+
+Speaker A: 'Now, regarding your discharge planning, there are a few complexities we need to discuss.'
+
+Speaker B: 'Complexities? That sounds a bit worrying. Are there specific concerns?'
+
+Speaker A: 'There are some logistical issues with arranging your post-discharge services, but we’re working to sort them out as soon as possible.'
+
+Speaker B: 'I see. It’s a bit frustrating to hear that, but I appreciate the update.'
+
+Speaker A: 'I understand. It’s important to ensure you have all the support you need when you leave.' 
+
+Speaker B: 'Absolutely, I just hope everything falls into place without too much delay.'"

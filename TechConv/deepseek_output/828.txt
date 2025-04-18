@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "neutral"
+        }
+    ]
+}

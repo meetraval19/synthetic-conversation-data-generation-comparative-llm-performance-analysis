@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "neutral"
+    }
+  ]
+}

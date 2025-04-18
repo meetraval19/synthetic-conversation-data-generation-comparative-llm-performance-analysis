@@ -1,0 +1,18 @@
+"Speaker A: 'Thank you for joining this feedback session. How do you feel about the latest update's new feature functionality?'
+
+Speaker B: 'Oh, I think it's fantastic! The way it streamlines workflow is quite impressive.'
+
+Speaker A: 'That's wonderful to hear. We aimed to make it more intuitive. Can you tell me more about your experience?'
+
+Speaker B: 'Certainly! It feels more responsive, and the interface is very user-friendly.'
+
+Speaker A: 'Great to know. Now, I'd like to get your opinion on the dashboard analytics. Any thoughts?'
+
+Speaker B: 'Well, the metrics are comprehensive, but sometimes I'm unsure about how they're calculated.'
+
+Speaker A: 'I understand. Ensuring clarity in analytics is key. Is there anything specific you think could be improved?'
+
+Speaker B: 'Perhaps a tutorial or guide to explain the metrics better would help.' 
+
+Speaker A: 'That's valuable feedback. I'll make sure to pass this along to our development team.'"
+

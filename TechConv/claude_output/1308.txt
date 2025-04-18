@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

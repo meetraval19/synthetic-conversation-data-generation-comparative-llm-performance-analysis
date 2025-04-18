@@ -1,0 +1,15 @@
+"Speaker A: 'Thanks for taking the time to chat today. I’m interested in any thoughts you might have about additional features you’d like to see in our app.'
+
+Speaker B: 'I've been using it quite a bit, and while it covers most needs, having a shortcut for frequently used tools could streamline tasks.'
+
+Speaker A: 'Great suggestion. I appreciate you sharing that. How are you finding the overall experience with the app?'
+
+Speaker B: 'Honestly, it’s been a bit frustrating at times. The navigation isn’t very intuitive, and it takes longer than I’d like to complete some tasks.'
+
+Speaker A: 'I’m sorry to hear that. We definitely want to make it smoother for our users. Are there specific areas where you’ve encountered issues?'
+
+Speaker B: 'Yes, there are occasional crashes when I try to save my work, which has caused a lot of inconvenience, especially on tight deadlines.'
+
+Speaker A: 'That sounds frustrating indeed. We’re already looking into stabilizing those aspects, and user feedback like yours really helps prioritize our efforts.'
+
+Speaker B: 'That’s good to hear. I hope solving these issues will make a big difference.'

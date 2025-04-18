@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Valuation Metrics Discussion",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Forecasting and Projections",
+            "sentiment": "neutral"
+        }
+    ]
+}

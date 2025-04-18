@@ -1,0 +1,17 @@
+"Speaker A: 'I’d like to make sure you understand everything about your condition. Do you have any questions about the treatment plan?'
+
+Speaker B: 'Not really, it seems pretty straightforward, but I would like some more information on how the medication works.'
+
+Speaker A: 'Of course, the medication helps by stabilizing the enzymes, which should ease your symptoms. It’s essential to stay informed.'
+
+Speaker B: 'Got it. Speaking of information, I received the latest test results. I’m a bit worried about what they say.'
+
+Speaker A: 'I understand. The results show some concerns that we need to address. It’s important not to be discouraged, and we’ll come up with a plan together.'
+
+Speaker B: 'Thanks for being honest. What about the assessment? Are there any significant risks I should be aware of?'
+
+Speaker A: 'Yes, there are some risks that we need to keep an eye on. It might seem overwhelming, but catching these early can help us mitigate them.'
+
+Speaker B: 'I appreciate your candor. It does feel a bit daunting, but I’m glad we're on top of it.'
+
+Speaker A: 'You’re doing great by being proactive. We’ll continue monitoring everything closely to make sure any issues are addressed promptly.'"

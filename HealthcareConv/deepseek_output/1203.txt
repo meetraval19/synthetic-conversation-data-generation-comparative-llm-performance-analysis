@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Patient Education",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "positive"
+        }
+    ]
+}

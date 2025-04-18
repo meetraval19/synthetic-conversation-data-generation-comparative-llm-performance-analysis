@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "positive"
+        }
+    ]
+}

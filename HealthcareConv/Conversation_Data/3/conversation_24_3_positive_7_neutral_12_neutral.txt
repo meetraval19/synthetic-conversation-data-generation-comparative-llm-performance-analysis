@@ -1,0 +1,18 @@
+"Speaker A: 'I reviewed your medication, and it's great to see how well it's working for you.'
+
+Speaker B: 'I'm glad to hear that. I feel much better now than before.'
+
+Speaker A: 'Excellent. Now, regarding our team's communication, do you feel you’re getting all the information you need from us?'
+
+Speaker B: 'Mostly, yes. Sometimes I get a bit confused with instructions coming from different people.'
+
+Speaker A: 'I understand. We are working on streamlining our communication to make it clearer for patients.'
+
+Speaker B: 'That would be helpful. Also, about the documentation you asked me to bring...'
+
+Speaker A: 'Yes, I see you have everything in order. It certainly makes my job easier when everything is neatly arranged.'
+
+Speaker B: 'Great, I was worried I'd miss something.'
+
+Speaker A: 'No, you've done well. Let’s keep this up, and your treatment should continue to go smoothly.'"
+

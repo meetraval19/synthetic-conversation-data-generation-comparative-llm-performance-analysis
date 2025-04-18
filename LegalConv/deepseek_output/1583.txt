@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Witness Identification and Preparation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "neutral"
+        }
+    ]
+}

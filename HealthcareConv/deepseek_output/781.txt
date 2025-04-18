@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Team Communication",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Test Results",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "neutral"
+        }
+    ]
+}

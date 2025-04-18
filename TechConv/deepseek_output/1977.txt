@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "negative"
+        }
+    ]
+}

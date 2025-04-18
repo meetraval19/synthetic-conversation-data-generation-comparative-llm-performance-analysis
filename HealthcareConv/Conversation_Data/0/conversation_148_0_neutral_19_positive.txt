@@ -1,0 +1,17 @@
+"Speaker A: 'I see you've been in for a routine check-up. Let's review your medical history to see if there are any changes.'
+
+Speaker B: 'Sure, nothing significant has changed since my last visit, but it's always good to keep track.'
+
+Speaker A: 'Absolutely, keeping a detailed history helps in spotting any trends or new issues early. How have you been finding the hospital services?'
+
+Speaker B: 'Oh, they've been great! The new support services team has really made a difference. I feel much more at ease knowing there's always someone to help.'
+
+Speaker A: 'That's wonderful to hear. We aim to make our patients feel supported and cared for every step of the way.'
+
+Speaker B: 'Yes, the staff's attention to detail and kindness have been really comforting.'
+
+Speaker A: 'I'm glad to hear that. If there's anything else we can do to help, just let us know.'
+
+Speaker B: 'Thank you, I really appreciate that. It's reassuring to know there's a strong support network here.'
+
+Speaker A: 'It's our priority to ensure you have the best experience possible during your visits.'"

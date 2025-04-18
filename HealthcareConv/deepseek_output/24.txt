@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Medical History",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Test Results",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "positive"
+        }
+    ]
+}

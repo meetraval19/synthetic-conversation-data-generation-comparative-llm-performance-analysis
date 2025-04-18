@@ -1,0 +1,30 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Care Plan Update",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Medication Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

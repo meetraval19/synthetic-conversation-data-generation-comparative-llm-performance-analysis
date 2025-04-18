@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

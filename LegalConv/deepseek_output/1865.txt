@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "negative"
+        }
+    ]
+}

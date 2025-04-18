@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "positive"
+    }
+  ]
+}

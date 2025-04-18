@@ -1,0 +1,24 @@
+"Speaker A: 'Hi, how have you been feeling since your discharge?'
+
+Speaker B: 'Honestly, a bit concerned. The discharge process seemed rushed, and I didn't fully understand the care plan.'
+
+Speaker A: 'I'm sorry to hear that. Let's go over your discharge plan again to clear up any confusion.'
+
+Speaker B: 'That would be great. I just want to make sure I'm following everything correctly.'
+
+Speaker A: 'Of course. And I see we have your medical history updated. It's crucial for us to have a clear picture moving forward.'
+
+Speaker B: 'Yes, I brought the documents you requested. Is there anything unusual in there?'
+
+Speaker A: 'Everything seems standard, no surprises. It's good to see you've been consistent with your treatments.'
+
+Speaker B: 'That's a relief. What about the test results from last week?'
+
+Speaker A: 'The results are back, and they're stable. No significant changes, which is good news.'
+
+Speaker B: 'I'm glad to hear that. I was worried about potential complications.'
+
+Speaker A: 'Understandable. We'll keep monitoring things closely. Let me know if you have any more questions.'
+
+Speaker B: 'Thank you. I feel better having talked this through.'"
+

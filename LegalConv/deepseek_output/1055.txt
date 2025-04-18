@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "positive"
+        }
+    ]
+}

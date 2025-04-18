@@ -1,0 +1,15 @@
+"Speaker A: 'Let's go over your discharge plan, starting with your medications. It seems like they’re all in order.' 
+
+Speaker B: 'Great, I just want to make sure I'm taking them correctly.'
+
+Speaker A: 'Of course, it's pretty straightforward. Now, about the instructions we provided, do you have any questions?'
+
+Speaker B: 'Honestly, I'm a bit overwhelmed. The details about what I need to do at home are a lot to take in.'
+
+Speaker A: 'I understand. It's quite a bit of information at once. Would breaking it down into smaller steps help?'
+
+Speaker B: 'Yes, that could be helpful. I was feeling a bit lost, to be honest.'
+
+Speaker A: 'Let's tackle it one piece at a time, starting with your primary care follow-ups.' 
+
+Speaker B: 'Thank you, I'd appreciate that approach. It makes everything feel more manageable.'"

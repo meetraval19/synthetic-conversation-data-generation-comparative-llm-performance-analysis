@@ -1,0 +1,13 @@
+"Speaker A: 'Looking over your medical history, everything seems stable now.'
+
+Speaker B: 'That's good to hear. What about the next steps for my care?'
+
+Speaker A: 'Well, we should discuss your discharge plan. The decision-making process has been challenging due to limited options.'
+
+Speaker B: 'I noticed. It feels like my preferences weren't fully considered in this plan.'
+
+Speaker A: 'I understand your concern. We can review the options again, but there are constraints.'
+
+Speaker B: 'I appreciate the transparency, but I hoped for a more collaborative approach.'
+
+Speaker A: 'Let's revisit some aspects and see where adjustments can be made to better suit your needs.'"

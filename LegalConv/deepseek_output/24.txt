@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "positive"
+        }
+    ]
+}

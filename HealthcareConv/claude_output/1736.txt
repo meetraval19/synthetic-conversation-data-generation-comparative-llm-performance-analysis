@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Diagnosis Communication",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

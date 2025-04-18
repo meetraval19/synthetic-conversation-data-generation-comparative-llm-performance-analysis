@@ -1,0 +1,18 @@
+"Speaker A: 'Hello, Doctor. I've been feeling a bit anxious about my recent test results.' 
+
+Speaker B: 'No need to worry, your test results came back very positive! Everything is looking good, and you're on the right track health-wise.'
+
+Speaker A: 'That's such a relief to hear. Thank you for letting me know. I was a bit concerned because during my last visit, there seemed to be some confusion among the staff.'
+
+Speaker B: 'I’m sorry to hear about that. Clear communication within our team is crucial, and we’re working on improving it. It can be frustrating when things aren't coordinated properly.'
+
+Speaker A: 'I understand. It did make the process a bit stressful, but I appreciate the update on the steps you're taking.'
+
+Speaker B: 'We’re committed to enhancing team communication. But for now, let’s focus on your positive health results, and we'll continue to support you moving forward.'
+
+Speaker A: 'Thank you, Doctor. Knowing that my health is in a good place really eases my mind.'
+
+Speaker B: 'Glad to hear that. I’ll check in with the team to ensure your next visit runs more smoothly. Feel free to reach out if you have any more questions.'
+
+Speaker A: 'I will. Thanks again for your support and for the good news today.'"
+

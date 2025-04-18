@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Witness Identification and Preparation",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "neutral"
+        }
+    ]
+}

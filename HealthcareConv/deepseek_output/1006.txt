@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Support Services",
+            "sentiment": "positive"
+        }
+    ]
+}

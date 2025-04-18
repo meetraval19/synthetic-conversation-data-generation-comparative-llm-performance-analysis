@@ -1,0 +1,19 @@
+"Speaker A: 'Good to see you again! Let’s start by looking at how you're feeling lately. Any improvement in those symptoms you mentioned last time?'
+
+Speaker B: 'Yes, definitely! The treatment seems to be working well. I’ve noticed a significant decrease in discomfort.'
+
+Speaker A: 'That's excellent news! It's always promising when the treatment shows positive results. I’ll take note of that for your record.'
+
+Speaker B: 'Thank you. Also, I wanted to ask about how your team handles the consultations. Everything seems smooth, but I was just curious.'
+
+Speaker A: 'We try to keep communication open and collaborative. Every specialist shares their input to make sure you receive the best care possible.'
+
+Speaker B: 'That makes sense. It's reassuring to know there’s a team effort involved.'
+
+Speaker A: 'Absolutely. However, I do want to apologize for any mix-ups in your documentation during your last visit. We've been updating our systems, and it's caused a few hiccups.'
+
+Speaker B: 'Yes, I noticed there were some errors in my file. It was a bit concerning.'
+
+Speaker A: 'I completely understand your frustration. We’re working hard to resolve these issues swiftly. Thank you for your patience.'
+
+Speaker B: 'I appreciate the effort. It's good to know it's being addressed.'

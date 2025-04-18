@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "neutral"
+        }
+    ]
+}

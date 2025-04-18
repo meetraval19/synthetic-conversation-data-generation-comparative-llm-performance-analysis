@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "positive"
+        }
+    ]
+}

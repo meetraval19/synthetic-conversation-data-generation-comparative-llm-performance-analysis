@@ -1,0 +1,21 @@
+"Speaker A: 'I'm happy to report that your response to the medication has been excellent.'
+
+Speaker B: 'That's great to hear. I was a bit worried about the side effects.'
+
+Speaker A: 'We've selected a regimen that minimizes those risks, and you've adjusted really well.'
+
+Speaker B: 'Thank you. What about my symptoms?'
+
+Speaker A: 'The assessment shows they've stabilized, which is a good sign. We'll continue to monitor them closely.'
+
+Speaker B: 'Alright, that sounds reasonable. What happens after I leave the hospital?'
+
+Speaker A: 'We'll set you up with some support services. They can assist with your transition back home and ensure you're comfortable.'
+
+Speaker B: 'It's reassuring to know I’ll have assistance. How often will they check in?'
+
+Speaker A: 'They'll coordinate with you to establish a schedule that fits your needs.'
+
+Speaker B: 'I appreciate it. This makes me feel a lot more secure about going home.'
+
+Speaker A: 'It's our goal to ensure your discharge is as smooth as possible.'"

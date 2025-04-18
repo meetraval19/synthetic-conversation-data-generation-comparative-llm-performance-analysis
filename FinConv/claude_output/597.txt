@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Internal Controls and Governance",
+      "sentiment": "negative"
+    }
+  ]
+}

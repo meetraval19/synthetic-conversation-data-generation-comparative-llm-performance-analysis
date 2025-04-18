@@ -1,0 +1,14 @@
+"Speaker A: 'Let's talk about the next steps for your discharge. Have you had a chance to review the risks associated with going home?'
+
+Speaker B: 'I have, and I'm quite worried about the possibility of complications. Could we go over them again?'
+
+Speaker A: 'Of course, it's important to understand the potential risks. We'll ensure you have all the necessary information to manage them. Now, about your plan once you leave the hospital, everything seems straightforward enough.'
+
+Speaker B: 'The plan seems manageable, but I still have a few questions about the timing of medications.'
+
+Speaker A: 'Certainly, I can clarify that for you. It's crucial to follow the schedule closely to help with a smooth recovery.'
+
+Speaker B: 'Thank you. I feel more comfortable knowing I can reach out if I need further guidance.'
+
+Speaker A: 'Definitely, feel free to contact us anytime for support. We're here to ensure you have everything you need for a successful recovery at home.'"
+

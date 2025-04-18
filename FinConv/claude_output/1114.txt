@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Valuation Metrics Discussion",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "positive"
+    }
+  ]
+}

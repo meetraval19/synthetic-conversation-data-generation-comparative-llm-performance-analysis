@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Tool or Platform Comparison",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

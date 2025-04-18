@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "positive"
+        }
+    ]
+}

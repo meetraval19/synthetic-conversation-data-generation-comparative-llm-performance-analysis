@@ -1,0 +1,15 @@
+"Speaker A: 'Let's start with an overview of the patient's current symptoms. They've reported intermittent headaches and fatigue.'
+
+Speaker B: 'Yes, those are pretty common and can be indicative of many conditions. We'll need to monitor them closely.'
+
+Speaker A: 'Moving on to the medication review, the new prescription seems to have stabilized their blood pressure remarkably well.'
+
+Speaker B: 'Definitely a positive outcome. The patient has responded well without any adverse effects reported so far.'
+
+Speaker A: 'That's great to hear. Now, regarding discharge planning, there are some concerns about their home support.'
+
+Speaker B: 'Unfortunately, the lack of a solid support system at home might complicate the recovery. It's something we need to address urgently.'
+
+Speaker A: 'Agreed, coordinating with social services might be necessary to ensure they have the help needed.'
+
+Speaker B: 'Absolutely. We'll need to work closely on this to prevent any setbacks post-discharge.'"

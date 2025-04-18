@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

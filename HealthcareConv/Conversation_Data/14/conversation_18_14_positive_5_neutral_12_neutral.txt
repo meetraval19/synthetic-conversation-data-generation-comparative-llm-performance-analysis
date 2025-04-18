@@ -1,0 +1,15 @@
+"Speaker A: 'Hello, how have you been feeling since you started the new medication?'
+
+Speaker B: 'Hi, overall I think things are going well. I was worried about potential side effects, but surprisingly, they've been manageable and even better than expected.'
+
+Speaker A: 'That's great to hear! Sometimes adjusting to new medication can be smoother than anticipated. Are there any concerns you'd like to address during this follow-up?'
+
+Speaker B: 'Not particularly. Everything seems pretty stable, and I feel like we're on the right track.'
+
+Speaker A: 'Good to know. Let's take a quick look through your documentation to ensure everything lines up and we're not missing anything.'
+
+Speaker B: 'Sounds good. The last visit went over a lot of details, so I trust we're in sync.'
+
+Speaker A: 'Yes, everything looks consistent. It's always helpful to keep things organized. We'll continue monitoring as planned.'
+
+Speaker B: 'Thank you! I feel more reassured after going over everything with you.'"

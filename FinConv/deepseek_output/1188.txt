@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Investment Performance Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Internal Controls and Governance",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "neutral"
+        }
+    ]
+}

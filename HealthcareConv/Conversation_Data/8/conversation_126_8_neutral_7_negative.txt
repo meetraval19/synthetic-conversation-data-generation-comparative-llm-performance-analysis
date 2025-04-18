@@ -1,0 +1,17 @@
+"Speaker A: 'Let’s discuss the recent updates to your care plan.'
+
+Speaker B: 'I’m glad we’re reviewing it. Anything significant I should know?'
+
+Speaker A: 'Not much has changed, just a few adjustments to ensure everything is aligned with your progress. It's meant to keep things running smoothly.'
+
+Speaker B: 'That’s good to know. I trust you're keeping track. By the way, I noticed some issues with team communication recently.'
+
+Speaker A: 'Oh, really? Can you tell me more about that?'
+
+Speaker B: 'Well, last week, there seemed to be a mix-up regarding my medication timings. It’s a bit concerning.'
+
+Speaker A: 'I’m sorry to hear that. It might have been due to miscommunication between departments. I’ll make sure it’s addressed so it doesn’t happen again.'
+
+Speaker B: 'I appreciate it. Other than that, everything else seems to be fine.' 
+
+Speaker A: 'Great to hear. Thank you for bringing it up. Let’s keep open lines of communication, and if anything else comes up, feel free to let me know.'"

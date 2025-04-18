@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Technical Documentation Reference",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

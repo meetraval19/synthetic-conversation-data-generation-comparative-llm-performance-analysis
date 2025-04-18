@@ -1,0 +1,19 @@
+"Speaker A: 'Good news, your test results show significant improvement! Your efforts are paying off.'
+
+Speaker B: 'That’s a relief. I was quite worried about it.'
+
+Speaker A: 'Let’s discuss your current medications. There have been some concerns about possible side effects.'
+
+Speaker B: 'Yes, I’ve been feeling a bit off lately. Should we consider alternatives?'
+
+Speaker A: 'We might need to adjust the dosage or switch. I'll look into safer options for you.'
+
+Speaker B: 'I appreciate that. The side effects have been tough to handle.'
+
+Speaker A: 'I also wanted to talk about how we communicate your diagnosis. I realize it’s been overwhelming with all the information.'
+
+Speaker B: 'It has been challenging to understand everything. Sometimes it feels too technical.'
+
+Speaker A: 'I’ll work on making it clearer. It's crucial that you feel informed and comfortable.'
+
+Speaker B: 'Thank you. I definitely want to be more involved in the process.'"

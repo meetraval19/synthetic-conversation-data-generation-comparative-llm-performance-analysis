@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Interest Rate Impact Analysis", 
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    }
+  ]
+}

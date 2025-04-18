@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Internal Controls and Governance",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "positive"
+        }
+    ]
+}

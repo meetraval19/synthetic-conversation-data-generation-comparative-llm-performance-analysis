@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "neutral"
+    }
+  ]
+}

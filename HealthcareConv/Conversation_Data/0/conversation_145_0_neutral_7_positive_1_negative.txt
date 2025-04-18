@@ -1,0 +1,14 @@
+"Speaker A: 'Let's start by reviewing the medical records we accessed during the response. They provided some insights, but we need to ensure all relevant information was considered.'
+
+Speaker B: 'Yes, having that background was crucial. Now, our team communication during the incident was excellent. Everyone rallied together seamlessly.'
+
+Speaker A: 'Absolutely. The coordination was impressive, from relaying information to executing tasks efficiently. It's something we can definitely build on.'
+
+Speaker B: 'Agreed. However, there were challenges with assessing the patient's symptoms initially. It felt like the symptoms were more complex than anticipated.'
+
+Speaker A: 'I noticed that too. The initial signs were confusing, leading us in multiple directions. We should discuss strategies to handle such situations better in the future.'
+
+Speaker B: 'Definitely. Despite that, the team's ability to adapt quickly to new information was impressive. We should keep improving communication channels to support rapid symptom reassessment next time.'
+
+Speaker A: 'For sure. Let’s take these insights and work on strengthening our response protocols.'"
+

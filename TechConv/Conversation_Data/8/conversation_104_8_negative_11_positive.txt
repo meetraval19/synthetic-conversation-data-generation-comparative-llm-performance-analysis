@@ -1,0 +1,15 @@
+"Speaker A: 'Thank you for joining this feedback session. Let's start by discussing how you find our technical guides. Have they been helpful to you?'
+
+Speaker B: 'Honestly, the documentation has been a bit frustrating. It's often confusing and lacks clarity on important steps.'
+
+Speaker A: 'I'm sorry to hear that. We want to make sure they are as clear and useful as possible. Moving on, how was your initial experience when you first started with us?'
+
+Speaker B: 'The training sessions were actually really engaging! They made it easy for me to get up to speed quickly. I felt pretty confident after going through them.'
+
+Speaker A: 'That's great to hear. We're always looking to improve the onboarding process to ensure everyone feels comfortable and excited about working with us.'
+
+Speaker B: 'Definitely. The training helped a lot more than the manuals when it came to actually applying what I learned.'
+
+Speaker A: 'Thanks for sharing. We’ll aim to bolster the guides as well, so they’re as effective as the training sessions. Your feedback is invaluable in making these improvements.'
+
+Speaker B: 'I'm glad I could contribute. Looking forward to seeing what changes you implement!'"

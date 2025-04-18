@@ -1,0 +1,23 @@
+"Speaker A: 'I see we've managed to compile a comprehensive view of your medical history. It's quite reassuring to see how well everything aligns.'
+
+Speaker B: 'That's good to hear. I was worried there might be gaps in my past records.'
+
+Speaker A: 'No, everything looks positive. Your proactive updates throughout your treatment have been very helpful.'
+
+Speaker B: 'Thanks, I've tried my best to keep everything current. Now, about my therapy sessions...'
+
+Speaker A: 'Yes, it's important we talk about that. There have been some concerns regarding consistent adherence to the therapy regimen.'
+
+Speaker B: 'I’ve struggled with sticking to the schedule. It’s been challenging with my daily commitments.'
+
+Speaker A: 'I understand, but it's vital for your progress. Perhaps we can explore some strategies to make it more manageable.'
+
+Speaker B: 'I’d appreciate any suggestions. Finally, am I all set with the discharge paperwork?'
+
+Speaker A: 'Yes, I’ve reviewed all the documentation, and everything is in order. It’s great to see this part sorted out smoothly.'
+
+Speaker B: 'That’s a relief. I was worried there might be some issue with the documentation.'
+
+Speaker A: 'No issues at all. So, let's focus on finding ways to improve the consistency of your therapy adherence.'
+
+Speaker B: 'Absolutely. I’m ready to work on that with your guidance.'"

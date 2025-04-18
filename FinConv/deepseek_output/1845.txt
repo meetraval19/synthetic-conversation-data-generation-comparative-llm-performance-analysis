@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Debt-to-Equity Ratio Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

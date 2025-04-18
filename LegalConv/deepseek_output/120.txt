@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Applicable Laws and Regulations",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "positive"
+        }
+    ]
+}

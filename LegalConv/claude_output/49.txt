@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Timeline and Key Deadlines",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "neutral"
+    }
+  ]
+}

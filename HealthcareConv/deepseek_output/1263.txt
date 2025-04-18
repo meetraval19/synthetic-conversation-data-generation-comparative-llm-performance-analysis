@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Documentation Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Referral Coordination",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "negative"
+        }
+    ]
+}

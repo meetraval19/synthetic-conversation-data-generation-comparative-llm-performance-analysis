@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Debt-to-Equity Ratio Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Forecasting and Projections",
+            "sentiment": "positive"
+        }
+    ]
+}

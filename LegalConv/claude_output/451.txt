@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Confidentiality and Privilege",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "neutral"
+    }
+  ]
+}

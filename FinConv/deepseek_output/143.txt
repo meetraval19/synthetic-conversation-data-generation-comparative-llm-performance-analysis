@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "positive"
+        }
+    ]
+}

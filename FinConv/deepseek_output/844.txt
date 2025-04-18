@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Investment Performance Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "negative"
+        }
+    ]
+}

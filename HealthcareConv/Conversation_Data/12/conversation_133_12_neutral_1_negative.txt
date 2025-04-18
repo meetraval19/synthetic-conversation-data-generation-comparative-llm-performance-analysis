@@ -1,0 +1,17 @@
+"Speaker A: 'I've gone through some of your records from the last visit. Everything seems in order in terms of what we documented.'
+
+Speaker B: 'I see. That's good to know. I've been keeping track of my medications and appointments.'
+
+Speaker A: 'Great, let's move on to how you're feeling lately. Have you noticed any changes or new symptoms?'
+
+Speaker B: 'Actually, I have. I've been experiencing more fatigue and some discomfort. It's been quite bothersome.'
+
+Speaker A: 'I'm sorry to hear that. It's important we address those issues. How severe is the fatigue on a scale of one to ten?'
+
+Speaker B: 'I'd say it's about a seven most days, which is frustrating because it affects my daily routine.'
+
+Speaker A: 'Thank you for sharing that. We'll need to look deeper into this. Perhaps adjust your treatment or run some more tests. Is there anything else that's been troubling you?'
+
+Speaker B: 'Well, the discomfort comes and goes, but it seems to be getting worse. I'm concerned it might be something more serious.'
+
+Speaker A: 'I understand your concern. Let's ensure we tackle this directly and take steps to manage these symptoms better. We'll collaborate closely until we find a solution that works for you.'"

@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Valuation Metrics Discussion",
+      "sentiment": "negative"
+    }
+  ]
+}

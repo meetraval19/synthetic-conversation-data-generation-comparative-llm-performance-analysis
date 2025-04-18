@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "negative"
+        }
+    ]
+}

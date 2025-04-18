@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Care Plan Update",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Barriers",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Scenario and Sensitivity Analysis",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    }
+  ]
+}

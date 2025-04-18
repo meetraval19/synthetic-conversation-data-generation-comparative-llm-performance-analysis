@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "neutral"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+"Speaker A: 'I know it's not always easy to keep up with all the information I provide about your condition.'
+
+Speaker B: 'Yes, the sheer amount of information can be quite overwhelming at times. I get mixed up easily.'
+
+Speaker A: 'I understand. Let's see if we can streamline some of the important points today.'
+
+Speaker B: 'That would be helpful. I appreciate it.'
+
+Speaker A: 'Now, regarding your symptoms, can you tell me more about any recent changes?’
+
+Speaker B: 'Honestly, nothing major has changed. It’s pretty much the same as before.'
+
+Speaker A: 'Okay, maintaining consistency is often a good sign, but we’ll keep monitoring it closely.'
+
+Speaker B: 'Makes sense. What about seeing that specialist you mentioned last time?'
+
+Speaker A: 'Right, the referral process can sometimes involve a bit of back and forth. We're coordinating with their office, just waiting for their confirmation.'
+
+Speaker B: 'Alright, I'll wait to hear back. Should I call them, or will you let me know once it's set?'
+
+Speaker A: 'We'll notify you as soon as we have that appointment confirmed. It shouldn’t take too long.’
+
+Speaker B: 'That’s reassuring. Thank you for clarifying everything today.'
+
+Speaker A: 'Of course, I'm here to help. Don't hesitate to reach out if you have more questions later on.'
+
+Speaker B: 'I will, thanks for being so patient with me.'"

@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "positive"
+        }
+    ]
+}

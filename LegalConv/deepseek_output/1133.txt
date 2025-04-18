@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Evidence and Documentation Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Strategy and Action Plan Development",
+            "sentiment": "neutral"
+        }
+    ]
+}

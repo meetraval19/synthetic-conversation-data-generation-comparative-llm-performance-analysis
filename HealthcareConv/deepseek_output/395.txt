@@ -1,0 +1,32 @@
+{
+    "topics": [
+        {
+            "topic": "Medication Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "positive"
+        }
+    ]
+}

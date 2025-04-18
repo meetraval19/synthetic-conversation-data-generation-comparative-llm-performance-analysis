@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "neutral"
+    }
+  ]
+}

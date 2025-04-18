@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Argument and Case Theory",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "neutral"
+        }
+    ]
+}

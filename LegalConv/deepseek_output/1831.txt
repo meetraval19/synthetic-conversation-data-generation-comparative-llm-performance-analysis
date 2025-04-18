@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Enforcement and Implementation Issues",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "positive"
+        }
+    ]
+}

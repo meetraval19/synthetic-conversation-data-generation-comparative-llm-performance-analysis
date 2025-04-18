@@ -1,0 +1,30 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

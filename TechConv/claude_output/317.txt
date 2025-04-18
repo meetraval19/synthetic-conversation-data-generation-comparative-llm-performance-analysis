@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Security and Privacy Discussion",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

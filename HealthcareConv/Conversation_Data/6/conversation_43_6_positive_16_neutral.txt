@@ -1,0 +1,15 @@
+"Speaker A: 'I'm glad you could make it to the follow-up today. How have things been since we last discussed your condition?'
+
+Speaker B: 'Overall, I'm doing alright. The referral process you set up for me with the specialist was really smooth, so thank you for that.'
+
+Speaker A: 'I'm pleased to hear that. We work hard to ensure everything is coordinated efficiently to make things easier for you.'
+
+Speaker B: 'It definitely made a difference. Now, regarding my diagnosis, I still have some questions about it.'
+
+Speaker A: 'Sure, it can be a lot to take in at once. Let's go over any concerns you might have so we can clarify things.'
+
+Speaker B: 'That would be helpful. It's just that I want to make sure I'm understanding everything correctly.'
+
+Speaker A: 'Absolutely, let's take as much time as you need to discuss your condition and next steps.'
+
+Speaker B: 'Thank you, I appreciate your guidance in all this.'"

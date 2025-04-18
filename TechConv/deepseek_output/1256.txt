@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "neutral"
+        }
+    ]
+}

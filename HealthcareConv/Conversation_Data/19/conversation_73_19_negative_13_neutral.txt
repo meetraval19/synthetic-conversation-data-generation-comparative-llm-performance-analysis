@@ -1,0 +1,19 @@
+"Speaker A: 'I see we’re getting ready for you to leave the hospital soon. How are things looking on your end?'
+
+Speaker B: 'I'm a bit concerned about everything I'll need post-discharge. There’s so much to manage.'
+
+Speaker A: 'I understand. Planning for going home can feel overwhelming. We’ll make sure you have all the info you need.'
+
+Speaker B: 'Thanks, but I heard some people have trouble accessing support services once they’re home. That worries me.'
+
+Speaker A: 'Yes, I’ve heard some folks experience delays or issues. I’ll ensure we give you all necessary contacts and resources, just in case.'
+
+Speaker B: 'That would be reassuring. I just want to make sure I can get help when I need it.'
+
+Speaker A: 'Absolutely, it's crucial to have that support. And if you have questions about the plan itself, don’t hesitate to ask.'
+
+Speaker B: 'I’ll definitely keep you posted if I think of anything. It’s just a lot to process.'
+
+Speaker A: 'We’re here to guide you through it. Let’s make sure everything is in place before you go home.'
+
+Speaker B: 'That sounds good, thank you so much for your help.'"

@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Debt-to-Equity Ratio Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "negative"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+Looking at this healthcare conversation, I'll identify the main topics discussed and analyze the sentiment toward each one.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Side Effects",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Medical History",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Care Plan Update",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

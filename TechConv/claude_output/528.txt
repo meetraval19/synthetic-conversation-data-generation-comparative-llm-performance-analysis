@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Roadmap or Future Plans",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Change Request or Feature Suggestion",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

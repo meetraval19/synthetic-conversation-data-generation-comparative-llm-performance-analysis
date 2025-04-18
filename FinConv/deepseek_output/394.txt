@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Valuation Metrics Discussion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "negative"
+        }
+    ]
+}

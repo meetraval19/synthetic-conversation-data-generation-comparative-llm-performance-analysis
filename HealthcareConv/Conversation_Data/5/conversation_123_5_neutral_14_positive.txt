@@ -1,0 +1,9 @@
+"Speaker A: 'I see the patient came in for their follow-up appointment.' 
+
+Speaker B: 'Yes, it's good to check their progress, especially after starting the new medication. Have there been any issues?' 
+
+Speaker A: 'Interestingly, the patient noted a positive change in managing the side effects compared to previous treatments. Less nausea and fatigue this time.' 
+
+Speaker B: 'That's encouraging. Makes a big difference in their quality of life. Let's make sure we monitor their response closely over the next few weeks.' 
+
+Speaker A: 'Absolutely, and we'll schedule the next check-in as usual to ensure everything stays on track.'"

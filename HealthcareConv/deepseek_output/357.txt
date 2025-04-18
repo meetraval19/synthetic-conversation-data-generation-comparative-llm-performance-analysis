@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Medication Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "positive"
+        }
+    ]
+}

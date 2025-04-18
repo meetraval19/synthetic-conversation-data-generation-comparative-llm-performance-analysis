@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Side Effects",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "neutral"
+        }
+    ]
+}

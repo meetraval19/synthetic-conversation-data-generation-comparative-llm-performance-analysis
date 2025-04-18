@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "positive"
+        }
+    ]
+}

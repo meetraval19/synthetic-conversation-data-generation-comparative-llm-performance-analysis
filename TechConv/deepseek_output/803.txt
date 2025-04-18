@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Documentation Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "positive"
+        }
+    ]
+}

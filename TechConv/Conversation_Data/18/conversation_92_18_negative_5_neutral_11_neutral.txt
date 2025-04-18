@@ -1,0 +1,25 @@
+"Speaker A: 'Thank you for taking the time to meet with us today. Let's dive into how our software can benefit your team. What would you like to focus on first?'
+
+Speaker B: 'Well, we are quite concerned about staying compliant with all the regulatory standards. Could your software help with that?'
+
+Speaker A: 'I understand compliance can be daunting. While our solution streamlines many processes, it's crucial to stay updated with the regulations themselves, which can be challenging.'
+
+Speaker B: 'That's what worries us, how quickly things change can be a bit overwhelming.'
+
+Speaker A: 'Absolutely, and we do our best to provide timely updates, but constant vigilance is key with regulations.'
+
+Speaker B: 'Got it. How about your future plans for the software? Any exciting features on the horizon?'
+
+Speaker A: 'We do have a roadmap, though it's still taking shape. We're exploring features that enhance current functionality.'
+
+Speaker B: 'Sounds like there are some interesting possibilities, then.'
+
+Speaker A: 'Yes, we'll keep you updated as plans become more concrete.'
+
+Speaker B: 'And in terms of getting started, what kind of training would our team need?'
+
+Speaker A: 'Our onboarding process is straightforward. We offer a variety of training options to fit your needs, ensuring a smooth transition.'
+
+Speaker B: 'That sounds manageable. I appreciate the flexibility in training.'
+
+Speaker A: 'We aim to make it as seamless as possible for our users.'"

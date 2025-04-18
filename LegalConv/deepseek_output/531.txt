@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

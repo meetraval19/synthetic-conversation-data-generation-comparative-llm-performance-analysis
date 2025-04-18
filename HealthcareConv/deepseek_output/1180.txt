@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "Patient Education",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "positive"
+        }
+    ]
+}

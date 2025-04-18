@@ -1,0 +1,23 @@
+"Speaker A: 'Thanks for coming in today. How have things been going since your last visit?'
+
+Speaker B: 'It's been okay. Getting to the clinic can be tricky at times, though.'
+
+Speaker A: 'I understand. Transportation and scheduling can indeed pose some challenges.'
+
+Speaker B: 'Yeah, it can be a bit of a juggle.'
+
+Speaker A: 'Let's move on to your medications. How have you been managing with them?'
+
+Speaker B: 'Honestly, I’ve been having some side effects, and it's been tough.'
+
+Speaker A: 'That's concerning. We should look into alternative options that might work better for you.'
+
+Speaker B: 'I’d really appreciate that.'
+
+Speaker A: 'On a brighter note, I wanted to share some new resources we have about your condition. There’s a lot of useful information and tips.'
+
+Speaker B: 'Oh, that sounds great. I’m eager to learn more so I can manage things better.'
+
+Speaker A: 'I’m glad to hear it. Staying informed is one of the best ways to take control of your health.'
+
+Speaker B: 'Absolutely. Thanks for all the support.'"

@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal Argument and Case Theory",
+            "sentiment": "positive"
+        }
+    ]
+}

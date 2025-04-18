@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "positive"
+        }
+    ]
+}

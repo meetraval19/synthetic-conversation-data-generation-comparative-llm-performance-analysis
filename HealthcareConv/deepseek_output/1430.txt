@@ -1,0 +1,36 @@
+{
+    "topics": [
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Test Results",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Medical History",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Documentation Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "positive"
+        }
+    ]
+}

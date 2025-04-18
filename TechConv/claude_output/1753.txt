@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

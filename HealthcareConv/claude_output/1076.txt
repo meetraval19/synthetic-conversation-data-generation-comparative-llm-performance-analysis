@@ -1,0 +1,24 @@
+Based on the conversation, I've identified the underlying themes discussed and performed sentiment analysis:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Interest Rate Impact Analysis",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "neutral"
+    }
+  ]
+}

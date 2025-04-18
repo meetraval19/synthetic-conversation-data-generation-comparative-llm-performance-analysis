@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "neutral"
+    }
+  ]
+}

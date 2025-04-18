@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "negative"
+    }
+  ]
+}

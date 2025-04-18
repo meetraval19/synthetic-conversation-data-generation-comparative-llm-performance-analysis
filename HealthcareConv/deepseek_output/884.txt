@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "neutral"
+        }
+    ]
+}

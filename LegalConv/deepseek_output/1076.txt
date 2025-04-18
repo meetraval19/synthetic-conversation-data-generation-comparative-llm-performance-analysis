@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "neutral"
+        }
+    ]
+}

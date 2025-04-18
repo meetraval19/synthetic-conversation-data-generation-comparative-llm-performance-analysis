@@ -1,0 +1,23 @@
+"Speaker A: 'It's great to see you for your follow-up. How have you been feeling since your last visit?'
+
+Speaker B: 'Thank you, Doctor. I've been okay, but there was a scare last week. I had to visit the ER because I felt some unusual symptoms.'
+
+Speaker A: 'I'm sorry to hear that. Those sudden concerns can be worrying. How did they address it at the emergency room?'
+
+Speaker B: 'They ran a few tests but ultimately said there wasn’t anything critical at that moment.'
+
+Speaker A: 'That's a relief. For now, let’s discuss your ongoing treatment. Are you comfortable with how things are progressing?'
+
+Speaker B: 'Yes, it seems fine. I’m following the instructions and feel it's manageable.'
+
+Speaker A: 'Good. Consistency is key. I’ll adjust the plan if necessary after a thorough review.'
+
+Speaker B: 'Sounds good. I also brought along some documents from my recent tests. Could you take a look?'
+
+Speaker A: 'Of course. Let's go over them together. It's always positive when patients actively participate in their healthcare. Everything looks well-documented, and you're definitely on the right track!'
+
+Speaker B: 'I appreciate that. It’s reassuring to know things are in order.'
+
+Speaker A: 'Absolutely. Remember, I'm here to support any of your needs and address further issues if they arise.'
+
+Speaker B: 'Thank you, Doctor. That means a lot. I'm feeling more at ease about everything moving forward.'"

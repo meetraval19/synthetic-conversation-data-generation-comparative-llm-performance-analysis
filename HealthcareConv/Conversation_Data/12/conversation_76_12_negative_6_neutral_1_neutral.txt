@@ -1,0 +1,19 @@
+"Speaker A: 'So, before we finalize your discharge, we need to go over some paperwork.'
+
+Speaker B: 'Ah, I’ve heard that the paperwork can be quite overwhelming. Is that true?'
+
+Speaker A: 'Unfortunately, yes. The documentation has a few complexities that can be frustrating, but we’ll get through it.'
+
+Speaker B: 'I appreciate your help. What’s next after the paperwork?'
+
+Speaker A: 'After the documents are sorted, we’ll talk about coordinating with specialists for your follow-up care.'
+
+Speaker B: 'That sounds reasonable. I assume the coordination process is pretty straightforward?'
+
+Speaker A: 'Yes, generally it goes smoothly. Our team will ensure that everything is set up for your continued care.'
+
+Speaker B: 'Great, it’s reassuring to know everything is in place. Lastly, about my symptoms, do you think they’re still concerning?'
+
+Speaker A: 'Your symptoms have been stable, which is a good sign. We’ll keep monitoring them as outpatient care continues.'
+
+Speaker B: 'Alright, I feel more at ease knowing we have a plan moving forward.'"

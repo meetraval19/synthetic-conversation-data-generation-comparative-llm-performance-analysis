@@ -1,0 +1,12 @@
+"Speaker A: 'I’m glad to be working with your team for this patient referral. I’ve heard great things about how well your team communicates.'
+
+Speaker B: 'Thank you! We prioritize clear and efficient communication, especially when managing complex cases. It really makes a difference in patient outcomes.'
+
+Speaker A: 'Absolutely. Now, regarding the new medication we’re considering, have there been any common reports?'
+
+Speaker B: 'Yes, there are some effects patients have noticed, but they’ve mostly been manageable. It seems to vary quite a bit from patient to patient.'
+
+Speaker A: 'Good to know. We’ll ensure the patient understands what to expect and monitor any changes closely.'
+
+Speaker B: 'That sounds like a solid plan. Please keep us updated on how they respond. Our collaborative efforts ensure the best care for our patients.'"
+

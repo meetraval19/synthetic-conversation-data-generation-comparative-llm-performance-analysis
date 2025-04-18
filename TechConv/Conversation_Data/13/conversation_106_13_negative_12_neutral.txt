@@ -1,0 +1,19 @@
+"Speaker A: 'Thanks for joining the demo today. Let's start with how easily our software integrates into existing systems.'
+
+Speaker B: 'Integration sounds great. Can you explain what the setup process is like? I need to ensure it won't disrupt ongoing operations too much.'
+
+Speaker A: 'Absolutely, the configuration is flexible and designed to adapt to your current infrastructure smoothly. You won't have to overhaul anything, just a few tweaks here and there.'
+
+Speaker B: 'That’s reassuring. I've had my share of headaches with systems in the past, so a straightforward setup is essential.'
+
+Speaker A: 'I understand completely. Now, regarding licensing, I want to be upfront. We've had feedback about it being a bit restrictive, which we're actively working on.'
+
+Speaker B: 'I appreciate the honesty. Licensing constraints can be frustrating. It's crucial for us to have enough access without constant hurdles.'
+
+Speaker A: 'Definitely. It’s an area we’re eager to improve. Meanwhile, our support team is always there for any questions or issues you might have.'
+
+Speaker B: 'That’s good to know. I just hope there’s some flexibility in the near future. Having comprehensive access rights makes a big difference.'
+
+Speaker A: 'We’re listening and planning enhancements to make it more user-friendly. I'll keep you updated with our progress.'
+
+Speaker B: 'Perfect. Looking forward to seeing those changes. Let's circle back to the configuration options then.'"

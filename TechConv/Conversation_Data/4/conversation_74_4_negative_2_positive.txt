@@ -1,0 +1,14 @@
+"Speaker A: 'Thanks for joining us today. Let's start with how you find the compatibility of our software with your current systems.'
+
+Speaker B: 'Honestly, it's been a bit troublesome. There have been frequent issues when trying to integrate with our existing tools.'
+
+Speaker A: 'I appreciate your feedback. We'll definitely look into resolving those integration challenges. How about the software's performance overall?'
+
+Speaker B: 'Oh, that's been outstanding! The speed and efficiency have saved us so much time.'
+
+Speaker A: 'That's great to hear. We're constantly working to maintain that level of performance. Is there anything else you'd like to mention?'
+
+Speaker B: 'Just hope the integration gets smoother. But performance-wise, no complaints at all.'
+
+Speaker A: 'Thank you for your insights. Your feedback is invaluable to us as we aim to improve.'"
+

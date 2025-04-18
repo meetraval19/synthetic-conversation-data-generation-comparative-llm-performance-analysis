@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "positive"
+        }
+    ]
+}

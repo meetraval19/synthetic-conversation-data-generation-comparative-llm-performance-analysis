@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    }
+  ]
+}

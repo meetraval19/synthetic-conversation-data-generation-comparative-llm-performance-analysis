@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Medical History",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "positive"
+        }
+    ]
+}

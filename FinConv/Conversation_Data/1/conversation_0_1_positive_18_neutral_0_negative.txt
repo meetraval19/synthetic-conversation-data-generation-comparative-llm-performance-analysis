@@ -1,0 +1,18 @@
+"Speaker A: 'Looking at your current investments, your capacity for taking on risk is quite impressive. It allows us to explore some exciting opportunities.'
+
+Speaker B: 'Yes, I'm feeling optimistic about that. It’s good to know we're on the right track with gauging risk.'
+
+Speaker A: 'Now, let's move to your assets distribution. Your investments are pretty well spread across different sectors.'
+
+Speaker B: 'I hope that’s keeping the volatility in check. Is it balanced enough?'
+
+Speaker A: 'I'd say it's stable. There aren't any major red flags, but it's always good to keep an eye on sector performances.'
+
+Speaker B: 'That makes sense. What do you think of the recent financial reports though? I’ve been a bit concerned.’
+
+Speaker A: 'I understand. Some of the numbers came in lower than expected, which could signal underlying issues. It’s something we should investigate further.'
+
+Speaker B: 'I agree, and perhaps plan based on what we find.'
+
+Speaker A: 'Absolutely. With a solid risk outlook and a diversified portfolio, we can focus on addressing any discrepancies we discover in the statements.'"
+

@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Medical History",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "positive"
+    }
+  ]
+}

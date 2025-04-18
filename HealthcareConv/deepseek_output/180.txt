@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "neutral"
+        }
+    ]
+}

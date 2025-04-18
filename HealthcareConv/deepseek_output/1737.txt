@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "positive"
+        }
+    ]
+}

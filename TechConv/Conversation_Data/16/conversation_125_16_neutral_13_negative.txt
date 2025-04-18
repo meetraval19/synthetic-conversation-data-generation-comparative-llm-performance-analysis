@@ -1,0 +1,18 @@
+"Speaker A: 'Thanks for joining the meeting. Let's start by discussing how our teams communicated during the recent incident.'
+
+Speaker B: 'The communication was steady, but there were times when updates didn't reach everyone on time.'
+
+Speaker A: 'Yes, that's an area we can work on. It didn't slow us down too much, but consistency is key.'
+
+Speaker C: 'Agreed, our collaboration tools can be more efficient. However, it's minor in comparison to licensing issues we've been facing.'
+
+Speaker B: 'Right, those access rights caused significant delays. We need to streamline the approval process.'
+
+Speaker C: 'Absolutely, the restrictive measures are hindering our response capability.'
+
+Speaker A: 'Let's prioritize resolving those licensing hurdles. It's crucial for avoiding future bottlenecks.'
+
+Speaker B: 'Yes, addressing these negative impacts will improve overall response time.'
+
+Speaker C: 'Aligning access rights effectively will strengthen our incident management.'"
+

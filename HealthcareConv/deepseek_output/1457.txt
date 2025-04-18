@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Shared Decision",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "positive"
+        }
+    ]
+}

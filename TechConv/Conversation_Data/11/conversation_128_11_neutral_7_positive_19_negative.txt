@@ -1,0 +1,17 @@
+"Speaker A: 'Let's start by discussing your experience with onboarding and training. How do you feel about the resources we provided?'
+
+Speaker B: 'Honestly, the materials were clear, and I didn’t have any major issues. The basic training covered most of what I needed to get started.'
+
+Speaker A: 'Great to hear. Now, I’ve noticed you’ve been actively involved in the support and escalation process. How has that been working out for you?'
+
+Speaker B: 'It’s been going really well. The system is efficient, and I've received excellent guidance from the team. Collaborating with them has been one of the highlights of my role.'
+
+Speaker A: 'That’s fantastic. A strong support structure makes a big difference. Now, I noticed some challenges during our recent comparison of tools and platforms. What are your thoughts there?'
+
+Speaker B: 'Yes, that's been a bit frustrating. Some of the platforms don’t integrate as smoothly as we hoped, and it’s causing unnecessary complications.'
+
+Speaker A: 'I understand. It seems like a common struggle across teams. We'll need to review those platforms and see if improvements can be made.'
+
+Speaker B: 'That would be helpful. It’s great to have these discussions and look for ways to enhance our workflows.'
+
+Speaker A: 'Absolutely. Thanks for your insights, and let’s continue to explore solutions together.'"

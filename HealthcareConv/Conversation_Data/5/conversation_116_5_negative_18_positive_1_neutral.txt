@@ -1,0 +1,13 @@
+"Speaker A: 'I understand you're here for a follow-up appointment. How have things been since your last visit?'
+
+Speaker B: 'Honestly, not great. The wait times and getting everything scheduled have been really frustrating.'
+
+Speaker A: 'I’m sorry to hear that. We’re trying to improve our system for scheduling follow-ups. Let’s focus on today’s session. Have you noticed any changes in your symptoms?'
+
+Speaker B: 'Not really. They seem to be about the same, which I guess is better than getting worse.'
+
+Speaker A: 'Stability can be a good sign. Let’s go over everything to make sure nothing is overlooked. On a brighter note, if you ever experience something urgent, we have greatly improved our emergency response. We’ve added more resources to assist swiftly.'
+
+Speaker B: 'That’s reassuring! It’s good to know that there’s a solid plan if things take a turn for the worse.'
+
+Speaker A: 'Absolutely, we’re here to support you. Let’s continue with a thorough assessment to ensure we cover all the bases today.'"

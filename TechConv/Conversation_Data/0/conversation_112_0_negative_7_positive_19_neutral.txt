@@ -1,0 +1,14 @@
+"Speaker A: 'Thank you for joining us today to provide feedback on our platform. Could you share your thoughts on how the new features are working for you?'
+
+Speaker B: 'Well, to be honest, I've found some aspects confusing. The way certain features perform isn't very intuitive.'
+
+Speaker A: 'I see. We'll definitely take that feedback into account. Can you tell me about your experiences with our support and escalation process?'
+
+Speaker B: 'Oh, that part has been excellent! Every time I needed help, the responses were prompt and the solutions effective. It really sets your service apart.'
+
+Speaker A: 'I'm glad to hear that. It's important to us that our users feel supported. How do you think our platform compares with others you've used?'
+
+Speaker B: 'I'd say it's on par. There are pros and cons, similar to other tools, but overall, it's quite competitive.'
+
+Speaker A: 'Thank you for your insights. We'll work on improving those features to enhance your experience further.'"
+

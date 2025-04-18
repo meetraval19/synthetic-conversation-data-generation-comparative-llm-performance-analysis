@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Shared Decision",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "neutral"
+        }
+    ]
+}

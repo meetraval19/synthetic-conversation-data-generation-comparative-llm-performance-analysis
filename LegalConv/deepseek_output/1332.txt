@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "negative"
+        }
+    ]
+}

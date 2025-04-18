@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "positive"
+        }
+    ]
+}

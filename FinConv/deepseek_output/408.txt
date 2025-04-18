@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "negative"
+        }
+    ]
+}

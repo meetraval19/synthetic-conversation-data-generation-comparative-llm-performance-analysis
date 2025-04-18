@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "neutral"
+    }
+  ]
+}

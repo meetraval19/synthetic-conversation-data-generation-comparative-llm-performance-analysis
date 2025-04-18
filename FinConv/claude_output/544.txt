@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Interest Rate Impact Analysis",
+      "sentiment": "positive"
+    }
+  ]
+}

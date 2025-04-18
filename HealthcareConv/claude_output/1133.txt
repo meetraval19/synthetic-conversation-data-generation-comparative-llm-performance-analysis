@@ -1,0 +1,16 @@
+After analyzing the conversation, I've identified the following topics from the provided list along with their associated sentiment:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

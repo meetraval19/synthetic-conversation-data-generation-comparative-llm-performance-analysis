@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

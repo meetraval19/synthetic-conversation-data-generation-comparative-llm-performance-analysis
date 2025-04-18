@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "negative"
+        }
+    ]
+}

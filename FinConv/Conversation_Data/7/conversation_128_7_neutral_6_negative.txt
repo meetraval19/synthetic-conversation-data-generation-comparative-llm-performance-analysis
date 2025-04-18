@@ -1,0 +1,17 @@
+"Speaker A: 'Let's take a look at your investment portfolio. Specifically, how your assets are diversified across different classes.'
+
+Speaker B: 'Sure, I’m interested to hear your take on how diverse my holdings are.'
+
+Speaker A: 'Your current allocation strategy seems well-balanced, given the current market conditions.'
+
+Speaker B: 'That's a relief to hear. I was concerned about whether adjustments were needed.'
+
+Speaker A: 'On to the debt-to-equity analysis, there are some red flags here. Your ratio seems quite high.'
+
+Speaker B: 'I suspected something wasn’t right. What do you recommend to get it to a healthier level?'
+
+Speaker A: 'Reducing liabilities or increasing equity through strategic investments would help lower that ratio.'
+
+Speaker B: 'Understood. I'll need to consider developing a plan to address these concerns soon.'
+
+Speaker A: 'Absolutely. A more proactive approach will make a significant difference in mitigating potential risks.'"

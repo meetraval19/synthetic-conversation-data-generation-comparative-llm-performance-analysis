@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

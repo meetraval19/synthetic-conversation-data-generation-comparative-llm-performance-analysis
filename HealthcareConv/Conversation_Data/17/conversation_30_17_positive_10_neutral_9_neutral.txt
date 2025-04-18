@@ -1,0 +1,17 @@
+"Speaker A: 'I'm glad to see you're doing well since your last visit. Have you found the recent changes to accessing care more convenient?'
+
+Speaker B: 'Yes, it's been a relief. The new online appointment system made things so much easier.'
+
+Speaker A: 'That's great to hear. How have you been managing with the therapy plan we discussed last time?'
+
+Speaker B: 'It's going okay. Some days are easier than others, but I'm trying to stick with it.'
+
+Speaker A: 'Consistency is important, but it's understandable that it can be challenging at times. Have you thought about any specific concerns with your progress?'
+
+Speaker B: 'Just a bit concerned about managing risks, especially since I started the new medication.'
+
+Speaker A: 'That's completely valid. We can review your risk assessments today and make any necessary adjustments if needed. It's important to feel confident in your treatment plan.'
+
+Speaker B: 'That sounds helpful. I just want to make sure everything is on the right track.'
+
+Speaker A: 'Absolutely. Let's work together to ensure you feel supported throughout your journey.'"

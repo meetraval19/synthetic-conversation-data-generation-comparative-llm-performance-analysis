@@ -1,0 +1,19 @@
+"Speaker A: 'Looking at your asset allocation, I noticed a few areas that may need re-evaluation.'
+
+Speaker B: 'Do you think it's not performing well? I was a bit concerned about its current setup.'
+
+Speaker A: 'Yes, it might be underperforming. Some adjustments could help improve returns and mitigate potential downturn risks.'
+
+Speaker B: 'I see. What about the governance side of things? Are our controls robust enough?'
+
+Speaker A: 'The internal controls seem stable. They're in place and functioning as expected, but there's always room for minor improvements.'
+
+Speaker B: 'That's reassuring. We should keep monitoring them regularly.'
+
+Speaker A: 'Absolutely, maintaining oversight is crucial. Now, considering your risk tolerance, how do you feel about your current portfolio?'
+
+Speaker B: 'I'd say I'm fairly comfortable with it, though I wonder if we should reassess given recent market shifts.'
+
+Speaker A: 'It's worth re-evaluating periodically. Your risk profile seems aligned, but staying adaptable is key.'
+
+Speaker B: 'Agreed. Let’s ensure we make balanced decisions moving forward.'"

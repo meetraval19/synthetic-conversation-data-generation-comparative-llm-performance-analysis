@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Scenario and Sensitivity Analysis",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "neutral"
+    }
+  ]
+}

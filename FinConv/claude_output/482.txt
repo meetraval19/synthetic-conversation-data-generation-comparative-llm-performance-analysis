@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "neutral"
+    }
+  ]
+}

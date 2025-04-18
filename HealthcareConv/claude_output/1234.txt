@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Patient Education",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

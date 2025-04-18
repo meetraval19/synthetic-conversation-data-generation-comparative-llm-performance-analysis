@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Enforcement and Implementation Issues",
+            "sentiment": "neutral"
+        }
+    ]
+}

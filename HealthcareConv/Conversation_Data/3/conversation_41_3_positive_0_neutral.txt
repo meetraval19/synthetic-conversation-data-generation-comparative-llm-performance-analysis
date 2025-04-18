@@ -1,0 +1,14 @@
+"Speaker A: 'Thanks for coming in today. Let's start by reviewing your medication. How have you been feeling on your current prescription?'
+
+Speaker B: 'Honestly, much better. I've noticed a real improvement in my symptoms since we made the change last time.'
+
+Speaker A: 'That's great to hear! It seems like the adjustments are working well for you. Now, let's take a look at your history. Can you remind me of any past conditions we should be aware of?'
+
+Speaker B: 'Sure, nothing new since last time. It's mostly the same—just the usual check-ups and the occasional allergic reaction, but nothing serious.'
+
+Speaker A: 'Alright, it's good to know that there haven't been any unexpected changes. We'll keep everything on file and continue monitoring as we go along.'
+
+Speaker B: 'Sounds good to me. Thanks for going over everything with me today.'
+
+Speaker A: 'Of course. Let's keep this progress going. See you at the next check-up!'"
+

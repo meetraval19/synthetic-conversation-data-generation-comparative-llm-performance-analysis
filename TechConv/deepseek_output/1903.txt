@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "positive"
+        }
+    ]
+}

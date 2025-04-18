@@ -1,0 +1,13 @@
+"Speaker A: 'Thank you for joining us today for your feedback. Let’s start with your experience with the system’s support channels. How’s that been?'
+
+Speaker B: 'Honestly, it’s been quite frustrating. Anytime there's an issue, the process to escalate it is so convoluted. It feels like I hit a wall repeatedly.'
+
+Speaker A: 'I understand how challenging that can be. We’re looking at improving that. Moving on, how did you find the initial setup and learning phase?'
+
+Speaker B: 'It was alright, I suppose. The materials were clear, but I wouldn’t say it exceeded my expectations. Having a more hands-on approach could be beneficial.'
+
+Speaker A: 'That’s valuable feedback. We’ll definitely consider more interactive methods in the future. Lastly, have you encountered any concerns with your access permissions or licensing?'
+
+Speaker B: 'No significant issues there. Everything seems to be working as it should in terms of access, but I think a better overview of our licensing might be helpful.'
+
+Speaker A: 'Great to hear there are no major concerns there. But adding more transparency in licensing could certainly be beneficial. Thanks for sharing your thoughts today!'"

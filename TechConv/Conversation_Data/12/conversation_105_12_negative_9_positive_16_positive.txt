@@ -1,0 +1,15 @@
+"Speaker A: 'Thanks for joining the feedback session. I wanted to ask about your experience with the system setup process.'
+
+Speaker B: 'Honestly, the setup was quite complicated. The configuration details felt overwhelming and a bit frustrating.'
+
+Speaker A: 'I understand, and your feedback is crucial. We're working on streamlining that process. How about the testing phase?'
+
+Speaker B: 'The testing phase was impressive! It was thorough and very well-organized. I felt confident with the validation results.'
+
+Speaker A: 'That's great to hear! We put a lot of effort into ensuring a smooth testing experience. Have you had any experiences with team interactions during the project?'
+
+Speaker B: 'Yes, actually. The level of collaboration was amazing. The communication was open and really helped clarify goals and expectations.'
+
+Speaker A: 'Fantastic! We’re aiming to foster even more effective collaboration across the teams. Thank you for sharing your insights today.'
+
+Speaker B: 'Thanks for taking the time to discuss this with me. It’s good to know my feedback is valued.'"

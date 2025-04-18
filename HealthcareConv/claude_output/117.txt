@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Documentation Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "negative"
+    }
+  ]
+}

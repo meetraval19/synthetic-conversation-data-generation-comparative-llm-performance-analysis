@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Internal Controls and Governance",
+            "sentiment": "neutral"
+        }
+    ]
+}

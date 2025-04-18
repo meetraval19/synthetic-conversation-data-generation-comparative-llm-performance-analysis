@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Legal Argument and Case Theory",
+      "sentiment": "positive"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "neutral"
+        }
+    ]
+}

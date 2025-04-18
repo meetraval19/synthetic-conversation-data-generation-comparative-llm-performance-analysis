@@ -1,0 +1,13 @@
+"Speaker A: 'As we plan the next update, let's discuss the initial experience for users and any educational materials needed.'
+
+Speaker B: 'Right. We should ensure the onboarding process is clear and concise, avoiding any unnecessary complexity.'
+
+Speaker A: 'Agreed. Now, what about the intricate details of setting up the system? I've heard some concerns.'
+
+Speaker B: 'Yes, the configuration process is quite cumbersome. There have been numerous complaints about its complexity.'
+
+Speaker A: 'It sounds like it's causing frustration. Perhaps we need to simplify the steps or offer more support resources.'
+
+Speaker B: 'Definitely. Simplifying those steps could really help in reducing the negative feedback we've received.'
+
+Speaker A: 'Alright, I'll prioritize these areas for our next roadmap review.'

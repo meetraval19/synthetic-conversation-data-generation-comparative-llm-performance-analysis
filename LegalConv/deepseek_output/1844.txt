@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "positive"
+        }
+    ]
+}

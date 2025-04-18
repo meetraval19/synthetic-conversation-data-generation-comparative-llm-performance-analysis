@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Forecasting and Projections",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "neutral"
+        }
+    ]
+}

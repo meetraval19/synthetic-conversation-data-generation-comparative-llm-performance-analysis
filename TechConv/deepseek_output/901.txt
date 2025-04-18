@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "neutral"
+        }
+    ]
+}

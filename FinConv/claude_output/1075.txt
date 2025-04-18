@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Valuation Metrics Discussion",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "neutral"
+    }
+  ]
+}

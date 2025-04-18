@@ -1,0 +1,19 @@
+"Speaker A: 'I noticed that your symptoms have improved significantly since your last visit. How are you feeling about that?'
+
+Speaker B: 'Yes, I've been feeling much better. The new approach we discussed seems to be working well.'
+
+Speaker A: 'That's great to hear. Now, regarding the next steps, I believe we need to reevaluate your treatment plan. It hasn't fully addressed all areas as we hoped.'
+
+Speaker B: 'I was worried you might say that. I’ve had some frustrations with the side effects. Is there a chance we could adjust it?'
+
+Speaker A: 'Certainly, we can explore some alternatives that might suit you better and minimize those side effects.'
+
+Speaker B: 'I’d really appreciate that. I just want to get back to feeling like myself without too much hassle.'
+
+Speaker A: 'We'll make it a priority. Now, about your recent test results; they were consistent with our expectations and provide us a clear path forward.'
+
+Speaker B: 'That makes sense. I was a bit anxious waiting for the results, but I’m relieved there are no surprises.'
+
+Speaker A: 'Exactly, it’s important to stay informed without unnecessary stress. Let's work together to make the best of this situation.'
+
+Speaker B: 'Thank you for your support. It truly makes a difference.'"

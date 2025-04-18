@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Documentation Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Plan Update",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

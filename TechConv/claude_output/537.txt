@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Roadmap or Future Plans",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

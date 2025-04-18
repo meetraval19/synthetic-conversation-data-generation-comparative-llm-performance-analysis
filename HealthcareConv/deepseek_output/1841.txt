@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Care Barriers",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Medical History",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "positive"
+        }
+    ]
+}

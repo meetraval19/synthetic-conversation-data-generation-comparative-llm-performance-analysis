@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "negative"
+        }
+    ]
+}

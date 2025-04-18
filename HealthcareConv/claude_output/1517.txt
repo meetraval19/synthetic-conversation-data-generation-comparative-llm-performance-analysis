@@ -1,0 +1,28 @@
+Based on the conversation between what appears to be a healthcare provider and patient, I'll identify the relevant topics from the provided list and analyze the sentiment toward each.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Side Effects",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

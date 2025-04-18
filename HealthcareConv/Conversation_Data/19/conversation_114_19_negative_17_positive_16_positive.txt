@@ -1,0 +1,17 @@
+"Speaker A: 'We’re ready to discuss your discharge plan. How have you found the support services during your stay?'
+
+Speaker B: 'Honestly, it's been a bit challenging. The support services weren’t as available as I’d hoped.'
+
+Speaker A: 'I’m sorry to hear that. We’ll work on improving those. On a brighter note, you’ve made excellent progress in overcoming barriers to your care.'
+
+Speaker B: 'Yes, the team really helped me connect with community resources. It made a big difference.'
+
+Speaker A: 'That’s great to hear. And how did you feel about the way we communicated your diagnosis and treatment options?'
+
+Speaker B: 'I felt really informed and involved. Everything was explained clearly, and it eased my concerns.'
+
+Speaker A: 'I’m glad we could provide that clarity. We’ll continue to ensure you have the support you need post-discharge.'
+
+Speaker B: 'Thank you. I appreciate the efforts, despite the hiccups with support services.'
+
+Speaker A: 'We’re here to address any issues and make your transition home as smooth as possible.'"

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "positive"
+        }
+    ]
+}

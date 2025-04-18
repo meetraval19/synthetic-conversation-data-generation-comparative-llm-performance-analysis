@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Support Services",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "positive"
+        }
+    ]
+}

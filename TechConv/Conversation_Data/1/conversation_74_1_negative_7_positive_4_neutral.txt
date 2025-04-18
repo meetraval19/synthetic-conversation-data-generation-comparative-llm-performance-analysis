@@ -1,0 +1,17 @@
+"Speaker A: 'Thank you for joining this feedback session. Let's start with any issues you've faced with our platform. Have there been any bugs or glitches lately?'
+
+Speaker B: 'Unfortunately, yes. I encountered some bugs when trying to save my projects. It was quite frustrating, and I lost some work in the process.'
+
+Speaker A: 'I apologize for the inconvenience. We're working hard to address these problems. How was your experience with our support team when you reported this?'
+
+Speaker B: 'Actually, the support team was great! They escalated my issue quickly and kept me updated throughout. It really made a positive difference.'
+
+Speaker A: 'I'm glad to hear the support team was helpful. We strive to ensure issues are handled efficiently. Have you had any questions about integrating our platform with other tools you use?'
+
+Speaker B: 'I've looked into it a bit. It seems straightforward, but I'm not fully sure how compatible everything is yet.'
+
+Speaker A: 'Understood. Our goal is to make integration as smooth as possible. If you have specific tools you're curious about, I can provide more detailed information.'
+
+Speaker B: 'That would be great, thank you. Overall, I appreciate the support, but those bugs were a big hurdle.'
+
+Speaker A: 'Absolutely, and we appreciate your feedback. It helps us improve. We're committed to fixing those issues promptly.'"

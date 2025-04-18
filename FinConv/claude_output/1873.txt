@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Scenario and Sensitivity Analysis",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    }
+  ]
+}

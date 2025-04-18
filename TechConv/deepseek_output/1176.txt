@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Valuation Metrics Discussion",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "negative"
+    }
+  ]
+}

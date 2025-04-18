@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "negative"
+    }
+  ]
+}

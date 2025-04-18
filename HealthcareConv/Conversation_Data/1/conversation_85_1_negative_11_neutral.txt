@@ -1,0 +1,25 @@
+---
+
+"Speaker A: 'Hello, how have you been feeling since your last visit?'
+
+Speaker B: 'Not great, actually. The pain in my joints has gotten worse.'
+
+Speaker A: 'I’m sorry to hear that. We’ll make sure to assess the symptoms thoroughly today.'
+
+Speaker B: 'That would be helpful. It’s been really affecting my daily routine.'
+
+Speaker A: 'Let’s go over some strategies to manage it. There are a few exercises and lifestyle tips I can provide.'
+
+Speaker B: 'I think that would be beneficial. I want to understand what's happening.'
+
+Speaker A: 'Of course, explaining these things is part of the process. Once you’re equipped with the right information, it becomes easier to manage.'
+
+Speaker B: 'I appreciate that. The more I know, the better I can handle the situation.'
+
+Speaker A: 'Exactly. We’ll take it one step at a time and adjust your care plan accordingly.'
+
+Speaker B: 'That sounds like a good approach. Thank you for guiding me through this.'
+
+Speaker A: 'It's my pleasure. We’ll continue to monitor your progress and make changes as needed.'"
+
+---

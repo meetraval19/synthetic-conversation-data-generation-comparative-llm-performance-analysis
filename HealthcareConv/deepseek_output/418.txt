@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Medication Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "negative"
+        }
+    ]
+}

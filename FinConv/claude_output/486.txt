@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Interest Rate Impact Analysis",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

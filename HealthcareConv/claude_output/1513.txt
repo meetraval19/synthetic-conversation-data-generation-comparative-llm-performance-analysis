@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Side Effects",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Documentation Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

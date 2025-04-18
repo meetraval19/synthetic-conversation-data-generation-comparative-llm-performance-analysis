@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Valuation Metrics Discussion",
+            "sentiment": "neutral"
+        }
+    ]
+}

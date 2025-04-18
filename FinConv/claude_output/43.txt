@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "neutral"
+    }
+  ]
+}

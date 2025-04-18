@@ -1,0 +1,23 @@
+"Speaker A: 'Thank you for joining this feedback interview. Could you tell me about your experience with accessing our software products?'
+
+Speaker B: 'Of course. I've found getting the right permissions quite challenging. It often seems more complicated than it should be.'
+
+Speaker A: 'I understand. Licensing and access issues can be frustrating. We’re working on simplifying this process.'
+
+Speaker B: 'That would be great. It would really help improve user experience.'
+
+Speaker A: 'On a different note, how do you feel about our adherence to industry regulations?'
+
+Speaker B: 'Honestly, it’s impressive. I appreciate how diligent you are about staying compliant; it really boosts my confidence in your products.'
+
+Speaker A: 'We’re committed to ensuring everything meets the required standards. It’s good to know it’s noticed by our users.'
+
+Speaker B: 'Absolutely, it’s definitely reassuring.'
+
+Speaker A: 'Lastly, what are your thoughts on our support and escalation process?'
+
+Speaker B: 'It’s pretty straightforward, I’d say. Not too many issues there, although things run quite smoothly most of the time.'
+
+Speaker A: 'That’s helpful feedback. We strive to keep it as efficient as possible.'
+
+Speaker B: 'I think with a bit more clarity on access and continued excellence in compliance, you’re on the right track.'"

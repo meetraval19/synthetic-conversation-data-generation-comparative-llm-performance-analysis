@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Debt-to-Equity Ratio Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "negative"
+        }
+    ]
+}

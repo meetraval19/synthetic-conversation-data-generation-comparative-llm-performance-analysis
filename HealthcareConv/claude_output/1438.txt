@@ -1,0 +1,24 @@
+Looking at this healthcare conversation, I'll identify the key topics from the provided list and analyze their sentiment.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Referral Coordination",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

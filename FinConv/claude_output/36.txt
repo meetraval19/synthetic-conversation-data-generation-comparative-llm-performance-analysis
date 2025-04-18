@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "positive"
+    }
+  ]
+}

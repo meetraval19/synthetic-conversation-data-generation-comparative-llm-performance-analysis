@@ -1,0 +1,28 @@
+After analyzing the conversation between medical professionals, I've identified relevant topics from the provided list and assessed the sentiment toward each topic.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Referral Coordination",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

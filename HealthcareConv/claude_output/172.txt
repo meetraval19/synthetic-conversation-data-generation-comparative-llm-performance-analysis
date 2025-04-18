@@ -1,0 +1,16 @@
+I'll analyze this medical conversation and identify the underlying themes from the provided topic list.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

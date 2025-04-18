@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "positive"
+        }
+    ]
+}

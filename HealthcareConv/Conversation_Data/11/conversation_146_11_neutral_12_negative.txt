@@ -1,0 +1,13 @@
+"Speaker A: 'I think the patient understood the medication instructions well enough. What do you think?'
+
+Speaker B: 'Yes, the explanation was clear, but there’s always a risk they'll still have questions once they get home.'
+
+Speaker A: 'True, it's why follow-up calls can be so helpful.'
+
+Speaker B: 'I agree. Now, about the chart review from earlier today—there were quite a few incomplete documentation segments.'
+
+Speaker A: 'Yes, I noticed. Missing details could lead to complications.'
+
+Speaker B: 'Absolutely, documentation is critical, and we need to address this issue urgently.'
+
+Speaker A: 'Definitely, a refresher on proper documentation techniques could be useful for the team.'"

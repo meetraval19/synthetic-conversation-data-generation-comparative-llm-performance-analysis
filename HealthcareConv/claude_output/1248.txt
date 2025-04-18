@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Documentation Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Care Barriers",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

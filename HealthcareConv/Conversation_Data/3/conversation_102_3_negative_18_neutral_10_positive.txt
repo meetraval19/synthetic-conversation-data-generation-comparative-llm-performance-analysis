@@ -1,0 +1,21 @@
+"Speaker A: 'I've been meaning to ask about the new medicine you prescribed. It hasn't worked as well as I'd hoped.'
+
+Speaker B: 'I'm sorry to hear that. Have you experienced any side effects?'
+
+Speaker A: 'A bit of nausea and headaches.'
+
+Speaker B: 'We might need to adjust the dosage or try an alternative. Let's keep an eye on it.'
+
+Speaker A: 'Okay, that sounds good. Also, I'm curious about some symptoms I had over the weekend. I wasn't sure if it was an emergency situation.'
+
+Speaker B: 'What happened exactly?'
+
+Speaker A: 'I felt dizzy and weak. It passed after a few hours, but it was unsettling.'
+
+Speaker B: 'It's important to monitor those symptoms, but since they resolved, just keep me updated if they recur.'
+
+Speaker A: 'Will do. On a positive note, I've been sticking to the new therapy routine, and I feel it's really benefitting me.'
+
+Speaker B: 'That's excellent! Consistency in therapy is key, and it's great to hear you're feeling the benefits. Keep it up!'
+
+Speaker A: 'Thanks! It feels like a step in the right direction.'"

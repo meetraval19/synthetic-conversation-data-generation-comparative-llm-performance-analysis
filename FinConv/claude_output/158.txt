@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Risk Tolerance Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Valuation Metrics Discussion",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "positive"
+    }
+  ]
+}

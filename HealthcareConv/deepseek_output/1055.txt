@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Test Results",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Documentation Review",
+            "sentiment": "neutral"
+        }
+    ]
+}

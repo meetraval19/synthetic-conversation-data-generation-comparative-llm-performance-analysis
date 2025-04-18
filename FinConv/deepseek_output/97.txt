@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Investment Performance Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "negative"
+        }
+    ]
+}

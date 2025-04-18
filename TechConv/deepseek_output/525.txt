@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "neutral"
+        }
+    ]
+}

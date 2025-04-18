@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Medical History",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "neutral"
+        }
+    ]
+}

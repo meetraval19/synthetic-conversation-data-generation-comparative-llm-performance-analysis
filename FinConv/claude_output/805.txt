@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    }
+  ]
+}

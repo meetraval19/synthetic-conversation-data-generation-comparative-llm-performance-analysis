@@ -1,0 +1,21 @@
+"Speaker A: 'I'm glad to inform you that the updates to your care plan are going really well. The team has seen great progress.'
+
+Speaker B: 'That's reassuring to hear. What's the next step now that I'm preparing to leave?'
+
+Speaker A: 'We're focusing on your discharge process next. It’s all about coordinating everything smoothly from here.'
+
+Speaker B: 'I understand. It seems straightforward, but I have some concerns.'
+
+Speaker A: 'What’s on your mind?'
+
+Speaker B: 'I’m a bit concerned about the evaluation we discussed earlier. Are there any potential issues I should be aware of before I head home?'
+
+Speaker A: 'The risk assessment highlighted a few areas that need attention. It’s essential to stay cautious, especially during the first few weeks.'
+
+Speaker B: 'I appreciate your thoroughness. Is there anything specific I should watch out for?'
+
+Speaker A: 'We'll provide all the necessary information and resources to help mitigate those risks. Let’s go over them together to ensure you feel comfortable.'
+
+Speaker B: 'That would be helpful. I want to be prepared and avoid any complications.'
+
+Speaker A: 'Absolutely. Our priority is to support you fully, ensuring your transition home is as seamless as possible.'"

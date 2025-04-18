@@ -1,0 +1,20 @@
+"Speaker A: 'Hello, I’m glad you could come in today. I wanted to talk about your recent test results.'
+
+Speaker B: 'I’ve been a bit anxious about them. Is everything okay?'
+
+Speaker A: 'Unfortunately, the results aren’t as we hoped. There are some areas of concern that we need to address.'
+
+Speaker B: 'That’s not what I was expecting to hear. What are the next steps?'
+
+Speaker A: 'Don't worry, we’re here to support you. I'm lining up a referral to a specialist who can provide more insight.'
+
+Speaker B: 'That sounds good. How soon can I see the specialist?'
+
+Speaker A: 'I’ll coordinate with their office to ensure you’re seen as soon as possible. I’ll handle all the paperwork to make it a smooth process.'
+
+Speaker B: 'I appreciate that. Having everything sorted quickly really reassures me.'
+
+Speaker A: 'Absolutely. Your comfort is our priority, and I’m confident the specialist will have more answers for you.'
+
+Speaker B: 'Thanks for the help. I feel a bit better knowing you’re taking care of the referral.'"
+

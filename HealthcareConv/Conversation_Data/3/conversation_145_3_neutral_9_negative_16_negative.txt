@@ -1,0 +1,19 @@
+"Speaker A: 'Let's start with a review of your current medications. How are you feeling on them?'
+
+Speaker B: 'I think they’re working as expected. No major changes, just the usual routine.'
+
+Speaker A: 'Good to hear. Now, moving on to some assessments; we need to discuss the potential risks we’ve identified.'
+
+Speaker B: 'That sounds concerning. Is there something specific I should be worried about?'
+
+Speaker A: 'Well, there are some factors that have surfaced which we must be cautious about. It's important to monitor these closely.'
+
+Speaker B: 'That’s a bit unsettling, but I understand the need for vigilance.'
+
+Speaker A: 'Finally, regarding your recent tests, the results suggest some complexities that need further exploration.'
+
+Speaker B: 'I was afraid of that. What steps should we take next to address these findings?'
+
+Speaker A: 'We'll need additional tests and consultations to clarify the situation. It's important to address these uncertainties as soon as we can.'
+
+Speaker B: 'I appreciate your honesty. Let’s move forward with the plan you recommend.'"

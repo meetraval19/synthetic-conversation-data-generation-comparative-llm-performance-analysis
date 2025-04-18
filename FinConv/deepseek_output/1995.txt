@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Forecasting and Projections",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "negative"
+        }
+    ]
+}

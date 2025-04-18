@@ -1,0 +1,9 @@
+"Speaker A: 'I heard that the new medication has minimal side effects, which is quite promising.'
+
+Speaker B: 'Absolutely, patients are generally tolerating it well. It’s encouraging to see such positive results.'
+
+Speaker A: 'However, have you had a chance to review the changes in the care plan?'
+
+Speaker B: 'Yes, I did, and honestly, I'm a bit concerned. The new update seems more restrictive and might complicate patient care.'
+
+Speaker A: 'I agree, some adjustments might be necessary. We need to ensure it aligns better with patient needs.'

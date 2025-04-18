@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Care Barriers",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Documentation Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "negative"
+        }
+    ]
+}

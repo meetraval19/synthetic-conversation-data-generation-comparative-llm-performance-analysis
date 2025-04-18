@@ -1,0 +1,19 @@
+"Speaker A: 'Hi there, how have you been feeling since your last visit?'
+
+Speaker B: 'I’ve been okay, I think. Just trying to follow the routines you recommended.'
+
+Speaker A: 'That’s good to hear. The follow-up is usually straightforward. Any challenges?'
+
+Speaker B: 'Not with the routine itself, but I noticed some confusion with your staff when I called for clarity.'
+
+Speaker A: 'Oh, I'm sorry to hear that. Communication issues can be frustrating. We’re working on improving it.'
+
+Speaker B: 'It’s just that one person told me one thing, and someone else said something different.'
+
+Speaker A: 'I understand. We've been addressing this internally. Your feedback helps us pinpoint these gaps.'
+
+Speaker B: 'Thanks for listening. So, is there anything specific we should change or check today?'
+
+Speaker A: 'Just the usual parameters for this part of the follow-up. Let’s see how things stack up.’
+
+Speaker B: 'Sounds good. I'm hopeful everything aligns as expected.'”

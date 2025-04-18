@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "neutral"
+        }
+    ]
+}

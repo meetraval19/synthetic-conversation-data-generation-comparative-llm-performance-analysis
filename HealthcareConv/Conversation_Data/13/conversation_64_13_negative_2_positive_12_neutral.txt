@@ -1,0 +1,23 @@
+"Speaker A: 'Good to see you again. I wanted to discuss your discharge process since there were some issues last time.'
+
+Speaker B: 'Yes, it was quite frustrating. The transition from the hospital wasn't very smooth.'
+
+Speaker A: 'I'm sorry to hear that. We’re working on improving the coordination so it doesn’t happen again.'
+
+Speaker B: 'I appreciate that. On a brighter note, do you have the results from my recent tests?'
+
+Speaker A: 'Absolutely, and I have good news. Your results show significant improvement. Your treatment plan is working well.'
+
+Speaker B: 'That's a relief! I was a bit anxious about them.'
+
+Speaker A: 'Understandably so. Let’s also take a look at your documentation to ensure everything is up to date.'
+
+Speaker B: 'Sure. Is everything in order?'
+
+Speaker A: 'Everything appears fine. Just a few standard updates, but nothing major.'
+
+Speaker B: 'Great. It’s always best to keep everything accurate and current.'
+
+Speaker A: 'Exactly. If you have any more questions or concerns, feel free to ask.'
+
+Speaker B: 'I will, thank you for your help today.'"

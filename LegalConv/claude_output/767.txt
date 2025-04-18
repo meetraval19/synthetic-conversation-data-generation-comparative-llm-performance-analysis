@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Legal Argument and Case Theory",
+      "sentiment": "negative"
+    }
+  ]
+}

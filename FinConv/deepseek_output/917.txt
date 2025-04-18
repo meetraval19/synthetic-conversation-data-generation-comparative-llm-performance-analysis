@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Tax Implication Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Investment Performance Review",
+            "sentiment": "positive"
+        }
+    ]
+}

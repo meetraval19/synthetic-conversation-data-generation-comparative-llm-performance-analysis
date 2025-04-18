@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Referral Coordination",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "positive"
+        }
+    ]
+}

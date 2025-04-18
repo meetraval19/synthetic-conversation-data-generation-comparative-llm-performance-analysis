@@ -1,0 +1,20 @@
+"Speaker A: 'I've been looking into the current mix of assets in your investment portfolio, and there are concerns about its composition.'
+
+Speaker B: 'Really? What's the issue? I thought diversification was a strong point.'
+
+Speaker A: 'The portfolio isn't spread across enough sectors, which could expose us to unnecessary risks if one market segment declines.'
+
+Speaker B: 'That doesn't sound good. Do you have suggestions on how we could enhance diversity?'
+
+Speaker A: 'We could consider more international investments and a few other sectors that aren't highly correlated with your current holdings.'
+
+Speaker B: 'That makes sense. I'll definitely look into those options.'
+
+Speaker A: 'On another note, I've reviewed the internal controls and governance procedures. Everything appears to be in order.'
+
+Speaker B: 'That's reassuring. Were there any areas you think might need improvement?'
+
+Speaker A: 'Not immediately, but keeping regular audits and reviews will help maintain effectiveness, especially as regulations evolve.'
+
+Speaker B: 'Understood. It's always good to stay proactive on that front.'"
+

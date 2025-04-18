@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Timeline and Key Deadlines",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "negative"
+    }
+  ]
+}

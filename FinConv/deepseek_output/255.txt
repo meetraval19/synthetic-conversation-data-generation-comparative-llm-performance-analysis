@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Debt-to-Equity Ratio Assessment",
+            "sentiment": "positive"
+        }
+    ]
+}

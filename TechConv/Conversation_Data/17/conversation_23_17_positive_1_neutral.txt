@@ -1,0 +1,20 @@
+"Speaker A: 'Thanks for joining the demo today! I’m excited to showcase how our software can help your business grow smoothly.'
+
+Speaker B: 'Great, I’m particularly interested in how it handles future growth without major hiccups.'
+
+Speaker A: 'Absolutely, our platform is built to scale efficiently. As your business expands, you’ll find that our infrastructure planning adjusts seamlessly to accommodate increased demands.'
+
+Speaker B: 'That sounds promising. We’ve faced challenges in the past when trying to scale up quickly.'
+
+Speaker A: 'With us, those challenges are minimized. We focus on ensuring a robust system that can grow with you, providing stability at all times.'
+
+Speaker B: 'Good to hear. And what about handling issues that arise? How user-friendly is the reporting process?'
+
+Speaker A: 'We’ve made sure our bug and issue reporting interface is intuitive. Users can report issues directly within the platform, making it straightforward.'
+
+Speaker B: 'That’s helpful. It’s always a mix of feedback when it comes to reporting bugs, not necessarily bad, but often varied.'
+
+Speaker A: 'We aim to streamline it as much as possible to ensure that your team can focus on what truly matters.'
+
+Speaker B: 'Sounds reasonable. Looking forward to exploring the platform further.'"
+

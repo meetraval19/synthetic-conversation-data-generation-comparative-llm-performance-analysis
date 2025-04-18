@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Debt-to-Equity Ratio Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "positive"
+        }
+    ]
+}

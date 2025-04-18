@@ -1,0 +1,15 @@
+"Speaker A: 'I think our coordination today was impressive. Everyone seemed to be on the same page when updating patient statuses.'
+
+Speaker B: 'Absolutely, the team communication was spot-on. It really made a difference in how efficiently we operated.'
+
+Speaker A: 'On the other hand, the process of discharging some patients was not as smooth as we hoped. There were a few hiccups.'
+
+Speaker B: 'I noticed that too. The discharge planning still needs some fine-tuning. We should look into what caused those delays.'
+
+Speaker A: 'Agreed. As for assessing symptoms, I think we handled the diverse cases quite well, considering the different scenarios we faced.'
+
+Speaker B: 'Yeah, evaluating symptoms was straightforward today. No major surprises there, just a normal range of assessments.'
+
+Speaker A: 'All in all, I believe if we iron out the discharge issues, our process will be even more efficient next time.'
+
+Speaker B: 'Definitely. Let’s propose some improvements and make sure our next debrief includes solutions for those bottlenecks.'"

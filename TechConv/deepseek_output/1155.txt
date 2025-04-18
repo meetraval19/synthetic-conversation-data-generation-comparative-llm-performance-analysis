@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "positive"
+        }
+    ]
+}

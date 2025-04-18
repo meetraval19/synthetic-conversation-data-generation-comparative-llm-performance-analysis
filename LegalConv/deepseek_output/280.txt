@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal Argument and Case Theory",
+            "sentiment": "positive"
+        }
+    ]
+}

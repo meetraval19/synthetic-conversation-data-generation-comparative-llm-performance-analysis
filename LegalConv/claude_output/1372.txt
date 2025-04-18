@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

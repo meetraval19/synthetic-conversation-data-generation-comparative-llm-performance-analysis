@@ -1,0 +1,21 @@
+"Speaker A: 'Hello, and welcome to technical support. How can I assist you today?'
+
+Speaker B: 'Hi, I'm trying to get some clarity on future updates for the software I've been using.'
+
+Speaker A: 'I understand. Unfortunately, recent updates to our roadmap have been pushed back, which has been frustrating for many users.'
+
+Speaker B: 'That's disappointing. We rely heavily on those updates for improving our workflow.'
+
+Speaker A: 'I completely understand your concern. Although progress has slowed, rest assured we are still committed to enhancing our product.'
+
+Speaker B: 'Thanks for letting me know. Also, if I need more immediate support, what should I do?'
+
+Speaker A: 'For immediate help, you can follow our escalation process. It’s designed to resolve issues efficiently.'
+
+Speaker B: 'Sounds reasonable. So, if I escalate, how long should I typically expect to wait for a resolution?'
+
+Speaker A: 'The timeline can vary depending on the issue, but our team strives to handle them as quickly as possible.'
+
+Speaker B: 'Alright, that makes sense. I’ll keep that in mind. Thanks for your help today.'
+
+Speaker A: 'You’re welcome. If you have any more questions, feel free to reach out anytime. Have a great day!'"

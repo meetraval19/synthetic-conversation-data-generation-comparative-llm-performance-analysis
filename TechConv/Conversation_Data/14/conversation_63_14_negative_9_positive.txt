@@ -1,0 +1,15 @@
+"Speaker A: 'Thanks for joining us today. We’d love to get your feedback on some recent features. Let's start with how you've been finding the new analytics dashboard.'
+
+Speaker B: 'Honestly, the analytics dashboard isn't quite as intuitive as I hoped. It feels a bit clunky and sometimes the data seems off.'
+
+Speaker A: 'I see. We’ve heard similar feedback, and we’re working on making it more user-friendly and accurate. Moving on, how about the testing and validation features? Any thoughts on those?'
+
+Speaker B: 'Oh, those are great! The testing feature is really comprehensive, and it gives me confidence that everything is functioning as it should before I roll out updates.'
+
+Speaker A: 'I’m glad to hear that! We put a lot of effort into making the testing process as seamless as possible. Any recommendations for improvements there?'
+
+Speaker B: 'Honestly, not much. It’s been a smooth experience for me.'
+
+Speaker A: 'That’s reassuring to hear. We’ll definitely focus on enhancing the analytics side based on your input. Thank you for your valuable feedback!'
+
+Speaker B: 'No problem, happy to help. Hope to see some improvements soon.'"

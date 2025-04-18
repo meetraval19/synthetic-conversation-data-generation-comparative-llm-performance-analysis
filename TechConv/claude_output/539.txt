@@ -1,0 +1,20 @@
+Based on the conversation, I've analyzed the underlying topics and their sentiments:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Roadmap or Future Plans",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

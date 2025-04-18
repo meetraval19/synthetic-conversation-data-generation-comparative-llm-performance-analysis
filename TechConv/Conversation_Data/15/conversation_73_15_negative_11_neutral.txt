@@ -1,0 +1,19 @@
+"Speaker A: 'Good morning, everyone. Let's start with the workflow. Has anyone else felt like our current process is slowing us down?'
+
+Speaker B: 'Definitely. The bottleneck during the final review phase is really becoming an issue.'
+
+Speaker C: 'I agree. It's causing unnecessary delays. We should brainstorm a way to streamline that step.'
+
+Speaker A: 'Alright, noted. Let's shift to the onboarding topic. How are the new team members settling in?'
+
+Speaker B: 'So far, they seem to be adjusting well. The current training resources are helping, but they might need more hands-on sessions.'
+
+Speaker C: 'Yes, I think they could benefit from some practical workshops. It might help them get up to speed quicker.'
+
+Speaker A: 'Good idea. We should schedule a session for next week to make sure everyone is comfortable with our tools and practices.'
+
+Speaker B: 'Sounds like a plan. Anything else on the agenda?'
+
+Speaker C: 'Not from my side, just keen to see improvements in the workflow.'
+
+Speaker A: 'Understood. Let's focus on both issues and catch up next week to see our progress. Thanks, everyone!'"

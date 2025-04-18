@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+"Speaker A: 'Thanks for meeting with me to discuss this patient referral.'
+
+Speaker B: 'Of course. Can you walk me through the process you’ve set up for coordinating these referrals?'
+
+Speaker A: 'Sure, the system we use is designed to ensure seamless communication between the departments, which helps maintain an efficient workflow.'
+
+Speaker B: 'That sounds well-organized. I've been worried about those situations where emergencies arise, though.'
+
+Speaker A: 'Yes, emergencies can be quite challenging. We've faced some issues there, particularly when immediate care was needed, and the coordination wasn't as quick as it should’ve been.'
+
+Speaker B: 'I understand. It's crucial to address those delays to ensure patient safety.'
+
+Speaker A: 'Absolutely. We're actively working on improving response times and ensuring that all emergency protocols are up to standard.'
+
+Speaker B: 'That’s reassuring to hear. Improving those processes will certainly make a difference.'"
+

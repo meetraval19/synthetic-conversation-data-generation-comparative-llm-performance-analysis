@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "positive"
+        }
+    ]
+}

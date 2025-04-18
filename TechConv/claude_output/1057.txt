@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Change Request or Feature Suggestion",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Bug or Issue Reporting",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

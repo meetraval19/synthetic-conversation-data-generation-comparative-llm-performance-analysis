@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Care Barriers",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

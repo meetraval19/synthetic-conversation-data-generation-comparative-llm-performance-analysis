@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Debt-to-Equity Ratio Assessment",
+      "sentiment": "negative"
+    }
+  ]
+}

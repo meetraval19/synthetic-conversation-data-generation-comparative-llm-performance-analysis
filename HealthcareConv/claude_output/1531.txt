@@ -1,0 +1,28 @@
+Based on my analysis of the conversation, here are the topics discussed with their corresponding sentiments:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Side Effects",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

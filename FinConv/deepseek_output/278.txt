@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Investment Performance Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Liquidity Risk Evaluation",
+            "sentiment": "positive"
+        }
+    ]
+}

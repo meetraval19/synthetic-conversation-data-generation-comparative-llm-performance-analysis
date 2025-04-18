@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Documentation Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Side Effects",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

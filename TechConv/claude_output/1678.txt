@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

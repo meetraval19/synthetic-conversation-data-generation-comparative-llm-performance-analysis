@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

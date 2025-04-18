@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Test Results",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Medical History",
+            "sentiment": "positive"
+        }
+    ]
+}

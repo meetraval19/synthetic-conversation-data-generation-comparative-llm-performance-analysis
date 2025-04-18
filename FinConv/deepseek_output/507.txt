@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "negative"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "neutral"
+        }
+    ]
+}

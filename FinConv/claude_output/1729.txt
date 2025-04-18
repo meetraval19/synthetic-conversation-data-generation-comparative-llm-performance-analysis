@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "positive"
+    }
+  ]
+}

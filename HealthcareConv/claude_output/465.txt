@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Care Plan Update",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

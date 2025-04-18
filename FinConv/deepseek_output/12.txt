@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Interest Rate Impact Analysis",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Investment Performance Review",
+            "sentiment": "positive"
+        }
+    ]
+}

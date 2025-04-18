@@ -1,0 +1,21 @@
+"Speaker A: 'So, how have you been doing with following the therapy plan we discussed?'
+
+Speaker B: 'I've been keeping up with it, though it doesn't feel very different. I guess that's normal?'
+
+Speaker A: 'Yes, it's quite common not to notice immediate changes. Consistency is key. Now, let's take a look at your medication. Have you experienced any issues?'
+
+Speaker B: 'Actually, yes. I've been feeling some side effects.'
+
+Speaker A: 'That's concerning. We may need to reassess and adjust your prescription to avoid those side effects.'
+
+Speaker B: 'I was hoping there might be a better option because those side effects have been quite bothersome.'
+
+Speaker A: 'I understand. We'll explore alternatives to ensure your comfort and safety. Now, regarding your overall risk factors, I'm a bit worried about some recent test results.'
+
+Speaker B: 'Oh, that sounds serious. What should I be worried about?'
+
+Speaker A: 'There are a few indicators that suggest we need to make some lifestyle changes to mitigate risks.'
+
+Speaker B: 'Alright, I definitely want to tackle those before they become a bigger issue.'
+
+Speaker A: 'That’s the right approach. We’ll work together to make sure everything stays on track.'"

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "positive"
+        }
+    ]
+}

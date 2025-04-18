@@ -1,0 +1,14 @@
+"Speaker A: 'Thank you for joining our feedback session. Can you share your thoughts on how the system feels to use daily?'
+
+Speaker B: 'Honestly, it hasn't been the best experience. The interface is quite confusing, and it frequently lags.'
+
+Speaker A: 'I see, and I appreciate your honesty. We aim to improve that. How do you feel about our support and escalation process?'
+
+Speaker B: 'It's fine, I guess. The response times are decent, but sometimes it's hard to tell if an issue is being prioritized.'
+
+Speaker A: 'That's fair feedback. We're working on making the process more transparent. What about reporting any bugs or issues you've encountered?'
+
+Speaker B: 'That's actually one thing I do like. The bug reporting system is straightforward, and I've noticed quick resolutions once they're reported.'
+
+Speaker A: 'I'm glad to hear that! We're committed to maintaining that efficiency while enhancing other areas. Your insights are invaluable.'"
+

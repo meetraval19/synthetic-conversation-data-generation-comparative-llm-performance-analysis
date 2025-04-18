@@ -1,0 +1,24 @@
+"Speaker A: 'How have you been feeling since you started the new medication?'
+
+Speaker B: 'I’ve been experiencing some mild headaches, but nothing too concerning.'
+
+Speaker A: 'Headaches can be a typical response at first. It’s good to know it’s manageable.'
+
+Speaker B: 'True. They come and go, so I’m not too worried.'
+
+Speaker A: 'Let’s move on to the paperwork you brought in. I noticed there are some discrepancies we need to address.'
+
+Speaker B: 'Yes, I noticed that too. It’s been a bit frustrating trying to get everything sorted.'
+
+Speaker A: 'I understand. We’ll work together to get that straightened out. I know it can be frustrating.'
+
+Speaker B: 'I appreciate your help with that.'
+
+Speaker A: 'Now, about your upcoming discharge plan. We’re aiming for it to be a smooth transition for you.'
+
+Speaker B: 'That sounds great! I’m really looking forward to getting back to my routine with some structured support.'
+
+Speaker A: 'We’ll ensure you have everything you need to feel confident once you’re discharged.'
+
+Speaker B: 'Thank you! That’s really reassuring.'"
+

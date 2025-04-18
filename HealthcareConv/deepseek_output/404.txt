@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Medication Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "positive"
+        }
+    ]
+}

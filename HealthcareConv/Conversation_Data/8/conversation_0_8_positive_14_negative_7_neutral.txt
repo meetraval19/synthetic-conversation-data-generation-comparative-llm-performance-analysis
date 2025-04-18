@@ -1,0 +1,25 @@
+"Speaker A: 'Hi there! I'm really pleased with how you've been doing on your current care plan.' 
+
+Speaker B: 'Thank you, I've actually been feeling much better recently.'
+
+Speaker A: 'That's great to hear. We made some adjustments, and it seems they're making a positive impact.'
+
+Speaker B: 'Yes, but I've noticed some uncomfortable reactions. Could those be side effects from the medication?'
+
+Speaker A: 'That can happen, unfortunately. Let’s address those. We definitely want you to be comfortable.'
+
+Speaker B: 'I appreciate that. It's not too severe, but I thought it was worth mentioning.'
+
+Speaker A: 'Of course. We’ll review these and see if any changes are necessary.'
+
+Speaker B: 'I also wanted to know how communication has been within your team regarding my case.'
+
+Speaker A: 'We aim for everyone to stay in the loop. Updates are shared routinely in meetings.'
+
+Speaker B: 'That's good to know. It helps when everyone is on the same page.'
+
+Speaker A: 'Absolutely. Ensures you get the best coordinated care possible.'
+
+Speaker B: 'Thanks, I really appreciate the attention to detail.' 
+
+Speaker A: 'We’re here to support you every step of the way.'"

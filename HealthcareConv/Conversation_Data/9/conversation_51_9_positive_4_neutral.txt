@@ -1,0 +1,21 @@
+"Speaker A: 'Good news! The risk assessment results look very promising. Your recovery is on the right track.'
+
+Speaker B: 'That's great to hear! Does that mean I can be discharged soon?'
+
+Speaker A: 'Yes, exactly. With the low-risk factors identified, we're confident that you can continue your recovery at home.'
+
+Speaker B: 'What about the treatment plan? Is there anything specific I need to do once I'm home?'
+
+Speaker A: 'The treatment plan is pretty straightforward. You'll need to follow the medication schedule and attend follow-up appointments.'
+
+Speaker B: 'Sounds manageable. Are there any specific guidelines I should follow with the medication?'
+
+Speaker A: 'It's important to take the medication exactly as prescribed. You should also monitor any symptoms and note any changes.'
+
+Speaker B: 'I’ll be sure to keep track. Anything else to consider?'
+
+Speaker A: 'Just maintain a balanced diet and gentle exercise as recommended. This will help in your overall recovery.'
+
+Speaker B: 'Okay, that seems doable. I appreciate the clarity on everything.'
+
+Speaker A: 'We're here to support you. Feel free to reach out if you have any concerns once you're home.'"

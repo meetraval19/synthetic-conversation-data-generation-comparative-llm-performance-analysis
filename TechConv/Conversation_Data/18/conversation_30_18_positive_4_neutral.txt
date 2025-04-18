@@ -1,0 +1,13 @@
+"Speaker A: 'Thank you for agreeing to this interview. We’re interested in your experience with compliance measures in our latest tech release.'
+
+Speaker B: 'It’s been quite impressive, actually. The updates have made it much more seamless to adhere to regulations. It’s a big relief for us.'
+
+Speaker A: 'That’s great to hear. We spent considerable time ensuring that compliance would be a strength in this iteration. How about the system’s integration with your existing tools?'
+
+Speaker B: 'The integration process was smooth for the most part. There weren’t any major hiccups, but there were some minor adjustments needed.'
+
+Speaker A: 'I see. Were there specific areas in compatibility you felt could be improved?'
+
+Speaker B: 'A few minor tweaks might make it even easier for users to connect with legacy systems. But overall, it’s manageable.'
+
+Speaker A: 'Thanks for the feedback. Compliance was a key focus, and we’re glad it’s meeting your needs. We'll look into those integration points you mentioned.'"

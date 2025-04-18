@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Liquidity Risk Evaluation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Change Request or Feature Suggestion",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

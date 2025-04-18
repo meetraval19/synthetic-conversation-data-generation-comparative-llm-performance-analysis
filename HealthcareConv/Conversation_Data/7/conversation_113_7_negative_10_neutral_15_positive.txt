@@ -1,0 +1,19 @@
+"Speaker A: 'I've noticed some issues with how we communicate within our team lately.'
+
+Speaker B: 'I agree. Misunderstandings have been more frequent, and it's affecting our patient handoffs.'
+
+Speaker C: 'We should address this to ensure better outcomes for our patients. How about organizing a session to improve our communication strategies?'
+
+Speaker A: 'That sounds like a good start. On another note, have you seen any shifts in how patients are sticking to their treatment plans?'
+
+Speaker B: 'I've noticed it's been variable. Some patients engage well, while others struggle with consistency.'
+
+Speaker C: 'Yes, adherence can be unpredictable. It seems to depend heavily on each individual’s situation.'
+
+Speaker A: 'Absolutely. We could explore more personalized follow-ups to address this.'
+
+Speaker B: 'Speaking of addressing issues, integrating patients in decisions has had positive effects.'
+
+Speaker C: 'I agree. Involving patients more in their own care plans has really boosted their trust and compliance.'
+
+Speaker A: 'It's rewarding to see how shared decisions can lead to better outcomes for everyone involved.'"

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "positive"
+        }
+    ]
+}

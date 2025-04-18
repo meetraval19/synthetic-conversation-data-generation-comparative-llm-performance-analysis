@@ -1,0 +1,11 @@
+"Speaker A: 'I’ve noticed some issues with the way referrals are being handled lately. Patients are experiencing delays.'
+
+Speaker B: 'Absolutely, the coordination isn’t as efficient as it should be. It’s frustrating for everyone involved.'
+
+Speaker A: 'On a brighter note, the recent test results for our patient have been very encouraging. The new medication seems to be working.'
+
+Speaker B: 'Yes, those results are quite promising. It's great to see such a positive outcome so soon.'
+
+Speaker A: 'Agreed. Now, about the patient's adherence to therapy, it seems they’re managing to follow the prescribed routine, but some variability in consistency is there.'
+
+Speaker B: 'Understandable, but it’s important they stay committed to maintain these positive results.'

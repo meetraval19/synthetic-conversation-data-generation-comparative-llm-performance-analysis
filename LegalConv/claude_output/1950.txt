@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Enforcement and Implementation Issues",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "negative"
+    }
+  ]
+}

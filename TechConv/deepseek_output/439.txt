@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Performance Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "neutral"
+        }
+    ]
+}

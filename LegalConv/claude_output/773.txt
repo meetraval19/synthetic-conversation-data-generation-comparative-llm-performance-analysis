@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "positive"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+"Speaker A: 'Thanks for meeting today. Let's start by discussing your follow-up visits. How have those been going?'
+
+Speaker B: 'They've been consistent. I feel they're routine, but I'm glad to keep everything in check.'
+
+Speaker A: 'That's good to hear. Now, let's move on to a medication review. Are you noticing any improvements with the new prescriptions?'
+
+Speaker B: 'Absolutely, they've made a significant difference. I feel more energetic and less symptomatic, which is a relief.'
+
+Speaker A: 'Fantastic. It's great when we find the right balance that boosts patient well-being. However, I want to touch on any urgent concerns you might have. Have you encountered any issues recently?'
+
+Speaker B: 'Well, there was an instance where I experienced a sudden flare-up that was quite concerning. It caught me off guard, and honestly, it was a bit scary.'
+
+Speaker A: 'I'm sorry to hear that. Let's make sure we address whatever might be causing those incidents. It's important to minimize any future emergencies.'
+
+Speaker B: 'I appreciate that. Overall, I'm optimistic about the medication, but these episodes are concerning.'
+
+Speaker A: 'We'll work through this together. Please keep track of any changes or triggers, and we'll monitor everything closely. Sound good?'
+
+Speaker B: 'Absolutely, that sounds reassuring. Thank you for addressing all these aspects.'"

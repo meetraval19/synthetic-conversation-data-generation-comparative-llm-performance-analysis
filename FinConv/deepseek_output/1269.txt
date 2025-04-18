@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "Liquidity Risk Evaluation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "neutral"
+        }
+    ]
+}

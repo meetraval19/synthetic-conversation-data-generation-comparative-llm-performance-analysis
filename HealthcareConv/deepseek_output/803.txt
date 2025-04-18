@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Team Communication",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

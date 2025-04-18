@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Witness Identification and Preparation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "neutral"
+        }
+    ]
+}

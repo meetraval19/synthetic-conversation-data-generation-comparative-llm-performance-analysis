@@ -1,0 +1,19 @@
+"Speaker A: 'Thanks for coming in today! How have you been feeling since your last visit?'
+
+Speaker B: 'Honestly, much better. The follow-up schedule has made a big difference.'
+
+Speaker A: 'That's great to hear. Regular check-ins really do help in keeping track of progress.'
+
+Speaker B: 'Absolutely. It feels reassuring to know that I'm being monitored closely.'
+
+Speaker A: 'Let's take a moment to review your medication. How's it been going with the current prescription?'
+
+Speaker B: 'To be honest, not so well. I've been experiencing some side effects that are a bit concerning.'
+
+Speaker A: 'I'm sorry to hear that. It's important to get the dosage and type just right. Let’s explore some alternatives for you.'
+
+Speaker B: 'I appreciate that. It’s been weighing on my mind.'
+
+Speaker A: 'We’ll make sure to address it thoroughly. It’s essential you feel comfortable with your treatment plan.'
+
+Speaker B: 'Thank you, it’s comforting to know my concerns are taken seriously.'"

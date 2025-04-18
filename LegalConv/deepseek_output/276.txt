@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Applicable Laws and Regulations",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "neutral"
+        }
+    ]
+}

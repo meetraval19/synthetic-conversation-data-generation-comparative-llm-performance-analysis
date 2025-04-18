@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Valuation Metrics Discussion",
+            "sentiment": "positive"
+        }
+    ]
+}

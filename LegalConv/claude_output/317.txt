@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "positive"
+    }
+  ]
+}

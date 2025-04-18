@@ -1,0 +1,14 @@
+"Speaker A: 'Thanks for participating in this feedback session. Can you give your thoughts on the upcoming changes to our technology platform?'
+
+Speaker B: 'Honestly, I'm a bit worried. The future plans seem ambitious, but they feel more like aspirations than concrete steps. It's hard to see how they'll be achieved on time.'
+
+Speaker A: 'I see. Ambitious plans can often raise concerns. How about the current state of our infrastructure? How well do you think it handles scale?'
+
+Speaker B: 'Right now, it's stable enough. As long as demand doesn't overwhelm the system, it seems manageable. But long-term scalability is still a question mark.'
+
+Speaker A: 'Understood. Scalability is indeed something we need to monitor. Lastly, how do you find the licensing approach and access rights? Any thoughts?'
+
+Speaker B: 'They work as intended, though there's nothing particularly unique. It's functional, but not something that stands out as a huge advantage.'
+
+Speaker A: 'Got it. Your feedback on all these aspects is truly valuable. We’ll take it into account moving forward.'"
+

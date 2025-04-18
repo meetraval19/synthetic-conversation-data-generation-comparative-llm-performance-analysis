@@ -1,0 +1,15 @@
+"Speaker A: 'I see we're looking at a few changes to your care plan today.'
+
+Speaker B: 'Yes, I heard some updates aren't looking so great.'
+
+Speaker A: 'Unfortunately, there have been some complications with your current regimen, but we're committed to finding a better solution.'
+
+Speaker B: 'I understand. It’s just frustrating to adjust again.'
+
+Speaker A: 'Absolutely, I can see how it might feel disruptive. Meanwhile, have you thought about what comes next after your stay here?'
+
+Speaker B: 'Not really. Is there a discussion on when I might be discharged?'
+
+Speaker A: 'We’re in the early stages, but I’d say we can start planning soon. It’s important to make sure everything is lined up properly.'
+
+Speaker B: 'Alright, that sounds reasonable. Thank you for keeping me informed.'"

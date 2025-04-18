@@ -1,0 +1,15 @@
+"Speaker A: 'I've reviewed the test results, and it seems like the current treatment plan isn't yielding the desired results.'
+
+Speaker B: 'Oh, that's disappointing to hear. What are our next steps?'
+
+Speaker A: 'Well, it's important we assess everything carefully. The risks associated with altering the approach do need consideration, but they are manageable.'
+
+Speaker B: 'I understand. I guess it’s crucial to weigh all the options before making a decision.'
+
+Speaker A: 'Exactly. I want us to work together in making this decision. Your input is crucial.'
+
+Speaker B: 'I appreciate that. It's reassuring to know we're making this choice together.' 
+
+Speaker A: 'It's all about finding what's best for you, keeping both the benefits and risks in mind.'
+
+Speaker B: 'Thank you – I feel more comfortable discussing it this way.'"

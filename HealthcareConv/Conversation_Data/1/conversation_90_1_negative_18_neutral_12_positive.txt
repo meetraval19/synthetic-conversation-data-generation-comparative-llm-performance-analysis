@@ -1,0 +1,23 @@
+"Speaker A: 'Thank you for coming in today. How have you been feeling since our last visit?'
+
+Speaker B: 'Well, I’ve been experiencing more frequent headaches, and it's really starting to worry me.'
+
+Speaker A: 'I'm sorry to hear that. It's important we address these symptoms thoroughly.'
+
+Speaker B: 'Definitely. I hope we can figure out what might be causing them.'
+
+Speaker A: 'Of course. We’ll look into your medical history as well, which should help us identify any patterns or triggers.'
+
+Speaker B: 'That sounds good. I just hope it's nothing serious.'
+
+Speaker A: 'While we're monitoring your symptoms, do keep in mind that if anything feels urgent, like sudden changes, you should contact us immediately.'
+
+Speaker B: 'Sure, I’ll keep an eye out for any serious changes.'
+
+Speaker A: 'And I'm pleased to say, all your previous records are in good order. Everything's well documented, which will be a great help in assessing your health.'
+
+Speaker B: 'I appreciate you keeping everything organized. It really helps.'
+
+Speaker A: 'No problem at all. Let’s take things step by step, and we’ll aim to get to the bottom of these headaches.' 
+
+Speaker B: 'Thank you, I feel a bit more at ease knowing we’re on top of it.'"

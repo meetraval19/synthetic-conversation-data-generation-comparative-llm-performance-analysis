@@ -1,0 +1,15 @@
+"Speaker A: 'I was impressed with the thoroughness of documentation this quarter. The team has done a remarkable job keeping everything up to date.'
+
+Speaker B: 'Absolutely, the attention to detail really stands out. It makes things so much easier during audits.'
+
+Speaker A: 'Regarding the latest review, how do you feel about the potential risks identified?'
+
+Speaker B: 'It's pretty balanced. While there are some areas to keep an eye on, there aren't any major red flags.'
+
+Speaker A: 'I agree. The situation seems manageable with the current resources in place.'
+
+Speaker B: 'What are your thoughts on updating the care plans? There seem to be mixed opinions from the team.'
+
+Speaker A: 'It seems straightforward. The updates reflect the latest best practices, but I understand why some might have reservations given the minor changes.'
+
+Speaker B: 'Yes, consistency is key, even with updates. As long as everyone’s on board, it should proceed smoothly.'"

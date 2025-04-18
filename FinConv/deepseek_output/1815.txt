@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "neutral"
+        }
+    ]
+}

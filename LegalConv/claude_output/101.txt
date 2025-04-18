@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Legal Argument and Case Theory",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "neutral"
+    }
+  ]
+}

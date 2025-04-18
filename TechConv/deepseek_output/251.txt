@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Performance Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "neutral"
+        }
+    ]
+}

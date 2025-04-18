@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Scenario and Sensitivity Analysis",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    }
+  ]
+}

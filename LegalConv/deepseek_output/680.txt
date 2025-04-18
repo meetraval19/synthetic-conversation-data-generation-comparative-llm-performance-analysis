@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Applicable Laws and Regulations",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "positive"
+        }
+    ]
+}

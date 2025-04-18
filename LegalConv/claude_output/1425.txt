@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "negative"
+    }
+  ]
+}

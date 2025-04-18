@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "positive"
+    }
+  ]
+}

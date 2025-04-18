@@ -1,0 +1,29 @@
+"Speaker A: 'How have you been doing with keeping up with the new medication plan?'
+
+Speaker B: 'Honestly, it's been a bit tough to stick to the schedule. I keep missing doses.'
+
+Speaker A: 'I understand. It can be challenging, but sticking to it is crucial for the best outcome. Let’s see if we can find ways to make it easier for you.'
+
+Speaker B: 'That would help a lot. I just keep forgetting.'
+
+Speaker A: 'No problem, we'll work on a reminder system together. Now, about any new side effects, have you noticed anything unusual?'
+
+Speaker B: 'A bit of dizziness at times, but nothing too bothersome.'
+
+Speaker A: 'That’s fairly common, and it should settle down. But keep monitoring it, and let me know if it worsens.'
+
+Speaker B: 'I will, thanks. By the way, how's the process going with connecting me to the specialist you mentioned last time?'
+
+Speaker A: 'I’ve coordinated with the specialist's office, and they’re ready to see you next month. Everything has been set up smoothly.'
+
+Speaker B: 'That’s such a relief to hear. I was worried it would take ages to organize.'
+
+Speaker A: 'I’m glad we could facilitate it quickly. It’s important you get the right follow-up.'
+
+Speaker B: 'Absolutely. Thank you for sorting it out so efficiently.'
+
+Speaker A: 'You’re welcome. Let’s revisit the medication schedule, and I’ll help you with some strategies to improve adherence.'
+
+Speaker B: 'Sounds good. I really appreciate your help with everything.'
+
+Speaker A: 'I’m here to support you every step of the way. We’ll make sure you’re on the right track.'"

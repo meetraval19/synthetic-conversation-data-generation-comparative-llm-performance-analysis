@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Referral Coordination",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Care Barriers",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Medical History",
+            "sentiment": "positive"
+        }
+    ]
+}

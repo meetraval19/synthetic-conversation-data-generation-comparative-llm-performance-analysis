@@ -1,0 +1,28 @@
+I'll analyze the conversation to identify topics from the provided list and determine the sentiment expressed towards each topic.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Care Plan Update",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

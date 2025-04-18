@@ -1,0 +1,15 @@
+"Speaker A: 'In reviewing today's case, I noticed there was some difficulty in reaching a mutual decision with the patient.'
+
+Speaker B: 'Yes, it seems there was a bit of a struggle. The shared decision-making process didn't go as smoothly as we'd hope.'
+
+Speaker A: 'It can be challenging when patients feel overwhelmed by the choices.'
+
+Speaker B: 'Absolutely, and it’s essential we find ways to support them better in those discussions.'
+
+Speaker A: 'Regarding the risk evaluation, did you find anything unusual?'
+
+Speaker B: 'Not particularly. The risk factors seemed to align with our expectations.'
+
+Speaker A: 'I agree. It appears to be pretty straightforward.'
+
+Speaker B: 'Yes, but it’s always good to double-check and ensure we're not overlooking anything.'"

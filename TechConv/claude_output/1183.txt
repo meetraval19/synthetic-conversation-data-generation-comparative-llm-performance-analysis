@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

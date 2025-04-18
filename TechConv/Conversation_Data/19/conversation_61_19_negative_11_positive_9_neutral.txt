@@ -1,0 +1,16 @@
+"Speaker A: 'Thanks for agreeing to this feedback session about the software platforms.'
+
+Speaker B: 'Of course, happy to help. Although, I've found comparing these tools can be frustrating. There always seems to be something missing in each one.'
+
+Speaker A: 'I understand. That can definitely be a challenge. Let's talk about your experience when you started using the platform. How did you find the onboarding process?'
+
+Speaker B: 'Oh, the onboarding was surprisingly great! The tutorials were engaging and really helpful.'
+
+Speaker A: 'That's excellent to hear. We've worked hard on improving the training materials. Now, regarding testing and validation, how has that been for you?'
+
+Speaker B: 'Well, it's kind of a mixed bag. The process itself seems straightforward, but there are some areas I think could use more clarity.'
+
+Speaker A: 'That's helpful feedback. We'll continue to refine those processes. Anything else you'd like to share?'
+
+Speaker B: 'No, I think that covers it. Thanks for listening.'"
+

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Strategy and Action Plan Development",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "neutral"
+        }
+    ]
+}

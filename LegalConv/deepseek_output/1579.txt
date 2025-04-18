@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Witness Identification and Preparation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "neutral"
+        }
+    ]
+}

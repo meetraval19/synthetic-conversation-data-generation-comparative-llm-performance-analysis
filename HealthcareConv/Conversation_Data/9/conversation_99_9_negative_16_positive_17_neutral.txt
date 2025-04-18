@@ -1,0 +1,24 @@
+"Speaker A: 'Hi, Doctor. I’ve been a bit worried since our last conversation.'
+
+Speaker B: 'I understand. Let’s start by going over the recent evaluations. We discussed some risk factors that need attention.'
+
+Speaker A: 'Yes, the mention of those factors was concerning. It had me thinking a lot.'
+
+Speaker B: 'That’s understandable. However, the good news is that your recent tests show promising improvements. I communicated those results to you via the portal last week.'
+
+Speaker A: 'I saw that. It was reassuring to read about the progress.'
+
+Speaker B: 'I’m glad it helped. Now, are there any challenges you’re facing with your current treatment plan?'
+
+Speaker A: 'Not really challenges, but sometimes it’s hard to keep up with everything due to my schedule.'
+
+Speaker B: 'It’s quite common. Finding the right balance can be tricky, but let’s adjust your plan to better suit your routine.'
+
+Speaker A: 'That would be great. I don’t want anything to hinder the progress we’ve made.'
+
+Speaker B: 'Absolutely. We’re here to support you. If you ever feel overwhelmed, don’t hesitate to reach out.'
+
+Speaker A: 'Thank you, Doctor. That means a lot. I’ll definitely keep in touch if anything comes up.'
+
+Speaker B: 'Perfect. Looking forward to our next check-in!'"
+

@@ -1,0 +1,15 @@
+"Speaker A: 'Thank you for taking the time to speak with us today. Let's start with your experience using our new software. How would you describe its performance?'
+
+Speaker B: 'Overall, the software runs quite smoothly. There aren’t any major issues with how it functions day-to-day.'
+
+Speaker A: 'That’s good to hear. We’ve put a lot of effort into ensuring that. Now, regarding how you got started with it, did you find the initial setup and training straightforward?'
+
+Speaker B: 'Honestly, I found it a bit challenging. The instructions weren’t as clear as I hoped, and I had to spend extra time figuring things out on my own.'
+
+Speaker A: 'I see. That’s valuable feedback. We definitely need to examine our onboarding process to make it more user-friendly.'
+
+Speaker B: 'Yes, a more guided approach or even interactive tutorials could significantly help new users.'
+
+Speaker A: 'Thank you for sharing that. Your insights are crucial for us to improve our user experience.'
+
+Speaker B: 'I’m glad to help. I believe addressing these aspects will benefit many users in the future.'"

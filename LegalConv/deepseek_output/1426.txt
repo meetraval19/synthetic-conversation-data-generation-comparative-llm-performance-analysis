@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "positive"
+        }
+    ]
+}

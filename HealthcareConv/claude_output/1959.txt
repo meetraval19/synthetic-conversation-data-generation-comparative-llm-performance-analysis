@@ -1,0 +1,20 @@
+Based on the conversation, I've identified the following topics and their sentiments:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Referral Coordination",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Medical History",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

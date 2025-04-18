@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "positive"
+        }
+    ]
+}

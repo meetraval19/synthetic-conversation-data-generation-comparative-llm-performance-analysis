@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Care Barriers",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Medical History",
+            "sentiment": "neutral"
+        }
+    ]
+}

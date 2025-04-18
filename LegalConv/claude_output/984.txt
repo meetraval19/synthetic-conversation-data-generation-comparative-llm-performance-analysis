@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "neutral"
+    }
+  ]
+}

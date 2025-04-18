@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Tax Implication Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "positive"
+        }
+    ]
+}

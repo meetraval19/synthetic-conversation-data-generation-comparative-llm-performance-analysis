@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Shared Decision",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

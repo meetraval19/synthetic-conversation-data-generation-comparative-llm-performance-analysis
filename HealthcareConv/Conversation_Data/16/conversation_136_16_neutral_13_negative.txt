@@ -1,0 +1,19 @@
+"Speaker A: 'Let's start with the case review. How did the discussion go with the patient?' 
+
+Speaker B: 'It went well. I communicated the findings clearly, ensuring they understood the nature of their condition.' 
+
+Speaker A: 'That's good to hear. Clear communication is crucial in these situations.'
+
+Speaker B: 'Absolutely. Now, about the discharge process—we’ve run into some hurdles.' 
+
+Speaker A: 'Oh, what seems to be the problem?' 
+
+Speaker B: 'The coordination between our team and the rehabilitation facility has been problematic.' 
+
+Speaker A: 'That's troubling. Delays in these transitions can be quite frustrating for patients.' 
+
+Speaker B: 'Exactly, and it’s impacting the patient’s recovery timeline.' 
+
+Speaker A: 'We should escalate this and find a streamlined process to avoid future issues.' 
+
+Speaker B: 'Agreed. Ensuring these plans are seamless is vital for patient care.'"

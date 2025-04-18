@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "Debt-to-Equity Ratio Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Liquidity Risk Evaluation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

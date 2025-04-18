@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "negative"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "neutral"
+        }
+    ]
+}

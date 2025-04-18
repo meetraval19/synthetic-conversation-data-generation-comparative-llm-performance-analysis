@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Documentation Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Medical History",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "neutral"
+        }
+    ]
+}

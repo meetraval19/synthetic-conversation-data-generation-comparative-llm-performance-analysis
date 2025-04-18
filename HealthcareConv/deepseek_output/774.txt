@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Team Communication",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Care Barriers",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "positive"
+        }
+    ]
+}

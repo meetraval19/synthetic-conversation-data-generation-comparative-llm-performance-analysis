@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Care Plan Update",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

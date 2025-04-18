@@ -1,0 +1,17 @@
+"Speaker A: 'Thank you for joining this feedback session. Let's start with how you're finding the current features of our app.'
+
+Speaker B: 'Honestly, some features are a bit confusing. I often struggle to understand how they should function or if I'm using them correctly.'
+
+Speaker A: 'I appreciate your honesty. We're aware that certain aspects may need clearer instructions. Can you give an example of what was unclear?'
+
+Speaker B: 'Sure, the sharing feature, for instance. It's not very intuitive, and I find myself guessing how to use it.'
+
+Speaker A: 'That's valuable feedback, and we're committed to improving the user experience. Now, moving on, are there any features you're looking forward to in the future?'
+
+Speaker B: 'I'm curious about the integration possibilities with other platforms. It's something that could really enhance how I use your app daily.'
+
+Speaker A: 'We're exploring various integrations and it's definitely on our radar, although timelines are still being discussed.'
+
+Speaker B: 'I look forward to seeing how that develops. It could make a big difference in usability for me.'
+
+Speaker A: 'We're aiming for improvements that align with user needs, so your input is crucial for shaping our plans. Thank you for sharing your thoughts today.'"

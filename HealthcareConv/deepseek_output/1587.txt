@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Shared Decision",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Care Barriers",
+            "sentiment": "negative"
+        }
+    ]
+}

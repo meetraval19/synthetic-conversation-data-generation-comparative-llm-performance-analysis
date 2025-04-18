@@ -1,0 +1,18 @@
+"Speaker A: 'Thanks for joining this feedback session. Can I start by asking about your experience with our support process?'
+
+Speaker B: 'Of course. Honestly, navigating the support and escalation process can be quite frustrating.'
+
+Speaker A: 'I'm sorry to hear that. Could you share more about where the difficulties lie?'
+
+Speaker B: 'It often feels like I’m being bounced from one team to another without getting any clear answers.'
+
+Speaker A: 'That’s really concerning. We’ll look into making that smoother. What about the system’s performance—how’s that been for you?'
+
+Speaker B: 'It’s been steady for the most part. Sometimes it lags, but nothing too disruptive.'
+
+Speaker A: 'I see. We’re always striving for optimal performance. Any specific times the lag occurs?'
+
+Speaker B: 'Mostly during peak usage times, but it’s understandable.'
+
+Speaker A: 'Thanks for pointing that out. Your feedback is invaluable, and we'll aim to address these issues.'"
+

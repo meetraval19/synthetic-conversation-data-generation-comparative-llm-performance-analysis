@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Debt-to-Equity Ratio Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "neutral"
+        }
+    ]
+}

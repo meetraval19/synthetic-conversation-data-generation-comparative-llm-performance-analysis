@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "System Configuration Details",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

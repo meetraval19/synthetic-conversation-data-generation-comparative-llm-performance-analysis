@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "neutral"
+        }
+    ]
+}

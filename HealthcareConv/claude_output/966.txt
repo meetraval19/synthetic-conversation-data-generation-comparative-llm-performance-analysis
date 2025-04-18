@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

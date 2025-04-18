@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Legal Argument and Case Theory",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "negative"
+    }
+  ]
+}

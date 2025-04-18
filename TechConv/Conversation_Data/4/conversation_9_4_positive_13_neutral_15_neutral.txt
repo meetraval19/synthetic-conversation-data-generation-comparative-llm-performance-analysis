@@ -1,0 +1,13 @@
+"Speaker A: 'Thanks for joining us today to discuss your experience with our software. How do you find it in terms of working seamlessly with other systems you use?'
+
+Speaker B: 'I’ve been quite pleased with how easily it integrates with our existing tools. It's certainly helped streamline our operations.'
+
+Speaker A: 'That’s great to hear! Now, regarding access rights, how have you found the process of managing licenses?'
+
+Speaker B: 'It's been fairly straightforward. There are just a few areas where it could be a bit more intuitive, but overall it doesn’t disrupt our work.'
+
+Speaker A: 'Good to know. Lastly, how has the software impacted your workflow efficiency? Have you noticed any improvements or challenges?'
+
+Speaker B: 'It's been a mixed experience. While some processes have definitely become smoother, there are still some steps that feel redundant.'
+
+Speaker A: 'Interesting. We’re constantly looking to improve, so your feedback is invaluable. Thank you for sharing your insights today!'"

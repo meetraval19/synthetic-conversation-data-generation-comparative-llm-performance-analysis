@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Internal Controls and Governance",
+      "sentiment": "neutral"
+    }
+  ]
+}

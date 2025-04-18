@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "neutral"
+        }
+    ]
+}

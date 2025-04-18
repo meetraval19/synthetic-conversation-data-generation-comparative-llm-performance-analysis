@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Applicable Laws and Regulations",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "positive"
+        }
+    ]
+}

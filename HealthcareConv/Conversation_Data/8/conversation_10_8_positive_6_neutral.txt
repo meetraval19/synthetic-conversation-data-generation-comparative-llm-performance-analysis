@@ -1,0 +1,14 @@
+"Speaker A: 'I reviewed the latest updates to your care plan, and it looks promising. The specialists are really optimistic about your progress.'
+
+Speaker B: 'That’s reassuring to hear. I’ve been feeling much better lately.'
+
+Speaker A: 'Great! We’re also coordinating your referrals to ensure a smooth transition. Everything is in place, but let me know if you have any questions.'
+
+Speaker B: 'I appreciate that. Should I expect any additional steps with the referrals?'
+
+Speaker A: 'There shouldn’t be any complications, but do keep in touch if anything comes up.'
+
+Speaker B: 'Will do. Thank you for keeping everything so organized.'
+
+Speaker A: 'Of course, happy to help. Your health is our priority.'"
+

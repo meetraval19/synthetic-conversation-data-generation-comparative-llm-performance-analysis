@@ -1,0 +1,16 @@
+"Speaker A: 'I see we're looking to discharge you soon. How do you feel about the treatment plan overall?'
+
+Speaker B: 'Honestly, it's been a bit overwhelming. I wasn’t expecting so many adjustments.'
+
+Speaker A: 'I understand. It can be challenging at times. But let’s focus on what we can improve. Have you had a chance to go over your options?'
+
+Speaker B: 'Yes, I really appreciated the collaborative approach. Being involved in the decision-making process made a big difference.'
+
+Speaker A: 'That’s great to hear. We believe it's important for you to feel part of the team. Now, have you reviewed your medications recently?'
+
+Speaker B: 'I have, and having the pharmacist explain everything clearly during the review was really helpful.'
+
+Speaker A: 'I’m glad that was beneficial. Clear understanding of your medications can make a big difference.'
+
+Speaker B: 'Absolutely. I think I’m ready to manage things once I’m home.'"
+

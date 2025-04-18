@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Liquidity Risk Evaluation",
+      "sentiment": "neutral"
+    }
+  ]
+}

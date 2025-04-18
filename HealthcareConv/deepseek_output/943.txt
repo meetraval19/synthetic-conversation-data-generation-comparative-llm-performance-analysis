@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "neutral"
+        }
+    ]
+}

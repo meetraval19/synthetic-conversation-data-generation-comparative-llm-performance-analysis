@@ -1,0 +1,14 @@
+"Speaker A: 'Hi there, I see you're back for your follow-up appointment. How have you been feeling since your last visit?'
+
+Speaker B: 'Honestly, not much has changed. I’ve been a bit confused about some of the instructions I was given, and it’s frustrating.'
+
+Speaker A: 'I’m sorry to hear that. Let’s go over everything to make sure it's clear this time. How about we discuss any specific treatments or medications causing confusion?'
+
+Speaker B: 'That would be helpful. I think I misunderstood some of the dietary advice and medication schedules.'
+
+Speaker A: 'No problem, we can break it all down together. And regarding how you’re managing now, have there been any noticeable improvements or issues?'
+
+Speaker B: 'It’s been pretty much the same as last time, no significant changes. But I'd really like to see some progress.'
+
+Speaker A: 'Alright, let’s create a clearer plan moving forward and make sure you feel more at ease with everything. Shall we revisit anything else or focus on what we can adjust?'"
+

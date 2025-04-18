@@ -1,0 +1,15 @@
+"Speaker A: 'I reviewed your test results, and everything seems stable.'  
+Speaker B: 'That’s good to know. I’ve been anxious about them.'  
+
+Speaker A: 'I understand. Now, let’s talk about planning for your discharge. We’re really optimistic about your recovery process.'  
+Speaker B: 'That sounds great! Being back home will be a relief.'  
+
+Speaker A: 'Yes, you'll be more comfortable there. We should go over your medication routine, though.'  
+Speaker B: 'I’ve been having some side effects with the current prescription. It’s been a bit of a struggle.'  
+
+Speaker A: 'I’m sorry to hear that. We can look into adjusting the dosage or exploring alternatives.'  
+Speaker B: 'I’d appreciate that. Thanks for your help in making things clearer.'  
+
+Speaker A: 'Of course. Your comfort and health are the priority.'  
+Speaker B: 'Thank you, doctor. I feel more confident about the next steps.'"
+

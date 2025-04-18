@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "positive"
+    }
+  ]
+}

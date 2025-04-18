@@ -1,0 +1,27 @@
+"Speaker A: 'Good morning. I see you're here for a routine check-up. How have you been feeling overall?'
+
+Speaker B: 'Morning. I've been having a bit of trouble with some symptoms, to be honest.'
+
+Speaker A: 'I'm sorry to hear that. Let's talk through what you've been experiencing.'
+
+Speaker B: 'Well, I've noticed some persistent fatigue and headaches.'
+
+Speaker A: 'Those can be concerning signs. It's important we address them promptly.'
+
+Speaker B: 'Yes, it's been affecting my daily life quite a bit.'
+
+Speaker A: 'We'll do a thorough assessment and see what's contributing to these symptoms. Now, about your risk factors—'
+
+Speaker B: 'Are you referring to potential lifestyle and genetic risks?'
+
+Speaker A: 'Exactly. It's a neutral ground where we assess everything from family history to habits.'
+
+Speaker B: 'I see. How does that impact my current condition?'
+
+Speaker A: 'Understanding your risk factors helps us form a comprehensive view, guiding our next steps.'
+
+Speaker B: 'That makes sense. I appreciate a thorough approach.'
+
+Speaker A: 'Let's pinpoint these symptoms and consider all angles to ensure we have a clear path forward.'
+
+Speaker B: 'Thank you. I hope we can find some relief soon.'"

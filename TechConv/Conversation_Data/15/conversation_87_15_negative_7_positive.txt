@@ -1,0 +1,15 @@
+"Speaker A: 'Thanks for joining our demo today. We'll start with how our software can streamline your business operations.'
+
+Speaker B: 'I appreciate that, but last time we tried implementing new tools, it actually disrupted our existing processes.'
+
+Speaker A: 'I understand your concern. Changing workflows can be challenging. However, we've designed our solution to integrate smoothly with minimal disruption.'
+
+Speaker B: 'That sounds promising. What about if issues arise? How does your support system work?'
+
+Speaker A: 'We take pride in our responsive support team. Our escalation process is efficient, ensuring any concerns are swiftly addressed.'
+
+Speaker B: 'That’s reassuring. A reliable support team is crucial to us.'
+
+Speaker A: 'Absolutely, and we’re here to ensure everything runs smoothly post-implementation.'
+
+Speaker B: 'Great, it's important to know there’s reliable help if needed.'"

@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Performance Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "positive"
+        }
+    ]
+}

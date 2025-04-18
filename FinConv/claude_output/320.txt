@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "positive"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+"Speaker A: 'I noticed you've been having some trouble keeping up with the recommended therapy sessions.'
+
+Speaker B: 'Yeah, it's been difficult. The schedule is hard to manage with everything else going on.'
+
+Speaker A: 'I understand. It's important, though, to find a way to fit it in. It could really help in the long run.'
+
+Speaker B: 'I know, it's just challenging at the moment.'
+
+Speaker A: 'Let's look at your recent blood work. Everything seems to be in the expected range.'
+
+Speaker B: 'That's good to hear. So nothing stands out as a concern?'
+
+Speaker A: 'Correct, nothing unusual. We'll keep monitoring it.'
+
+Speaker B: 'Alright, I can manage that.'
+
+Speaker A: 'How about scheduling a follow-up appointment? We should keep track of your progress.'
+
+Speaker B: 'Sure, can we do it in about a month?'
+
+Speaker A: 'That works. Let’s aim for a regular check-in to make things easier to manage.'
+
+Speaker B: 'Sounds like a plan. I’ll make sure to prioritize it.'

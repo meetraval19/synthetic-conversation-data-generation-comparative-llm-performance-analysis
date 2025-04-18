@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Valuation Metrics Discussion",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Forecasting and Projections",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "positive"
+        }
+    ]
+}

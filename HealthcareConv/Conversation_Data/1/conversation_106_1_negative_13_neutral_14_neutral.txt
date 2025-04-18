@@ -1,0 +1,13 @@
+"Speaker A: 'Let's start with the symptom evaluation. It's concerning that the patient’s pain has intensified.'
+
+Speaker B: 'I agree. The worsening symptoms suggest we need to reassess the treatment plan.'
+
+Speaker A: 'Moving on to discharge planning, do we have a timeline for when the patient can go home?'
+
+Speaker B: 'It's still uncertain at this point. Several factors are affecting the planning, but we’re hoping for clarity soon.'
+
+Speaker A: 'What about handling potential reactions to the new medication?'
+
+Speaker B: 'I’m monitoring closely. The side effects seem manageable so far, which is reassuring.'
+
+Speaker A: 'Good. Let’s keep an eye on how everything develops over the next few days.'"

@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Valuation Metrics Discussion",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    }
+  ]
+}

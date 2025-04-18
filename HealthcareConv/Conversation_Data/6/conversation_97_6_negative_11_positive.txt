@@ -1,0 +1,15 @@
+"Speaker A: 'Hi, how have you been feeling since our last appointment?' 
+
+Speaker B: 'Hi, I've been doing okay, but I wanted to mention that coordinating my referral was a bit frustrating. It took longer than I expected to get in touch with the specialist.'
+
+Speaker A: 'I'm sorry to hear that. I'll make sure our administrative team is aware so we can smooth out the process for you.' 
+
+Speaker B: 'Thank you, I appreciate that. On a brighter note, the information you provided me about managing my condition has been incredibly helpful. I feel much more informed and empowered.'
+
+Speaker A: 'I'm really glad to hear that. Understanding your condition is important, and I'm here to support you in any way I can.'
+
+Speaker B: 'Yes, the resources and guidance have made a big difference. I feel more confident in managing my symptoms now.'
+
+Speaker A: 'That’s wonderful. If you have any more questions or need further information, feel free to reach out at any time.'
+
+Speaker B: 'I will, thank you so much for your support and guidance.'"

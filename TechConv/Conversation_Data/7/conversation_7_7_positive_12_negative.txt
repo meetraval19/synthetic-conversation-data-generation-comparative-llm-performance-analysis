@@ -1,0 +1,18 @@
+"Speaker A: 'Hi there! Thanks for joining today's interview. Can you tell me about your experience with our customer support?'
+
+Speaker B: 'Absolutely! The support team has been phenomenal. Whenever I have an issue, they’re quick to escalate it and find a resolution.'
+
+Speaker A: 'That’s great to hear. We prioritize making our escalation process seamless. How about setting up and configuring the system? Any thoughts on that?'
+
+Speaker B: 'Well, to be honest, the configuration process was a bit of a hassle. It took longer than expected, and some settings were quite confusing.'
+
+Speaker A: 'I understand. We’re working on simplifying that experience. Any specific aspects you found particularly challenging?'
+
+Speaker B: 'The network settings were tricky, and I felt like the documentation didn’t offer enough clarity.'
+
+Speaker A: 'Thanks for sharing. We’ll definitely look into providing better guidance. Is there anything else you’d like to add?'
+
+Speaker B: 'Just to reiterate, having a smoother configuration process would really make a big difference. But overall, your support team's efficiency really stands out.'
+
+Speaker A: 'We appreciate the feedback and are committed to improving your experience further. Thanks again for your time!'"
+

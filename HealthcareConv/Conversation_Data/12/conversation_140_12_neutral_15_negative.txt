@@ -1,0 +1,17 @@
+"Speaker A: 'I’ve reviewed the patient’s documentation, and everything seems complete.'
+
+Speaker B: 'That’s good to hear. Did you notice any areas that might need further clarification?'
+
+Speaker A: 'Not really. The records are straightforward and easy to follow.'
+
+Speaker B: 'Great, that makes the process smoother for us. Now, about the treatment plan...'
+
+Speaker A: 'Yes, I’m a bit concerned. The patient didn’t seem entirely comfortable with the options we discussed.'
+
+Speaker B: 'I noticed that too. It’s crucial we find a way to involve them more in the decision-making so they feel confident moving forward.'
+
+Speaker A: 'Exactly. Without that engagement, we might face challenges in their adherence to the treatment.'
+
+Speaker B: 'Agreed. We need to schedule another meeting to ensure their concerns are addressed.'
+
+Speaker A: 'Definitely. It’s important they feel their voice is heard in this process.'"

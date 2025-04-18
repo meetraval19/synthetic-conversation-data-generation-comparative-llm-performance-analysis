@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Tool or Platform Comparison",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

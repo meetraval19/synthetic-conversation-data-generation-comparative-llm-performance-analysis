@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Referral Coordination",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Care Plan Update",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

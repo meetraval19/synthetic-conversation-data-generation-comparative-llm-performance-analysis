@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Care Barriers",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Support Services",
+            "sentiment": "neutral"
+        }
+    ]
+}

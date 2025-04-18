@@ -1,0 +1,26 @@
+"Speaker A: 'Thanks for calling tech support. How can I assist you today?'
+
+Speaker B: 'Hi, I’m having some trouble with getting my issues resolved quickly.'
+
+Speaker A: 'I understand. The escalation process can be frustrating at times.'
+
+Speaker B: 'Exactly. It takes forever to get to the right person.'
+
+Speaker A: 'We’re actually reviewing ways to streamline it, but for now, I’ll do my best to escalate this efficiently for you.'
+
+Speaker B: 'Appreciate that. Also, can you tell me more about any training offered? I think I could use a bit more understanding of the system.'
+
+Speaker A: 'Certainly! We have some onboarding materials available, and there are optional training sessions you can attend.'
+
+Speaker B: 'That sounds helpful. I'll look into those.'
+
+Speaker A: 'Great! And if you ever encounter an issue, remember our reporting feature is quite user-friendly.'
+
+Speaker B: 'Yes, I’ve noticed that. It’s easy to report problems using that tool.'
+
+Speaker A: 'I’m glad you find it helpful. We’re always looking to improve user experience.'
+
+Speaker B: 'Thanks for your help today. Hopefully, things will get sorted soon.'
+
+Speaker A: 'My pleasure! Let me know if you need further assistance.'"
+

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "positive"
+        }
+    ]
+}

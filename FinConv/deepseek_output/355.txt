@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Debt-to-Equity Ratio Assessment",
+            "sentiment": "negative"
+        }
+    ]
+}

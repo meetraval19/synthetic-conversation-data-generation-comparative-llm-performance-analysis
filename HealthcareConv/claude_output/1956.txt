@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Barriers",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

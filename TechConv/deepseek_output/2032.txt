@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "positive"
+        }
+    ]
+}

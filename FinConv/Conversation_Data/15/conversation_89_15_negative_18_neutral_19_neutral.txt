@@ -1,0 +1,21 @@
+"Speaker A: 'We need to evaluate your overall approach. I've noticed some inconsistencies in your financial planning.'
+
+Speaker B: 'Yes, it's been challenging to manage unexpected changes in the market. What do you suggest?'
+
+Speaker A: 'Let's start by revisiting your diversification strategy. Has there been any new asset allocation recently?'
+
+Speaker B: 'Not significantly. I'm trying to balance risk and return, but it's quite a task to find the perfect mix.'
+
+Speaker A: 'It's understandable. Diversification is complex, yet critical. We want to ensure it aligns with your long-term goals.'
+
+Speaker B: 'Agreed. I've been considering adding more international stocks. Do you think that's wise?'
+
+Speaker A: 'It could be beneficial, but let's run a scenario and sensitivity analysis first to see how different variables might impact your portfolio.'
+
+Speaker B: 'That makes sense. I've heard such analyses can really highlight potential risks and rewards.'
+
+Speaker A: 'Exactly. It provides a clearer picture of potential outcomes, allowing us to make informed decisions without relying solely on speculation.'
+
+Speaker B: 'Sounds good. Let’s proceed with that plan. It’s important for me to have a solid understanding of where things might head.'
+
+Speaker A: 'Great, I’ll prepare the necessary models and we can go through them together soon.'"

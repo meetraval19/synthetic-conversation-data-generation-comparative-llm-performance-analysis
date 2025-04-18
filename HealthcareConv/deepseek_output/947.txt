@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

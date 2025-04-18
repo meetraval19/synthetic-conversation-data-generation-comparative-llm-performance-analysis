@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Medical History",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "positive"
+        }
+    ]
+}

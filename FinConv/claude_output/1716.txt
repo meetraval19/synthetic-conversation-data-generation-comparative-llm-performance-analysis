@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Negotiation of Financial Terms",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Debt-to-Equity Ratio Assessment",
+      "sentiment": "neutral"
+    }
+  ]
+}

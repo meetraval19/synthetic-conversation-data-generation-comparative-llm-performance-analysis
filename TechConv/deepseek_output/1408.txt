@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "positive"
+        }
+    ]
+}

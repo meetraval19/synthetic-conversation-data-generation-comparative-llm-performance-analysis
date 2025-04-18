@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Medical History",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Medication Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Side Effects",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

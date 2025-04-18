@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal Argument and Case Theory",
+            "sentiment": "positive"
+        }
+    ]
+}

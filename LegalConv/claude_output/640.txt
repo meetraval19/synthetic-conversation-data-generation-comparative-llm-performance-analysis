@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Timeline and Key Deadlines",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "neutral"
+    }
+  ]
+}

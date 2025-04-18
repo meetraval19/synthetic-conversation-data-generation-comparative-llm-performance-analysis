@@ -1,0 +1,23 @@
+"Speaker A: 'I heard you've had some challenges with coordinating your specialist referrals lately.'
+
+Speaker B: 'Yes, it's been quite frustrating. There have been delays and miscommunications with getting appointments set up.'
+
+Speaker A: 'I understand how that can be a hassle. Let's see if we can streamline the process for you moving forward.'
+
+Speaker B: 'That would be great. I just want to avoid any more back-and-forth.'
+
+Speaker A: 'Absolutely. Now, regarding your previous medical records, I took a detailed look at them.'
+
+Speaker B: 'How does everything look?'
+
+Speaker A: 'Everything seems in order. It's pretty straightforward without any major flags.'
+
+Speaker B: 'That's reassuring to hear.'
+
+Speaker A: 'Lastly, let's discuss your discharge plans. Do you have any questions or concerns about it?'
+
+Speaker B: 'Not really, I feel like I have a good understanding of what needs to be done once I leave.'
+
+Speaker A: 'Great! If anything comes up, feel free to reach out anytime.' 
+
+Speaker B: 'Will do. Thanks for taking the time to discuss all of this with me.'"

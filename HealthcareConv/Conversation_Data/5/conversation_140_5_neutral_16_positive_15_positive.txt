@@ -1,0 +1,20 @@
+"Speaker A: 'Good morning! I hope you're feeling alright since your last visit.'
+
+Speaker B: 'Hello! Yes, I've been managing well. I'm here for the follow-up you suggested.'
+
+Speaker A: 'Great to hear. Let's review the findings from your last tests. I'm really pleased with how well your diagnosis was communicated and understood last time.'
+
+Speaker B: 'Yes, it was really clear and helped me a lot in understanding what's going on.'
+
+Speaker A: 'That's wonderful to hear. Now, let's discuss the next steps together. I believe your input is crucial.'
+
+Speaker B: 'Absolutely, I appreciate us making these decisions together. It makes me feel more involved in the process.'
+
+Speaker A: 'Exactly, and it ensures we're on the same page moving forward.'
+
+Speaker B: 'Thanks for that. It really boosts my confidence in the treatment plan we agreed on.'
+
+Speaker A: 'I'm glad to hear that. Let's keep working together closely as we move forward with your care.'
+
+Speaker B: 'Sounds good to me. Thank you for your support and the clear communication.'"
+

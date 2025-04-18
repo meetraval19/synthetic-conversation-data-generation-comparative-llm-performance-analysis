@@ -1,0 +1,32 @@
+Based on the conversation between what appears to be a healthcare provider and patient discussing health concerns, I've analyzed the underlying topics and their associated sentiments.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Test Results",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Plan Update",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

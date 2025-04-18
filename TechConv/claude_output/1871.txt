@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

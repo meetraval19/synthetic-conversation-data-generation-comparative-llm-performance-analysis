@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Follow Up",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Care Barriers",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "positive"
+        }
+    ]
+}

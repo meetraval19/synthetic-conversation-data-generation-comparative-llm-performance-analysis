@@ -1,0 +1,13 @@
+"Speaker A: 'Thanks for joining the feedback session. Let's discuss how your current tech infrastructure handles growth.'
+
+Speaker B: 'It's been stable. Our systems seem to manage increased demand reasonably well, but I haven't noticed any significant challenges or benefits.'
+
+Speaker A: 'That's good to hear. Now, can you share your thoughts on any compliance concerns you might have?'
+
+Speaker B: 'Unfortunately, that’s an area with constant headaches. Keeping up with ever-changing regulations is difficult, and it often feels like we’re always a step behind.'
+
+Speaker A: 'I understand. Compliance changes can be daunting. Lastly, I'd like your input on the support and escalation process you’ve experienced.'
+
+Speaker B: 'It’s frustrating, to be honest. When issues arise, the wait times can be long, and it often takes several attempts to get in touch with someone who can help.'
+
+Speaker A: 'That feedback is invaluable. We need to focus on improving user support.'

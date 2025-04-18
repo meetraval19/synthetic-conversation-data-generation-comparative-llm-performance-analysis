@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Referral Coordination",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Shared Decision",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "positive"
+        }
+    ]
+}

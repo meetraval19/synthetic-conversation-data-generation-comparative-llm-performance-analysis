@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Legal Argument and Case Theory",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "positive"
+    }
+  ]
+}

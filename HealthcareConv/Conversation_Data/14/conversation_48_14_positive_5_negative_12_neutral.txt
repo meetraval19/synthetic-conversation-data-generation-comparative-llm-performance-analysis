@@ -1,0 +1,16 @@
+"Speaker A: 'I noticed you mentioned some mild reactions to the new medication. How have you been finding the side effects?'
+
+Speaker B: 'Surprisingly, they've been manageable and not as disruptive as I feared. It feels like a positive step forward.'
+
+Speaker A: 'That's great to hear. Managing the smaller side effects can really boost treatment efficacy. Let's schedule a follow-up session in a month.'
+
+Speaker B: 'Honestly, I'm concerned about the hassle of another visit. It's not always convenient for me.'
+
+Speaker A: 'I understand. Follow-ups can sometimes feel burdensome, but they're important for tracking your progress.'
+
+Speaker B: 'I suppose it's necessary. Anyway, are we done with the paperwork? I can never seem to keep track of what's needed.'
+
+Speaker A: 'Yes, we just need to review everything for accuracy. It’s straightforward, but let me know if you have questions while we sort it out.'
+
+Speaker B: 'All right, I'll make sure everything is in order. Thanks for walking me through this.'"
+

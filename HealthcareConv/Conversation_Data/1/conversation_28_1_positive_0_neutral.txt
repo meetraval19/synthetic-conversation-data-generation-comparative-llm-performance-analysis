@@ -1,0 +1,11 @@
+"Speaker A: 'Hello, I'm glad you've come in today to discuss how you've been feeling. Let's start with your symptoms.'
+
+Speaker B: 'Thanks, doctor. I've been feeling much better overall, especially after following the health advice you gave me last time.'
+
+Speaker A: 'That's excellent to hear! Positive progress with symptoms is always a great sign. Let's dive a bit into your medical background to understand any patterns.'
+
+Speaker B: 'Sure. My medical history hasn't changed much since our last meeting, just the usual check-ups.'
+
+Speaker A: 'Alright, having a stable medical history is helpful for tracking progress. It makes it easier to focus on any specific changes.'
+
+Speaker B: 'Agreed. I'm hoping to keep things under control with your guidance.'

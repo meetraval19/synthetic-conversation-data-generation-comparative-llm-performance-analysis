@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Interest Rate Impact Analysis",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Portfolio Diversification Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "neutral"
+        }
+    ]
+}

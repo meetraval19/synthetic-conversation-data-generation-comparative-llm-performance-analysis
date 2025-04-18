@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Investment Performance Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Valuation Metrics Discussion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Timeline and Key Deadlines",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Confidentiality and Privilege",
+      "sentiment": "positive"
+    }
+  ]
+}

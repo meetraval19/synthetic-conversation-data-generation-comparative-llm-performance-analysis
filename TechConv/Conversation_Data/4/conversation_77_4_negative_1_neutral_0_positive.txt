@@ -1,0 +1,21 @@
+"Speaker A: 'Thank you for calling Tech Support. How can I assist you today?'
+
+Speaker B: 'Hi, I’m having trouble getting my new software to work with an existing database system.'
+
+Speaker A: 'I’m sorry to hear that. Compatibility issues can be quite frustrating. Let's see if we can find a solution.'
+
+Speaker B: 'Thanks. Also, I noticed an odd behavior where the application crashes occasionally.'
+
+Speaker A: 'That sounds like it might be a bug. Does it happen consistently or under specific conditions?'
+
+Speaker B: 'It usually occurs when I try to run certain reports.'
+
+Speaker A: 'I’ll document that. Meanwhile, could you describe the feature that’s not behaving as expected?'
+
+Speaker B: 'Sure. I was actually impressed with a feature that helps automate reports. It works beautifully most of the time.'
+
+Speaker A: 'That’s great to hear! It’s designed to make things much easier. Once we get these issues sorted, it should work seamlessly.'
+
+Speaker B: 'I hope so. Thanks for your help.'
+
+Speaker A: 'You’re welcome. Let’s get this fixed for you.'"

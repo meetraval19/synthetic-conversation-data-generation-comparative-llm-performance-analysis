@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Strategy and Action Plan Development",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "neutral"
+        }
+    ]
+}

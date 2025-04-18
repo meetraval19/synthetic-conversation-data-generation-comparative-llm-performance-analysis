@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Tool or Platform Comparison",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

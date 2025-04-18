@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Shared Decision",
+            "sentiment": "negative"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Debt-to-Equity Ratio Assessment",
+            "sentiment": "negative"
+        }
+    ]
+}

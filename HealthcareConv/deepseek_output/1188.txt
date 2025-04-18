@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Documentation Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "neutral"
+        }
+    ]
+}

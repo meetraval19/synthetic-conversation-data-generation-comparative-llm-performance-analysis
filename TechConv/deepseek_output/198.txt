@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Performance Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "positive"
+        }
+    ]
+}

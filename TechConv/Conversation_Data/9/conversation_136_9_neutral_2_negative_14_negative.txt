@@ -1,0 +1,18 @@
+"Speaker A: 'Thank you for participating in this interview. Let's start with your experience with the testing phases of the software.'
+
+Speaker B: 'Sure, I found the testing process quite thorough. It seemed well-structured, although it didn't have any unexpected outcomes.'
+
+Speaker A: 'That's good to hear. Moving on, have you experienced any issues with the software's performance?'
+
+Speaker B: 'Unfortunately, yes. The load times were quite disappointing, especially during peak usage hours.'
+
+Speaker A: 'I see. It's crucial for us to address those performance issues. How do you feel about the application's ability to analyze user data?'
+
+Speaker B: 'Honestly, I'm not impressed. The analytics feature often seems to miss key insights, which makes it hard to justify its use.'
+
+Speaker A: 'Thank you for sharing that perspective. We'll definitely look into improving those aspects. Is there anything else you'd like to add?'
+
+Speaker B: 'No problem, I'm just hoping for improvements soon. Consistency in performance would be a great start.'
+
+Speaker A: 'Absolutely, and thank you for your valuable feedback. We’re committed to making the necessary changes.'"
+

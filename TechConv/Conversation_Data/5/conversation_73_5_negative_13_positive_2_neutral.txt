@@ -1,0 +1,17 @@
+"Speaker A: 'Thanks for joining the demo today. Let's start with how our software can streamline your operations.'
+
+Speaker B: 'Great, I’m interested. But I heard there are concerns about how the product might evolve over the next couple of years.'
+
+Speaker A: 'I understand your worries. Currently, our roadmap is receiving some adjustments based on recent feedback, which might seem uncertain. However, we’re actively addressing this to ensure our direction aligns with user needs.'
+
+Speaker B: 'That’s good to hear. What about the flexibility with software licenses? Our team needs something adaptable.'
+
+Speaker A: 'Absolutely, our licensing options are one of our key strengths. We offer a flexible access system, making it easy for your team to adjust as needed without additional complications.'
+
+Speaker B: 'Fantastic, that’s exactly what we’re looking for. Another point I need clarity on is the software's performance under heavy workloads. Any insights?'
+
+Speaker A: 'Performance is consistent, and we’ve conducted numerous benchmarks to ensure stability during peak operations. Of course, results can vary based on infrastructure, but overall, the process remains efficient.'
+
+Speaker B: 'That’s reassuring. Thanks for the detailed overview — it's been very informative.'
+
+Speaker A: 'My pleasure. If you have more questions or need further details, feel free to reach out. We’re here to support you every step of the way.'"

@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

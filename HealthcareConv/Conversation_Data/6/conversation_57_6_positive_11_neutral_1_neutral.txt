@@ -1,0 +1,15 @@
+"Speaker A: 'I see you've been referred to a specialist, and everything seems to be moving smoothly.'
+
+Speaker B: 'Yes, the coordination between my primary care doctor and the specialist has been seamless. It's been a relief not having to worry about that.'
+
+Speaker A: 'That's wonderful to hear. Now, regarding the health information you've been given, do you find it clear and easy to understand?'
+
+Speaker B: 'It's a lot to take in, but the brochures and online resources are helpful. I appreciate having different formats to learn from.'
+
+Speaker A: 'I'm glad they're useful. If you ever need more clarification, just let us know. Now, about the symptoms you've been experiencing, do you notice any changes lately?'
+
+Speaker B: 'Not really. Everything's pretty much the same as before.'
+
+Speaker A: 'Okay, that's a good point of reference for us. We'll continue monitoring together, and if anything changes, we'll adjust as needed.'
+
+Speaker B: 'Thanks. It's reassuring to have this support.'"

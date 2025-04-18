@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Internal Controls and Governance",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Tax Implication Review",
+            "sentiment": "positive"
+        }
+    ]
+}

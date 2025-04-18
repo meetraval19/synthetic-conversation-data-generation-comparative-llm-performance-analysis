@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "negative"
+        }
+    ]
+}

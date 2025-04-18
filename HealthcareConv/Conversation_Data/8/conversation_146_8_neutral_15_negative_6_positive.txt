@@ -1,0 +1,19 @@
+"Speaker A: 'Let's start with an update on the patient's care plan. Any changes we should be aware of?'
+
+Speaker B: 'No major changes at the moment. We're maintaining the current regimen and monitoring progress closely.'
+
+Speaker A: 'Good to hear. Now, about our approach to engaging the patient in decision-making, there have been some challenges.'
+
+Speaker C: 'I agree. The patient seems hesitant and it's impacting our ability to make progress. We might need a different strategy to gain their trust and collaboration.'
+
+Speaker B: 'It's tough when decisions aren't fully collaborative. It can really stall improvement.'
+
+Speaker A: 'Absolutely. On a brighter note, how's the referral process going for specialized care?'
+
+Speaker C: 'Actually, it's been smooth. We've got great communication with the specialists, and appointments are set up promptly.'
+
+Speaker B: 'That's reassuring! Ensuring seamless coordination is crucial, and it seems like this aspect is running well.'
+
+Speaker A: 'It's definitely a positive aspect of our care coordination, and it's nice to have that part functioning effectively.'
+
+Speaker C: 'Agreed. A well-handled referral process really supports comprehensive care delivery.'"

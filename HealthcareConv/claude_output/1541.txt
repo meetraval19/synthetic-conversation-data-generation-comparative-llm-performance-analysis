@@ -1,0 +1,26 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Side Effects",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Medical History",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

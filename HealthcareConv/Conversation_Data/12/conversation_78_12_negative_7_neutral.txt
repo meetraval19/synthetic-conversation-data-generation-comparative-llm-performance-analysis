@@ -1,0 +1,15 @@
+"Speaker A: 'I took a look at your medical records, and I noticed some inconsistencies.'
+
+Speaker B: 'That sounds concerning. Is it a big issue?'
+
+Speaker A: 'It can be a bit frustrating when the paperwork isn't as clear as it should be. It makes the review process harder for us and can delay treatment plans.'
+
+Speaker B: 'I understand. Is there anything I can do to help clarify things?'
+
+Speaker A: 'For now, just keeping a record of any symptoms you experience will help. On a different note, how do you feel about the communication with our team?'
+
+Speaker B: 'I think it's been okay. I usually get updates on time, but sometimes the messages are mixed.'
+
+Speaker A: 'That's good to hear, though it’s important we keep it consistent. We'll continue to work on improving this aspect.'
+
+Speaker B: 'Thanks. I appreciate the transparency and efforts to make everything run smoothly.'"

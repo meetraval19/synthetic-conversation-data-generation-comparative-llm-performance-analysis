@@ -1,0 +1,17 @@
+"Speaker A: 'How have you been feeling since your last appointment?'
+
+Speaker B: 'Pretty good, thanks. I've noticed that the team here works really well together. It makes a big difference in my care.'
+
+Speaker A: 'I'm glad to hear that! We emphasize good communication among our team to ensure you get the best care possible.'
+
+Speaker B: 'It shows. However, I did face some challenges in accessing the new medication you prescribed.'
+
+Speaker A: 'I'm sorry to hear that. Sometimes there are barriers like insurance approvals or pharmacy issues. Let's see how we can address those.'
+
+Speaker B: 'That would be helpful, thank you. Also, I wanted to make sure I fully understood my diagnosis from last time.'
+
+Speaker A: 'Of course, let's go over it again to ensure everything is clear. It’s important that you feel confident in your understanding.'
+
+Speaker B: 'I appreciate that. It feels reassuring to know I have a clear picture of my health.'
+
+Speaker A: 'Absolutely, clear communication about your diagnosis is crucial for effective treatment and peace of mind.'"

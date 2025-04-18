@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "negative"
+        }
+    ]
+}

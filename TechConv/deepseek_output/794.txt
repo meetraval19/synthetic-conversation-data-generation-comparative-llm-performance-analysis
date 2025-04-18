@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "negative"
+        }
+    ]
+}

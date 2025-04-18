@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Shared Decision",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "positive"
+        }
+    ]
+}

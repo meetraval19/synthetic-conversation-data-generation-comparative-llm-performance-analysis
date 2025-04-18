@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "positive"
+        }
+    ]
+}

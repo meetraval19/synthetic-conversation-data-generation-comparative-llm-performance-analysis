@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Tax Implication Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Liquidity Risk Evaluation",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Medical History",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "negative"
+        }
+    ]
+}

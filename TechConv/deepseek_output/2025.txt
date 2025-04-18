@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "positive"
+        }
+    ]
+}

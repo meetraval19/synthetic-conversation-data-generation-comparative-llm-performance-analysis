@@ -1,0 +1,17 @@
+"Speaker A: 'Thank you for calling Tech Support. How can I assist you today?'
+
+Speaker B: 'Hi, I’ve been experiencing some issues with my application crashing unexpectedly. It’s getting quite frustrating.'
+
+Speaker A: 'I’m sorry to hear that. Let’s work through it together. Could you describe what happens before the crash?'
+
+Speaker B: 'Sure, usually after I try to access the main interface, the screen freezes, and then it crashes. It’s been quite disruptive.'
+
+Speaker A: 'I understand. We’ll figure this out. Can you provide some system configuration details? Knowing the specs might help pinpoint the cause.'
+
+Speaker B: 'Absolutely! I’m running the latest OS on a 16GB RAM setup, and I have plenty of storage. Everything is up-to-date.'
+
+Speaker A: 'That’s great to hear. Having such a robust setup makes troubleshooting much easier. Let me check if there are any known compatibility issues.'
+
+Speaker B: 'Thanks! I hope we can resolve this soon.'
+
+Speaker A: 'We’re on it. It’s always a priority to ensure applications run smoothly on solid configurations like yours.'

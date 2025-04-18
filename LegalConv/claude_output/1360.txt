@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Confidentiality and Privilege",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "neutral"
+    }
+  ]
+}

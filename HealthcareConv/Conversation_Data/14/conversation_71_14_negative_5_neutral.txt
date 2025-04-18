@@ -1,0 +1,11 @@
+"Speaker A: 'Thanks for referring the patient to me. I noticed they've been experiencing some adverse reactions recently.'
+
+Speaker B: 'Yes, the side effects were quite concerning, especially after the latest treatment. It’s crucial we address that promptly.'
+
+Speaker A: 'Absolutely. It's important to minimize any discomfort. I'll adjust the medication plan and closely monitor the reactions.'
+
+Speaker B: 'Great approach. We should also schedule a follow-up soon.'
+
+Speaker A: 'Definitely. A follow-up will help assess the effectiveness of any changes we make.'
+
+Speaker B: 'Agreed. Consistent check-ins are essential in ensuring the patient’s well-being and adapting treatment as needed.'"

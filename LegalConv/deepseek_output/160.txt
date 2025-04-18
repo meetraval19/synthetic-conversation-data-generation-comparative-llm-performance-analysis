@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

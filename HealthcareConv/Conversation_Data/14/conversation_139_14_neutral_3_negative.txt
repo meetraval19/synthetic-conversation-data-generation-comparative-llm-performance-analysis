@@ -1,0 +1,19 @@
+"Speaker A: 'I’ve been feeling a bit off lately. Could it be related to my medication?' 
+
+Speaker B: 'It’s possible. Some side effects are quite common with the treatment you’re on. Have you noticed anything specific?'
+
+Speaker A: 'Just the usual fatigue and occasional headaches, nothing too alarming.'
+
+Speaker B: 'That sounds typical. However, let’s take a closer look at your medications.'
+
+Speaker A: 'Sure, I’ve been a bit worried about how everything might be interacting.'
+
+Speaker B: 'Given the mix you’re taking, there could be some concerns. We might need to adjust the doses or perhaps substitute one or two of them.'
+
+Speaker A: 'Is it normal to have these kinds of issues even after finding the right dose initially?'
+
+Speaker B: 'Unfortunately, yes. The body can respond differently over time, and that’s why regular reviews are important.'
+
+Speaker A: 'Makes sense. I just want to be sure everything is working as it should.'
+
+Speaker B: 'Absolutely, your health is our main priority. Let's discuss some alternatives that might suit you better.'"

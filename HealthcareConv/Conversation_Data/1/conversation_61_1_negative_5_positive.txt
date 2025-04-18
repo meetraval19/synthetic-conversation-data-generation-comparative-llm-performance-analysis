@@ -1,0 +1,11 @@
+"Speaker A: 'Hello, glad to see you today. How have you been feeling since our last visit?'  
+Speaker B: 'Hi, Doctor. I've still been experiencing the discomfort we talked about, especially in the evenings.'  
+Speaker A: 'I understand that's concerning. Let's assess those symptoms together.'  
+Speaker B: 'Yes, it’s been quite bothersome. I was hoping for some improvement by now.'  
+Speaker A: 'I appreciate you sharing that. It’s important to address these issues thoroughly. Now, onto your progress—how has the new medication regimen been for you?'  
+Speaker B: 'Actually, I think it’s starting to help a bit, and I’m hopeful it’ll get even better over time.'  
+Speaker A: 'That’s great to hear! I’m optimistic that we’ll continue making positive progress. Following up regularly is crucial, so let's schedule our next appointment.'  
+Speaker B: 'Sounds good. I’ll make sure to keep track of my symptoms till then.'  
+Speaker A: 'Excellent plan. Stay in touch if anything changes, and we’ll get you feeling better soon.'  
+Speaker B: 'Will do, thank you for your support.'  
+Speaker A: 'You're welcome. Take care until next time.'"

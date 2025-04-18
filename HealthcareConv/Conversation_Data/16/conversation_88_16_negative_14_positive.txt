@@ -1,0 +1,15 @@
+"Speaker A: 'I just reviewed the patient's file, and I'm concerned about how their diagnosis was explained to them.'
+
+Speaker B: 'Yes, I noticed the same. They seemed confused about their condition after the last consultation.'
+
+Speaker A: 'Clear communication is crucial. Misunderstandings can lead to unnecessary stress for the patient.'
+
+Speaker B: 'Absolutely. On a brighter note, they’ve been responding well to the new medication.'
+
+Speaker A: 'That’s good to hear. I’ve heard the side effects are much milder compared to other treatments.'
+
+Speaker B: 'Exactly, which has made a significant difference in their quality of life.'
+
+Speaker A: 'It’s comforting to know we have more patient-friendly options available.'
+
+Speaker B: 'Definitely. Let's make sure we address any lingering questions they have at their next visit.'"

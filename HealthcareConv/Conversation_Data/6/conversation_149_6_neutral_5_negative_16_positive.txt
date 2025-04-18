@@ -1,0 +1,19 @@
+"Speaker A: 'We've implemented some changes in how we manage referrals between departments. It's been quite smooth so far.'
+
+Speaker B: 'That's good to hear. Streamlining that process can really help reduce confusion.'
+
+Speaker A: 'Exactly, and it ensures patients get the timely care they need.'
+
+Speaker B: 'On another note, we've noticed some issues with patient follow-ups. There's been an increase in missed appointments.'
+
+Speaker A: 'That’s unfortunate. It can really impact patient outcomes. We need to find better strategies to engage them.'
+
+Speaker B: 'I agree, maybe we can explore some tech solutions to prompt them with reminders.'
+
+Speaker A: 'That could help. Now, on a brighter note, our efforts in improving how we communicate diagnoses have been remarkably effective.'
+
+Speaker B: 'I've noticed! Patients seem much more at ease and informed during consultations.'
+
+Speaker A: 'Yes, enhancing clarity and empathy in those discussions is making a big difference.'
+
+Speaker B: 'It's essential for fostering trust and understanding between healthcare providers and patients.'"

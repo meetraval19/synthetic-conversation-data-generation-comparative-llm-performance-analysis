@@ -1,0 +1,17 @@
+"Speaker A: 'I wanted to go over your recent test results with you before discharge.'
+
+Speaker B: 'I hope everything's alright. I've been worried about those.'
+
+Speaker A: 'I understand. Unfortunately, the results were not as positive as we hoped, indicating there's still some concern.'
+
+Speaker B: 'That's disappointing to hear. What are the next steps?'
+
+Speaker A: 'We'll schedule a follow-up appointment to monitor your condition closely. It's essential to keep an eye on things.'
+
+Speaker B: 'That makes sense. When should I come back?'
+
+Speaker A: 'In about two weeks. We want to ensure we're addressing everything properly without causing any unnecessary stress.'
+
+Speaker B: 'Alright, I'll make sure to be there. Thank you for explaining this.'
+
+Speaker A: 'Of course. We're here to support you through the process.'"

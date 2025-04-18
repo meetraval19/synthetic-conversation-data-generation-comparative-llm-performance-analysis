@@ -1,0 +1,13 @@
+"Speaker A: 'Thanks for joining the demo today. How have your current tools been working for the team?'
+
+Speaker B: 'Honestly, the comparison with other platforms hasn’t been great. We often run into limitations that are frustrating.'
+
+Speaker A: 'I understand. Our solution aims to address those roadblocks and offer more flexibility. Let me show you how.'
+
+Speaker B: 'Interesting, but how does it handle support issues? We need reliable escalation paths.'
+
+Speaker A: 'Great question. Our support process is designed to be straightforward. You get a dedicated contact to handle any issues, ensuring they’re resolved efficiently.'
+
+Speaker B: 'That sounds reassuring. It’s important for us to have a neutral, clear path for resolution.'
+
+Speaker A: 'Absolutely, we prioritize minimizing downtime and keeping the system running smoothly for your team.'"

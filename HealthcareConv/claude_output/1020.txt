@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Medication Review",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

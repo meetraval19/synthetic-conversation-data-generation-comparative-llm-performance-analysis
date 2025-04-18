@@ -1,0 +1,12 @@
+"Speaker A: 'I've heard there have been some challenges in our team's communication recently.'  
+Speaker B: 'Yes, unfortunately, the handoffs between departments haven't been very smooth.'  
+Speaker A: 'That definitely complicates things, especially when we're trying to ensure the best care for our patients.'  
+Speaker B: 'Absolutely, and it's important we address this soon.'  
+
+Speaker A: 'On a different note, how are we handling the evaluations for patient referrals?'  
+Speaker B: 'The process is fairly consistent. We rely on multiple criteria to ensure accuracy.'  
+Speaker A: 'It's crucial to have a balanced approach, though it can be quite time-consuming.'  
+Speaker B: 'Indeed, but it's necessary for thorough risk assessments.'  
+
+Speaker A: 'I agree, each step is crucial for patient safety.'  
+Speaker B: 'Yes, and improving communication will certainly make everything more efficient as well.'"

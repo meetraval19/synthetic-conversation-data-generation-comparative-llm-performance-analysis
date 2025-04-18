@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Care Barriers",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Test Results",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "positive"
+        }
+    ]
+}

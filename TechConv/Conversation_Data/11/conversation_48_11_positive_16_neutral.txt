@@ -1,0 +1,14 @@
+"Speaker A: 'So, how did you find the initial setup and training for our new platform?'
+
+Speaker B: 'Oh, it was fantastic! The tutorials were clear and really set me up for success right from the start.'
+
+Speaker A: 'That’s wonderful to hear. We put a lot of effort into making the process as smooth as possible. Now, how do you feel about the tools we provide for team projects?'
+
+Speaker B: 'They’re decent. I think the tools work, but sometimes it feels like there’s a bit of a disconnect between departments. It’s not bad, just something we notice occasionally.'
+
+Speaker A: 'I understand. Seamless communication across teams is something we’re continually working to improve. Any other thoughts?'
+
+Speaker B: 'Well, more integrated communication features could enhance collaboration. But overall, it's manageable.'
+
+Speaker A: 'I appreciate your feedback. It’s important to us that these aspects meet your expectations.'"
+

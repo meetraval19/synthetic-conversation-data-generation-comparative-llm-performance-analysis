@@ -1,0 +1,19 @@
+“Speaker A: 'During your recent performance review, we discussed how you maintain thorough patient records.'
+
+Speaker B: 'Yes, I make sure every detail of the patient’s past treatments is accurately documented. It helps in keeping everything in check.'
+
+Speaker A: 'Exactly, having a complete overview of medical history is crucial, though it doesn’t typically stand out as an exciting aspect of our work.'
+
+Speaker B: 'I agree, but moving on, your approach to evaluating patient risks has been commendable. Your proactive measures are truly beneficial.'
+
+Speaker A: 'Thank you! I always try to incorporate the latest guidelines and tools into my assessments. It’s rewarding to see positive outcomes from that effort.'
+
+Speaker B: 'It definitely shows. However, there have been concerns around how diagnoses are being communicated to patients.'
+
+Speaker A: 'I understand. I’ve been reflecting on the feedback about that. It's challenging to convey complex information succinctly without overwhelming them.'
+
+Speaker B: 'Patients do indicate that they find some explanations a bit confusing. Perhaps focusing on clearer, simpler messaging might help.'
+
+Speaker A: 'Absolutely, I’ll work on simplifying my language and ensuring patients have ample opportunity to ask questions.'
+
+Speaker B: 'That’s a step in the right direction. Improving in this area will enhance patient satisfaction greatly.'”

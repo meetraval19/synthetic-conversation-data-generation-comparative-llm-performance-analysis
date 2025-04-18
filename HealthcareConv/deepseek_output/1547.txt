@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Side Effects",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Referral Coordination",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Shared Decision",
+            "sentiment": "positive"
+        }
+    ]
+}

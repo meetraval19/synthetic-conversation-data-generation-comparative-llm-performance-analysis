@@ -1,0 +1,24 @@
+Based on the conversation provided, I've identified the following topics and their associated sentiments:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Team Communication",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

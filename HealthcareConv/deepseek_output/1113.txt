@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "positive"
+        }
+    ]
+}

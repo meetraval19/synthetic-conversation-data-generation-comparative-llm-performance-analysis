@@ -1,0 +1,13 @@
+"Speaker A: 'The patient's diagnosis was communicated efficiently during the team meeting.'
+
+Speaker B: 'Yes, it was clear and concise. I think everyone appreciated the straightforward breakdown.' 
+
+Speaker A: 'Absolutely. Now, regarding the barriers to care, we made some great progress in reducing them.'
+
+Speaker B: 'I agree. Implementing the new telehealth services has really expanded access for our patients, especially those in remote areas.'
+
+Speaker A: 'It's encouraging to see how many more patients we can support now. And on the topic of educating patients, what are your thoughts on the new materials we provided?'
+
+Speaker B: 'The feedback has been really positive. Patients seem to appreciate the interactive tools and the information is more accessible.'
+
+Speaker A: 'That's fantastic to hear. Empowering patients with knowledge is crucial for their journey.'"

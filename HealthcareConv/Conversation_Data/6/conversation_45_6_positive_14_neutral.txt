@@ -1,0 +1,21 @@
+"Speaker A: 'I'm glad you're here for your follow-up. How have things been since your specialist visit?'
+
+Speaker B: 'Actually, the whole process was quite smooth. The coordination between your office and the specialist was seamless.'
+
+Speaker A: 'I'm pleased to hear that. We always strive to make sure things go smoothly for our patients. How are you feeling about the treatment plan they recommended?'
+
+Speaker B: 'It’s been going alright, though I've noticed a few minor issues.'
+
+Speaker A: 'What kind of issues?'
+
+Speaker B: 'Just some mild side effects, like a bit of fatigue and slight nausea.'
+
+Speaker A: 'That's fairly common. It's important to monitor how you're feeling and keep us updated.'
+
+Speaker B: 'Absolutely, I’ll keep track and let you know if anything more concerning comes up.'
+
+Speaker A: 'Sounds good. If all continues well, we’ll keep the current plan in place. But don’t hesitate to reach out if anything changes.'
+
+Speaker B: 'Thanks, I appreciate your support and guidance throughout this process.'
+
+Speaker A: 'Of course, that’s what we're here for. Your health and comfort are our top priorities.'"

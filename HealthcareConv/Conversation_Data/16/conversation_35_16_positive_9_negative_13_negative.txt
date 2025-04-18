@@ -1,0 +1,19 @@
+"Speaker A: 'I'm glad to let you know that we've thoroughly reviewed your tests, and the results are quite encouraging.'
+
+Speaker B: 'That's a relief to hear. It's always stressful waiting for those kinds of updates.'
+
+Speaker A: 'I understand. It's always best to communicate clearly about what's going on. Now, about the potential risks, I do need to mention some concerns.'
+
+Speaker B: 'Concerns? That sounds worrisome...'
+
+Speaker A: 'It's important to be upfront. While everything looks good for now, there are certain factors we will keep monitoring closely to ensure your ongoing health.'
+
+Speaker B: 'I appreciate you being honest. Better to be aware than caught off guard.'
+
+Speaker A: 'Exactly. Lastly, let's discuss your discharge plan. I wish it could be more straightforward, but we have a bit of coordination to do.'
+
+Speaker B: 'It sounds complicated. What makes it so difficult?'
+
+Speaker A: 'It's mostly about making sure you have the right support and follow-up in place. It's essential to avoid any potential setbacks after you leave.'
+
+Speaker B: 'I hope everything falls into place smoothly. It's a lot to process, but I'm ready to do what's necessary.'"

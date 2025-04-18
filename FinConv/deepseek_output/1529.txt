@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Internal Controls and Governance",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

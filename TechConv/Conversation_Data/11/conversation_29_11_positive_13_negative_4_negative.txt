@@ -1,0 +1,19 @@
+"Speaker A: 'Good morning, everyone! I wanted to start by saying how well the onboarding sessions have been going. The feedback has been really positive.'
+
+Speaker B: 'Absolutely, the new team members are catching on quickly thanks to those comprehensive sessions.'
+
+Speaker C: 'That’s great to hear. However, we’re hitting some roadblocks with the licensing issues. It's been quite a hassle obtaining the necessary permissions.'
+
+Speaker A: 'Yes, I’ve heard similar concerns. We need to address these access rights challenges with the vendor as soon as possible.'
+
+Speaker B: 'In addition to that, there’s been trouble with system compatibility. The integration of our platforms isn’t as smooth as we hoped, causing delays.'
+
+Speaker C: 'I agree. We need to find a solution to these integration problems quickly or they might affect the timeline of our project.'
+
+Speaker A: 'I’ll talk to the tech support team to see if there’s a workaround for these compatibility issues. Let’s prioritize resolving this.'
+
+Speaker B: 'Thanks, I think that could really help. Meanwhile, if there's anything else that comes up in the onboarding that needs adjustment, let us know.'
+
+Speaker C: 'Will do. It’s good to see the positive impact of training despite the other hurdles.'
+
+Speaker A: 'Yes, let’s keep the momentum going with onboarding, and tackle the other issues with the same energy.'"

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "negative"
+        }
+    ]
+}

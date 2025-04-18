@@ -1,0 +1,17 @@
+"Speaker A: 'I'm glad you've decided to visit us. Let's start by discussing the support available for your case.'
+
+Speaker B: 'Sure, I'm aware there're various options, but I'm curious about how they are accessed.'
+
+Speaker A: 'Typically, these services are easy to connect with through our referral program. It’s designed to make the process neutral and straightforward for patients and their families.'
+
+Speaker B: 'That sounds helpful. Now, are there any hurdles I should be worried about during this process?'
+
+Speaker A: 'Actually, one of the best parts of our system is how it breaks down barriers to care. We've incorporated efficient steps to ensure a positive experience for everyone involved.'
+
+Speaker B: 'That's reassuring to hear. How do you handle the continuity of care? I think that’s crucial to a patient's recovery and well-being.'
+
+Speaker A: 'Follow-up is a top priority. We ensure personalized care plans and maintain ongoing communication, which usually has a positive impact on recovery outcomes.'
+
+Speaker B: 'That’s great. I appreciate how you address these concerns effectively. It gives me confidence in referring more patients here.'
+
+Speaker A: 'We're always here to support. Let me know if you have any more questions or need assistance with the referral process.'"

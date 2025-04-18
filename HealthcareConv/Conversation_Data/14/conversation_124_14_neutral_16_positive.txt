@@ -1,0 +1,21 @@
+"Speaker A: 'Good morning! Let's go over your discharge plan. Overall, how are you feeling about the condition we've been managing?'
+
+Speaker B: 'Honestly, I'm grateful for how clearly everything was explained. The way you communicated the diagnosis really put me at ease.'
+
+Speaker A: 'I’m glad to hear that. Clear communication is important to us. Now, about your medication, have you noticed any side effects?'
+
+Speaker B: 'A few minor things, like occasional dizziness, but nothing too concerning.'
+
+Speaker A: 'That’s something we can monitor. Dizziness can be common, but it’s usually manageable. Remember you're not alone; we’re here if anything escalates.'
+
+Speaker B: 'Thank you. It’s reassuring to know there’s support, and understanding the plan makes a big difference.' 
+
+Speaker A: 'Absolutely, and we’ll continue to keep an eye on everything. You should always feel comfortable reaching out with any questions.'
+
+Speaker B: 'I appreciate that, it's nice to feel heard and understood in this process.'
+
+Speaker A: 'It’s our goal to support you fully. We’ll schedule follow-up calls to ensure everything goes smoothly.' 
+
+Speaker B: 'Sounds perfect. Thanks again for helping me feel confident about this transition.'
+
+Speaker A: 'You’re very welcome. We’re always here to assist. Have a great day!'"

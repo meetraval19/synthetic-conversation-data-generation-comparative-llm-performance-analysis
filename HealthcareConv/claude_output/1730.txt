@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Diagnosis Communication",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

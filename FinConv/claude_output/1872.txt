@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Interest Rate Impact Analysis",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "neutral"
+    }
+  ]
+}

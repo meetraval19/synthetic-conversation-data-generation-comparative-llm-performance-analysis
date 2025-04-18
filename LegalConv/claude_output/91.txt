@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "negative"
+    }
+  ]
+}

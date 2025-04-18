@@ -1,0 +1,17 @@
+"Speaker A: 'How have you been feeling since starting the new medication?'
+
+Speaker B: 'Surprisingly well! I was worried about side effects, but I've had none so far.'
+
+Speaker A: 'That's great to hear. It's always a relief when medications work smoothly.'
+
+Speaker B: 'Absolutely. I was expecting some dizziness or fatigue, but it's been quite the opposite.'
+
+Speaker A: 'Wonderful news. Let's discuss your upcoming follow-up. It’s important to keep monitoring your progress.'
+
+Speaker B: 'Sure, I'm curious about what to expect during the appointment.'
+
+Speaker A: 'We'll do some basic checks and see if any adjustments are needed, but it should be straightforward.'
+
+Speaker B: 'Sounds good. I appreciate your guidance along the way.'
+
+Speaker A: 'Of course, always here to help ensure you're on the best path to recovery.'"

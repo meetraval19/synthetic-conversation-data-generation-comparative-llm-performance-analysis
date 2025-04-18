@@ -1,0 +1,19 @@
+"Speaker A: 'Hello, Doctor. I've been feeling more tired than usual lately.'
+
+Speaker B: 'I see. Let's go over your care plan and see if any adjustments might be needed.'
+
+Speaker A: 'I was hoping the plan would help, but it hasn't changed much in terms of how I feel.'
+
+Speaker B: 'I'm sorry to hear that. We might need to explore some different options. It's important to find something that works for you.'
+
+Speaker A: 'Thanks, I really hope we can find a solution soon.'
+
+Speaker B: 'Absolutely. Now, let's take a look at your medical history to see if there are any patterns that might give us more insight.'
+
+Speaker A: 'Sure, though I think everything's been pretty consistent over the years.'
+
+Speaker B: 'That's true, and having that background can help us pinpoint what might be contributing to your current symptoms.'
+
+Speaker A: 'I just want to find a way to feel better.'
+
+Speaker B: 'We'll work together on that. Let's review a few more details, and I'll consider some alternatives for your care plan.'"

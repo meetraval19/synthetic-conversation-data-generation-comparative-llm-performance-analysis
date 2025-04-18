@@ -1,0 +1,23 @@
+"Speaker A: 'Hi, thanks for seeing me today.'
+
+Speaker B: 'Of course. We should discuss your recent test results first.'
+
+Speaker A: 'Is everything okay? I was a bit worried about what they might show.'
+
+Speaker B: 'There were some unexpected findings. It's not ideal, but we have a clear path forward.'
+
+Speaker A: 'I appreciate you being straightforward. At least we caught it early, right?'
+
+Speaker B: 'Exactly. On a good note, the team communication about your case has been excellent. Everyone is on the same page.'
+
+Speaker A: 'That’s reassuring. It's good to know they’re all collaborating well.'
+
+Speaker B: 'Absolutely. This teamwork allows us to focus on crafting an effective treatment plan.'
+
+Speaker A: 'Great. Knowing you all have a well-thought-out approach helps me feel more at ease.'
+
+Speaker B: 'We’re optimistic about the plan, and we’ll keep adjusting as needed.'
+
+Speaker A: 'Thank you. I feel more confident moving forward with all this support.' 
+
+Speaker B: 'We’re here for you every step of the way.'"

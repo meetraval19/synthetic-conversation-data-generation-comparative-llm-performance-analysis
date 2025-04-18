@@ -1,0 +1,19 @@
+"Speaker A: 'I'm really glad we are focusing on a shared approach when deciding the next steps for the patient.' 
+
+Speaker B: 'Absolutely, involving the patient in decision-making always leads to better outcomes.' 
+
+Speaker A: 'Have we considered how we're educating the patient about their condition? It's crucial for their understanding.'
+
+Speaker B: 'Yes, we’ve provided them with all the necessary information, but it’s a lot to take in. Hopefully, it's clear enough.'
+
+Speaker A: 'For sure, sometimes the complexity can be overwhelming. Now, about the treatment plan—did you notice any concerns when discussing it?'
+
+Speaker B: 'Yes, there are a few challenges with the current plan. There’s some hesitation from the patient due to potential side effects.'
+
+Speaker A: 'That’s unfortunate but understandable. We might need to explore alternative options if they're uncomfortable.’
+
+Speaker B: 'Agreed. It’s essential to ensure they feel confident moving forward with any plan.' 
+
+Speaker A: 'Let’s coordinate another discussion with the patient to address these concerns thoroughly.'
+
+Speaker B: 'Definitely, a fresh approach might help alleviate their worries.' "

@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "positive"
+    }
+  ]
+}

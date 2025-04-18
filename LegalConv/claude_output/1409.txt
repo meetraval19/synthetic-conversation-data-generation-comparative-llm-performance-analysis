@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Witness Identification and Preparation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Timeline and Key Deadlines",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

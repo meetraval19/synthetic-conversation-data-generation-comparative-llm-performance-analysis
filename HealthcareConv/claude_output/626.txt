@@ -1,0 +1,24 @@
+Based on the conversation provided, I've analyzed the underlying themes and their respective sentiments:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Medical History",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Documentation Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

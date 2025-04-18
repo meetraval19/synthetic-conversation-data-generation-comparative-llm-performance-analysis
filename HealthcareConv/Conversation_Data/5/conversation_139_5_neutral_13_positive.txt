@@ -1,0 +1,21 @@
+"Speaker A: 'Hi there, how have you been since your last visit?'
+
+Speaker B: 'I’ve been okay, just trying to keep up with all the follow-up instructions.'
+
+Speaker A: 'That’s understandable. Keeping track of appointments can be a bit tedious.'
+
+Speaker B: 'Yes, but I feel like I’m managing. I wanted to ask about the next steps after my discharge.'
+
+Speaker A: 'I’m glad you brought that up. We’re seeing excellent progress, and your discharge planning looks promising.'
+
+Speaker B: 'That’s great to hear! It's reassuring that everything is moving in the right direction.'
+
+Speaker A: 'Absolutely. We’ll ensure that you have all the resources you need for a smooth transition back home.'
+
+Speaker B: 'Thank you, that really puts my mind at ease.'
+
+Speaker A: 'You’re welcome. Do you have any other questions or concerns?'
+
+Speaker B: 'No, I think that covers it for now. I appreciate the support and guidance.'
+
+Speaker A: 'Anytime. We’re here to help whenever you need it.'"

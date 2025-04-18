@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Technical Documentation Reference",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

@@ -1,0 +1,13 @@
+"Speaker A: 'I see you've been doing quite well since your last check-up. Your recovery has been remarkable.'
+
+Speaker B: 'Thank you! I've been sticking to the plan and feel much better. It's nice to see progress.'
+
+Speaker A: 'That's fantastic to hear. Consistency is key. However, I've heard that there were some issues with communication between departments during your last visit. Was everything sorted out?'
+
+Speaker B: 'Not entirely. There was some confusion about my lab results and it took a while to get them. It was a bit stressful.'
+
+Speaker A: 'I'm sorry to hear that. Improving team communication is something we're actively working on. I'll make sure to follow up so it doesn't happen again.'
+
+Speaker B: 'I appreciate that. Aside from that, the staff has been great, and I'm grateful for the care.'
+
+Speaker A: 'I’m glad to hear you're satisfied with the care. Let's keep focusing on what we're doing right, and I’ll ensure we address the communication hiccups moving forward.'"

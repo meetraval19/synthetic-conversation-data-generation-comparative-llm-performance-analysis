@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Testing and Validation Status",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "negative"
+        }
+    ]
+}

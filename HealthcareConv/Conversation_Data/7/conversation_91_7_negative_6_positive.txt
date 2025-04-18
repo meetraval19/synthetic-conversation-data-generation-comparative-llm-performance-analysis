@@ -1,0 +1,17 @@
+"Speaker A: 'I noticed some gaps in communication during the patient handover this morning.'
+
+Speaker B: 'Yes, it seems that our current communication system isn’t as efficient as it could be. Perhaps we need better protocols in place.'
+
+Speaker A: 'Exactly. It sometimes feels like vital information gets lost in translation. We should address this in our next meeting.'
+
+Speaker B: 'Agreed. On a brighter note, I’ve seen significant improvement with our referral coordination efforts.'
+
+Speaker A: 'Definitely. The new system for tracking referrals and follow-ups has been a real game-changer.'
+
+Speaker B: 'Having integrated electronic systems has really streamlined the process, making patient transitions much smoother.'
+
+Speaker A: 'It's great to see how the team has adapted to the new systems so seamlessly. It really benefits patient care.'
+
+Speaker B: 'Absolutely! Still, we should keep working on our communication strategies to match the efficiency of our referral process.'
+
+Speaker A: 'For sure. Once we improve this, we’ll be able to provide even better care to our patients.'"

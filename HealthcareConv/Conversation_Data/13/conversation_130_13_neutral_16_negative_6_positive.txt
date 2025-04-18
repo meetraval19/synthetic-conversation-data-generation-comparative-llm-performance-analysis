@@ -1,0 +1,21 @@
+"Speaker A: 'Let's start with the discharge planning updates. How are we progressing there?'
+
+Speaker B: 'It's going smoothly as expected. The new protocol doesn’t seem to have caused any major issues.'
+
+Speaker A: 'That's good to hear. Moving on, I've heard there have been concerns about how we're communicating diagnoses to patients.'
+
+Speaker B: 'Yes, unfortunately, there have been some complaints. It seems that the patients often feel overwhelmed or confused by the information.'
+
+Speaker A: 'That's troubling. Clear communication is crucial. Do we have any strategies in place to address this?'
+
+Speaker B: 'We're considering implementing more training for the staff to ensure they can explain complex information more clearly and empathetically.'
+
+Speaker A: 'That sounds like a necessary step. On a brighter note, how’s our referral coordination process going?'
+
+Speaker B: 'Actually, that's been quite successful! Our team has streamlined the process, and patients are receiving specialist care much faster than before.'
+
+Speaker A: 'That's excellent. Coordination can be such a challenge, so it’s great to see improvement there.'
+
+Speaker B: 'Absolutely. It really emphasizes the importance of having a dedicated team managing these transitions.'
+
+Speaker A: 'Agreed. Let’s continue focusing on these improvements while addressing the areas that need more attention.'"

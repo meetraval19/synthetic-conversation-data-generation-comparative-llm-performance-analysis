@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Confidentiality and Privilege",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "neutral"
+    }
+  ]
+}

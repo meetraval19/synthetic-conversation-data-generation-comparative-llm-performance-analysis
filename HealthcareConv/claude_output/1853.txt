@@ -1,0 +1,30 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Medication Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Barriers",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Documentation Review",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

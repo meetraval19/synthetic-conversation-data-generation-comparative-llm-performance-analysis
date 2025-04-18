@@ -1,0 +1,21 @@
+"Speaker A: 'Thanks for coming in today. I wanted to discuss some of the recent lab work.'
+
+Speaker B: 'Of course. I’ve been a bit anxious about what the results might say.'
+
+Speaker A: 'I understand, and I have some not-so-great news about your cholesterol levels. They’re a bit higher than we would like.'
+
+Speaker B: 'Oh, that’s concerning. I was hoping for better news.'
+
+Speaker A: 'I know, but the good news is, with some lifestyle changes, we can improve those numbers. Let’s talk about the risk assessment we discussed last time.'
+
+Speaker B: 'Right, you mentioned looking at my overall health risks. Is there better news there?'
+
+Speaker A: 'Yes, indeed. Despite the cholesterol, your other risk factors came out much better than expected. Your heart and lung function are excellent.'
+
+Speaker B: 'That’s a relief to hear. So, there’s a clear plan forward, then?'
+
+Speaker A: 'Absolutely. With some dietary adjustments and regular exercise, you can significantly lower your cholesterol and further reduce your health risks.'
+
+Speaker B: 'That sounds manageable. Thanks for keeping me positive about this.' 
+
+Speaker A: 'No problem. We’ll monitor your progress and adjust as needed to keep everything on track.'"

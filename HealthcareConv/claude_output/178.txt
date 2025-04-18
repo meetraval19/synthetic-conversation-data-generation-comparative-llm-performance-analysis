@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Diagnosis Communication",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

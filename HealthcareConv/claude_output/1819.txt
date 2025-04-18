@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Medication Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Care Barriers",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

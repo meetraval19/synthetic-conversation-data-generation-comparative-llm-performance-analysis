@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Enforcement and Implementation Issues",
+      "sentiment": "negative"
+    }
+  ]
+}

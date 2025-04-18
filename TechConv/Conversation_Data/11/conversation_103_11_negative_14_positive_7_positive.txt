@@ -1,0 +1,13 @@
+"Speaker A: How have you found the initial setup process with our software?
+
+Speaker B: Honestly, I found it a bit frustrating. The training materials could be clearer.
+
+Speaker A: I understand. We're working on improving that. Moving on, how do you feel about the analytics feature?
+
+Speaker B: Oh, I love it! The insights are detailed and really help in making informed decisions.
+
+Speaker A: That's great to hear! Our team has put a lot of effort into making the metrics valuable. What about your experience with our support team?
+
+Speaker B: They've been fantastic. Quick responses and effective solutions.
+
+Speaker A: That's wonderful feedback. We're committed to maintaining that level of support."

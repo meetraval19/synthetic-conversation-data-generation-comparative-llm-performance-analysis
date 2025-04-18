@@ -1,0 +1,15 @@
+"Speaker A: 'I’ve reviewed your current medication, and it seems like everything is well managed. Your progress over the last few months is impressive.'
+
+Speaker B: 'That's great to hear! It’s reassuring to know the treatment plan is working as expected.'
+
+Speaker A: 'Let’s go over the notes from your last few visits. Everything seems consistent with what we’ve discussed.'
+
+Speaker B: 'I appreciate that. It’s good to have everything documented, even if it’s just for record keeping.'
+
+Speaker A: 'Now, about the test results we discussed last time, there seems to be a bit of a concern. I want to make sure you have all the information you need to understand it.'
+
+Speaker B: 'I was worried about that. The results seemed a bit confusing when I first looked at them. Could you explain a bit more?'
+
+Speaker A: 'Certainly, let’s go through it together to ensure you’re clear on all aspects. We’ll address any questions you have so we can tackle this effectively.'
+
+Speaker B: 'Thank you, I really want to get on top of this and know what steps are next.'"

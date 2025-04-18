@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

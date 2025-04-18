@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Bug or Issue Reporting",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Change Request or Feature Suggestion",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

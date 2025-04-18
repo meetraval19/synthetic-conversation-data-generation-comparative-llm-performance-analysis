@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Security and Privacy Discussion",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

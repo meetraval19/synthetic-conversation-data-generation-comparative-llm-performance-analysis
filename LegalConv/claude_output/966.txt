@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Confidentiality and Privilege",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "positive"
+    }
+  ]
+}

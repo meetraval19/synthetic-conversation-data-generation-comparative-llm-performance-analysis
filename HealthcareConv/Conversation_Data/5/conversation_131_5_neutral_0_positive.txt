@@ -1,0 +1,13 @@
+"Speaker A: 'Looking at the recent case, the follow-up doesn't seem to indicate any major changes for the patient.'
+
+Speaker B: 'Yes, it appears stable. That's good, considering the complexity.'
+
+Speaker A: 'Absolutely. I'm particularly impressed by the patient's medical history. The quick recovery from the previous condition was remarkable.'
+
+Speaker B: 'Agreed. Early intervention definitely played a positive role in that.'
+
+Speaker A: 'Moving forward, should we adjust anything in their follow-up routine?'
+
+Speaker B: 'Not immediately. Continuity seems key here, especially given the stable results.'
+
+Speaker A: 'That makes sense. We'll keep monitoring as planned.'"

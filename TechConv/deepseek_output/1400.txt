@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "neutral"
+        }
+    ]
+}

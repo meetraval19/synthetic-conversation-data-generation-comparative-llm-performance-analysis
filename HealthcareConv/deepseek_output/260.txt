@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "Test Results",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Referral Coordination",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "positive"
+        }
+    ]
+}

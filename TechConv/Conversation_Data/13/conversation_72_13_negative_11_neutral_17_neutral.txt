@@ -1,0 +1,23 @@
+"Speaker A: 'Thanks for joining the demo today. I’d like to start by discussing how our software can benefit your team.'
+
+Speaker B: 'Thanks for having me. One concern I have is the complexity around getting access rights sorted. It always seems like a hassle with new software.'
+
+Speaker A: 'I understand your concern. Our team is actively working to streamline the licensing process, but I acknowledge it's not perfect yet. We are committed to improving this.'
+
+Speaker B: 'That sounds reassuring. Moving on, I was curious about the training process for new users. How straightforward is it?'
+
+Speaker A: 'We offer a comprehensive onboarding program. It’s designed to be flexible depending on your team’s size and needs, ensuring everyone gets comfortable with the software efficiently.'
+
+Speaker B: 'That’s good to hear. I’d want to ensure that the transition is smooth for the whole team.'
+
+Speaker A: 'Absolutely, we prioritize a seamless transition. Let’s also talk about scalability. How do you foresee your infrastructure needs evolving?'
+
+Speaker B: 'Our business is growing, but I’m not sure how the software will integrate with our current systems over time.'
+
+Speaker A: 'Our platform is built to scale alongside your business. It can adapt to increased demands seamlessly, without needing constant reconfigurations.'
+
+Speaker B: 'That’s promising. I appreciate the flexibility your solution offers, even though there are still some concerns about access rights.'
+
+Speaker A: 'Yes, and we're here to provide ongoing support as those concerns are resolved. We value feedback like yours to make our product better.'
+
+Speaker B: 'Thank you. I’m looking forward to seeing how your software can enhance our operations moving forward.'"

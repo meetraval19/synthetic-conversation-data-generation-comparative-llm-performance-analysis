@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Support Services",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Care Barriers",
+            "sentiment": "negative"
+        }
+    ]
+}

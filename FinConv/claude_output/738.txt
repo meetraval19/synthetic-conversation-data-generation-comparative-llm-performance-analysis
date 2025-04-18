@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "negative"
+    }
+  ]
+}

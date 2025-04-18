@@ -1,0 +1,22 @@
+"Speaker A: 'Thank you for participating in this feedback session. Let’s start with how you’ve been finding the usability of the new features in our app.'
+
+Speaker B: 'Honestly, I’ve been finding it a bit confusing. Some functionalities aren’t as intuitive as I hoped.'
+
+Speaker A: 'I see, could you give me an example of where the navigation might feel off?'
+
+Speaker B: 'Sure, like the menu structure. It takes too many steps to find what I’m looking for, especially when I'm in a hurry.'
+
+Speaker A: 'I appreciate your honesty. We're aiming to make it more user-friendly. Moving on, how has your experience been with reaching out to our support when needed?'
+
+Speaker B: 'It's been alright. The response time is decent, but sometimes it feels like issues get passed around before reaching a resolution.'
+
+Speaker A: 'That’s good to know. We’re trying to streamline our process. Did you feel the escalation was managed efficiently?'
+
+Speaker B: 'For the most part, yes. Once it’s escalated, they seem to handle it well, but the initial stages could be smoother.'
+
+Speaker A: 'Thanks for your input. We’ll definitely work on simplifying those initial interactions. Anything else you’d like us to improve?'
+
+Speaker B: 'Just clearer instructions to help new users understand the features better.'
+
+Speaker A: 'That’s valuable feedback. Thank you for your time and insights.'"
+

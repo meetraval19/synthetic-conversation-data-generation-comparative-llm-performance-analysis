@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Interest Rate Impact Analysis",
+      "sentiment": "neutral"
+    }
+  ]
+}

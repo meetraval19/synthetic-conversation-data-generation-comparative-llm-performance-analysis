@@ -1,0 +1,21 @@
+"Speaker A: 'I'm glad to see you're doing well post-discharge. Have any new support services helped you manage your care at home?'
+
+Speaker B: 'Yes, actually. The new community health services have been incredibly helpful. Having easier access to medication and check-ups has made a big difference.'
+
+Speaker A: 'That's wonderful to hear. It's important that those barriers to care are being addressed effectively.'
+
+Speaker B: 'Absolutely. But I did have some concerns last week. There was a moment when I felt something was wrong and considered going to the ER.'
+
+Speaker A: 'I'm sorry to hear that. Emergencies can be stressful. Did something specific trigger that feeling?'
+
+Speaker B: 'I experienced some sharp pains, which worried me. I didn't want it to become a serious issue.'
+
+Speaker A: 'Situations like that can be alarming. It's good to check in if you're unsure. Let’s review your symptoms in detail to see if changes to your care plan are needed.'
+
+Speaker B: 'Thanks. I'd appreciate that. Speaking of plans, does my discharge plan need any adjustments, in light of what happened?'
+
+Speaker A: 'We'll take a closer look. Your current plan is quite comprehensive, but minor tweaks might help prevent any future concerns. Let's review it together.'
+
+Speaker B: 'That sounds good. I'm ready to make any changes necessary for better peace of mind.'
+
+Speaker A: 'Great. Let's get started.'"

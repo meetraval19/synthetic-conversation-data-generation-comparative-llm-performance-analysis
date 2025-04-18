@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Interest Rate Impact Analysis",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Valuation Metrics Discussion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "negative"
+        }
+    ]
+}

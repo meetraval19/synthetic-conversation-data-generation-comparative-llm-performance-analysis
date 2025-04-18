@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Evidence and Documentation Review",
+            "sentiment": "positive"
+        }
+    ]
+}

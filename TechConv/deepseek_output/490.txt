@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Testing and Validation Status",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "positive"
+        }
+    ]
+}

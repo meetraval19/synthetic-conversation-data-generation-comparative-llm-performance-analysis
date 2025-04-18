@@ -1,0 +1,17 @@
+"Speaker A: 'Thanks for taking the time to speak with us. Let's start with how you find the current system setup process.'
+
+Speaker B: 'Honestly, it's a bit challenging. The configuration details are so complex that it often feels frustrating.'
+
+Speaker A: 'I'm sorry to hear that. We're actively looking into simplifying those details. How about the support you received when facing these issues?'
+
+Speaker B: 'The support team is excellent! They handled my escalation very efficiently and were very helpful throughout.'
+
+Speaker A: 'That's great to hear. We've been focusing on improving our support services. Now, about the initial training—how was your experience?'
+
+Speaker B: 'I think the onboarding was okay. It covered the basics well, though a bit more depth wouldn't hurt.'
+
+Speaker A: 'Thanks for your feedback. We'll look into expanding our training program to cover more advanced topics. Is there anything else you'd like to add?'
+
+Speaker B: 'No, I think that covers most of my experiences. I appreciate the opportunity to share my thoughts.'
+
+Speaker A: 'Thank you for your honesty and insights. It's been incredibly helpful!'"

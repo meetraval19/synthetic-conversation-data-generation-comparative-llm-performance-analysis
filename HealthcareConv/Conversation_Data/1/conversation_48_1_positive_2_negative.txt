@@ -1,0 +1,24 @@
+"Speaker A: 'You've been showing great improvement, and your symptoms are much better now.'
+
+Speaker B: 'That's really good to hear! I was worried about the lingering cough.'
+
+Speaker A: 'Yes, it’s definitely a positive sign that you're on the mend. Have you noticed any other changes?'
+
+Speaker B: 'Just a bit more energy than before, which feels nice.'
+
+Speaker A: 'Excellent! However, regarding your recent tests, there are a few things we need to discuss.'
+
+Speaker B: 'Oh, I was hoping everything was clear. What did you find?'
+
+Speaker A: 'There are a couple of areas that need further attention. Some levels are slightly off, which wasn't what we expected.'
+
+Speaker B: 'That’s concerning. What steps should I take next?'
+
+Speaker A: 'We'll closely monitor these results and consider a follow-up visit to ensure everything improves.'
+
+Speaker B: 'Thanks for letting me know. I’ll follow up on that.'
+
+Speaker A: 'Great. Remember, with the right adjustments, we can improve those outcomes as well.'
+
+Speaker B: 'I appreciate your support and guidance.'"
+

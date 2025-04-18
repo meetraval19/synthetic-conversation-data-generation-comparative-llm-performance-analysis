@@ -1,0 +1,19 @@
+"Speaker A: 'Hi, I’m having trouble with the current setup. It seems like the system is not configured properly.'
+
+Speaker B: 'I’m sorry to hear that. Could you describe what’s happening with the configuration?'
+
+Speaker A: 'Well, I tried setting up the new software, but it’s just not cooperating with the current settings.'
+
+Speaker B: 'Sometimes, certain settings can be a bit finicky. Let me check our guidelines to see if there’s a known issue.'
+
+Speaker A: 'Thanks. I really just want to understand how things are supposed to work. It’s a bit confusing.'
+
+Speaker B: 'I get that. Let’s go over the main features together. Which part would you like clarified?'
+
+Speaker A: 'The integration with other tools is a bit unclear to me.'
+
+Speaker B: 'Right, the integration can be tricky. It’s designed to be seamless, but there are some nuances.'
+
+Speaker A: 'I’d appreciate a bit more detail so I can work more efficiently.'
+
+Speaker B: 'Absolutely. I’ll walk you through it step-by-step to clear up any confusion you might have.'"

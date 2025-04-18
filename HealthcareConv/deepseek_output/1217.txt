@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Patient Education",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "positive"
+        }
+    ]
+}

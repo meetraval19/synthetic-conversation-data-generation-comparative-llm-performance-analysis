@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Performance Concerns",
+            "sentiment": "positive"
+        }
+    ]
+}

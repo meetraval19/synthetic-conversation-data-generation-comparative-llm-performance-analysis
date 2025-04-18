@@ -1,0 +1,15 @@
+"Speaker A: 'I’ve been looking at our internal structures, and I'm worried about some gaps in our controls and governance.'
+
+Speaker B: 'Yes, it's concerning. Strengthening those areas is crucial to avoid future issues.'
+
+Speaker A: 'Absolutely. On a different note, did you get a chance to evaluate the recent scenario and sensitivity analyses?'
+
+Speaker B: 'I did. They provide a decent perspective, although they feel like they only cover expected ranges.'
+
+Speaker A: 'True, they’re informative but not groundbreaking. However, after reviewing our financial statements, I noticed we’re performing quite well.'
+
+Speaker B: 'That’s great to hear! Any particular metrics that stood out to you?'
+
+Speaker A: 'Our profit margins and return on investment figures are particularly impressive.'
+
+Speaker B: 'That's encouraging. It’s good to have some positive news amid the governance challenges.'"

@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Security and Privacy Discussion",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Roadmap or Future Plans",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

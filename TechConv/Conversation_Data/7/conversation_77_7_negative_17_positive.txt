@@ -1,0 +1,14 @@
+"Speaker A: 'Thank you for joining this session today. I’d like to start by discussing your experience with our support and escalation process. How has that been for you?'
+
+Speaker B: 'Honestly, I've found it a bit frustrating. The process seems too slow, and sometimes my issues don’t get the escalation they need promptly.'
+
+Speaker A: 'I see. That’s valuable feedback. We’re definitely looking to improve in that area. On a different note, how do you feel about our system’s scalability and infrastructure planning?'
+
+Speaker B: 'Oh, that's been quite impressive. The way our infrastructure has scaled with our needs has been seamless. It’s great to see it adapt so efficiently as we grow.'
+
+Speaker A: 'I’m glad to hear that. We’ve invested a lot in ensuring our systems can handle growth effectively. Is there anything else you’d like us to focus on?'
+
+Speaker B: 'Just ensuring that the escalation process doesn’t fall behind as the infrastructure grows. Keeping those systems aligned is crucial.'
+
+Speaker A: 'Absolutely, we’re working on syncing those components better. Your feedback really helps us prioritize.'"
+

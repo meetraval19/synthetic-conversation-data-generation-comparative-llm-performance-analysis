@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Internal Controls and Governance",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "positive"
+    }
+  ]
+}

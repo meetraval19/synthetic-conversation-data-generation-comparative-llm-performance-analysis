@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "neutral"
+        }
+    ]
+}

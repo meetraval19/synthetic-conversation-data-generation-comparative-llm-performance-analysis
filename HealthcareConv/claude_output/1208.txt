@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Patient Education",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Care Barriers",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

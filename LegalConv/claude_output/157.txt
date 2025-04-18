@@ -1,0 +1,28 @@
+{
+  "topics": [
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Test Results",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

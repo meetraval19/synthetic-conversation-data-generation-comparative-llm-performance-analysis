@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "negative"
+        }
+    ]
+}

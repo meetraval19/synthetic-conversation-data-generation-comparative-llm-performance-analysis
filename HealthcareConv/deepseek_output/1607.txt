@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Shared Decision",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

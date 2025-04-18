@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "neutral"
+        }
+    ]
+}

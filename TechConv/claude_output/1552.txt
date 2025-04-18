@@ -1,0 +1,26 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Tool or Platform Comparison",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

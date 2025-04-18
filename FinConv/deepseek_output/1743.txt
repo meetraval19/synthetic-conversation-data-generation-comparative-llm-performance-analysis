@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Negotiation of Financial Terms",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Internal Controls and Governance",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "neutral"
+        }
+    ]
+}

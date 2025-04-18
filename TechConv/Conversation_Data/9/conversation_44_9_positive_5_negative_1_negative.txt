@@ -1,0 +1,21 @@
+"Speaker A: 'Thank you for calling tech support. How can I assist you today?'
+
+Speaker B: 'Hi, I’m having an issue with the latest update. It seems a few features aren’t working as expected.'
+
+Speaker A: 'I’m sorry to hear that. We’re aware of some issues reported and are actively working on solutions. Have you had a chance to check the testing insights we shared recently?'
+
+Speaker B: 'Yes, I did. It’s great to see the results highlighted and the steps toward improvement.'
+
+Speaker A: 'We’re pleased with the progress and always aim to validate thoroughly before releases. It’s gratifying when users notice.'
+
+Speaker B: 'While that’s reassuring, I’m curious about future plans. The roadmap seems a bit unclear right now.'
+
+Speaker A: 'I understand your concern. There have been some delays affecting our timeline. We strive to provide clarity as soon as possible but must address current issues first.'
+
+Speaker B: 'I hope that gets sorted soon. Reporting the bug was straightforward, but the frequency of issues is troubling.'
+
+Speaker A: 'We appreciate your feedback and apologize for any inconvenience. Your reports are crucial in helping us prioritize fixes.'
+
+Speaker B: 'Thanks, I hope the resolutions are in sight shortly.'
+
+Speaker A: 'Absolutely, we’re on it and appreciate your patience and understanding.'"

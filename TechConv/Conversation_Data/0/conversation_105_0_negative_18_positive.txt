@@ -1,0 +1,25 @@
+"Speaker A: 'Thank you for calling Tech Support. How can I assist you today?'
+
+Speaker B: 'Hi, I'm having some issues understanding how to properly use the new feature in your software.'
+
+Speaker A: 'I’m sorry to hear that. Could you elaborate on what aspect is confusing you?'
+
+Speaker B: 'Well, it just seems like it's supposed to streamline my tasks, but it ends up complicating them.'
+
+Speaker A: 'I understand your frustration. We’ve had feedback on this feature and our team is working on an update to improve usability.'
+
+Speaker B: 'I appreciate that. Another concern of mine relates to ensuring that we stay compliant with the latest regulatory requirements.'
+
+Speaker A: 'Absolutely, we’ve prioritized making compliance straightforward with our system. The recent update was specifically designed to support these regulatory needs.'
+
+Speaker B: 'That's reassuring to hear. Regulations change so often, it's good to know that you’re keeping up.'
+
+Speaker A: 'We take compliance very seriously and want to ensure our users can trust our solutions for their regulatory needs.'
+
+Speaker B: 'That’s great. I hope the functionality issues get sorted out soon.'
+
+Speaker A: 'We’re on it. Please feel free to reach out if you have any more questions or need further assistance.'
+
+Speaker B: 'Thanks for your help today.'
+
+Speaker A: 'You’re welcome! Have a great day.'"

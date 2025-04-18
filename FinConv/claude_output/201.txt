@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "negative"
+    }
+  ]
+}

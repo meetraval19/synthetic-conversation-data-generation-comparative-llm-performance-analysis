@@ -1,0 +1,25 @@
+"Speaker A: 'Let's start by going over the medications you're currently taking.'
+
+Speaker B: 'Sure, I've been on the same prescriptions for a while, but I'm not sure if they're still effective.'
+
+Speaker A: 'We can review that today. It's important to evaluate if they're meeting your needs.'
+
+Speaker B: 'I appreciate that. I sometimes feel like sticking to my therapy routine is tough, though.'
+
+Speaker A: 'Adhering to treatment can definitely be challenging. What's been difficult for you?'
+
+Speaker B: 'Mainly keeping track when I'm feeling fine. The routine feels overwhelming sometimes.'
+
+Speaker A: 'That's understandable. Let's see if we can find a way to make it more manageable for you.'
+
+Speaker B: 'Thanks, that would be great.'
+
+Speaker A: 'On a positive note, how's your experience been with our healthcare team?'
+
+Speaker B: 'Actually, really good. Everyone's been very supportive and communicates well.'
+
+Speaker A: 'I'm glad to hear that. Team communication is crucial for providing the best care.'
+
+Speaker B: 'Definitely. It makes a big difference in how comfortable I feel.'
+
+Speaker A: 'We aim to maintain that standard. Let's make sure we work out a plan that supports you best.'"

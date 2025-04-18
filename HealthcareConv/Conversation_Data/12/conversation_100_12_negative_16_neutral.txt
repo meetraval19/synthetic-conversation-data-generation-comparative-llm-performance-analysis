@@ -1,0 +1,17 @@
+"Speaker A: 'I've noticed that the paperwork for the patient referrals has been quite overwhelming recently.'
+
+Speaker B: 'I agree, the amount of documentation we need to review is staggering. It's really time-consuming.'
+
+Speaker A: 'Yes, it eats into the time we could be spending with patients. Hopefully, there'll be a more efficient system soon.'
+
+Speaker B: 'I hope so, but until then, we have to manage as best as we can.'
+
+Speaker A: 'Regarding our patient communication, how are you finding the current protocols for discussing diagnoses?'
+
+Speaker B: 'I find them quite standardized, which is generally fine, but they don't leave much room for personalization.'
+
+Speaker A: 'That's true. However, they do ensure clarity and prevent misunderstandings.'
+
+Speaker B: 'Absolutely, patients do seem to appreciate the straightforward approach.'
+
+Speaker A: 'Yes, it's all about finding a balance between efficiency and patient care.'"

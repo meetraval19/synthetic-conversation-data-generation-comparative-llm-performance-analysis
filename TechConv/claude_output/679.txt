@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "System Configuration Details",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Roadmap or Future Plans",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

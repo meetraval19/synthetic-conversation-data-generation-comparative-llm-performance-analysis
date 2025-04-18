@@ -1,0 +1,15 @@
+"Speaker A: 'Last time, we discussed your treatment options. How are you feeling about the choices we made?'
+
+Speaker B: 'Honestly, I felt a bit overwhelmed during the decision-making process. It seemed tough to navigate it all.'
+
+Speaker A: 'I'm sorry to hear that. We can always revisit any decisions if you feel unsure. It's important that you are comfortable with the plan.'
+
+Speaker B: 'I appreciate that. On a brighter note, I haven't noticed any major side effects since starting the new medication.'
+
+Speaker A: 'That's great to hear! Minimizing side effects is always a win. How has your daily routine been affected by the medication?'
+
+Speaker B: 'Actually, I've been able to stick to my usual activities without much interference, which is a relief.'
+
+Speaker A: 'Wonderful. If there’s anything else you need to discuss or adjust, just let me know. Your comfort is our priority.'
+
+Speaker B: 'Thank you. I'll definitely reach out if anything changes. It's reassuring to know there’s room for flexibility in the treatment plan.'"

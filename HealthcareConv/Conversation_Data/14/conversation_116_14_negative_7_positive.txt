@@ -1,0 +1,15 @@
+"Speaker A: 'We've received the latest reports from the clinical trial, and it seems the new medication is showing some adverse reactions.'
+
+Speaker B: 'Yes, the feedback about those reactions was concerning. It looks like a significant subset of patients experienced increased nausea.'
+
+Speaker A: 'We need to address this immediately to ensure patient safety. Perhaps revisiting the dosage might help mitigate these reactions.'
+
+Speaker B: 'Agreed. On the brighter side, our team's communication has been outstanding throughout the trial.'
+
+Speaker A: 'Absolutely! The coordination between the departments has really streamlined our processes.'
+
+Speaker B: 'It's been really encouraging to see everyone sharing insights so proactively. It's made a big difference in how quickly we've been able to respond to any issues.'
+
+Speaker A: 'Let's continue to build on that collaboration while we address the side effect concerns. Together, I’m confident we can find a solution.'
+
+Speaker B: 'Definitely. By maintaining this level of communication, we can ensure better outcomes for future trials as well.'"

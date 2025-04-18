@@ -1,0 +1,15 @@
+"Speaker A: 'I've noticed the team has improved the way they communicate diagnoses to patients.'
+
+Speaker B: 'Absolutely, clear communication really helps patients feel more informed and at ease.'
+
+Speaker A: 'How are we doing with our follow-up procedures? I think there are still some areas to refine.'
+
+Speaker B: 'I agree. Our system can be more consistent. It's neither great nor terrible right now.'
+
+Speaker A: 'And regarding therapy adherence, are patients sticking to their treatment plans?'
+
+Speaker B: 'It's been steady. Some patients follow their plans closely, while others require more encouragement. It's a bit of a mixed bag.'
+
+Speaker A: 'Perhaps we could engage them more with reminders or check-ins.'
+
+Speaker B: 'That might help, making it easier for them to stay on track without feeling overwhelmed.'"

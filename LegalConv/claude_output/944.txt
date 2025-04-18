@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Enforcement and Implementation Issues",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "positive"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

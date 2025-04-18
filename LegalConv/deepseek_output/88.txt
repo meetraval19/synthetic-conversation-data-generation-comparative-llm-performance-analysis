@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "negative"
+        }
+    ]
+}

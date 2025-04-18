@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "negative"
+        }
+    ]
+}

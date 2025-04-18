@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "negative"
+        }
+    ]
+}

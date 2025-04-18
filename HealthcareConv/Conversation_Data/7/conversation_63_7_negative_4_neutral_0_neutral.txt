@@ -1,0 +1,21 @@
+"Speaker A: 'Hi, Doctor! Thanks for meeting with me today.'
+
+Speaker B: 'Of course, I'm glad we could catch up. How have you been feeling since our last appointment?'
+
+Speaker A: 'I'm doing okay. I’ve been following the treatment plan you suggested. How do you think it's working for me?'
+
+Speaker B: 'The treatment plan is steady, but we'll need ongoing monitoring to adjust as necessary. How have you found the routines?'
+
+Speaker A: 'They're manageable, though I get a bit worried sometimes. I also noticed the communication among the healthcare team seems a bit off. It’s been hard to get the information I need.'
+
+Speaker B: 'I apologize for any confusion. Our team has been facing some challenges recently, but we're working to improve the communication. I'll ensure you get the information more smoothly.'
+
+Speaker A: 'Appreciate that. One last thing, could you review my medical history? Just want to make sure there’s nothing we've overlooked.'
+
+Speaker B: 'Certainly. Your medical history hasn't shown any new concerns, so we remain on course with the current approach. We'll keep monitoring everything closely.'
+
+Speaker A: 'Thanks, Doctor. That reassures me.'
+
+Speaker B: 'You're welcome. Don't hesitate to reach out if you have further questions. Our team is here to support you.'
+
+Speaker A: 'Thanks again, Doctor. I’ll do just that.'"

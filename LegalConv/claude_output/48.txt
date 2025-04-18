@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "positive"
+    }
+  ]
+}

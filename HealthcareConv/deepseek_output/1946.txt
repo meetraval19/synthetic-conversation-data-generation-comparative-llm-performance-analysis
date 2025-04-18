@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Support Services",
+            "sentiment": "positive"
+        }
+    ]
+}

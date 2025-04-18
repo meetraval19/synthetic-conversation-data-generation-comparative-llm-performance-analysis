@@ -1,0 +1,15 @@
+"Speaker A: 'One of the standout features of our software is how seamlessly it integrates into your existing processes. The onboarding experience is smooth and intuitive, which has been a huge positive for all our clients.'
+
+Speaker B: 'That sounds promising. How long does the training typically take?'
+
+Speaker A: 'Most teams feel confident in just a couple of days. We've built comprehensive guides and interactive sessions to ensure that your team can hit the ground running.'
+
+Speaker B: 'Great to hear. As far as understanding performance, how does the software handle data and analytics?'
+
+Speaker A: 'We offer a robust set of tools for data analysis. You can review performance metrics, generate reports, and even customize dashboards.'
+
+Speaker B: 'That sounds useful. Do you have anything to show regarding recent data insights?'
+
+Speaker A: 'Absolutely. The insights are designed to provide a clear and straightforward review, enabling neutral analysis without overwhelming detail. Would you like a demo of this feature?'
+
+Speaker B: 'Yes, I’d appreciate seeing it in action. It sounds like something we could use to maintain clarity in our reporting processes.'"

@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "neutral"
+        }
+    ]
+}

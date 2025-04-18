@@ -1,0 +1,25 @@
+"Speaker A: 'Hello, thank you for calling our technical support. How can I assist you today?'
+
+Speaker B: 'Hi, I noticed something unusual while using the application. It's not a big deal, but I wanted to report it.'
+
+Speaker A: 'We appreciate you bringing it to our attention. Could you describe what's happening?'
+
+Speaker B: 'Sure, the app occasionally freezes, but it doesn't impact my work too much.'
+
+Speaker A: 'Alright, we'll look into it. Meanwhile, have you noticed any change in the app's performance overall?'
+
+Speaker B: 'Actually, yes! It's running much faster since the recent update, which has been great for productivity.'
+
+Speaker A: 'That's wonderful to hear. We've been focusing on optimizing the performance, so it's nice to see it making a difference.'
+
+Speaker B: 'Absolutely, but I'm still concerned about how we’ll handle more users in the future.'
+
+Speaker A: 'I understand your concern. We’re aware that planning for infrastructure scalability is challenging, and we're working on it. It's not perfect as of now.'
+
+Speaker B: 'Glad to hear it's on your radar. Scalability can be tricky, but it's crucial for our growth. Thanks for the update.'
+
+Speaker A: 'You're welcome! If you encounter any more issues or need further assistance, feel free to reach out.'
+
+Speaker B: 'Will do. Thanks for your help today!’
+
+Speaker A: 'My pleasure! Have a great day.'"

@@ -1,0 +1,17 @@
+"Speaker A: 'It's great to see you're recovering well since your discharge. How are you feeling about the plan we set up when you left the hospital?'
+
+Speaker B: 'Honestly, I'm quite pleased with it. The guidance and resources you provided have been really helpful in my recovery.'
+
+Speaker A: 'I'm glad to hear that. Now, regarding your care team, have you noticed any changes or had any concerns about how you communicate with them?'
+
+Speaker B: 'Not really. Everyone seems to be on the same page. No major issues, but sometimes I do wish updates were a bit more frequent.'
+
+Speaker A: 'I understand. Consistent communication is vital. We'll work on ensuring that you're kept in the loop more regularly.'
+
+Speaker B: 'Thanks, that would be great. Also, I was going over the medical documents you provided. Everything looks fine, but I had a few questions about some of the terms.'
+
+Speaker A: 'Of course, it can be a lot to digest. Feel free to ask anything, and I'll explain it as clearly as I can.'
+
+Speaker B: 'Appreciate that. Your explanations always help me understand better.'
+
+Speaker A: 'Happy to assist. Let's dive into your questions and get those clarified for you.'"

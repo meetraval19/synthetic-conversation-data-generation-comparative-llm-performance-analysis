@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Asset Allocation Strategy",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "positive"
+    }
+  ]
+}

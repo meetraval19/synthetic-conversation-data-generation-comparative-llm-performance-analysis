@@ -1,0 +1,19 @@
+"Speaker A: 'Before you leave, let's discuss the medications you've been prescribed during your stay.'
+
+Speaker B: 'I appreciate it, but honestly, I'm a bit worried about some of the side effects.'
+
+Speaker A: 'I understand your concerns. We can review them and adjust if necessary.'
+
+Speaker B: 'That would be great. I've felt a bit off since starting a new one.'
+
+Speaker A: 'We can definitely look into it. Now, regarding any emergency situations, do you feel prepared on what to do?'
+
+Speaker B: 'Yes, the steps you outlined make me feel more at ease.'
+
+Speaker A: 'That's reassuring. Remember, you can always reach out if something feels wrong.'
+
+Speaker B: 'I will. It's comforting to know there's a clear plan in place.'
+
+Speaker A: 'Glad to hear that. Let's ensure your transition home is as smooth as possible.'
+
+Speaker B: 'Thank you for all your help. It’s been really comprehensive.'"

@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Technical Documentation Reference",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

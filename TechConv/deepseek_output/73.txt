@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "neutral"
+        }
+    ]
+}

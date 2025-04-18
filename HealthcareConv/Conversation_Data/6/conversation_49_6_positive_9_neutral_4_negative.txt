@@ -1,0 +1,23 @@
+"Speaker A: 'I'm glad to see you today. How have you been since your last visit?'
+
+Speaker B: 'I've been doing well, thanks. I must say, I'm really happy with how smoothly the coordination with the specialist went. It was a lot easier than I expected to schedule everything.'
+
+Speaker A: 'That’s wonderful to hear. Our team works hard to ensure referrals are as seamless as possible.'
+
+Speaker B: 'Yeah, it made a big difference. Now, about the risk factors we discussed last time, are there any updates?'
+
+Speaker A: 'Based on your latest results, things are stable. No significant changes, but we should keep monitoring as we go.'
+
+Speaker B: 'That's a relief. I appreciate knowing what's going on, even when it's just maintaining the status quo.'
+
+Speaker A: 'Absolutely, staying informed is important. Now, regarding your current treatment, are you having any hesitations or concerns?'
+
+Speaker B: 'To be honest, I’ve been feeling a bit discouraged. It seems like progress is slower than expected and it's getting frustrating.'
+
+Speaker A: 'I understand how that might be frustrating. We may need to reassess some aspects of the treatment to see if adjustments can improve things.'
+
+Speaker B: 'That sounds like a good idea. Hopefully, we can make some tweaks to get better results.'
+
+Speaker A: 'Of course, let's work together on it. Your feedback is really important to us.' 
+
+Speaker B: 'Thank you. It’s reassuring to know there's a plan and support moving forward.'"

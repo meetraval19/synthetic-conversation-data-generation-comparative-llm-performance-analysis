@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "neutral"
+        }
+    ]
+}

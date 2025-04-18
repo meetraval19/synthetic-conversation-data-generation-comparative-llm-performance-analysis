@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "negative"
+        }
+    ]
+}

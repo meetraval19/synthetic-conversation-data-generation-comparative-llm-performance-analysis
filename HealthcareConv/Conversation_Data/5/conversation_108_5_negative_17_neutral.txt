@@ -1,0 +1,19 @@
+"Speaker A: 'I noticed that you missed your last appointment. Is there a reason for the delay?'
+
+Speaker B: 'Yes, scheduling the follow-up has been a bit challenging. It feels like these follow-ups are never-ending and hard to manage.'
+
+Speaker A: 'I understand, and it can be frustrating. We’ll try to streamline the process for you.'
+
+Speaker B: 'Thanks, that would help. I just hope it doesn't become more complicated with new tests and assessments.'
+
+Speaker A: 'Speaking of challenges, have you encountered any issues accessing the care you need?'
+
+Speaker B: 'Not really, but navigating the system can be confusing at times. It hasn't been a major obstacle though.'
+
+Speaker A: 'That's good to hear. Let’s work together to ensure everything stays smooth for you.'
+
+Speaker B: 'I appreciate that. Could we go over the next steps to keep things clear?'
+
+Speaker A: 'Absolutely, we'll outline everything and keep communication open to avoid any barriers.'
+
+Speaker B: 'Thank you, that makes me feel more at ease about my treatment plan.'"

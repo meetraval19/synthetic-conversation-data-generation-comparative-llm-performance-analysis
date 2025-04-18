@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Applicable Laws and Regulations",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "positive"
+        }
+    ]
+}

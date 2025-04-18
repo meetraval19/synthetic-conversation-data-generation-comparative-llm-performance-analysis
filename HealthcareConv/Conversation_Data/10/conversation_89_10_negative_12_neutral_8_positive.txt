@@ -1,0 +1,23 @@
+"Speaker A: 'I noticed in your recent documentation that some sessions were missed. Can you tell me more about that?'
+
+Speaker B: 'Yeah, I’ve been struggling with keeping up. It’s been hard to stick to the therapy as planned.'
+
+Speaker A: 'I understand. Maintaining routine, especially in therapy, can be challenging. Let’s see how we can make it more manageable for you.'
+
+Speaker B: 'That would be great. I feel like I’m falling behind.'
+
+Speaker A: 'I’ve also reviewed your latest records, and everything seems to align with previous findings. There aren’t any major changes there, which is a good sign.'
+
+Speaker B: 'Okay, that’s reassuring. I was worried there might be something new.'
+
+Speaker A: 'On a brighter note, we have a new care plan proposal for you, which might make things easier. It’s designed to give more flexibility and support.'
+
+Speaker B: 'That sounds promising. I could use any changes that make sticking to the plan easier.'
+
+Speaker A: 'I believe this update will really help. We’ll focus on integrating activities you enjoy and setting achievable goals.'
+
+Speaker B: 'That’s encouraging. I’m ready to give it a try as long as it’s adaptable to my schedule.'
+
+Speaker A: 'Absolutely, it’s tailored to help you succeed. We’ll adjust as needed and measure progress along the way.'
+
+Speaker B: 'I appreciate that. It makes me hopeful about continuing with the process.'"

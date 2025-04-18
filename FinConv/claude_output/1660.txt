@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Interest Rate Impact Analysis",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Valuation Metrics Discussion",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Investment Performance Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Market Conditions Impact",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Strategic Financial Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

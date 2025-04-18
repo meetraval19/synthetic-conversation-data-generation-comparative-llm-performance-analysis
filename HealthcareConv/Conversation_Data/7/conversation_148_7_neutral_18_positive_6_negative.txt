@@ -1,0 +1,19 @@
+"Speaker A: 'How did everyone think the communication went during today’s emergency situation?'
+
+Speaker B: 'I think the team worked well with the information we had. Keeping everyone updated was crucial.'
+
+Speaker A: 'Agreed, staying on the same page helped us manage the situation effectively.'
+
+Speaker C: 'Yes, and I noticed our protocols for emergency alerts really made a positive difference.'
+
+Speaker A: 'Absolutely, having those guidelines in place allowed us to address the concerns efficiently.'
+
+Speaker B: 'On a different note, I noticed some challenges with coordinating patient referrals.'
+
+Speaker C: 'Yes, it was frustrating at times. Delays in the referral system can create bottlenecks.'
+
+Speaker A: 'We definitely need to revisit the referral process for future incidents.'
+
+Speaker B: 'For sure, ensuring smooth transitions between departments is critical for patient care.'
+
+Speaker C: 'Overall, though, I’m glad we could keep the emergency under control. Great teamwork, everyone!'"

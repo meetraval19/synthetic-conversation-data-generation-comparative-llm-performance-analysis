@@ -1,0 +1,30 @@
+"Speaker A: 'So, how have you been feeling since your last appointment?'
+
+Speaker B: 'Honestly, I'm a bit concerned about the new medication. I've been experiencing some side effects.'
+
+Speaker A: 'I'm sorry to hear that. Can you describe the side effects you've been experiencing?'
+
+Speaker B: 'I've had a lot of fatigue, and it's been difficult to concentrate.'
+
+Speaker A: 'That doesn't sound ideal. We'll need to review your current prescription and see if an adjustment or alternative is necessary.'
+
+Speaker B: 'I appreciate that. It's been frustrating trying to manage these side effects.'
+
+Speaker A: 'I can understand. Let's make it a priority to address this.'
+
+Speaker B: 'Thank you. I've also encountered some issues with access to care. Scheduling appointments has been challenging.'
+
+Speaker A: 'That's unfortunately common. Sometimes, the system can be a bit daunting.' 
+
+Speaker B: 'Yes, it feels like jumping through hoops just to get things set up.'
+
+Speaker A: 'Let's see if we can streamline things for you, perhaps by arranging follow-ups electronically or coordinating with your pharmacy.'
+
+Speaker B: 'That would be helpful. It would certainly simplify things.' 
+
+Speaker A: 'Great, let's work on that. Anything else that's been on your mind?'
+
+Speaker B: 'No, that covers the main concerns.'
+
+Speaker A: 'Alright, we'll tackle these issues together. I'm here to help you feel your best.'"
+

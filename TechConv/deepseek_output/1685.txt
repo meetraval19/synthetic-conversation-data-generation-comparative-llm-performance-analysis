@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "positive"
+        }
+    ]
+}

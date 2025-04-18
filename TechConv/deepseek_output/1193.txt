@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "negative"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+"Speaker A: 'I went through your medical records, and everything looks well-documented. It really helps in tracking your progress over time.'
+
+Speaker B: 'That's good to hear. It gives me peace of mind knowing everything is well-organized.'
+
+Speaker A: 'However, when it comes to your current prescription, there may be some concerns.'
+
+Speaker B: 'Oh? What seems to be the issue?'
+
+Speaker A: 'The side effects you've reported are more significant than expected. We might need to consider adjusting your medication.'
+
+Speaker B: 'I was afraid you might say that. It's been quite uncomfortable dealing with those.'
+
+Speaker A: 'I understand. Let's work together to find a better solution that suits your needs.'
+
+Speaker B: 'Thank you. I appreciate your attention to this issue.'"
+

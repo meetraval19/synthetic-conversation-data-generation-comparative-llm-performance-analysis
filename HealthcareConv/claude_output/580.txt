@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Follow Up",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Barriers",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

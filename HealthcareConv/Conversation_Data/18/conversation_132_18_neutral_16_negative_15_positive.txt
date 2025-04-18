@@ -1,0 +1,19 @@
+"Speaker A: 'I understand you've had quite a day. Are there any immediate concerns you have before discharge?'
+
+Speaker B: 'Not particularly. I think things are stabilized now, which is a relief.'
+
+Speaker A: 'Great to hear. I wanted to discuss the results we found during your stay.'
+
+Speaker B: 'Honestly, the way the diagnosis was initially explained was a bit confusing. It was a lot to take in all at once.'
+
+Speaker A: 'I apologize for that. We aim to ensure clarity, but sometimes it doesn't come across as intended. Let’s go over it again if you'd like.'
+
+Speaker B: 'I’d appreciate that, thank you. It really helps to feel more informed about my condition.'
+
+Speaker A: 'Of course. And regarding your treatment options, we believe you should be a part of the decision-making process.'
+
+Speaker B: 'That's encouraging to hear. Being involved in the choices about my care makes a world of difference.'
+
+Speaker A: 'Absolutely, partnering in your health decisions is key. Let's work together on a plan that suits you best.' 
+
+Speaker B: 'I feel much better about the next steps. Thank you for making this a collaborative effort.'"

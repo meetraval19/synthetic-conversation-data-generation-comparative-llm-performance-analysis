@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "positive"
+    }
+  ]
+}

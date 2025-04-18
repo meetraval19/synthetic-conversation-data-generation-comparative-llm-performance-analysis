@@ -1,0 +1,34 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Test Results",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Referral Coordination",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Diagnosis Communication",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

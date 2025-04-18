@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Shared Decision",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

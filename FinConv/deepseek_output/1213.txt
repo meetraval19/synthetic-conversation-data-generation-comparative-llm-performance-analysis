@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Liquidity Risk Evaluation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

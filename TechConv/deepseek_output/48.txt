@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "positive"
+        }
+    ]
+}

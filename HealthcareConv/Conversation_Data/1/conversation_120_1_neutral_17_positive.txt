@@ -1,0 +1,15 @@
+"Speaker A: 'I see that your symptom assessment shows a lot of improvement. How are you feeling about your progress?'
+
+Speaker B: 'It's been a steady journey, but I'm glad that everything's back to normal. The assessment seemed accurate.'
+
+Speaker A: 'Great to hear! Now, as we discuss your discharge, I wanted to mention some resources we offer to help after you leave.'
+
+Speaker B: 'That sounds helpful. I was concerned about having support once I’m home.'
+
+Speaker A: 'Absolutely, we have programs that tackle common obstacles you might face during recovery. Patients have found them incredibly beneficial.'
+
+Speaker B: 'I appreciate that. It’s comforting to know there are options available to ease the transition.'
+
+Speaker A: 'We aim to ensure you have everything you need for a smooth recovery at home.'
+
+Speaker B: 'Thanks for the reassurance. Knowing that there are solutions makes me feel more confident about my recovery.'"

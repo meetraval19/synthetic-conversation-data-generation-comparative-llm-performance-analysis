@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Technical Documentation Reference",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

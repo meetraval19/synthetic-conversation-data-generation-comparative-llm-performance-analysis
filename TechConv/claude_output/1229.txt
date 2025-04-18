@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "System Configuration Details",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

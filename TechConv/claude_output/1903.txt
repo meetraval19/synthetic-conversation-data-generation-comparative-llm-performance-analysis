@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Technical Documentation Reference",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Security and Privacy Discussion",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

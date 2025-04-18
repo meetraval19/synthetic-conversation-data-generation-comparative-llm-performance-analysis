@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Referral Coordination",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Test Results",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Medication Review",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

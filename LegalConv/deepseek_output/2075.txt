@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Evidence and Documentation Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "neutral"
+        }
+    ]
+}

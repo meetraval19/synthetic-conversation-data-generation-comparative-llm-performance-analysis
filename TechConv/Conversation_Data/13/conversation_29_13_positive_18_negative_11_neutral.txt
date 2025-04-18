@@ -1,0 +1,25 @@
+"Speaker A: 'Hi there! Thanks for calling tech support. How can I assist you today?'
+
+Speaker B: 'Hello! I’ve got a question about setting up a new license for a software we recently purchased.'
+
+Speaker A: 'Great! The good news is that our licensing process is pretty straightforward. You just follow a few simple steps, and you’ll be up and running in no time!'
+
+Speaker B: 'That sounds encouraging. Another thing—I'm concerned about adhering to all the necessary compliance requirements.'
+
+Speaker A: 'I understand. Compliance can be tricky, especially with constantly changing regulations. It’s important to stay updated to ensure everything is in order.'
+
+Speaker B: 'Exactly, it feels like a never-ending saga.'
+
+Speaker A: 'I hear you. Now, regarding your team’s training needs, we do offer a variety of onboarding sessions.'
+
+Speaker B: 'Yeah, I saw those. They seem pretty standard.'
+
+Speaker A: 'Right, they provide the basics and can be useful to get everyone on the same page quickly.'
+
+Speaker B: 'Thanks, this helps a lot. I guess I’ll start with the licensing process and go from there.'
+
+Speaker A: 'Absolutely! If you need further assistance with anything, just give us a call. We’re here to help you.'
+
+Speaker B: 'I appreciate it. Have a good day!'
+
+Speaker A: 'You too!'"

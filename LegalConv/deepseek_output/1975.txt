@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Enforcement and Implementation Issues",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Witness Identification and Preparation",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "neutral"
+        }
+    ]
+}

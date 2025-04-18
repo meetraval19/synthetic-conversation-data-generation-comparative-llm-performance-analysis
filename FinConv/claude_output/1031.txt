@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+"Speaker A: 'How have you been feeling since our last appointment?'
+
+Speaker B: 'I've had my ups and downs. I'm a bit concerned about the follow-up process; it felt a bit stressful trying to get everything scheduled.'
+
+Speaker A: 'I’m sorry to hear that. Scheduling follow-ups can be challenging sometimes. Let me see if we can streamline things for you.'
+
+Speaker B: 'I’d appreciate that. On a brighter note, I’ve been impressed with the support services available. They've been really helpful in managing my treatment.'
+
+Speaker A: 'That’s great to hear! Our support team works hard to be there for patients. Have they been responsive when you’ve reached out?'
+
+Speaker B: 'Yes, they’ve been fantastic. I always get a prompt reply, which eases my mind.'
+
+Speaker A: 'I’m glad they’re meeting your needs. Have you found our communication through the patient portal to be clear and effective?'
+
+Speaker B: 'It’s been pretty straightforward. There were a few times when I didn’t get notifications, but overall, it’s working fine.'
+
+Speaker A: 'Good to know. We aim to communicate effectively as a team, and your feedback is important. We’ll definitely look into those notification issues.'
+
+Speaker B: 'Thanks, that’d be great. It’s been helpful to have everything in one place, despite the follow-up hiccup.'
+
+Speaker A: 'Absolutely. We’ll make adjustments to ensure the process is smoother for you in the future.'
+
+Speaker B: 'Thank you for being understanding. It means a lot.'
+
+Speaker A: 'We’re here to support you every step of the way. Let us know if you need anything else.'
+
+Speaker B: 'I will. Thanks again, doctor.'"

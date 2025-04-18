@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "neutral"
+        }
+    ]
+}

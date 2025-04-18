@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Roadmap or Future Plans",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

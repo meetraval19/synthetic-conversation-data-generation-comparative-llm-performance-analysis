@@ -1,0 +1,15 @@
+"Speaker A: 'I recently reviewed the communication about the patient's diagnosis. It seems clear but straightforward.'
+
+Speaker B: 'Yes, it’s important to keep the information neutral and factual. Talking about the diagnosis precisely helps in setting the stage right.'
+
+Speaker A: 'Absolutely. On a brighter note, the treatment plan looks promising. It's comprehensive and well-structured.'
+
+Speaker B: 'I agree. The plan seems beneficial and offers a great chance for recovery. It's optimistic and carefully detailed.'
+
+Speaker A: 'However, I encountered some difficulties with shared decision-making. The patient seemed hesitant about the options presented.'
+
+Speaker B: 'Yes, I've noticed it can be challenging. Sometimes, when too many options or complexities are involved, the process becomes overwhelming for the patient.'
+
+Speaker A: 'It's something we need to address, perhaps by simplifying choices to make it less daunting.'
+
+Speaker B: 'Absolutely, finding a way to better support the decision process could really help improve their comfort and confidence.'"

@@ -1,0 +1,17 @@
+"Speaker A: 'Thank you for coming in today for your consultation. How have you been finding the support services available to you?'
+
+Speaker B: 'They've been okay. I guess it's helpful to have someone to talk to, but it really depends on who you get on the other line.'
+
+Speaker A: 'That makes sense. Consistency can be a challenge. Now, let's discuss your current medication. Have you noticed any improvements since the last adjustment?'
+
+Speaker B: 'Actually, yes! I've been feeling much better lately. The new regimen seems to be making a real difference.'
+
+Speaker A: 'I'm really glad to hear that. It sounds like we're on the right track. If this progress continues, we can look forward to even more positive results.'
+
+Speaker B: 'Absolutely. It's reassuring to know the adjustments are working.'
+
+Speaker A: 'Now, about any urgent issues you've faced recently... Have there been any situations where you've felt you needed immediate assistance?'
+
+Speaker B: 'Yes, unfortunately. Last week, there was a situation that was quite stressful. I was worried and didn’t know where to turn for immediate help.'
+
+Speaker A: 'I'm sorry to hear that. It's important to have clear guidelines for emergency situations. Let’s explore some options and make sure you feel more prepared going forward.'

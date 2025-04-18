@@ -1,0 +1,21 @@
+"Speaker A: 'Hello, Dr. Smith. I'm here to discuss my recent tests. I've been a bit anxious.'
+
+Speaker B: 'Thanks for coming in. I have your test results here, and unfortunately, they did indicate some concerns we need to address.'
+
+Speaker A: 'I was worried about that. What do you suggest we do next?'
+
+Speaker B: 'Let's first look at how you’ve been feeling lately. Are you experiencing any new symptoms?'
+
+Speaker A: 'Not really. My symptoms have been largely the same, just the usual discomfort.'
+
+Speaker B: 'That matches with what we see, so it's good there’s no worsenings.'
+
+Speaker A: 'That’s a relief at least. So, what options do we have for treatment going forward?'
+
+Speaker B: 'We have several paths to consider. It’s key that we choose together what’s best for you. How do you feel about trying a new medication along with some lifestyle changes?'
+
+Speaker A: 'That sounds like a positive step. I'm glad we can make this decision together.'
+
+Speaker B: 'Absolutely. It's important that you're comfortable and confident with the plan.'
+
+Speaker A: 'Thank you, Dr. Smith. I appreciate your support and guidance.'"

@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Timeline and Key Deadlines",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "positive"
+    }
+  ]
+}

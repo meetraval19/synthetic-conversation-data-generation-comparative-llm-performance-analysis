@@ -1,0 +1,19 @@
+"Speaker A: 'Thanks for coming in today. How have your symptoms been since your last visit?'
+
+Speaker B: 'Honestly, they’re still pretty uncomfortable. I was hoping for more improvement by now.'
+
+Speaker A: 'I'm sorry to hear that. Let’s assess any changes and adjust your treatment plan if needed. We want to get you feeling better.'
+
+Speaker B: 'I really appreciate that. What’s next in your discharge plan?'
+
+Speaker A: 'We'll focus on ensuring you have everything you need when you leave, like medications and follow-up appointments. It should be straightforward.'
+
+Speaker B: 'Sounds good. I just want to make sure everything is clear and manageable when I’m home.'
+
+Speaker A: 'Absolutely, clarity is key. Now, regarding our decisions about your care, is there anything specific you’d like to discuss?'
+
+Speaker B: 'I think having a clear treatment goal would be helpful. Could we decide together on the steps?'
+
+Speaker A: 'Of course. We’ll go over the options together to find what best suits your needs and preferences.' 
+
+Speaker B: 'Thank you. Having a say in my treatment really makes a difference.'"

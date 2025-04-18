@@ -1,0 +1,21 @@
+"Speaker A: 'I'm reviewing your file, and the recent test results show some concerns.'
+
+Speaker B: 'Oh no, what kind of concerns?'
+
+Speaker A: 'There's a slight elevation in certain markers. It’s important to reassess the risks before you leave.'
+
+Speaker B: 'I see, so does that mean I might have to stay longer?'
+
+Speaker A: 'Possibly, but we’re closely monitoring everything. Let’s focus on the positives—your progress so far has been excellent.'
+
+Speaker B: 'That's good to hear! What about after I'm discharged?'
+
+Speaker A: 'We’ll set up a follow-up plan to ensure you continue improving. Regular appointments and check-ins will be part of this.'
+
+Speaker B: 'That sounds reassuring. I like having a clear plan for recovery.'
+
+Speaker A: 'Absolutely. Staying on track with follow-ups will really help. We’re here to support you.' 
+
+Speaker B: 'Thank you, that makes me feel more confident about the next steps.'
+
+Speaker A: 'You're welcome. We want to make sure you're in the best shape as you transition home.'"

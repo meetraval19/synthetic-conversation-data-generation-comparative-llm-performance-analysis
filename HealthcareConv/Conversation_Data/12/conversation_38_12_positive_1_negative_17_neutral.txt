@@ -1,0 +1,19 @@
+"Speaker A: 'I’ve reviewed your discharge documents, and everything looks in order. It's great to see all the progress you’ve made.'
+
+Speaker B: 'That’s reassuring to hear. I’ve been a bit worried about some lingering symptoms, though. They haven't improved much.'
+
+Speaker A: 'I understand your concern. Sometimes symptoms can be persistent. We'll make sure to follow up on that.'
+
+Speaker B: 'I appreciate it. Do you think there’s something more we can do right now?'
+
+Speaker A: 'We’ll definitely keep monitoring it and consider adjustments if needed. Let’s also talk about any obstacles you might face at home regarding your care.'
+
+Speaker B: 'Right, I live on my own, so I’m not sure how I’ll manage all the instructions without extra help.'
+
+Speaker A: 'We can set you up with resources to assist with the transition and ensure you have access to support. How does that sound?'
+
+Speaker B: 'That would be really helpful. I just want to make sure I can handle everything properly once I leave.'
+
+Speaker A: 'Absolutely. We’ll equip you with all the necessary information and contacts. It's important you feel confident about managing your care.'
+
+Speaker B: 'Thank you for making sure I’m not facing this alone.'"

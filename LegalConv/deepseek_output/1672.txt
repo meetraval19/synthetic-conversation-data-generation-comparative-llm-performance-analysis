@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Argument and Case Theory",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "positive"
+        }
+    ]
+}

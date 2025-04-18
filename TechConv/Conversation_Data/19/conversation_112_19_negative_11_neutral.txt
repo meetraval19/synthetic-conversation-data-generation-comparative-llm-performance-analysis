@@ -1,0 +1,18 @@
+"Speaker A: 'Thanks for joining the interview today. I wanted to get your feedback on the various tools you've been using.'
+
+Speaker B: 'Of course. Honestly, I've found comparing different platforms quite frustrating.'
+
+Speaker A: 'I see. Could you expand on that?'
+
+Speaker B: 'Sure, each platform seems to have its own unique set of issues. Some lack crucial features while others are just too complex for what I need.'
+
+Speaker A: 'That sounds challenging. How about the initial onboarding or training when you start using these tools?'
+
+Speaker B: 'I'd say it's a mixed experience. Some have pretty straightforward tutorials, while others leave much to be desired.'
+
+Speaker A: 'So, it’s a mixed bag when it comes to learning how to use them?'
+
+Speaker B: 'Exactly, some resources are useful, others just feel incomplete.'
+
+Speaker A: 'That’s really insightful. It helps us focus on where improvements can be made. Thanks for sharing your thoughts.'"
+

@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "positive"
+        }
+    ]
+}

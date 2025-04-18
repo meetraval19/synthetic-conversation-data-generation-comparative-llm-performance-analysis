@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Team Communication",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "negative"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+"Speaker A: 'Thank you for joining our feedback session. To start, how was your experience with the initial setup and getting accustomed to our technology?'
+
+Speaker B: 'Honestly, I found the onboarding process a bit challenging. It felt overwhelming with all the information at once.'
+
+Speaker A: 'I see, that’s valuable feedback. We aim to enhance the user experience. Moving on, how did you find the process of obtaining the necessary permissions and access rights?'
+
+Speaker B: 'That part was actually quite smooth. I appreciated how straightforward it was to understand the different levels and gain access quickly.'
+
+Speaker A: 'That’s great to hear. We’ve put a lot of effort into simplifying that aspect. Lastly, were there any issues with the configuration or setup of the system?'
+
+Speaker B: 'It was neither here nor there. The configuration options were clear, but I didn’t feel strongly one way or the other about it.'
+
+Speaker A: 'That’s understandable. Thank you for your insights. They’ll be instrumental in guiding future improvements.'"

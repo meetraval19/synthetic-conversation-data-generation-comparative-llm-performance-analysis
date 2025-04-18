@@ -1,0 +1,26 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

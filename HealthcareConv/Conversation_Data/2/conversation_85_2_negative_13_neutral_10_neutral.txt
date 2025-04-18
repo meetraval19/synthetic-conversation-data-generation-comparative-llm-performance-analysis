@@ -1,0 +1,13 @@
+"Speaker A: 'Let's start with the patient's recent test outcomes. It's unfortunate that the results were not as expected.'
+
+Speaker B: 'I agree, the results indicate the treatment isn't working optimally. We may need to adjust the medication regimen.'
+
+Speaker A: 'Indeed. Moving on, we should consider discharge planning. Any thoughts on the timeline given the current condition?'
+
+Speaker B: 'It seems reasonable to hold off for now, but we’ll need to reassess once there is improvement. Coordination with social services might be necessary.'
+
+Speaker A: 'That makes sense. How about therapy adherence? Has there been any feedback from the patient?'
+
+Speaker B: 'The patient seems to be following the therapy schedule adequately, but we should keep monitoring the adherence to ensure continued progress.'
+
+Speaker A: 'Absolutely. Regular check-ins will be essential to maintain the current schedule and catch any issues early.'"

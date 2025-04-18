@@ -1,0 +1,23 @@
+"Speaker A: 'Welcome back! It's great to see you for this follow-up.'
+
+Speaker B: 'Thanks, it's reassuring to have regular check-ins.'
+
+Speaker A: 'I reviewed your test results, and I'm afraid there's some concerning news we need to discuss.'
+
+Speaker B: 'Oh, I was hoping everything would be clear this time.'
+
+Speaker A: 'I understand. The results suggest we need to adjust our approach.'
+
+Speaker B: 'That's disappointing to hear. So, what changes are we looking at?'
+
+Speaker A: 'We’ll need to modify your treatment plan. It seems the current strategy isn’t providing the desired results.'
+
+Speaker B: 'I see, I was worried about that. What are the alternatives?'
+
+Speaker A: 'There are a few options we can explore. We want to ensure we address the underlying issues effectively.'
+
+Speaker B: 'I appreciate that we're taking this seriously. It’s just a lot to take in.'
+
+Speaker A: 'I know it can be overwhelming. Let’s go through each option together and decide what feels best for you.'
+
+Speaker B: 'Thank you for your support and guidance. I really value these conversations.'"

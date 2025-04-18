@@ -1,0 +1,21 @@
+"Speaker A: 'Hi there, how have you been feeling since our last visit?'
+
+Speaker B: 'Overall, much better. But I was frustrated by the amount of paperwork I had to go through for the insurance documentation.'
+
+Speaker A: 'I understand. Dealing with all that can be overwhelming at times. We'll try to streamline that for your next visit.'
+
+Speaker B: 'Thanks, that would be helpful. How about the specialist you mentioned last time?'
+
+Speaker A: 'Yes, regarding the referral, I've coordinated with a specialist. We should be able to set up an appointment soon, but the timing depends on their schedule.'
+
+Speaker B: 'Alright, I can be flexible with that.'
+
+Speaker A: 'Perfect. Now, regarding your current medications, have you noticed any improvements?'
+
+Speaker B: 'Absolutely! The changes you recommended have really made a difference.'
+
+Speaker A: 'That's great to hear. Keep taking them as prescribed, and we can reassess during your next visit to see how everything's going.'
+
+Speaker B: 'Will do. Thanks for your help with everything.'
+
+Speaker A: 'Of course. Feel free to reach out if you have any more questions or concerns.'"

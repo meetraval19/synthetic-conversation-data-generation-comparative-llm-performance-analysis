@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "positive"
+        }
+    ]
+}

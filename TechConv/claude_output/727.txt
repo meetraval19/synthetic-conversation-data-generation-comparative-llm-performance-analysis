@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "negative"
+        }
+    ]
+}

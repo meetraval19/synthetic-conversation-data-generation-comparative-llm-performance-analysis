@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Internal Controls and Governance",
+            "sentiment": "positive"
+        }
+    ]
+}

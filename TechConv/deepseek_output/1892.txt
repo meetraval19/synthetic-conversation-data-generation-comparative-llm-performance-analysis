@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "positive"
+        }
+    ]
+}

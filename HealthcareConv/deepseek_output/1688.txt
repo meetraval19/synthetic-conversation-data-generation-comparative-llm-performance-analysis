@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "neutral"
+        }
+    ]
+}

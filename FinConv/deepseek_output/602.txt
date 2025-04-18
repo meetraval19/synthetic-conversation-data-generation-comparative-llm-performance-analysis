@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "positive"
+        }
+    ]
+}

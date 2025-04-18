@@ -1,0 +1,32 @@
+{
+    "topics": [
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "positive"
+        }
+    ]
+}

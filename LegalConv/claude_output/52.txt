@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Witness Identification and Preparation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "neutral"
+    }
+  ]
+}

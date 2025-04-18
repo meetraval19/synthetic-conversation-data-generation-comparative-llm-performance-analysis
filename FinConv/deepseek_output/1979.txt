@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "positive"
+        }
+    ]
+}

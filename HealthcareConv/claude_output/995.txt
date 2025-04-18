@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Medical History",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Referral Coordination",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

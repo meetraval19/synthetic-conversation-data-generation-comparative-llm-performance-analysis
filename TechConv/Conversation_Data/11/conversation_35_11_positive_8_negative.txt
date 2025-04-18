@@ -1,0 +1,13 @@
+"Speaker A: 'I’m really excited about how our new onboarding process can enhance team skills and productivity.'
+
+Speaker B: 'Absolutely, effective training can make a huge difference in performance and team morale.'
+
+Speaker C: 'While that's true, I'm worried about the current state of our technical manuals. They seem outdated and confusing.'
+
+Speaker A: 'I see your point, but focusing on training might reduce dependence on those documents.'
+
+Speaker B: 'Still, having clear, up-to-date references is crucial for new team members who learn best independently.'
+
+Speaker C: 'Agreed, poor documentation can lead to frustration and inefficiencies, especially for more complex tasks.'
+
+Speaker A: 'Maybe we can prioritize both, but let’s aim to boost our onboarding first to get quick wins while revamping the manuals over time.'"

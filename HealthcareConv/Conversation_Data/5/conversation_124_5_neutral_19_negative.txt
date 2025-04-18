@@ -1,0 +1,12 @@
+"Speaker A: 'I reviewed the patient’s records, and it seems the last follow-up went as expected. The patient reported stable symptoms.'
+
+Speaker B: 'Yes, the follow-up was uneventful. It's good to see consistency in their health status.'
+
+Speaker A: 'However, the patient mentioned some concerns about accessing the support services they need.'
+
+Speaker B: 'That's been an ongoing issue. The availability of these services is limited, leaving patients frustrated.'
+
+Speaker A: 'Exactly. It’s disappointing how the support system fails to meet demands. We should consider discussing alternative resources during our next meeting.'
+
+Speaker B: 'Agreed, it’s crucial to find a solution to help them cope better. Let’s bring it up with the team.'"
+

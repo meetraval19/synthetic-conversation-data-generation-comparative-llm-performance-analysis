@@ -1,0 +1,15 @@
+"Speaker A: 'I was looking over the latest adjustments we’ve made to the care plan.'
+
+Speaker B: 'Yes, the changes seem reasonable. Though, we need to address the follow-up schedule. It hasn't been as effective as we hoped.'
+
+Speaker A: 'You’re right. The current system has been frustrating for many patients. We need a better strategy.'
+
+Speaker B: 'Agreed. Now, regarding the care plan updates, how do you feel about integrating more telehealth options?'
+
+Speaker A: 'That seems like a pragmatic approach. It doesn’t change much right now but might make things smoother.'
+
+Speaker B: 'It does offer flexibility. Lastly, on shared decision-making, I think involving patients more in their treatment choices has been really beneficial.'
+
+Speaker A: 'Absolutely. Patients feel more empowered and engaged with our collaborative approach.'
+
+Speaker B: 'It’s been a positive shift. Hopefully, these changes help improve our overall process.'"

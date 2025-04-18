@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Performance Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "positive"
+        }
+    ]
+}

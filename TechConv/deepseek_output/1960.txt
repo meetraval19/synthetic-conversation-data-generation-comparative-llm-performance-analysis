@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "Performance Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Testing and Validation Status",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "positive"
+        }
+    ]
+}

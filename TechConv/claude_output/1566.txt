@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

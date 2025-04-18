@@ -1,0 +1,13 @@
+"Speaker A: 'Thanks for joining the demo today! One aspect we’re particularly proud of is our customer support and the efficient escalation process we offer.'
+
+Speaker B: 'That sounds promising. How quickly can issues typically be resolved?'
+
+Speaker A: 'Our team aims to resolve most queries within a few hours. For more complex issues, our escalation process is seamless, ensuring expert intervention swiftly.'
+
+Speaker B: 'That's reassuring. However, I’m concerned about the initial setup and the training involved. We had a rough experience before.'
+
+Speaker A: 'I understand. We strive to make onboarding as smooth as possible, but I acknowledge that previous experiences can be challenging to move past. We’re actively working to enhance our training modules.'
+
+Speaker B: 'It would be great to see more resources readily available for new users. It’s crucial for us to get the team up to speed quickly.'
+
+Speaker A: 'Absolutely, and we’re committed to refining that experience based on feedback like yours. We’ll ensure you have everything needed for a successful start.'"

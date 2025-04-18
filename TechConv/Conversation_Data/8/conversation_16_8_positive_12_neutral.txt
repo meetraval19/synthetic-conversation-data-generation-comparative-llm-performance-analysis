@@ -1,0 +1,15 @@
+"Speaker A: 'Thanks for joining us today. I wanted to start by asking about your experience with our technical guides. Have they been helpful?'
+
+Speaker B: 'Absolutely. The documentation is really clear and concise. It made a big difference when I was setting things up.'
+
+Speaker A: 'That's great to hear! We put a lot of effort into making them user-friendly. How about the setup process for configuring the system?'
+
+Speaker B: 'It was a bit of a mixed bag for me. I found the necessary details, but sometimes it felt like I had to dig around for information.'
+
+Speaker A: 'I see. We aim to streamline those steps, but it can get complex with all the parameters involved.'
+
+Speaker B: 'Exactly, it's understandable given the complexity. But maybe summarizing them could make it feel less daunting.'
+
+Speaker A: 'Good feedback. We're always looking for ways to simplify things without losing essential details. Any other thoughts on your experience you'd like to share?'
+
+Speaker B: 'Just that even though it took a bit of time to understand the configuration, having solid documentation made a world of difference.'

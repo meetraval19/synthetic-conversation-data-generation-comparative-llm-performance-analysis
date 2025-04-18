@@ -1,0 +1,21 @@
+"Speaker A: 'I reviewed your treatment plan, and it seems there might be some setbacks. How are you feeling about it?'
+
+Speaker B: 'Honestly, it's been a bit challenging. I'm concerned about how I'm responding.'
+
+Speaker A: 'I understand. We'll look into adjustments that could work better for you.'
+
+Speaker B: 'That would be great, thank you. As for sticking to the regimen, I’m doing my best.'
+
+Speaker A: 'It’s important to maintain consistency, even when it feels routine. How do you feel about the process?'
+
+Speaker B: 'It’s manageable, I think. Just trying to keep organized.'
+
+Speaker A: 'Good to hear you're staying on track. On a positive note, your recent tests suggest some improvements.'
+
+Speaker B: 'Really? That’s encouraging!'
+
+Speaker A: 'Yes, it seems the care plan update is working in your favor. Let’s focus on the progress and adjust what we need to.'
+
+Speaker B: 'I appreciate that approach. Small steps are still steps forward.' 
+
+Speaker A: 'Exactly, and together we’ll keep moving in the right direction.'"

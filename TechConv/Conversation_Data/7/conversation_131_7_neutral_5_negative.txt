@@ -1,0 +1,17 @@
+"Speaker A: 'Thanks for taking the time to talk with us today. Can you share your thoughts on our customer support process?'
+
+Speaker B: 'Of course! Overall, I find the support process to be quite straightforward. It seems like if there’s an issue that the first-line team can’t solve, it gets escalated pretty smoothly.'
+
+Speaker A: 'That’s good to hear. We aim to make the support experience as seamless as possible. How about our plans for upcoming features or improvements to our products?'
+
+Speaker B: 'To be honest, I have some concerns there. It feels like the roadmap is a bit unclear. I'm unsure about the direction things are heading, and that makes it hard to know what to expect as a user.'
+
+Speaker A: 'I understand. We've had similar feedback from others. We are working on communicating our plans more clearly to ensure everyone knows where we're headed.' 
+
+Speaker B: 'That would definitely help, because right now, it feels like there’s a lot of uncertainty. Hopefully, those efforts to improve communication will bring more transparency.'
+
+Speaker A: 'Absolutely! We appreciate your feedback and are committed to making positive changes. Anything else you'd like to add?'
+
+Speaker B: 'No, that's it for now. Thank you for listening and taking my concerns seriously.'
+
+Speaker A: 'Thank you for being honest with us. It’s valuable for us to hear your perspective.'"

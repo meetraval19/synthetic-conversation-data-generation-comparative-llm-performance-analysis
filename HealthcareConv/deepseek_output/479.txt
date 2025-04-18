@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "positive"
+        }
+    ]
+}

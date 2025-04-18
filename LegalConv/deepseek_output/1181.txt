@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "positive"
+        }
+    ]
+}

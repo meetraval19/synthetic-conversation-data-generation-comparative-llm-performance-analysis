@@ -1,0 +1,14 @@
+"Speaker A: 'Let's start with the review of the patient's medication. The details seem pretty straightforward.' 
+
+Speaker B: 'I agree. The current dosage and the list of prescriptions all match the treatment plan.'
+
+Speaker A: 'Great, moving on to the documentation. I must say, the records are very well-organized. It makes everything so much easier to track.'
+
+Speaker B: 'Absolutely. It’s clear that a lot of effort has gone into keeping them up-to-date and comprehensive.'
+
+Speaker A: 'And what about our team communication? The weekly meetings seem to be really effective.'
+
+Speaker B: 'Yes, I’ve noticed that too. Everyone is very engaged, and it really enhances our coordination for patient care.'
+
+Speaker A: 'It’s great to know we’re all on the same page. It makes developing the best treatment plans so much smoother.'"
+

@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "Test Results",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Shared Decision",
+            "sentiment": "positive"
+        }
+    ]
+}

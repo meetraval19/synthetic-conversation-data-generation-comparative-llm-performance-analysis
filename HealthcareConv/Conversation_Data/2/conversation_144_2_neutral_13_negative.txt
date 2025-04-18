@@ -1,0 +1,19 @@
+"Speaker A: 'Hello, how have you been feeling since your last visit?'
+
+Speaker B: 'I’ve been better, but it's been up and down. Did the results from the recent tests come in?'
+
+Speaker A: 'Yes, the results have arrived, and they look stable. Nothing unexpected, so we can proceed with the care plan without any changes.'
+
+Speaker B: 'That’s a relief. I'm glad there's nothing surprising.'
+
+Speaker A: 'Now, I wanted to discuss your discharge plan. I know we touched on this last time.'
+
+Speaker B: 'Yes, I wanted to talk more about that. I’m a bit concerned. It seems overwhelming, with so many things to manage once I’m home.'
+
+Speaker A: 'I understand your concerns. It can feel like a lot all at once. We’ll make sure you have the necessary support systems in place before you leave.'
+
+Speaker B: 'I appreciate that. I just don't want to miss anything critical.'
+
+Speaker A: 'Of course. We’ll ensure you have all the information and resources you need. Let's go over the steps together to ease the process.'
+
+Speaker B: 'Thank you. That would really help me feel more prepared and less anxious about going home.'"

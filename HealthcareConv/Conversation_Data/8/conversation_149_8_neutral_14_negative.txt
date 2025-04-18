@@ -1,0 +1,17 @@
+"Speaker A: 'We're reviewing the current treatment plan to make sure it aligns with the latest recommendations.'
+
+Speaker B: 'That sounds appropriate. Have there been any significant updates we should consider?'
+
+Speaker A: 'Not exactly, just some minor adjustments to dosage and scheduling. More of a routine update, really.'
+
+Speaker B: 'That makes sense. Consistency is key.'
+
+Speaker A: 'Indeed. However, we should also address any potential complications you might be experiencing.'
+
+Speaker B: 'Unfortunately, I've noticed some discomfort lately. Could it be related to any side effects of the medication?'
+
+Speaker A: 'It's possible. Some patients have reported similar reactions. We can explore alternatives if it's too troublesome.'
+
+Speaker B: 'That might be necessary. It’s been quite challenging to manage.'
+
+Speaker A: 'I understand. Let's work together to ensure we find the most comfortable solution for you.'"

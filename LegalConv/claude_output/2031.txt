@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Enforcement and Implementation Issues",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "negative"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+"Speaker A: 'We've reviewed your test results and the recommendation is to start planning your discharge soon.'
+
+Speaker B: 'I hope the plan was made considering all options. Last time, I felt like the decisions were made too quickly.'
+
+Speaker A: 'I apologize if it seemed that way. We aim to involve you more in this process. Your input is essential.'
+
+Speaker B: 'Thank you. I just want to feel more included this time.'
+
+Speaker A: 'Of course. On another note, your commitment to following the therapy sessions has been impressive.'
+
+Speaker B: 'I feel like sticking to the routine really made a difference. The support from the staff was motivating.'
+
+Speaker A: 'That's great to hear. Consistency in your therapy has played a crucial role in your recovery.'
+
+Speaker B: 'I definitely plan to keep up with it even after discharge.'
+
+Speaker A: 'That’s encouraging! It’ll support your long-term health outcomes significantly.'"

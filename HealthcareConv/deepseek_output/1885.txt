@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Support Services",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "neutral"
+        }
+    ]
+}

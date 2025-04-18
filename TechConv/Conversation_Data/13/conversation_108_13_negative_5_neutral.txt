@@ -1,0 +1,19 @@
+"Speaker A: 'Thanks for joining this feedback session today. We’d love to hear your thoughts on accessing our tech platform.'
+
+Speaker B: 'Absolutely! I have faced quite a few hurdles when it comes to gaining access. The licensing process seems overly complicated.'
+
+Speaker A: 'I understand. We’re aware that it can be a bit of a challenge. We’re looking into streamlining that process.'
+
+Speaker B: 'That would be fantastic. Simplifying it would definitely improve the user experience.'
+
+Speaker A: 'Moving on, I’d like to know your thoughts on where you think our platform should head in the future. Any ideas or expectations?'
+
+Speaker B: 'Honestly, I haven’t thought much about it. I suppose keeping up with industry trends would be logical.'
+
+Speaker A: 'Yes, that’s what we’re aiming for. We constantly evaluate potential improvements to align with user needs and market developments.'
+
+Speaker B: 'Sounds good. I’ll keep an eye out for any new features rolling out.'
+
+Speaker A: 'Great! Thank you for your insights. We appreciate your feedback and are working to address these challenges you’ve mentioned.'
+
+Speaker B: 'No problem at all. I look forward to seeing the improvements.'”

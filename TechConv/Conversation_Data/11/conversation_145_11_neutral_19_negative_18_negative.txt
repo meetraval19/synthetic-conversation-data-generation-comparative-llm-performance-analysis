@@ -1,0 +1,21 @@
+"Speaker A: 'Welcome! I'm excited to show you our software solution today.'
+
+Speaker B: 'Thanks. I’m curious about how easy it'll be to get started.'
+
+Speaker A: 'Absolutely. Our platform has a straightforward onboarding process and comprehensive training materials. Users usually find it quite intuitive.'
+
+Speaker B: 'Okay, neutral on that front. But I’m interested in how your tool compares to others we’re considering.'
+
+Speaker A: 'I understand. Some find the variety of options overwhelming. While our software excels in many areas, honestly, it can sometimes lack the advanced features of certain niche tools.'
+
+Speaker B: 'That’s a concern. Plus, we’re really emphasizing adherence to compliance standards.'
+
+Speaker A: 'Compliance is crucial, I agree. Some clients wish we had more pre-built regulatory features. It's something we're consistently striving to improve.'
+
+Speaker B: 'Good to know. Staying compliant is non-negotiable for us.'
+
+Speaker A: 'Absolutely. We’re committed to strengthening this aspect and provide strong support for any regulatory questions you might have.'
+
+Speaker B: 'Helpful to know. Well, the software seems promising, but a few things to consider.'
+
+Speaker A: 'Of course. Let me know if you have any more questions.'"

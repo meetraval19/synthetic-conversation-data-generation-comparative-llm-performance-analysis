@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Liquidity Risk Evaluation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "negative"
+        }
+    ]
+}

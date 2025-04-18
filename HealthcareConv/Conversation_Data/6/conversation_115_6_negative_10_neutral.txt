@@ -1,0 +1,15 @@
+"Speaker A: 'I've noticed patients are having significant issues with coordinating their referrals.'
+
+Speaker B: 'Yes, it's been quite challenging. There are delays and miscommunications that really frustrate the patients.'
+
+Speaker A: 'Absolutely, it's a negative impact on their experience. We need to streamline the process to make it more efficient.'
+
+Speaker B: 'Agreed. On a different note, how are we doing with our study on treatment adherence?'
+
+Speaker A: 'It's progressing steadily. Compliance rates are consistent, but there’s room for improvement.'
+
+Speaker B: 'That's what I’ve heard as well. Patients seem willing to comply, but it’s never a straightforward process.'
+
+Speaker A: 'True, but the neutral feedback indicates that with better strategies, we could see higher adherence.'
+
+Speaker B: 'Exactly. Implementing reminders and support systems might help improve those rates over time.'"

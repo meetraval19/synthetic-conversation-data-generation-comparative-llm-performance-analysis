@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Investment Performance Review",
+            "sentiment": "positive"
+        }
+    ]
+}

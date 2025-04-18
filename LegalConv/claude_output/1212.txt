@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Timeline and Key Deadlines",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "neutral"
+    }
+  ]
+}

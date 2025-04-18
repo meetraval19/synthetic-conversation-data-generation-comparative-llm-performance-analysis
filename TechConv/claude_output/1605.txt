@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

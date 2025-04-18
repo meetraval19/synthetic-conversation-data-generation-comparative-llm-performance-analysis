@@ -1,0 +1,14 @@
+"Speaker A: 'I have great news about your test results! They're looking very positive. You've shown significant improvement.'
+
+Speaker B: 'That's such a relief! I've been anxious about them.'
+
+Speaker A: 'Understandably so. Now, let's go over your medical history to keep track of everything comprehensively.'
+
+Speaker B: 'Sure, I've been reviewing it as well. It's a lot, but I think I have a good grasp on it now.'
+
+Speaker A: 'That's good to hear. It's important to stay informed. Lastly, have you explored the support services we discussed during your last visit?'
+
+Speaker B: 'Yes, I have. They seem quite helpful, but I haven't had a chance to engage fully yet.'
+
+Speaker A: 'It's perfectly fine. Take your time. They can be a great resource when you're ready.'"
+

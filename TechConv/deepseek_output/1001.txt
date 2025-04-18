@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Testing and Validation Status",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "negative"
+        }
+    ]
+}

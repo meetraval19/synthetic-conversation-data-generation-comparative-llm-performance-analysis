@@ -1,0 +1,20 @@
+"Speaker A: 'Thanks for meeting with me today to discuss the recent performance review results.'
+
+Speaker B: 'Of course. Let's dive into it. I noticed we had a few issues with patients not receiving timely follow-ups.'
+
+Speaker A: 'Yes, there were some delays in scheduling follow-ups, which was frustrating for both patients and staff.'
+
+Speaker B: 'We’ll need to address that quickly. On the bright side, I received great feedback about our updated care plans.'
+
+Speaker A: 'That’s true! The team has worked hard to streamline and personalize care plans, and it’s making a real difference for patients.'
+
+Speaker B: 'I'm really pleased to hear that. Patients have also responded positively to the enhanced symptom assessments.'
+
+Speaker A: 'Absolutely, the new assessment protocols have improved how we track and manage patient symptoms.'
+
+Speaker B: 'That’s excellent progress. So, our main focus now is improving the follow-up process.'
+
+Speaker A: 'Agreed. We’ll need to enhance our scheduling system and ensure quicker follow-through.'
+
+Speaker B: 'Perfect. With those improvements, I’m confident our overall performance will excel.'"
+

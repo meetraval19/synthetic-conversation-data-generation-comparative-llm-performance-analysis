@@ -1,0 +1,11 @@
+"Speaker A: Thanks for joining this feedback session. Could you share your thoughts on how our current infrastructure is supporting your needs?
+
+Speaker B: Honestly, I've faced some challenges with the system's ability to handle increased demand. When user numbers spike, the infrastructure struggles quite a bit.
+
+Speaker A: I appreciate your honesty. Scalability issues can be quite frustrating. We're actively looking into solutions. Have you explored using other tools or platforms that might handle your needs better?
+
+Speaker B: I have, actually. Different platforms have their pros and cons. Some offer better integrations, while others have a more user-friendly interface. It's been a mixed bag, really.
+
+Speaker A: That's valuable insight. Understanding your perspective on different platforms helps us learn more about what we can improve. 
+
+Speaker B: Absolutely. It's important to weigh the features that matter most for our needs. Your efforts to address these points are appreciated."

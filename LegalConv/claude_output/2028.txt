@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Enforcement and Implementation Issues",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "negative"
+    }
+  ]
+}

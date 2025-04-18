@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Enforcement and Implementation Issues",
+            "sentiment": "neutral"
+        }
+    ]
+}

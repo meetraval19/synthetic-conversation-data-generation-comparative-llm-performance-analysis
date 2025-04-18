@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "negative"
+        }
+    ]
+}

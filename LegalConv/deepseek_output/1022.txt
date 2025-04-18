@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+"Speaker A: 'Thanks for joining the demo today. Let's start by discussing the initial setup process for your team.'
+
+Speaker B: 'Sure, I’m curious about what kind of support we’d receive during onboarding and training.'
+
+Speaker A: 'We provide comprehensive guides and live sessions to ensure everyone gets up to speed quickly, though there isn't much of a need given the software's intuitive design.'
+
+Speaker B: 'That sounds straightforward. Let's talk about the software's performance. I've heard great things.'
+
+Speaker A: 'Absolutely! The software is optimized for speed and reliability, which significantly boosts productivity. Our current clients have reported noticeable improvements.'
+
+Speaker B: 'That’s exactly what we’re looking for. Performance is crucial for our operations. Have you seen these improvements across different industries?'
+
+Speaker A: 'Yes, the feedback has been overwhelmingly positive, whether in retail, healthcare, or finance. It’s adaptable to various needs.'
+
+Speaker B: 'That’s reassuring to hear. It makes the decision much easier for us, knowing the results you've achieved elsewhere.'"

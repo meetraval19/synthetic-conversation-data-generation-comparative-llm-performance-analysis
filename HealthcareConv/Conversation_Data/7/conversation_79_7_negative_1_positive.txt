@@ -1,0 +1,11 @@
+"Speaker A: 'I've been reviewing the recent patient case, and I have to say, our approach to identifying symptoms was spot on.'
+
+Speaker B: 'Absolutely! The clarity with which we assessed the symptoms ensured a swift diagnosis.'
+
+Speaker A: 'On the flip side, though, I noticed that our team's internal communication was lacking. It seemed to create unnecessary confusion.'
+
+Speaker B: 'I agree. There were multiple instances where messages weren't conveyed clearly, which could have impacted the treatment timeline.'
+
+Speaker A: 'It's something we definitely need to address in our next meeting. But I'm glad our symptom assessment was strong; it really anchored the patient's care.'
+
+Speaker B: 'Yes, perhaps integrating more structured communication protocols could help us avoid these snags in the future.'"

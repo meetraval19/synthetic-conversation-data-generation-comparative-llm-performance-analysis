@@ -1,0 +1,12 @@
+"Speaker A: 'During the medication review, it's great to see how well patients are responding to the new treatment plan.'
+
+Speaker B: 'Absolutely, the adjustments have shown positive outcomes in controlling their symptoms.'
+
+Speaker A: 'However, have you noticed any patterns with adverse reactions recently?'
+
+Speaker B: 'Unfortunately, yes. Some patients have reported significant discomfort, especially after starting the new dosage.'
+
+Speaker A: 'That's definitely concerning. We should closely monitor their side effects and consider alternative options if necessary.'
+
+Speaker B: 'Agreed. It's crucial to address these issues swiftly to prevent complications.'"
+

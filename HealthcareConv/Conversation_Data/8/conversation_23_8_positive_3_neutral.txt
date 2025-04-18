@@ -1,0 +1,16 @@
+"Speaker A: 'I'm glad to let you know that your care plan has been updated successfully. We've incorporated some new strategies to aid your recovery.'
+
+Speaker B: 'That sounds great! It's reassuring to know that I've got a solid plan in place.'
+
+Speaker A: 'Definitely. We aimed to make it as comprehensive and supportive as possible. Now, regarding your prescriptions, let’s go over the list one more time.'
+
+Speaker B: 'Sure. I want to make sure I understand everything before I leave.'
+
+Speaker A: 'Of course. We've reviewed your medications, and the doses remain the same for most, while a couple might need adjustments later. It's important to monitor how you respond to them.'
+
+Speaker B: 'That makes sense. I’ll be careful and will follow up if anything seems off.'
+
+Speaker A: 'Perfect. With the updated plan and regular monitoring, you’re set for a smooth transition to home care.'
+
+Speaker B: 'I certainly feel more confident with this guidance. Thank you for all your help!'"
+

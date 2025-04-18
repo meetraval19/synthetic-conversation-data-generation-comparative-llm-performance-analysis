@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Witness Identification and Preparation",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "neutral"
+        }
+    ]
+}

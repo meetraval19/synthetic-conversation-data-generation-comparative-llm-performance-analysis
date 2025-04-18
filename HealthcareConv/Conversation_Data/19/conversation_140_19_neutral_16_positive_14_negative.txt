@@ -1,0 +1,18 @@
+"Speaker A: 'Good to see you back for your follow-up. How have the support services been for managing your condition?'
+
+Speaker B: 'They've been alright. The resources are available, but getting information sometimes feels a bit generic.'
+
+Speaker A: 'I understand. We aim to personalize it more in the future. How have you felt about our discussions around your diagnosis?'
+
+Speaker B: 'Honestly, it was really clear and reassuring. Knowing exactly what I’m dealing with made a big difference for me.'
+
+Speaker A: 'I'm glad to hear that. Transparency is key. Have you noticed any side effects since your last treatment?'
+
+Speaker B: 'Unfortunately, yes. The nausea has been quite intense, more than I expected.'
+
+Speaker A: 'I'm sorry to hear that. Let's look into some options to help manage those side effects better.'
+
+Speaker B: 'Thank you, that would be appreciated. It's been a bit overwhelming dealing with them.'
+
+Speaker A: 'Of course, we'll work on improving this. Let’s keep addressing it as you progress.'"
+

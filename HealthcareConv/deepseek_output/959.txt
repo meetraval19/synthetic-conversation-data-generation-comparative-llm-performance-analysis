@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "negative"
+        }
+    ]
+}

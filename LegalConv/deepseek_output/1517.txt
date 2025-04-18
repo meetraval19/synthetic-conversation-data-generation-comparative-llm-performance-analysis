@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+"Speaker A: 'I've been really impressed with how smoothly the issue reporting system has been working lately. It's streamlined our troubleshooting significantly.'
+
+Speaker B: 'Absolutely, it's made identifying and addressing problems much more efficient, which is a great relief for our teams.'
+
+Speaker A: 'On the other hand, I've noticed some challenges with the escalation process when issues become complex. It seems like it could use some improvements.'
+
+Speaker B: 'I agree. The communication sometimes falters, and getting support in a timely manner has been frustrating at times.'
+
+Speaker A: 'And when it comes to reviewing our analytics, it seems like we're not getting the full picture. The metrics could definitely be more insightful.'
+
+Speaker B: 'Exactly, the data provided isn’t always clear or helpful for decision-making. It’s an area that needs urgent attention.'"

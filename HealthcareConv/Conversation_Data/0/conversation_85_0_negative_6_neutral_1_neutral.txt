@@ -1,0 +1,17 @@
+"Speaker A: 'I reviewed the patient's medical history, and there are some concerning complications from previous treatments.'
+
+Speaker B: 'Yes, those past interventions seem to have been quite harsh on their system. It's unfortunate.'
+
+Speaker A: 'Indeed. Moving on, how did the referral coordination go?'
+
+Speaker B: 'It was fairly straightforward. We've lined up consultations with two specialists for further evaluation.'
+
+Speaker A: 'That sounds efficient. It's good to have everything in place for a smoother transition.'
+
+Speaker B: 'Agreed. Now, regarding the current symptoms, did you find anything unusual during the assessment?'
+
+Speaker A: 'Not particularly. The presentation aligns with the expected progression given their condition.'
+
+Speaker B: 'That’s consistent with the chart notes. I’ll document it as planned for the follow-up.'
+
+Speaker A: 'Perfect. Let’s keep monitoring and adjust if there's any change in their status.'"

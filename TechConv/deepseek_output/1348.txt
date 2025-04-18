@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "negative"
+        }
+    ]
+}

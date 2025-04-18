@@ -1,0 +1,11 @@
+"Speaker A: 'Thanks for coming in today. I took a look at your medical records, and it seems there have been some complicated issues in the past.'
+
+Speaker B: 'Yes, it’s been a bit challenging to deal with all the persisting symptoms.'
+
+Speaker A: 'I understand how frustrating that can be. On a brighter note, I’ve coordinated a referral to a specialist who has an excellent track record with these conditions.'
+
+Speaker B: 'That sounds promising, I’ve heard good things about such referrals making a real difference.'
+
+Speaker A: 'Absolutely, they’ve been really effective in providing targeted care. Let’s focus on creating a plan moving forward.' 
+
+Speaker B: 'I appreciate the proactive approach, it’s good to feel hopeful about next steps.'"

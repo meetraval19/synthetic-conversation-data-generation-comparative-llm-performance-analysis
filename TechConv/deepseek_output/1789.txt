@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "neutral"
+        }
+    ]
+}

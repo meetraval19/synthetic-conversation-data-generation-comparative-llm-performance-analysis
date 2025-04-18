@@ -1,0 +1,23 @@
+"Speaker A: 'I really think we need to address the onboarding process first. New users are struggling.'
+
+Speaker B: 'I see where you're coming from, but that can be a resource drain. Maybe not our priority right now.'
+
+Speaker C: 'What about optimizing our workflows? That could streamline everything and make onboarding easier in the long run.'
+
+Speaker A: 'Sure, but if users can't even get started, the optimized processes won't matter much.'
+
+Speaker B: 'Optimizing workflows could actually reduce confusion from the start. It seems like a double win.'
+
+Speaker C: 'Exactly. By improving the efficiency, we might find the training requirements drop significantly.'
+
+Speaker A: 'I get it, but it still feels like we're neglecting immediate needs for long-term benefits.'
+
+Speaker B: 'Addressing the root cause is often the better approach. It just seems like a more positive direction.'
+
+Speaker C: 'Let’s focus on refining the processes. We may be surprised how much it helps overall user experience.'
+
+Speaker A: 'Alright, I'm willing to give it a shot, but let's keep an eye on onboarding issues.'
+
+Speaker B: 'Deal. We’ll monitor the impact closely as we make these workflow changes.'
+
+Speaker C: 'Great! With some time, I’m optimistic we’ll see improvements across the board for everyone involved.'"

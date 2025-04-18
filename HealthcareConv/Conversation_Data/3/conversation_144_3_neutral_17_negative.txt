@@ -1,0 +1,18 @@
+"Speaker A: 'Let's start with reviewing your current medications. Have you noticed any changes since you began taking them?'
+
+Speaker B: 'I haven't noticed much change. Everything seems to be stable.'
+
+Speaker A: 'That's good to hear. If there are any concerns, we can always adjust your treatment.'
+
+Speaker B: 'I appreciate that. Actually, getting to appointments has been a real challenge lately.'
+
+Speaker A: 'I'm sorry to hear that. Transportation or scheduling can often be difficult.'
+
+Speaker B: 'Yes, exactly. Missing appointments makes it hard to keep up with everything.'
+
+Speaker A: 'Let's see if there's a way to make things easier for you. Maybe talking to a patient coordinator could help.'
+
+Speaker B: 'That would be great. It’s frustrating when barriers get in the way of care.'
+
+Speaker A: 'Let's work on finding a solution that makes it more manageable for you.'"
+

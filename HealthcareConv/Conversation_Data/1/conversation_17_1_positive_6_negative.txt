@@ -1,0 +1,22 @@
+"Speaker A: 'Good to see you today. It looks like the treatment has been helping with your symptoms.'
+
+Speaker B: 'Yes, I've noticed significant improvement in my energy levels and overall wellbeing. Thank you for that.'
+
+Speaker A: 'I'm glad to hear that. It's always encouraging when we see positive changes. Have you had any issues or concerns since our last appointment?'
+
+Speaker B: 'Not really, everything's been going smoothly so far.'
+
+Speaker A: 'That's great to hear. However, I did want to discuss the referral to the specialist. It seems there’s been a delay in the coordination.'
+
+Speaker B: 'Yes, that has been frustrating. I’ve called a couple of times, but it’s been hard to get a confirmed appointment.'
+
+Speaker A: 'I understand how frustrating that can be. Let me see if I can help expedite the process. Sometimes these things take longer than expected.'
+
+Speaker B: 'I’d appreciate any assistance. It’s worrying to wait without any clarity.'
+
+Speaker A: 'Absolutely, I'll do my best to get this sorted quickly for you. In the meantime, let's focus on the improvements you're seeing with your current treatment plan.'
+
+Speaker B: 'Thank you. It feels good to know that the initial steps are making a difference.'
+
+Speaker A: 'That's always the goal. We'll tackle the referral issue together, and make sure you get all the support you need.'"
+

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+"Speaker A: 'I'm pleased to tell you that your recent lab results look excellent.'
+
+Speaker B: 'That's a relief. I was a bit anxious about them.'
+
+Speaker A: 'Understandable. Now, let's talk about your current medication.'
+
+Speaker B: 'Sure, although I’ve been feeling some unwanted side effects lately.'
+
+Speaker A: 'I’m sorry to hear that. It’s not uncommon for adjustments to be necessary. We can definitely explore alternatives.'
+
+Speaker B: 'That sounds good. I’m hoping we can find something that works better for me.'
+
+Speaker A: 'Absolutely. Our goal is to ensure your treatment is effective and comfortable for you.'"

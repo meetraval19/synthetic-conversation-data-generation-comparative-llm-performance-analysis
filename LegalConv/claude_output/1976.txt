@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Enforcement and Implementation Issues",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Confidentiality and Privilege",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "negative"
+    }
+  ]
+}

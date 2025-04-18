@@ -1,0 +1,25 @@
+"Speaker A: 'Hi there, how have you been feeling since our last appointment?'
+
+Speaker B: 'Hi, Doctor. Honestly, I've been a bit concerned about the side effects of the medication you prescribed.'
+
+Speaker A: 'I understand. It’s important to address any negative reactions you're experiencing. Can you tell me more about what's been troubling you?'
+
+Speaker B: 'I've been feeling quite dizzy and a little nauseous, which is concerning.'
+
+Speaker A: 'Thank you for letting me know. We can definitely review your medication and explore alternatives that might be better suited for you.'
+
+Speaker B: 'That would be great. I’d feel more comfortable if we could adjust it.'
+
+Speaker A: 'Of course. On a positive note, have you had a chance to connect with any of the support groups we discussed last time?'
+
+Speaker B: 'Yes, I joined one of the community groups, and it's been really uplifting. The people there are so supportive and understanding.'
+
+Speaker A: 'I’m glad to hear that. Support services can make a huge difference, providing encouragement during tough times.'
+
+Speaker B: 'Definitely. It's nice to share experiences with others who understand what I’m going through.'
+
+Speaker A: 'Absolutely. Let’s keep focusing on your wellness, and I'll ensure we get your medication sorted out.'
+
+Speaker B: 'Thank you, Doctor. I appreciate your support.'
+
+Speaker A: 'Anytime. Take care, and we’ll get things sorted out soon.'"

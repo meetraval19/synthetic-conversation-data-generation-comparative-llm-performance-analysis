@@ -1,0 +1,18 @@
+"Speaker A: 'I've been feeling really under the weather lately, with a constant headache and fatigue.'
+
+Speaker B: 'That sounds quite concerning. Let’s discuss the severity of your symptoms. Have they been worsening over time?'
+
+Speaker A: 'Yes, unfortunately. It seems to be getting worse, especially in the mornings.'
+
+Speaker B: 'I see. We’ll definitely need to look into this further. Now, let's assess any potential risks. Have you been exposed to anything unusual at work or home?'
+
+Speaker A: 'Not that I'm aware of, but I guess it could be something I've overlooked.'
+
+Speaker B: 'Good to keep an open mind about that. We'll evaluate it just to be sure. Also, could you walk me through any significant points in your medical history?'
+
+Speaker A: 'Sure, nothing major in recent years, just the usual seasonal allergies and the occasional cold.'
+
+Speaker B: 'That’s helpful information. We’ll conduct a few tests and go from there to ensure we're not missing anything important.'
+
+Speaker A: 'Sounds good. I just hope we can get to the bottom of this quickly.'"
+

@@ -1,0 +1,17 @@
+"Speaker A: 'I wanted to talk about the medications you've been prescribed. How have you been finding them lately?'
+
+Speaker B: 'I’ve been taking them regularly, but I don’t feel a significant change.'
+
+Speaker A: 'It’s important to keep track of any subtle changes too. Sometimes progress is gradual.'
+
+Speaker B: 'I see. I’ll make a note of any differences I notice.'
+
+Speaker A: 'Great. Now, have you had any urgent health issues or emergency room visits recently?'
+
+Speaker B: 'Actually, yes. I had to go to the emergency room last week due to severe chest pain, which was quite alarming.'
+
+Speaker A: 'I’m sorry to hear that. Understanding what triggered it is essential to prevent future incidents.'
+
+Speaker B: 'It was a stressful situation, and I’m a bit worried it might happen again.'
+
+Speaker A: 'We’ll work together to address any potential triggers and ensure you have a clear plan moving forward.'"

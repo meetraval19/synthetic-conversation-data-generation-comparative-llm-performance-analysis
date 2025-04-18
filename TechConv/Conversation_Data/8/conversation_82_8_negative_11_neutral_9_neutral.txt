@@ -1,0 +1,14 @@
+"Speaker A: 'Thank you for joining us today. We’d love to hear your feedback about the resources we provided for your project. How did you find the manuals or guides available to you?'
+
+Speaker B: 'Honestly, I found them quite difficult to follow. The references were confusing, and I had a hard time finding what I needed without clear instructions.'
+
+Speaker A: 'I see, that’s something we definitely need to work on. Moving on, how do you feel about the initial onboarding process and the training sessions?'
+
+Speaker B: 'The onboarding was alright. It didn’t feel complicated, but there were areas that seemed a bit lacking. Maybe some additional interactive content could help.'
+
+Speaker A: 'That’s a valuable suggestion. We’re always looking to improve. And regarding testing and validation, how has your experience been?'
+
+Speaker B: 'It was pretty standard. I didn’t encounter any major issues, but it’s still pretty early in the process. I hope it remains smooth.'
+
+Speaker A: 'Great to hear there weren’t any problems. We’ll keep monitoring to ensure it stays that way. Thank you for your feedback!'"
+

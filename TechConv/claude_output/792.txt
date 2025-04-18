@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

@@ -1,0 +1,16 @@
+"Speaker A: 'Hi, Doctor. I wanted to discuss my recent test results.'
+
+Speaker B: 'Of course. Unfortunately, there was a bit of an oversight in your documentation. It seems some details were missing, and it caused a delay.'
+
+Speaker A: 'Oh, that’s frustrating. Has it been resolved now?'
+
+Speaker B: 'Yes, we've sorted it out. I apologize for the inconvenience. We’re working on improving our process.'
+
+Speaker A: 'I understand. By the way, how is the communication among your team going?'
+
+Speaker B: 'It’s going well for the most part. Ensuring everyone stays updated can be a challenge sometimes, but we’re managing.'
+
+Speaker A: 'That’s good to hear. I imagine clear communication is really important for patient care.'
+
+Speaker B: 'Absolutely. We’re always striving to keep everything running smoothly for the best outcomes.'"
+

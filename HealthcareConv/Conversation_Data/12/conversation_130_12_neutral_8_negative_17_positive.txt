@@ -1,0 +1,24 @@
+"Speaker A: 'Before you leave, let's go over your discharge paperwork to ensure everything is in order.'
+
+Speaker B: 'Okay, I want to be sure that nothing is missed. How extensive is the documentation?'
+
+Speaker A: 'It's quite thorough but straightforward. We’ll cover the essentials without diving too deep into unnecessary details.'
+
+Speaker B: 'That sounds reasonable. What about my care plan? Any updates there?'
+
+Speaker A: 'Unfortunately, yes. There were some unexpected issues that we had to address, which might complicate your routine a bit.'
+
+Speaker B: 'That's a bit worrying. Can we dig into what those issues are?'
+
+Speaker A: 'Certainly, we can discuss them in detail. The main concern is ensuring adherence to the new treatments.'
+
+Speaker B: 'Got it, I'll need more guidance on that. Are there any positives to note?'
+
+Speaker A: 'Absolutely! We've identified a few supportive programs that can assist you at home, which should make things much easier.'
+
+Speaker B: 'That’s great to hear. Knowing there’s help available is a relief.'
+
+Speaker A: 'It should alleviate some concerns and smooth your transition back home.'
+
+Speaker B: 'Thank you. It's reassuring to know there are resources available to help with these barriers.'"
+

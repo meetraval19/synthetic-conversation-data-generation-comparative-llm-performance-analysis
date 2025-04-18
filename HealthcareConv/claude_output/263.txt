@@ -1,0 +1,24 @@
+I'll analyze the conversation to identify the topics being discussed and determine the sentiment toward each topic.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Test Results",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Medication Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

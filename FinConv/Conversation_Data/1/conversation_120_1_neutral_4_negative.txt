@@ -1,0 +1,15 @@
+"Speaker A: 'When assessing your risk tolerance, it's important to consider your long-term goals and current financial situation.'
+
+Speaker B: 'Absolutely, a balanced approach has worked well for me in the past. I'm comfortable with moderate risk.'
+
+Speaker A: 'That's great to hear. Moving on, I’ve analyzed your recent portfolio performance, and there’ve been some concerning trends with a few investments.'
+
+Speaker B: 'Oh, that's not the best news. Which areas should I be worried about?'
+
+Speaker A: 'Some of the international stocks have underperformed due to market volatility, and a couple of mutual funds haven’t met the expected benchmarks.'
+
+Speaker B: 'I see. Is there a strategy we could implement to counter these trends?'
+
+Speaker A: 'We can certainly reevaluate the allocation and consider diversifying further to stabilize performance.'
+
+Speaker B: 'Yes, I’d appreciate that. I definitely want to ensure my investments are aligned with my risk tolerance.'

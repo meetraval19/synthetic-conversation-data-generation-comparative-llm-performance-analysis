@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "negative"
+        }
+    ]
+}

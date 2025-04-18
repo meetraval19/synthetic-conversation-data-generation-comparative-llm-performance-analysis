@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Testing and Validation Status",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "positive"
+        }
+    ]
+}

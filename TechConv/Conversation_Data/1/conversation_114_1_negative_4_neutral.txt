@@ -1,0 +1,21 @@
+"Speaker A: 'Thank you for agreeing to this interview. I’d like to start by asking about your experience with reporting issues in our software.'
+
+Speaker B: 'Honestly, it’s been a bit frustrating. The process seems to take longer than expected, and sometimes it feels like the feedback goes unnoticed.'
+
+Speaker A: 'I understand, and I apologize for the inconvenience. We’re working on improving our response time and communication.'
+
+Speaker B: 'That would definitely help. It’s discouraging when you don’t hear back after submitting something.'
+
+Speaker A: 'Moving on, how do you find the integration of our software with other systems you’re using?'
+
+Speaker B: 'It’s been fine overall. There are times it works seamlessly and others where it requires some manual tweaks, but that's expected to some extent.'
+
+Speaker A: 'Glad to hear it’s manageable. We're committed to improving compatibility across various platforms.'
+
+Speaker B: 'If there were more straightforward guides available, it might reduce those manual efforts.'
+
+Speaker A: 'That’s valuable feedback. We’ll look into developing more comprehensive resources. Is there anything else you’d like us to address?'
+
+Speaker B: 'Not specifically, but I appreciate you taking the time to listen and understand these issues.'
+
+Speaker A: 'Thank you for sharing your insights. It’s helpful for making meaningful improvements.'"

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Shared Decision",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "positive"
+        }
+    ]
+}

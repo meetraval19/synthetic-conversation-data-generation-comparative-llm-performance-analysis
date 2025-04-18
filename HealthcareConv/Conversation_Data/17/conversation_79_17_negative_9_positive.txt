@@ -1,0 +1,23 @@
+"Speaker A: 'I'm relieved to say you're ready to be discharged today! You've made significant progress.'
+
+Speaker B: 'That's great news. I've been worried about what comes next, though. Will I have the support I need at home?'
+
+Speaker A: 'I understand your concern. Sometimes, accessing continuous care can be challenging due to various obstacles.'
+
+Speaker B: 'Exactly. I've struggled to find reliable transportation for follow-up appointments in the past. It's pretty frustrating.'
+
+Speaker A: 'I hear you. Let's discuss some community resources that might help overcome these barriers and ensure you get the care you need.'
+
+Speaker B: 'That sounds helpful. I wasn’t aware there were options available.'
+
+Speaker A: 'Absolutely. On a more positive note, we’ve done a thorough evaluation, and your risk of any immediate health concerns after discharge is quite low.'
+
+Speaker B: 'That's reassuring to hear. Knowing that helps me feel more confident about going home.'
+
+Speaker A: 'Yes, maintaining your current lifestyle changes will continue to support your recovery positively.'
+
+Speaker B: 'I appreciate the reassurance. I'll definitely stay on top of those recommendations.'
+
+Speaker A: 'Great to hear. We're always here to support you in any way we can.'
+
+Speaker B: 'Thank you. Having a plan in place makes a big difference.'"

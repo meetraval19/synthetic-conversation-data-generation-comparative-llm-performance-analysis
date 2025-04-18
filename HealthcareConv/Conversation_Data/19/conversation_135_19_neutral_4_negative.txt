@@ -1,0 +1,25 @@
+"Speaker A: 'How have you been feeling since our last appointment?'
+
+Speaker B: 'It’s been challenging. I’m still struggling with the current course of medication.'
+
+Speaker A: 'I understand. Sometimes treatments need adjustment. Let’s discuss possible alternatives.'
+
+Speaker B: 'That would be helpful. I was expecting better results by now.'
+
+Speaker A: 'I’ll review your history again. We want to find the best path forward for your wellbeing.'
+
+Speaker B: 'Thank you. I also wanted to ask about other support services available.'
+
+Speaker A: 'Certainly. We can connect you with counseling and community resources if needed.'
+
+Speaker B: 'I appreciate that. Having options might help navigate through this.'
+
+Speaker A: 'Absolutely. It’s important to have comprehensive support beyond just the medication.'
+
+Speaker B: 'Yes, knowing there’s more available does make the process feel less overwhelming.'
+
+Speaker A: 'Exactly, and remember, we’ll adjust the plan to suit your needs. You’re not alone in this.'
+
+Speaker B: 'That’s reassuring. Thank you for your understanding.'
+
+Speaker A: 'You’re welcome. Let’s work together to improve your health and comfort.'"

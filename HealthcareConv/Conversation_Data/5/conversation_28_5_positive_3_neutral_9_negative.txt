@@ -1,0 +1,20 @@
+"Speaker A: 'I’m glad you could come in for your follow-up appointment. How have you been feeling since our last visit?'
+
+Speaker B: 'I’ve been feeling much better, actually. The guidance from the last time really helped.'
+
+Speaker A: 'That’s wonderful to hear. Let’s take a few moments to review your medication. Have you had any concerns or side effects lately?'
+
+Speaker B: 'Not really. Everything seems to be working as expected, no unexpected side effects to report.'
+
+Speaker A: 'Great, that sounds promising. Now, I’d like to discuss your risk factors a bit more. I noticed some areas we need to keep an eye on.'
+
+Speaker B: 'Yes, I remember you mentioning that last time. Is there something I should be particularly worried about?'
+
+Speaker A: 'Unfortunately, there are a few things that could become an issue, like your cholesterol levels. It’s important to address these early.'
+
+Speaker B: 'That’s concerning, but I’m keen to follow any recommendations you have.'
+
+Speaker A: 'I’m confident we can manage this together. Let’s set up a plan that works for you, making sure we monitor everything carefully.' 
+
+Speaker B: 'Thank you, I appreciate your support and comprehensive approach.'"
+

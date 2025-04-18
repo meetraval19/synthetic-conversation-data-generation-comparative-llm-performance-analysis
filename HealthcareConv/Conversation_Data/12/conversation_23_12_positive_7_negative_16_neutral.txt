@@ -1,0 +1,19 @@
+"Speaker A: 'I’ve been reviewing your medical records and everything appears to be well documented. It’s great to see such thoroughness.'
+
+Speaker B: 'That’s comforting to hear. I appreciate how well everything is laid out, it makes things much clearer.'
+
+Speaker A: 'Now, regarding your recent experiences, do you feel that communication among the healthcare team has been effective?'
+
+Speaker B: 'Honestly, there’s been some frustration. Sometimes, it feels like everyone’s not on the same page, which is quite concerning.'
+
+Speaker A: 'I understand how stressful that can be. We strive to improve this aspect and your feedback is crucial.'
+
+Speaker B: 'Thank you. It’s just that clarity is so important, especially considering the circumstances.'
+
+Speaker A: 'Definitely. On another note, about how we discussed your test results earlier—was that approach helpful for you?'
+
+Speaker B: 'It was straightforward, which I appreciate. It’s always good to have the information presented clearly.'
+
+Speaker A: 'I’m glad to hear that. If you have any more questions or need clarification, feel free to ask.'
+
+Speaker B: 'I will. Thank you for taking the time to address these points.'"

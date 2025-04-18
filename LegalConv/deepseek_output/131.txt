@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "positive"
+        }
+    ]
+}

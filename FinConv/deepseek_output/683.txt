@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Debt-to-Equity Ratio Assessment",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Internal Controls and Governance",
+            "sentiment": "positive"
+        }
+    ]
+}

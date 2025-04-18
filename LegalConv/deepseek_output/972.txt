@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Evidence and Documentation Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "neutral"
+        }
+    ]
+}

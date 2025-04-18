@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "neutral"
+        }
+    ]
+}

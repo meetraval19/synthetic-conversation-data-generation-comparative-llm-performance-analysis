@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "positive"
+        }
+    ]
+}

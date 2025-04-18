@@ -1,0 +1,25 @@
+"Speaker A: 'Thanks for coming in today. How have you been feeling overall?'
+
+Speaker B: 'Pretty good, actually. Since we adjusted my medication, the side effects have been minimal.'
+
+Speaker A: 'That's great to hear. It’s important to manage any side impacts positively.'
+
+Speaker B: 'Definitely, it’s been a relief. How are things going with my referral to the specialist?'
+
+Speaker A: 'We’re coordinating that right now. It should be straightforward, just waiting on a couple of confirmations.'
+
+Speaker B: 'I appreciate that. I was a bit worried about having everything in sync.'
+
+Speaker A: 'Understandable. We aim to keep it as seamless as possible for you.'
+
+Speaker B: 'And, just in case I have an unexpected issue, how should I reach you?'
+
+Speaker A: 'You can always call our emergency line, and we’ll respond promptly. We want to make sure you feel secure.'
+
+Speaker B: 'That’s reassuring. I’m glad I have a plan for any urgent situations.'
+
+Speaker A: 'Absolutely, being prepared is key. Was there anything else on your mind today?'
+
+Speaker B: 'No, I think that covers everything for now. Thanks for your help!'
+
+Speaker A: 'Anytime, take care and we’ll see you soon for the follow-up.'"

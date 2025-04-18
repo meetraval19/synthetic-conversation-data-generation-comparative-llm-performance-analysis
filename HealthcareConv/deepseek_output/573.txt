@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Follow Up",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "positive"
+        }
+    ]
+}

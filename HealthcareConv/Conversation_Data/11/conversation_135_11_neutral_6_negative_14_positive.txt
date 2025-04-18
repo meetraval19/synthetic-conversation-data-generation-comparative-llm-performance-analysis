@@ -1,0 +1,17 @@
+"Speaker A: 'I just wanted to check how you're doing with the new medication.'  
+Speaker B: 'It's going well. I did have some questions about what I should be aware of, though.'
+
+Speaker A: 'Of course. Understanding how the medication works can be quite helpful. It's all about ensuring you know what to expect.'  
+
+Speaker B: 'Thanks for clearing that up. I also wanted to talk about the referral process. It’s been a bit frustrating.'
+
+Speaker A: 'I apologize for that. Sometimes coordinating with specialists can be tricky, but I’ll make sure to follow up and speed things up for you.'
+
+Speaker B: 'I appreciate it. On the bright side, I haven’t noticed any of the common side effects you mentioned.'
+
+Speaker A: 'That’s great to hear! It means the medication is working well for you with minimal disruption.'  
+
+Speaker B: 'Yes, feeling relieved about that part. Thanks for your help today.'
+
+Speaker A: 'You're welcome. Don’t hesitate to reach out if you have more questions or concerns.'"
+

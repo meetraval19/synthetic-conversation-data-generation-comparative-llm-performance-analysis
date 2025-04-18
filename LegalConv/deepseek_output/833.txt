@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Strategy and Action Plan Development",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "positive"
+        }
+    ]
+}

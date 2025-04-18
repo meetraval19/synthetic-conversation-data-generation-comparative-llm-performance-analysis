@@ -1,0 +1,18 @@
+"Speaker A: 'Thank you for joining us today to discuss your experiences. Can we start with your thoughts on the materials you've been using for technical guidance?'
+
+Speaker B: 'Of course, happy to contribute. I've found the reference materials a bit challenging sometimes. They can be really hard to navigate.'
+
+Speaker A: 'I see, that's useful feedback. What do you think could improve the experience?'
+
+Speaker B: 'Streamlining the content would help a lot, maybe more intuitive indexing and better examples.'
+
+Speaker A: 'That's valuable to know. Let's shift to your experiences with our support system. How has that been for you?'
+
+Speaker B: 'I must say, the support team's responsiveness and the escalation process are impressive. It feels like issues get resolved efficiently.'
+
+Speaker A: 'That's wonderful to hear. We aim to make it as seamless as possible. Lastly, do you have any thoughts on the initial setup or training provided?'
+
+Speaker B: 'I guess it was adequate. The information was there, but maybe a bit more interactive sessions could enhance understanding.'
+
+Speaker A: 'Thanks for the suggestion. We’ll definitely consider more engaging options. Your feedback is incredibly helpful.'"
+

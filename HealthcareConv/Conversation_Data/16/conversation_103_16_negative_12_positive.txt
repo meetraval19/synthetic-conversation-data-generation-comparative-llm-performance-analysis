@@ -1,0 +1,15 @@
+"Speaker A: 'Thank you for coming today. I reviewed your medical history and previous tests.' 
+
+Speaker B: 'I appreciate that, but I was really hoping for clearer answers. Lately, I’ve been feeling like the explanations have been a bit confusing.'
+
+Speaker A: 'I understand your frustration. Communicating diagnoses can sometimes be challenging, but I'll do my best to make it clearer.'
+
+Speaker B: 'That would be helpful. It just adds a lot of stress when things aren't clear.'
+
+Speaker A: 'Absolutely. On a positive note, I've gone through all your documentation thoroughly, and I'm confident we've got everything needed for the next steps. It's all well-organized and ready for any specialists you might need to see.'
+
+Speaker B: 'That's reassuring. Knowing that all the paperwork is in order definitely eases a bit of the worry.'
+
+Speaker A: 'Great, let’s go over the next steps together. I want to ensure you leave here more informed and comfortable.'
+
+Speaker B: 'Thank you, I really appreciate your effort in this.'"

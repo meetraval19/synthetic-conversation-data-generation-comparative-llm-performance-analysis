@@ -1,0 +1,15 @@
+"Speaker A: 'Thank you for taking the time to speak with us about your experiences. Can you share your thoughts on the support process when you encounter technical issues?'
+
+Speaker B: 'Absolutely! I've found the support and escalation process to be quite effective. The team is responsive and really helps resolve issues swiftly.'
+
+Speaker A: 'That's great to hear! Now, I would like to know how you feel about the security and privacy measures in place. How have they impacted your overall experience?'
+
+Speaker B: 'Honestly, the security protocols can be overwhelming at times. There are so many layers and it often feels like a hindrance rather than a help. It's a bit concerning.'
+
+Speaker A: 'I understand. We’re constantly evaluating those aspects. Finally, can you comment on how you find the collaboration and communication among teams?'
+
+Speaker B: 'That’s actually been a challenge. There seems to be a lack of coordination, leading to repeated meeting requests and mixed messages. It creates a lot of unnecessary confusion.'
+
+Speaker A: 'Thank you for your insights. It’s important for us to address these areas in order to improve the overall experience.' 
+
+Speaker B: 'I appreciate the platform to share my feedback. Looking forward to seeing some positive changes!'"

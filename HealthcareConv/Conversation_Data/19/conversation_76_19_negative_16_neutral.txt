@@ -1,0 +1,22 @@
+"Speaker A: 'I hope you're feeling ready to head home soon. Let's go over your discharge plan one more time.'
+
+Speaker B: 'Thanks, I'm a bit nervous about managing everything on my own at home.'
+
+Speaker A: 'I understand. We'll make sure everything is clear. How do you feel about the information we've provided about your condition?'
+
+Speaker B: 'It's been a lot to take in, but I think I understand the essentials.'
+
+Speaker A: 'That's good to hear. If you have any questions, feel free to ask. Now, about the support services available post-discharge...'
+
+Speaker B: 'Honestly, I'm a bit concerned. It seems like there's a lack of resources, and I'm not sure what I'll have access to.'
+
+Speaker A: 'I know it can be frustrating. The system does have some limitations, but we'll do our best to connect you with what's available.'
+
+Speaker B: 'I appreciate that. It would be helpful to have some additional support, especially in the first few weeks.'
+
+Speaker A: 'Absolutely. We'll make sure to outline all potential resources and contacts for you.'
+
+Speaker B: 'Thanks, it's reassuring to know I'm not completely on my own in this.'
+
+Speaker A: 'You won't be. Let's keep in touch through your check-ups, and remember, we're here to help.'"
+

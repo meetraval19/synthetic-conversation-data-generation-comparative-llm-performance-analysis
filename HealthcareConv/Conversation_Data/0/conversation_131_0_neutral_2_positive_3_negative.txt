@@ -1,0 +1,16 @@
+"Speaker A: 'Let's start by reviewing the patient's medical history. It seems straightforward with no major surprises.'
+
+Speaker B: 'Yes, nothing out of the ordinary there. Moving on to the recent test results, they look very promising.'
+
+Speaker A: 'Absolutely, the improvements in those markers are excellent. It shows the treatment plan is working well.'
+
+Speaker B: 'I agree, it's encouraging to see such positive progress. Now, about the medication review...'
+
+Speaker A: 'This part is a bit concerning. There have been complaints about side effects.'
+
+Speaker B: 'Yes, it's troublesome. We might need to consider adjusting the dosage or exploring alternatives.'
+
+Speaker A: 'Definitely, ensuring the patient's comfort is a priority.'
+
+Speaker B: 'Let's make sure we address this issue promptly to avoid any further complications.'"
+

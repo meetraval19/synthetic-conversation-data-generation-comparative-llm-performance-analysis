@@ -1,0 +1,18 @@
+    
+"Speaker A: 'I’ve reviewed the patient’s documentation. Everything seems in order, but I'd appreciate your perspective.'
+
+Speaker B: 'Yes, the documentation is thorough, though it doesn’t always tell the full story.'
+
+Speaker A: 'True, that’s where our collaboration comes in. Speaking of which, how do you feel about the approach we're considering for the patient’s treatment?'
+
+Speaker B: 'Honestly, I’m a bit concerned. Our last discussion on shared decision-making was a bit tense. The patient seemed overwhelmed by the options.'
+
+Speaker A: 'I noticed that too. It can be challenging when patients are faced with so many decisions.'
+
+Speaker B: 'I agree, and without clear guidance, it might not lead to the best outcome.'
+
+Speaker A: 'Maybe we should have a follow-up session to clarify things more directly with the patient.'
+
+Speaker B: 'That sounds like a plan. Ensuring a support system for the patient might ease the decision-making process.'
+
+Speaker A: 'Absolutely, clearer communication and understanding will certainly help them feel more confident moving forward.'"

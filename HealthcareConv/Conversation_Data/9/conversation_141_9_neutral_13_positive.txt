@@ -1,0 +1,11 @@
+"Speaker A: 'The patient's risk assessment results are back, and they seem to be fairly standard given their condition.'
+
+Speaker B: 'Yes, nothing out of the ordinary. It's good to see the data aligns with the initial diagnosis.'
+
+Speaker A: 'Absolutely. Moving on, I think it's time to consider discharge planning. The patient's recovery progress has been remarkable.'
+
+Speaker B: 'I agree. Their rehabilitation has been swift, which is encouraging for a positive discharge plan.'
+
+Speaker A: 'It's great to see how responsive they've been to treatment. We should outline a follow-up care routine.'
+
+Speaker B: 'Exactly. Ensuring they continue this progress at home will be essential for long-term success.'"

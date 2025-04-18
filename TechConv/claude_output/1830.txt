@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

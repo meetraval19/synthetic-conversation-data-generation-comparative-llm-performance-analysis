@@ -1,0 +1,22 @@
+"Speaker A: 'How have you been feeling since we last adjusted your medication?'
+
+Speaker B: 'Honestly, the medicine has been giving me some unpleasant reactions. I've been experiencing headaches and nausea.'
+
+Speaker A: 'I'm sorry to hear that. It sounds like the side effects are becoming quite troublesome.'
+
+Speaker B: 'Yes, it's been challenging, especially since I expected to feel better, not worse.'
+
+Speaker A: 'Let's address this right away. We can look into alternative options or adjust the dosage to alleviate those symptoms.'
+
+Speaker B: 'That would be great. I really appreciate your willingness to help find a solution.'
+
+Speaker A: 'Of course. In the meantime, let's also discuss any updates to your care strategy. Have there been any changes in your daily routine or symptoms?'
+
+Speaker B: 'Not really, everything else has been pretty stable.'
+
+Speaker A: 'Good to hear. We'll make sure your care plan reflects your current needs. It's all about keeping everything on track and manageable.'
+
+Speaker B: 'I just want to get back to feeling like myself again.'
+
+Speaker A: 'We'll work together to make that happen. Let's start by addressing those side effects, and I'll update your plan accordingly.'"
+

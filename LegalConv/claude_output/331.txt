@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "negative"
+    }
+  ]
+}

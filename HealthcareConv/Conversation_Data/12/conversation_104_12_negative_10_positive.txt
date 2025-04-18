@@ -1,0 +1,21 @@
+"Speaker A: 'Hi there, how have you been managing with your therapy?'
+
+Speaker B: 'Actually, I've been quite diligent. It's been really helpful to stick to the schedule and I’ve noticed an improvement.'
+
+Speaker A: 'That’s great to hear! Consistency can really make a difference.'
+
+Speaker B: 'Absolutely, the routine has become second nature now.'
+
+Speaker A: 'Now, regarding your medical records and notes, I've noticed some missing details.'
+
+Speaker B: 'Oh no, I’ve been keeping track but didn’t realize there were gaps.'
+
+Speaker A: 'It's important to have thorough documentation. It helps us provide the best care and keep track of your progress.'
+
+Speaker B: 'I understand. I'll make sure to be more meticulous with my records.'
+
+Speaker A: 'Thank you, I appreciate your effort in staying on top of things.'
+
+Speaker B: 'No problem. I’ll fix it and keep up with the therapy too.'
+
+Speaker A: 'Sounds like a plan. Let’s keep moving forward together.'"

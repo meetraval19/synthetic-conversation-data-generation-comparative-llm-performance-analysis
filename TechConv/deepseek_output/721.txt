@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "negative"
+        }
+    ]
+}

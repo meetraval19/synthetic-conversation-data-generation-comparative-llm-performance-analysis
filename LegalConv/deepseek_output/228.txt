@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Applicable Laws and Regulations",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "neutral"
+        }
+    ]
+}

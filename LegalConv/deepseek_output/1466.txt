@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "positive"
+        }
+    ]
+}

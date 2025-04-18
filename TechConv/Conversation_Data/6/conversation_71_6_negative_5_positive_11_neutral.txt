@@ -1,0 +1,18 @@
+"Speaker A: 'Thanks for agreeing to chat about your recent experience with our app. What would you say about the overall usage?'
+
+Speaker B: 'Well, to be honest, it was a bit frustrating at times. Navigating through the menus wasn't very intuitive.'
+
+Speaker A: 'I understand. We're working on usability improvements. On a brighter note, we're excited about our upcoming updates. Have you heard about them?'
+
+Speaker B: 'Yes, I have. The new features sound promising, especially the enhanced customization options.'
+
+Speaker A: 'I'm glad you're looking forward to those. We aim to make the experience more enjoyable and tailored. Now, about our onboarding process, do you feel it was helpful enough?'
+
+Speaker B: 'It covered the basics, I suppose. But perhaps integrating more interactive tutorials could benefit new users.'
+
+Speaker A: 'That's helpful feedback. We'll consider adding those interactive tutorials to make the onboarding smoother. Anything else you'd like to add?'
+
+Speaker B: 'No, that's about it for now. Just looking forward to those updates and improvements.'
+
+Speaker A: 'Thank you for your input. We're eager to make this a better experience for everyone.'"
+

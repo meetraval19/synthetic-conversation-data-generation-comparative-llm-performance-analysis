@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Enforcement and Implementation Issues",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "negative"
+        }
+    ]
+}

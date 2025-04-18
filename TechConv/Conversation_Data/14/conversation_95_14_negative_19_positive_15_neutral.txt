@@ -1,0 +1,18 @@
+"Speaker A: 'Thank you for joining this feedback session. Let’s start with your experience on the analytics side of the project.'
+
+Speaker B: 'Honestly, the metrics didn’t give us the insights we were hoping for. It felt like a struggle to make sense of the data.'
+
+Speaker A: 'I see. That's something we'll need to address. On a different note, how did you find using the new platform compared to the old one?'
+
+Speaker B: 'The new platform is fantastic! It’s much more intuitive and has significantly boosted our productivity.'
+
+Speaker A: 'That's great to hear. We put a lot of effort into ensuring the transition was smooth and beneficial. What about your workflow? Have there been any major changes?'
+
+Speaker B: 'The workflow is pretty much the same. No major changes, but it seems to run efficiently.'
+
+Speaker A: 'That’s good. Sometimes just keeping things stable is an achievement in itself. Any final thoughts or suggestions?'
+
+Speaker B: 'Just improving the analytics would make a world of difference. Everything else is working well!'
+
+Speaker A: 'Absolutely, thanks for your feedback. We’ll certainly look into improving that.'"
+

@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "positive"
+    }
+  ]
+}

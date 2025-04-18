@@ -1,0 +1,13 @@
+"Speaker A: 'Thanks for joining the demo today. Let's start with the system configuration. Our platform offers flexible setup options tailored to different business needs.'
+
+Speaker B: 'That sounds good. Can you explain how the configuration management works?'
+
+Speaker A: 'Certainly. You have full control over user access and can modify settings without needing a technical team.'
+
+Speaker B: 'That seems straightforward. What about the long-term plans for your software? Any upcoming features?'
+
+Speaker A: 'Well, to be honest, while we have exciting ideas, some delays have affected our timeline. We're working on keeps things on track.'
+
+Speaker B: 'I appreciate your honesty. It’s crucial for us to know what improvements to expect in the future.'
+
+Speaker A: 'I completely understand. We're committed to overcoming these hurdles and will keep you updated every step of the way.'"

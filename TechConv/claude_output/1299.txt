@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "System Configuration Details",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

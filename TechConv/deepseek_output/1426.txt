@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Testing and Validation Status",
+            "sentiment": "neutral"
+        }
+    ]
+}

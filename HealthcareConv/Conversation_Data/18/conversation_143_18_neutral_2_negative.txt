@@ -1,0 +1,17 @@
+"Speaker A: 'Hi there, good to see you again. How have you been feeling since the last time we spoke?'
+
+Speaker B: 'Thanks for asking. I’ve had a few moments where I was unsure if I needed urgent care but managed to handle things at home.'
+
+Speaker A: 'I understand, and it’s important to know you can reach out if those situations become more concerning.'
+
+Speaker B: 'Absolutely. I’ll keep that in mind. About the tests we did recently, have the results come in?'
+
+Speaker A: 'Yes, they have. There's something in the results that we need to discuss further. It's not quite what we were hoping for.'
+
+Speaker B: 'Oh, that’s not the news I was hoping to hear. Could you clarify what this means for my condition?'
+
+Speaker A: 'Certainly. It means we may need to explore additional treatment options, but we’ll work together to create a plan that supports your health.'
+
+Speaker B: 'I see. I guess we should get started on figuring out the next steps then.'
+
+Speaker A: 'Exactly, and remember, I’m here to support you through every step of the way.'"

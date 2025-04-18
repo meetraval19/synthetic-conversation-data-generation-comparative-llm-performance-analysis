@@ -1,0 +1,17 @@
+"Speaker A: 'I’ve looked over your medical history, and it’s great to see such a consistent record of health maintenance.'
+
+Speaker B: 'Thank you. It's been important for me to stay on top of regular check-ups.'
+
+Speaker A: 'Absolutely, it’s clear you’ve done a fantastic job with that. Now, regarding the paperwork for your referral...'
+
+Speaker B: 'Ah, I had a feeling there might be issues. Is there something missing?'
+
+Speaker A: 'There are a few inconsistencies in the documentation. It seems some of the recent tests weren’t updated in the file, which might delay the process.'
+
+Speaker B: 'I see. That’s frustrating. I’ll contact the lab to see if they can provide the necessary details promptly.'
+
+Speaker A: 'That’d be great. The sooner we have everything in order, the quicker we can proceed with your referral.'
+
+Speaker B: 'Understood. I’ll make sure to follow up on this. Thank you for catching it early.'
+
+Speaker A: 'No problem at all. Once the paperwork is complete, we should be in good shape to move forward.'"

@@ -1,0 +1,19 @@
+"Speaker A: 'We're almost ready to discharge you, but we need to go over a few things. First, it's impressive how well your medical history has helped guide your treatment.'
+
+Speaker B: 'I'm glad to hear that. I've always tried to stay on top of my health.'
+
+Speaker A: 'Yes, it really shows. Now, regarding the test results, they came back very promising.'
+
+Speaker B: 'That’s a relief! I was worried about those.'
+
+Speaker A: 'You did great. However, we should discuss some potential side effects of the medication prescribed to you.'
+
+Speaker B: 'Oh, I didn’t realize there might be issues. What should I watch out for?'
+
+Speaker A: 'There are a few common reactions. However, if you experience anything severe, please contact us immediately.'
+
+Speaker B: 'I’ll be sure to monitor everything closely.'
+
+Speaker A: 'Perfect. Let’s wrap up the discharge process, and remember, we’re here if you have any concerns.'
+
+Speaker B: 'Thank you for all your help. I’ll reach out if anything feels off.'"

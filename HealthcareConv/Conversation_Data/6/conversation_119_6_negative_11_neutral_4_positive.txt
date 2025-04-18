@@ -1,0 +1,27 @@
+"Speaker A: 'I’m pleased to report that your treatment plan was very effective, and you’re ready for discharge soon.'
+
+Speaker B: 'That’s great news! I felt the team really covered all bases with the treatment approach.'
+
+Speaker A: 'Definitely. Now, before you leave, we need to go over a few instructions. Understanding your medications and follow-up steps is crucial.'
+
+Speaker B: 'Sure, but I have a few questions about some of the instructions given.'
+
+Speaker A: 'Of course, feel free to ask. It’s important that you’re comfortable with the information you have.'
+
+Speaker B: 'Thanks. One thing I’m worried about is the referral process for the specialist I need to see next.'
+
+Speaker A: 'I understand. Coordinating those referrals can be a bit complicated sometimes. We’ve had some issues lately, but I assure you we’re working to streamline the communication.'
+
+Speaker B: 'I hope it won’t delay anything. It would be comforting to have everything organized before I leave.'
+
+Speaker A: 'We’re in contact with your next provider and will do our best to ensure a smooth transition. If there are any glitches, our team is here to support you.'
+
+Speaker B: 'That’s comforting to know. I appreciate the effort you all are putting in.'
+
+Speaker A: 'Your care continues to be our priority, both inside and outside of the hospital. Do you feel ready to manage things from here?'
+
+Speaker B: 'Yes, I think so, but I’ll definitely reach out if anything’s unclear.'
+
+Speaker A: 'Please do. We’re always here to help. Let’s set up a follow-up to review everything you need once more.'
+
+Speaker B: 'Sounds good. Thank you for all your support and for ensuring I’m ready for this transition.'"

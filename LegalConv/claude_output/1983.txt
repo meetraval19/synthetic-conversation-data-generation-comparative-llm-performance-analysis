@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Enforcement and Implementation Issues",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "positive"
+    }
+  ]
+}

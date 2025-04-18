@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

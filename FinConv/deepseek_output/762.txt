@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Investment Performance Review",
+            "sentiment": "positive"
+        }
+    ]
+}

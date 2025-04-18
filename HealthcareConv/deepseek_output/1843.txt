@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Care Barriers",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Patient Education",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Documentation Review",
+            "sentiment": "neutral"
+        }
+    ]
+}

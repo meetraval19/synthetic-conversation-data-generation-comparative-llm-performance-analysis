@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "negative"
+        }
+    ]
+}

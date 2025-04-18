@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Interest Rate Impact Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Creditworthiness Evaluation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "neutral"
+        }
+    ]
+}

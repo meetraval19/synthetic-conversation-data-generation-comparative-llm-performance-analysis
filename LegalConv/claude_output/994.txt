@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "neutral"
+    }
+  ]
+}

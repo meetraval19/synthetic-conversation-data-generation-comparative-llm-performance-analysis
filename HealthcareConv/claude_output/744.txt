@@ -1,0 +1,20 @@
+Based on the provided conversation, I've identified the main topics discussed and analyzed the sentiment for each:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Medical History",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Tool or Platform Comparison",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Security and Privacy Discussion",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

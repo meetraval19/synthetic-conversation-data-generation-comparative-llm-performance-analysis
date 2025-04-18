@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Legal Argument and Case Theory",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "negative"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+"Speaker A: 'I'm glad to see you're ready for discharge today. Let's go over a few details. How have the past few days been for you here?' 
+
+Speaker B: 'Overall, it's been okay. I appreciate how thoroughly you reviewed my medical background initially. It really gave me confidence in the care plan.'
+
+Speaker A: 'I'm happy to hear that. We've noticed it makes a big difference in tailoring treatment effectively. Let's talk about your symptoms. Have you experienced any of the ones we discussed at the start?'
+
+Speaker B: 'Unfortunately, yes. I did notice a few persistent issues, which has been a bit concerning.'
+
+Speaker A: 'I understand, and it's important to address those before you leave. We'll ensure you have a clear path for follow-ups. Regarding your medication, have you noticed any expected or unexpected reactions?'
+
+Speaker B: 'A few minor reactions, nothing alarming, but consistent with what you mentioned might happen.'
+
+Speaker A: 'That's reassuring to hear. Those reactions are usually manageable. We'll provide instructions on how to handle them at home. Do you have any other concerns?'
+
+Speaker B: 'Not really, just hoping these symptoms will ease quickly after discharge.'
+
+Speaker A: 'With continued care and monitoring, there's a good chance they will. Let's get everything in order for you to transition smoothly. Always reach out if anything feels off.'
+
+Speaker B: 'Will do, thank you. I appreciate your support through all this.'
+
+Speaker A: 'It's our pleasure. Take care, and don't hesitate to call if you need anything further.'"

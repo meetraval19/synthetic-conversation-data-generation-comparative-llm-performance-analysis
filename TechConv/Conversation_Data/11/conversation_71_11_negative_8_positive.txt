@@ -1,0 +1,15 @@
+"Speaker A: 'Thank you for participating in this feedback session. Can you share your experience with getting started on our platform?'
+
+Speaker B: 'Well, to be honest, the initial setup and training were a bit overwhelming. I found it tough to understand everything without some guidance.'
+
+Speaker A: 'I see. We’ll definitely look into making the onboarding process smoother. How did you find our technical documentation?'
+
+Speaker B: 'Oh, the documentation is fantastic! It’s well-organized and detailed, making it easy to find the information I need.'
+
+Speaker A: 'That’s great to hear. We aim to keep it user-friendly. Is there anything else you’d like us to improve on?'
+
+Speaker B: 'Just the training aspect, really. If that’s sorted, I think new users would have a much better start.'
+
+Speaker A: 'Thanks for your valuable input. We’ll work on enhancing that part. Meanwhile, if you have more feedback, feel free to reach out.'
+
+Speaker B: 'Absolutely, and thank you for listening.'"

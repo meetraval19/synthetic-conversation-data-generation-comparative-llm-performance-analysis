@@ -1,0 +1,20 @@
+Based on the conversation provided, I've identified the underlying themes and performed sentiment analysis:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Side Effects",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Barriers",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

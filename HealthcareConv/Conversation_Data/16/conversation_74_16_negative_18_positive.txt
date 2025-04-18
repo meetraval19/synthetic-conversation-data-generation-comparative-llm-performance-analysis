@@ -1,0 +1,11 @@
+"Speaker A: 'I went through the test results and I’m a bit concerned about how it was explained to me.'  
+Speaker B: 'I understand. Sometimes the medical jargon can be overwhelming. How can I clarify things for you?'  
+
+Speaker A: 'That would be helpful. I just need to understand what's going on. On a brighter note, I did notice how quickly the staff responded when I had that issue last week.'  
+Speaker B: 'Yes, the emergency response team here is exceptional and always ready to assist swiftly.'  
+
+Speaker A: 'It was reassuring to see them in action. But, returning to the initial findings, could you break it down for me?'  
+Speaker B: 'Of course, let me explain it in simpler terms so everything is clear to you.'  
+
+Speaker A: 'Thank you, I appreciate your patience.'  
+Speaker B: 'It's my pleasure. Please feel free to ask any questions at any time.'"

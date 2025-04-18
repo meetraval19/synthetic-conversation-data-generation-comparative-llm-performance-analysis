@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Investment Performance Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Interest Rate Impact Analysis",
+            "sentiment": "neutral"
+        }
+    ]
+}

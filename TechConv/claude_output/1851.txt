@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "negative"
+    }
+  ]
+}

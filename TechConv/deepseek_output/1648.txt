@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "negative"
+        }
+    ]
+}

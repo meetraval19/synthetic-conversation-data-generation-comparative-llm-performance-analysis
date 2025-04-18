@@ -1,0 +1,17 @@
+"Speaker A: 'I’ve reviewed your recent test results, and there are a few changes we need to consider for your care plan.'
+
+Speaker B: 'Oh, that sounds a bit worrying. What's the issue?'
+
+Speaker A: 'Your symptoms haven't improved as much as we expected, so I think we need to adjust the medication dosage.'
+
+Speaker B: 'I had hoped for better news, but I understand. Is there anything I should particularly watch out for?'
+
+Speaker A: 'Nothing alarming right now, but it’s important you contact us if you experience any sudden changes. It’s vital to stay cautious.'
+
+Speaker B: 'I haven't had any major issues so far, thankfully. Should I be concerned about potential risks?'
+
+Speaker A: 'We'll continue monitoring your condition closely. The focus is still on assessing any potential risks with the least invasive approaches possible.'
+
+Speaker B: 'Alright, I trust your judgment. Thank you for keeping me informed.'
+
+Speaker A: 'Anytime! Let’s keep everything in balance and see how the new adjustments go.'"

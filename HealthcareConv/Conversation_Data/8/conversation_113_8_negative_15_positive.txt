@@ -1,0 +1,15 @@
+"Speaker A: 'Thanks for coming in today. I've reviewed your care plan, and there are a few areas where we haven't seen the improvement we'd hoped for.'
+
+Speaker B: 'I see. Is there anything specific that's causing concern?'
+
+Speaker A: 'Yes, particularly with your medication. It seems the current treatment isn't having the desired effect.'
+
+Speaker B: 'That's disappointing to hear. What should we do next?'
+
+Speaker A: 'Well, I'd like to explore different options with you. How about we adjust your dosage or try a new medication? I believe this shared approach could lead to better outcomes.'
+
+Speaker B: 'I'm glad we're looking at this together. I always feel more confident knowing I have a say in my treatment plan.'
+
+Speaker A: 'Absolutely, collaboration is key. We’ll keep monitoring your progress closely.'
+
+Speaker B: 'I appreciate that. Let’s move forward with the new plan.'

@@ -1,0 +1,15 @@
+"Speaker A: 'The recent assessment of your symptoms looks promising. Your progress matches the expected outcomes beautifully.'
+
+Speaker B: 'That's great to hear. However, I'm a bit concerned about how the diagnosis was explained last time. It felt a bit unclear.'
+
+Speaker A: 'I'm sorry to hear that. It's vital that the communication is transparent and understandable. We can review it in detail and clarify any doubts.'
+
+Speaker B: 'I would appreciate that. Understanding the diagnosis fully would really put my mind at ease.'
+
+Speaker A: 'Absolutely. Now, regarding your care plan, there are some updates. They're quite straightforward, but let's discuss them to ensure everything is on track.'
+
+Speaker B: 'Yes, that sounds reasonable. As long as it aligns with my progress, I'm good with the updates.'
+
+Speaker A: ‘Exactly, it's all centered around maintaining what’s been effective and making adjustments where necessary.’
+
+Speaker B: ‘Thanks for keeping everything aligned and for addressing my concerns.'”

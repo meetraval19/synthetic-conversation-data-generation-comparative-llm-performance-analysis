@@ -1,0 +1,15 @@
+"Speaker A: 'Good news! Your symptom assessment looks promising. You've made great progress in recovery.'
+
+Speaker B: 'That's a relief. I was a bit worried about some lingering pain.'
+
+Speaker A: 'It's understandable, but your symptoms have improved significantly, and that's a positive sign.'
+
+Speaker B: 'What about the communication among the care team? Is everyone on the same page?'
+
+Speaker A: 'Yes, the team has been exchanging updates throughout your stay. It's important to keep things consistent, and they've done well in that regard.'
+
+Speaker B: 'Great to hear. Has there been any change in my care plan that I should be aware of?'
+
+Speaker A: 'There are some updates, but they’re mostly procedural. We just want to ensure everything remains aligned as you transition to home care.'
+
+Speaker B: 'Thanks for keeping me informed. It's comforting to know the team is coordinated and supportive.'"

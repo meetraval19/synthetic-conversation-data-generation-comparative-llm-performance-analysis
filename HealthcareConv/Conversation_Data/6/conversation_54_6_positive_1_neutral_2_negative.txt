@@ -1,0 +1,15 @@
+"Speaker A: 'I'm glad to see our referral process is running smoothly. Patients are being connected to specialists faster than before.'
+
+Speaker B: 'Absolutely, the coordination between our departments has significantly improved patient care efficiency.'
+
+Speaker A: 'Moving on, let's look into the patient's symptoms before referring them. It’s crucial to have a comprehensive assessment.'
+
+Speaker B: 'Yes, discussing their symptoms thoroughly helps in identifying the right specialist for them.'
+
+Speaker A: 'About those recent test results—they weren't what we hoped for.'
+
+Speaker B: 'I know, the outcomes were less than ideal. It's important to communicate these results effectively to both the patient and the specialist.'
+
+Speaker A: 'Agreed, ensuring clarity in explanations helps manage patient expectations.' 
+
+Speaker B: 'Let’s continue to enhance our communication, especially during times when results aren’t favorable.'"

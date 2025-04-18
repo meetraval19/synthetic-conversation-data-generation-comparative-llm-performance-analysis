@@ -1,0 +1,23 @@
+"Speaker A: 'I’ve been going over the treatment plan you suggested last time.'
+
+Speaker B: 'Yes, I wanted to discuss that. Have you had any issues with it?'
+
+Speaker A: 'Honestly, it’s been a bit tough to follow. I’m feeling overwhelmed.'
+
+Speaker B: 'I understand. We can adjust it to make it more manageable for you.'
+
+Speaker A: 'That would be great. On a positive note, I didn’t have any emergency issues since our last visit.'
+
+Speaker B: 'That’s wonderful to hear! No unexpected hospital visits or anything?'
+
+Speaker A: 'No, everything was smooth, thankfully.'
+
+Speaker B: 'Glad to hear that. Let’s chat about your symptoms now.'
+
+Speaker A: 'Sure, I’ve noticed they haven’t changed much. It’s just the same as before.'
+
+Speaker B: 'Alright, we’ll keep monitoring them. We can tweak the plan accordingly over time.'
+
+Speaker A: 'That sounds good to me. Thank you for your support.'
+
+Speaker B: 'Of course, I’m here to help. Let’s make sure you’re comfortable with everything moving forward.'"

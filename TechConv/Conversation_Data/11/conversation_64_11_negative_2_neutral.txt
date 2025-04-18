@@ -1,0 +1,15 @@
+"Speaker A: 'So, could you share your thoughts on the initial setup when you started using our platform?'
+
+Speaker B: 'Honestly, the onboarding process was quite challenging. It took longer than expected, and I felt there could have been better guidance.'
+
+Speaker A: 'I understand. We definitely want to improve that. Were there specific areas where you felt stuck?'
+
+Speaker B: 'Yes, the tutorials weren't very clear, and I ended up having to search for outside resources to get going.'
+
+Speaker A: 'Thank you for that feedback. We’ll certainly look into making those clearer. How has the system been performing since you got past the initial phase?'
+
+Speaker B: 'It's been okay. I haven’t noticed any severe issues, but there are times when it’s a bit slow. It’s not really a deal-breaker but something you might want to optimize.'
+
+Speaker A: 'I appreciate your patience on that front. We aim for efficiency, so performance is certainly on our radar. Is there anything else you’d like to mention?'
+
+Speaker B: 'Not at the moment, but I’ll keep using it and see how it goes. Thanks for listening!'

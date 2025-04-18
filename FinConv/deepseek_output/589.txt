@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Cash Flow Management",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "negative"
+        }
+    ]
+}

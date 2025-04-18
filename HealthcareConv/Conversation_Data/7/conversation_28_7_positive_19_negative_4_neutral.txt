@@ -1,0 +1,19 @@
+"Speaker A: 'Hello! How have things been going since the last visit?'
+
+Speaker B: 'Hi, doctor. I've noticed a real improvement, especially with how your team communicates. It's been so reassuring.'
+
+Speaker A: 'I'm glad to hear that. We work hard to keep everyone in the loop and make sure you're informed every step of the way.'
+
+Speaker B: 'Absolutely. It's really helped me feel more confident in the process. But I did face some issues scheduling follow-up services.'
+
+Speaker A: 'I'm sorry to hear that. Sometimes the system can be a bit slow, but we're working on improving it.'
+
+Speaker B: 'I hope so. It was quite frustrating to deal with. But back to the treatment, is everything still on track?'
+
+Speaker A: 'Yes, the current approach seems stable, but we might make minor adjustments based on your progress. How do you feel about it?'
+
+Speaker B: 'It makes sense to me. As long as it continues to address the main concerns, I'm on board with any tweaks.'
+
+Speaker A: 'Great! Let’s keep monitoring and make sure you have the support you need throughout.' 
+
+Speaker B: 'Thanks, doctor. I appreciate your proactive approach. It really makes a difference.'"

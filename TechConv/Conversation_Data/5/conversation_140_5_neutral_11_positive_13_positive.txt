@@ -1,0 +1,26 @@
+"Speaker A: 'Thank you for joining the demo today. I'm excited to walk you through what we offer and discuss any questions.'
+
+Speaker B: 'I'm looking forward to it. Can we start with an overview of your plans for the software moving forward?'
+
+Speaker A: 'Of course. Our development team has structured a roadmap that lays out upcoming features and enhancements. We’re focused on keeping everything aligned with industry trends and user needs.'
+
+Speaker B: 'It sounds like you're keeping things adaptable.'
+
+Speaker A: 'Exactly. Now, regarding onboarding, our goal is to ensure a seamless experience. We offer comprehensive training modules that have received positive feedback from many of our clients.'
+
+Speaker B: 'That’s great to hear. Training support is a huge factor for us when implementing new systems.'
+
+Speaker A: 'We understand that completely. Our aim is to make the transition as smooth and beneficial as possible. Plus, we provide ongoing support to cater to any evolving needs.'
+
+Speaker B: 'And what about access rights and licensing?'
+
+Speaker A: 'I'm glad you asked. Our licensing process is straightforward and flexible, ensuring teams can access the software with minimal hassle. Clients appreciate this positive approach as it reduces administrative burdens.'
+
+Speaker B: 'Flexibility in licensing is definitely a plus. It makes scaling more manageable.'
+
+Speaker A: 'Exactly, and we're here to make sure your team feels confident and efficient at every step. Do you have any other questions I can assist with?'
+
+Speaker B: 'No further questions right now, but I appreciate the thorough breakdown.'
+
+Speaker A: 'Thank you for your interest. We're excited about the chance to work with you and support your goals.'"
+

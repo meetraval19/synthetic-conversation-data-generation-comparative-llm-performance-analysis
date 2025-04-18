@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Medication Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Therapy Adherence",
+            "sentiment": "negative"
+        }
+    ]
+}

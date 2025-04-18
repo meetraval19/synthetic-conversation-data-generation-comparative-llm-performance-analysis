@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Enforcement and Implementation Issues",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "positive"
+    }
+  ]
+}

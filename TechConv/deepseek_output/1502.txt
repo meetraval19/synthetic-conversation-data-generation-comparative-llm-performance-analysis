@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "neutral"
+        }
+    ]
+}

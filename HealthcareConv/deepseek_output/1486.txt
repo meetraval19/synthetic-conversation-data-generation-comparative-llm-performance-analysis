@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Side Effects",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "positive"
+        }
+    ]
+}

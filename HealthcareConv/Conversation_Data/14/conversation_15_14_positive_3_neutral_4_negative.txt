@@ -1,0 +1,15 @@
+"Speaker A: 'I’ve noticed that the new treatment has surprisingly minimal side effects for most patients.'
+
+Speaker B: 'That’s great to hear. Minimizing discomfort can really boost patient morale.'
+
+Speaker A: 'Absolutely. Now, let’s go over the list of medications the patient is currently taking.'
+
+Speaker B: 'Sure, reviewing their prescriptions is crucial to avoid any unwanted interactions.'
+
+Speaker A: 'Yes, it's all about ensuring everything works together smoothly.'
+
+Speaker B: 'Regarding the overall treatment approach, the patient isn’t responding as expected.'
+
+Speaker A: 'I understand your concern. It might be time to reassess and adjust our strategy.'
+
+Speaker B: 'Agreed. We should look into alternative options to improve the outcome.'"

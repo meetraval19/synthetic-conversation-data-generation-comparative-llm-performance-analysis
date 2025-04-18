@@ -1,0 +1,19 @@
+"Speaker A: 'Let's start with the risk analysis for our patient today. The data seems fairly standard, don't you think?'
+
+Speaker B: 'Yes, it looks typical, but we should still consider all underlying factors.'
+
+Speaker A: 'Absolutely. However, I'm more concerned when reviewing their previous health records.'
+
+Speaker B: 'I noticed that too. The recurring symptoms appear troubling, despite the previous treatments.'
+
+Speaker A: 'Indeed, and I think it has complicated our current case significantly.'
+
+Speaker B: 'Agreed. Now, considering our approach to involve the patient's preferences, do you think we can make an inclusive decision?'
+
+Speaker A: 'I'm worried about that. It seems there's been some distress about the treatment options presented before.'
+
+Speaker B: 'I understand. It's crucial to address those concerns properly to move forward.'
+
+Speaker A: 'Yes, we need to approach the situation delicately and ensure the patient feels genuinely involved despite the complexities.'
+
+Speaker B: 'Let's work on a strategy that reinforces trust while meeting medical needs efficiently.'"

@@ -1,0 +1,19 @@
+"Speaker A: 'Welcome! Our software offers comprehensive solutions, but let's start by looking at the user setup process.'
+
+Speaker B: 'Great, though I heard there might be challenges during the initial training phase.'
+
+Speaker A: 'I understand your concern. We offer 24/7 support to mitigate such issues, but it can be a bit overwhelming at first.'
+
+Speaker B: 'That’s reassuring. Can you walk me through how licensing works with your platform?'
+
+Speaker A: 'Certainly. Our licensing is designed to be flexible. It scales with your team's needs, providing the appropriate access rights.'
+
+Speaker B: 'Sounds straightforward. I just want to ensure there are no hidden complications.'
+
+Speaker A: 'Absolutely, simplicity is key for us. Now, regarding the performance of your last campaign, do you usually track specific metrics?'
+
+Speaker B: 'Yes, but we haven’t delved deeply into analytics yet.'
+
+Speaker A: 'Our software provides detailed analytics dashboards to review your sales performance and customer engagement easily.'
+
+Speaker B: 'That sounds beneficial. It’ll be interesting to explore those analytics further.'"

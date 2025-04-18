@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Interest Rate Impact Analysis",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Liquidity Risk Evaluation",
+            "sentiment": "neutral"
+        }
+    ]
+}

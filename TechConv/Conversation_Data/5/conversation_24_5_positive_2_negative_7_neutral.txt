@@ -1,0 +1,15 @@
+"Speaker A: 'Let's start by discussing the future plans for our team. How do you feel about the new projects lined up this year?'
+
+Speaker B: 'I'm really excited! The roadmap looks promising, especially with the integration of new technologies.'
+
+Speaker A: 'I'm glad to hear that. Now, we do need to address some performance concerns. There have been a few missed deadlines lately.'
+
+Speaker B: 'I understand, and I’m working on improving time management skills. I’ll make sure to keep those concerns in mind.'
+
+Speaker A: 'Great, I appreciate your willingness to improve. Now, how do you feel about our current support and escalation process? Have you encountered any issues?'
+
+Speaker B: 'It's been okay, but sometimes it's a bit slow. It hasn't been problematic, though it could possibly be streamlined.'
+
+Speaker A: 'I’ll take that into consideration. Overall, I see a lot of potential in the direction we’re heading and in your contributions to the team.'
+
+Speaker B: 'Thank you. I’m looking forward to contributing to our future projects and improving wherever needed.'"

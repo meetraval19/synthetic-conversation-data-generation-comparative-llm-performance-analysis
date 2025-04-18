@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "neutral"
+        }
+    ]
+}

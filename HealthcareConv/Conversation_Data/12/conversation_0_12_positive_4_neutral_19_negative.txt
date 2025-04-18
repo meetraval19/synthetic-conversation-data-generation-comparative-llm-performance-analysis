@@ -1,0 +1,19 @@
+"Speaker A: 'Hello! I've gone through your file, and everything is well documented. It's quite helpful for tracking your progress.'
+
+Speaker B: 'That's great to hear. It seems like all the details are in place.'
+
+Speaker A: 'Now, about your current treatment plan, how are you feeling about it?'
+
+Speaker B: 'Honestly, I'm not sure. Some things seem to work, others not so much.'
+
+Speaker A: 'That's perfectly normal. We can always adjust it if needed. It takes time to find the right balance.'
+
+Speaker B: 'I understand. What about the supportive care options? I’ve heard mixed reviews.'
+
+Speaker A: 'Yes, unfortunately, some services aren't as accessible or helpful as we'd like them to be at the moment.'
+
+Speaker B: 'That’s disappointing. Is there any way to improve that?'
+
+Speaker A: 'We're working on it, but it requires more resources and awareness. Meanwhile, let’s focus on what we can control with your treatment.'
+
+Speaker B: 'Thank you. I appreciate your help and guidance.'

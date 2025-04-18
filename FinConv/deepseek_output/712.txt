@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Asset Allocation Strategy",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Forecasting and Projections",
+            "sentiment": "neutral"
+        }
+    ]
+}

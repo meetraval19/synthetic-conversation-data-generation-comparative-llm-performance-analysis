@@ -1,0 +1,12 @@
+"Speaker A: 'Thanks for participating in this interview. Could you share your thoughts on how our customer support system handled your recent issue?' 
+
+Speaker B: 'Honestly, I was impressed. The way the support team quickly escalated my concern made a huge difference. It was seamless and reassuring to know that they had a structured process.'
+
+Speaker A: 'Great to hear! We're always working on improving that. Now, what do you think about our company's future plans and product roadmap?'
+
+Speaker B: 'To be candid, I'm a bit concerned. The recent announcements seemed a bit vague, and I'm not sure how they align with the current user needs. It feels like there might be a disconnect.'
+
+Speaker A: 'That's valuable feedback, and it's crucial for us to bridge that gap. Thank you for your honesty.' 
+
+Speaker B: 'I appreciate the opportunity to share my thoughts. Hope it helps!'"
+

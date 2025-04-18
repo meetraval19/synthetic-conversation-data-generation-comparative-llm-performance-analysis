@@ -1,0 +1,18 @@
+"Speaker A: 'I just finished reviewing the patient records, and I must say the documentation could be better.'
+
+Speaker B: 'I understand the frustration. It does slow down the process when the notes aren’t clear.'
+
+Speaker A: 'Exactly, but let's move on to the treatment plan. I've outlined a new approach for our patient.'
+
+Speaker B: 'Great! I looked at it briefly, and it seems promising. It's clear and comprehensive.'
+
+Speaker A: 'Thank you. I believe it should significantly improve the patient's comfort and recovery timeline.'
+
+Speaker B: 'I agree. It looks encouraging. Have you gone through the medication list?'
+
+Speaker A: 'Yes, and I'm quite happy with it. The adjustments should address her symptoms more effectively.'
+
+Speaker B: 'It's positive to see we're on the same page. The new regimen should definitely make a difference.'
+
+Speaker A: 'Absolutely. Now, if only the documentation could catch up with everything else.'"
+

@@ -1,0 +1,22 @@
+"Speaker A: 'Welcome back! How have you been feeling since your last visit?'
+
+Speaker B: 'Actually, I've been feeling much better. The new medication is helping a lot with my symptoms.'
+
+Speaker A: 'That's great to hear! Let's go over your symptom management a bit more. Overall, how would you rate your discomfort now?'
+
+Speaker B: 'I’d say the discomfort has significantly decreased. I’m optimistic about my progress.'
+
+Speaker A: 'Excellent. We like to see such positive improvements. Now, about the referral process—how did that go for you?'
+
+Speaker B: 'Honestly, it was quite frustrating. Coordinating between specialists was more complicated than I expected.'
+
+Speaker A: 'I’m really sorry you had to go through that. We’ve been hearing similar feedback and are trying to improve the process.'
+
+Speaker B: 'I appreciate the effort. It’s just hard to manage all these appointments and get everyone on the same page.'
+
+Speaker A: 'I understand. We're working on a better coordination system to make it easier for our patients.'
+
+Speaker B: 'That would be really helpful. I feel reassured just discussing this with you.'
+
+Speaker A: 'I’m glad to provide some peace of mind. Let’s continue to focus on your recovery and keep monitoring your symptoms closely.'"
+

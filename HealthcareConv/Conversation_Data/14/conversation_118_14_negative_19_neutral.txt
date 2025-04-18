@@ -1,0 +1,21 @@
+"Speaker A: 'As we prepare for your discharge, it's important to discuss any concerns you might have, especially regarding your recovery at home.'
+
+Speaker B: 'Well, I'm worried about some of the side effects I’ve been experiencing with the medication.'
+
+Speaker A: 'I understand. Some patients do face challenges with those. Let's review your symptoms to see how we can manage them effectively.'
+
+Speaker B: 'That would be helpful. I'd like to know what to expect and how to handle them.'
+
+Speaker A: 'Absolutely. We have options to mitigate them, and I'll provide resources for additional information.'
+
+Speaker B: 'I appreciate that. What about support after I leave the hospital?'
+
+Speaker A: 'We offer various support services, like home healthcare visits and virtual check-ins. They’re designed to make your transition smoother.'
+
+Speaker B: 'That's good to know. I might need some assistance once I'm back home.'
+
+Speaker A: 'Of course. These services aim to help you stay on track with your recovery. We’ll set up a plan before you leave.'
+
+Speaker B: 'That sounds reassuring. Thank you for your help.'
+
+Speaker A: 'It’s our pleasure to ensure you have a safe and supported recovery path.'"

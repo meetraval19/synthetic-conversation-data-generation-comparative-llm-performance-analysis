@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Referral Coordination",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Symptom Assessment",
+            "sentiment": "positive"
+        }
+    ]
+}

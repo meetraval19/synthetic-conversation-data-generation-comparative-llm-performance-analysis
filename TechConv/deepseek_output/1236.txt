@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "positive"
+        }
+    ]
+}

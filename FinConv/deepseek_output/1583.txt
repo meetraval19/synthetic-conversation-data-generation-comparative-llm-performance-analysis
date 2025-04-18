@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Market Conditions Impact",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Scenario and Sensitivity Analysis",
+            "sentiment": "neutral"
+        }
+    ]
+}

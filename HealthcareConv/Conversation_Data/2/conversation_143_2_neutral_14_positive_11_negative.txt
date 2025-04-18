@@ -1,0 +1,19 @@
+"Speaker A: 'I’ve just reviewed your test details. Everything seems stable now.' 
+
+Speaker B: 'That’s a relief. What’s the next step?'
+
+Speaker A: 'We’ll talk about some discharge instructions soon. First, let’s discuss your medication. Any issues with side effects?'
+
+Speaker B: 'Actually, the new prescription was great. I haven’t experienced any adverse reactions.' 
+
+Speaker A: 'That's excellent to hear. It’s always encouraging when treatment goes smoothly.'
+
+Speaker B: 'I’m a bit anxious, though, about all the information I need to remember once I leave. It seems overwhelming.'
+
+Speaker A: 'I understand it can feel like a lot. Let’s take it step by step. You can always reach out if you have questions.'
+
+Speaker B: 'I hope it gets easier over time. I’ll make sure to take notes.' 
+
+Speaker A: 'That’s a good approach. You’ll be more confident each day. Ready to go over the discharge plan?' 
+
+Speaker B: 'Yes, I think I'm ready. Thanks for your help and patience.'"

@@ -1,0 +1,15 @@
+"Speaker A: 'I'm glad to see you've responded well to the treatment, considering your medical history is quite complex.'
+
+Speaker B: 'Yes, the progress has been impressive. I was worried at first, but everything turned out better than expected.'
+
+Speaker A: 'Let's discuss your discharge. It seems there aren't any immediate emergency concerns. How are you feeling about going home?'
+
+Speaker B: 'I feel ready, but I want to make sure I’m clear on what to do if something comes up.'
+
+Speaker A: 'Of course, we'll provide detailed instructions. Our team will walk you through the discharge plan to ensure you're comfortable with everything.'
+
+Speaker B: 'I appreciate that. Planning seems straightforward, but I just want to make sure I'm not missing anything.'
+
+Speaker A: 'Absolutely, we'll go over everything step by step. And remember, your positive medical history gives us confidence in your recovery.' 
+
+Speaker B: 'That’s reassuring. Thank you for the support and thorough planning.'"

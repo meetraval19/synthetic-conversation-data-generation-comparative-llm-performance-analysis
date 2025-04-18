@@ -1,0 +1,20 @@
+"Speaker A: 'Thanks for joining us today. How did you find the onboarding process for the app?'
+
+Speaker B: 'It was great! The training modules were clear and engaging. I felt prepared to use everything straight away.'
+
+Speaker A: 'Glad to hear that! Now, how about the different features we offer—have you had any difficulties?'
+
+Speaker B: 'Honestly, some parts are a bit confusing. There are functions that aren't very intuitive, and I often miss important details.'
+
+Speaker A: 'I see. We’re looking into improving those areas. How has the app's performance been overall for you?'
+
+Speaker B: 'It’s been a bit frustrating. There are times when it’s slower than expected, especially during peak hours.'
+
+Speaker A: 'We’re aware and working on enhancing the server capabilities. Your feedback here is really valuable.'
+
+Speaker B: 'I hope the improvements come soon. It does have potential, just needs a bit of polish.'
+
+Speaker A: 'Absolutely, and these discussions help us move in the right direction. Thank you for your insights.'
+
+Speaker B: 'Happy to help. I'm looking forward to seeing the next updates.'"
+

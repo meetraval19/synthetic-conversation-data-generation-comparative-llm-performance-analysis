@@ -1,0 +1,25 @@
+"Speaker A: 'Hi, thanks for joining this performance review. Let's start with the recent feature suggestions from the team. How do you feel about those?'
+
+Speaker B: 'Honestly, the change requests have been quite overwhelming. They often push the scope beyond what was originally planned, and it's been challenging to manage.'
+
+Speaker A: 'I understand. Handling those can definitely be tough, especially when priorities shift frequently.'
+
+Speaker B: 'Exactly, and it can impact the project's timeline and our team's focus.'
+
+Speaker A: 'Let's move on to compliance matters. How are things going on that front?'
+
+Speaker B: 'We're maintaining standards, but it's a constant task to ensure we're up-to-date with the latest regulations. It’s manageable but requires regular attention.'
+
+Speaker A: 'It’s crucial to stay compliant, even if it’s a bit monotonous sometimes. Good to hear it's under control though.'
+
+Speaker B: 'Absolutely. We have a routine that seems to be working, but we're always on the lookout for any updates.'
+
+Speaker A: 'Finally, I'd like to discuss our roadmap. Do you have any thoughts on our future plans?'
+
+Speaker B: 'The roadmap looks solid overall. There are some areas where we could improve efficiency, but that’s to be expected as technology evolves.'
+
+Speaker A: 'It's always important to be adaptable. We'll need to review it periodically to ensure it aligns with our goals.'
+
+Speaker B: 'Agreed. It’s a balancing act, but with continued review, I think we'll stay on the right track.'
+
+Speaker A: 'Thank you for your insights. They're invaluable in planning our next steps.'

@@ -1,0 +1,11 @@
+"Speaker A: 'Thank you for joining this interview. Can you share your thoughts on the current system setup?'
+
+Speaker B: 'Honestly, the configuration is quite challenging. It's not user-friendly, and I find myself frustrated often.'
+
+Speaker A: 'I see. That's valuable feedback. We need the setup to be more intuitive. Moving on, how do you feel about the analytics we provide?'
+
+Speaker B: 'The metrics are quite detailed, which is good. But sometimes, I think there's too much information, making it tricky to find what I need.'
+
+Speaker A: 'That makes sense. Balancing comprehensiveness with simplicity can be tough. Thanks for your input on both fronts.'
+
+Speaker B: 'You're welcome. I hope it helps in making improvements.'"

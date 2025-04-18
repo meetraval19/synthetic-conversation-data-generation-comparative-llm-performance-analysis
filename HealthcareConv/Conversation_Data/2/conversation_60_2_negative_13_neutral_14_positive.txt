@@ -1,0 +1,17 @@
+"Speaker A: 'I've reviewed your recent test results, and unfortunately, some levels are higher than expected.'
+
+Speaker B: 'Oh, that's concerning. What does that mean for my discharge from the hospital?'
+
+Speaker A: 'We'll have to adjust your medications and monitor those levels closely, but let’s discuss your discharge plan next.'
+
+Speaker B: 'Sure, I’d like to know what steps to follow once I’m home.'
+
+Speaker A: 'We’ve outlined a care plan that includes post-discharge visits and daily check-ins, to ensure everything goes smoothly.'
+
+Speaker B: 'That sounds manageable. What about the new medications? Any side effects I should be aware of?'
+
+Speaker A: 'Good question! The new medication might have some minor side effects initially, but many patients find their symptoms improve significantly.'
+
+Speaker B: 'That’s reassuring to hear. I’m looking forward to feeling better with the new treatment.' 
+
+Speaker A: 'Absolutely. Monitoring those side effects will be part of our regular follow-ups to make sure everything is on track.'"

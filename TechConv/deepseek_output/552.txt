@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "positive"
+        }
+    ]
+}

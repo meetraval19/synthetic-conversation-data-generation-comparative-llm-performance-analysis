@@ -1,0 +1,20 @@
+Based on the conversation between the sales representative and prospect, I've identified the underlying themes and analyzed their sentiment:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

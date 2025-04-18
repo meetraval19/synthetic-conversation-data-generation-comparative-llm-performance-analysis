@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Support Services",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "negative"
+        }
+    ]
+}

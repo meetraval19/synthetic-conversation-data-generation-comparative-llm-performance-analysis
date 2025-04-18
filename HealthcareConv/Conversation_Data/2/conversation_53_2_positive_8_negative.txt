@@ -1,0 +1,17 @@
+"Speaker A: 'Good news! Your test results came back with excellent improvements.'   
+Speaker B: 'That's such a relief to hear. I've been worried.'  
+
+Speaker A: 'Yes, your efforts are really paying off. However, we need to discuss some changes.'  
+Speaker B: 'Oh? What kind of changes?'  
+
+Speaker A: 'The care plan will be updated. We've noticed some areas that need adjustments.'  
+Speaker B: 'I see. Does this mean I'll have more medications or restrictions?'  
+
+Speaker A: 'Unfortunately, yes. We'll need to alter a few medications and add some new routines.'  
+Speaker B: 'I was hoping things were moving in the other direction.'  
+
+Speaker A: 'I understand. It's part of an ongoing process, but your progress is encouraging.'  
+Speaker B: 'Thank you for explaining. I’ll do my best to adapt to the changes.'  
+
+Speaker A: 'I know you will. Let's take it one step at a time.'  
+Speaker B: 'Absolutely, I appreciate your support through this.' "

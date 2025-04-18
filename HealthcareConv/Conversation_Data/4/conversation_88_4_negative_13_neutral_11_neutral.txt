@@ -1,0 +1,22 @@
+"Speaker A: 'I’ve reviewed your treatment plan, and I know it might seem overwhelming. How are you feeling about it?'
+
+Speaker B: 'Honestly, it feels a bit discouraging. The idea of more tests and medications is daunting.'
+
+Speaker A: 'I understand. Let's focus on taking it one step at a time. Have you thought about the next steps for when you’re ready for discharge?'
+
+Speaker B: 'Not really. I guess I’m just trying to take everything as it comes.'
+
+Speaker A: 'That’s a good approach. We can work on a discharge plan together to make it manageable. Transitioning smoothly is important.'
+
+Speaker B: 'Yes, that would help ease my mind. I’ve been given so much information, it’s hard to keep it all straight.'
+
+Speaker A: 'I can see how that would be overwhelming. Patient education is key. Maybe prioritizing the most immediate concerns first would be useful.'
+
+Speaker B: 'Yes, please. I need to better understand what’s crucial right now.'
+
+Speaker A: 'Of course. We’ll focus on what’s most important for your health today and revisit other aspects as you’re ready.'
+
+Speaker B: 'Thank you, that sounds more manageable.'
+
+Speaker A: 'Great, we’ll take it step by step together.'"
+

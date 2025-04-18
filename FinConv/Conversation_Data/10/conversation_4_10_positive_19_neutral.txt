@@ -1,0 +1,15 @@
+"Speaker A: 'I recently analyzed some key metrics, and the numbers look really promising for our portfolio.'
+
+Speaker B: 'That's encouraging to hear! Which metrics are showing the most growth?'
+
+Speaker A: 'EBITDA has shown a remarkable increase, and the enterprise value multiples are trending positively.'
+
+Speaker B: 'Great to hear! Let's keep that momentum going. How about the scenario analysis? Any interesting insights there?'
+
+Speaker A: 'We ran several models incorporating different market conditions. The results were consistent, nothing too surprising.'
+
+Speaker B: 'So, it's mostly steady without any drastic shifts?'
+
+Speaker A: 'Exactly. Even with variables like interest rate changes, the outcomes remained relatively stable.'
+
+Speaker B: 'That’s good. Knowing we have a neutral baseline helps in strategizing for future investments.'"

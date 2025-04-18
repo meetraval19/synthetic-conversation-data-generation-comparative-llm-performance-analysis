@@ -1,0 +1,15 @@
+"Speaker A: 'I’ve reviewed your handling of patient records, particularly how you manage medical histories. It’s been quite impressive.'
+
+Speaker B: 'Thank you. We’ve implemented a robust system to ensure accuracy and confidentiality. It makes a difference in the quality of care we provide.'
+
+Speaker A: 'Absolutely. However, there have been some concerns regarding the medication protocol and the side effects some patients have experienced.'
+
+Speaker B: 'Yes, I’ve noticed that too. We’re working closely with pharmacists to minimize these issues, but it’s challenging given the variety of patient responses.'
+
+Speaker A: 'I understand. It’s crucial to keep monitoring and reporting these side effects to improve our protocol. Let’s make sure we’re on top of this.'
+
+Speaker B: 'Agreed. I’ll ensure our team stays vigilant and communicates openly with patients about any potential reactions.' 
+
+Speaker A: 'Great. Overall, I’m pleased with how you’ve been managing everything, despite the challenges.'
+
+Speaker B: 'I appreciate the feedback and am committed to improving patient outcomes wherever possible.'"

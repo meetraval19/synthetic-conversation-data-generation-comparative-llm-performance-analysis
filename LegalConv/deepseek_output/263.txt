@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Applicable Laws and Regulations",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Regulatory Compliance Check",
+            "sentiment": "neutral"
+        }
+    ]
+}

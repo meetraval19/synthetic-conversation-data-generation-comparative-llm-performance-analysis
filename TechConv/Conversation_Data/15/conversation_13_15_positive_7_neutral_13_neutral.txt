@@ -1,0 +1,19 @@
+"Speaker A: 'Our software is designed to significantly streamline your workflow. You'll find tasks that once took hours can now be handled in minutes.'
+
+Speaker B: 'That sounds promising. We're definitely looking to improve our process efficiency.'
+
+Speaker A: 'Exactly! Our clients have seen great improvements in their operation timelines.'
+
+Speaker B: 'How is the support structure set up if we encounter issues?'
+
+Speaker A: 'We have a straightforward support and escalation process. You can reach out via several channels, and escalation is seamless if needed.'
+
+Speaker B: 'That’s reassuring. We’ve had experiences where support was a bit clunky and time-consuming.'
+
+Speaker A: 'We strive to keep it as user-friendly as possible. Regarding access, how does your team currently handle licensing?'
+
+Speaker B: 'It’s pretty standard. We prefer something straightforward without too much complexity.'
+
+Speaker A: 'Our licensing model is designed to be easy and flexible, ensuring that you have exactly what you need without unnecessary hurdles.'
+
+Speaker B: 'Great to hear. This sounds like a solid fit for our needs.'"

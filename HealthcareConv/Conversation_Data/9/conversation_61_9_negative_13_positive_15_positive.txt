@@ -1,0 +1,8 @@
+"Speaker A: 'During today's review, I'm concerned about the high-risk profile of our patient.'  
+Speaker B: 'Yes, the risk factors are quite alarming. We need to monitor those closely.'  
+Speaker A: 'Absolutely. However, on a more optimistic note, I think the progress in planning the discharge is encouraging.'  
+Speaker B: 'I agree. The support network is robust, and the post-discharge resources available are excellent.'  
+Speaker A: 'It's also great to see the patient's family actively involved in the decisions. They are really engaged in every step.'  
+Speaker B: 'Exactly, the shared decision-making is working well. The patient feels empowered, which is crucial for recovery.'  
+Speaker A: 'Let's focus on minimizing those risk factors and ensuring the discharge plan is solid.'  
+Speaker B: 'Definitely, a collaborative approach will make all the difference for our patient's outcome.'"

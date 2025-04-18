@@ -1,0 +1,28 @@
+Based on the conversation between the healthcare provider and patient, I've identified the underlying themes and analyzed the sentiment for each topic.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Care Barriers",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Emergency Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Medication Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Care Plan Update",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

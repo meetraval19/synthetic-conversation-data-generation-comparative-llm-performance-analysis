@@ -1,0 +1,31 @@
+"Speaker A: 'We're preparing to discharge you soon, and I wanted to walk you through some important steps to ensure you feel confident going home.'
+
+Speaker B: 'I appreciate that. What exactly should I focus on once I'm home?'
+
+Speaker A: 'First, let's discuss your condition and how you can manage it effectively. We've got some informative materials that will be really helpful.'
+
+Speaker B: 'That sounds useful, having clear guidance would definitely make me feel better about transitioning back home.'
+
+Speaker A: 'Exactly. We'll cover diet, exercises, and symptoms to watch for. It's empowering to have this knowledge.'
+
+Speaker B: 'Great, I want to be proactive about my recovery.'
+
+Speaker A: 'Now, onto your medications. It’s crucial to stick to the prescribed schedule, but let’s review them as there were some issues discovered.'
+
+Speaker B: 'Issues? That sounds worrying. What kind of problems are we dealing with?'
+
+Speaker A: 'There were a couple of concerns regarding interactions that may not be favorable. Adjustments might be needed for a safer regimen.'
+
+Speaker B: 'That’s disappointing to hear. I thought everything was sorted.'
+
+Speaker A: 'I understand. We'll work closely with your pharmacist to modify any prescriptions if necessary.'
+
+Speaker B: 'I’d appreciate that. It’s important to get this sorted before I leave for my peace of mind.'
+
+Speaker A: 'Absolutely, the goal is to ensure you go home with a safe and effective treatment plan.'
+
+Speaker B: 'Thank you for addressing these issues. It’s good to have this discussion before discharge.'
+
+Speaker A: 'We’re here to make this transition as smooth as possible for you. Feel free to reach out any time after you’re home if you have questions.'
+
+Speaker B: 'Thank you, knowing you’re available makes me feel supported.'"

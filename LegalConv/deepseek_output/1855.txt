@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Enforcement and Implementation Issues",
+            "sentiment": "positive"
+        }
+    ]
+}

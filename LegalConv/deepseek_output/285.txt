@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Applicable Laws and Regulations",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "neutral"
+        }
+    ]
+}

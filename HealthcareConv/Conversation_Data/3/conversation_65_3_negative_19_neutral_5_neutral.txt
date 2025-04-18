@@ -1,0 +1,16 @@
+"Speaker A: 'I’d like to go over the prescriptions you're currently taking. Have you experienced any side effects?'
+
+Speaker B: 'Actually, yes. I've been feeling a bit off with the current medication. It’s been frustrating.'
+
+Speaker A: 'I understand how that can be concerning. We’ll definitely work on adjusting that for you.'
+
+Speaker B: 'Thanks. Are there any other resources available that could help me manage this better?'
+
+Speaker A: 'Absolutely, there are various support services available that might suit your needs. They provide counseling and patient education, for instance.'
+
+Speaker B: 'That sounds interesting. I'll consider looking into them.'
+
+Speaker A: 'Great. Also, let's discuss scheduling a follow-up to monitor how changes are working for you.'
+
+Speaker B: 'Sure, I think a check-in would be helpful. I want to make sure everything's on track.'"
+

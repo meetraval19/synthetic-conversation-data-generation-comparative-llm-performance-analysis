@@ -1,0 +1,15 @@
+"Speaker A: 'I've reviewed your discharge summary and have some concerns about the process.'
+
+Speaker B: 'I understand. What worries you specifically about leaving the hospital?'
+
+Speaker A: 'I'm worried about not having enough support at home and the transition itself.'
+
+Speaker B: 'That's completely understandable. We can arrange for a follow-up call and provide contact details for local support services to ease that transition.'
+
+Speaker A: 'Thank you. On another note, I did feel quite optimistic about the treatment plan you outlined during our last meeting.'
+
+Speaker B: 'I'm glad to hear that. We've designed it to be both effective and manageable, so you should feel confident moving forward.'
+
+Speaker A: 'It's reassuring to know there are concrete steps in place. What can I do to actively support the process?'
+
+Speaker B: 'Staying engaged and sticking to the routine we discussed will make a big difference. We’re here for any questions or adjustments you might need.'"

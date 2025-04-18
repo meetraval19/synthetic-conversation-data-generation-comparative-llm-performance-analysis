@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Technical Documentation Reference",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

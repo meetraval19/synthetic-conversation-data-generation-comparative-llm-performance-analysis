@@ -1,0 +1,21 @@
+"Speaker A: 'Hey! I'm glad we could connect today. Let's dive into how our software can benefit your team.'
+
+Speaker B: 'Thanks! Our team is definitely interested, but we're concerned about the complexity of getting everyone up to speed.'
+
+Speaker A: 'I understand. Onboarding can seem overwhelming, but our support team is dedicated to making it as smooth as possible. We do face some challenges, but we’re working to improve this area continuously.'
+
+Speaker B: 'That’s reassuring to hear. Can you clarify some features for me? We want to ensure it'll meet our requirements before making a decision.'
+
+Speaker A: 'Of course. Our software is designed to be intuitive, but there are always questions along the way. What specific features are you curious about?'
+
+Speaker B: 'Mainly integrations with the tools we're already using. We need to be sure there won’t be compatibility issues.'
+
+Speaker A: 'Absolutely. Our system is built to integrate seamlessly with most platforms. I can provide detailed documentation on that to help your technical team.'
+
+Speaker B: 'That would be great. That way, we can review it and ensure everything aligns with our needs.'
+
+Speaker A: 'I'll send that over right after our call. And please let me know if you have any more questions!'
+
+Speaker B: 'Appreciate it. Let's stay in touch as we assess everything.'
+
+Speaker A: 'Definitely. I'm here to help with anything you need during this process.'"

@@ -1,0 +1,19 @@
+"Speaker A: 'I’ve been reviewing the recent performance reports, and it seems we've hit a bit of a rough patch.'
+
+Speaker B: 'I noticed that, too. Some of the stocks underperformed last quarter. It's not what we hoped for.'
+
+Speaker A: 'Absolutely. But on a brighter note, our shift in strategy for asset allocation seems to be paying off.'
+
+Speaker B: 'Yes, reallocating a portion to emerging markets has started to yield some positive results.'
+
+Speaker A: 'Exactly. It’s good to see those decisions making a positive impact overall.'
+
+Speaker B: 'On another note, have you had a chance to run the latest scenario and sensitivity analysis?'
+
+Speaker A: 'I did. It shows a range of outcomes depending on various economic changes, but nothing too surprising.'
+
+Speaker B: 'That’s reassuring. It’s always useful to understand how changes could affect our positions.'
+
+Speaker A: 'Definitely. It helps us be prepared for different situations.'
+
+Speaker B: 'Let’s keep monitoring closely and adjust our strategies as necessary.'"

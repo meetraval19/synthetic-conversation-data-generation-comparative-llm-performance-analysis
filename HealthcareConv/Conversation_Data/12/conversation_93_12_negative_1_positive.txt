@@ -1,0 +1,17 @@
+"Speaker A: 'Thanks for coming in today. I've reviewed your recent tests and treatments.' 
+
+Speaker B: 'Of course, Doctor. I hope everything is going well with my recovery.'
+
+Speaker A: 'Your recovery is progressing positively. Your symptoms have notably improved since the last visit. How are you feeling overall?'
+
+Speaker B: 'I feel much better, actually. The pain has subsided, and I have more energy.'
+
+Speaker A: 'That's great to hear! On another note, reviewing the documentation has been a bit challenging. It seems there were some inconsistencies in your medical records.'
+
+Speaker B: 'Oh, I'm sorry to hear that. Is it something serious?'
+
+Speaker A: 'Not too serious, but it has made understanding your treatment history a bit complex. We should focus on getting it sorted out soon.'
+
+Speaker B: 'I see. I'll make sure to follow up with the necessary paperwork next time.'
+
+Speaker A: 'Perfect. In the meantime, continue with your current regimen, and I’ll keep monitoring your progress closely.'"

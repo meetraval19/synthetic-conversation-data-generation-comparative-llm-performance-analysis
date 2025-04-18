@@ -1,0 +1,13 @@
+"Speaker A: 'Thanks for joining the demo today. Let’s start by looking at how our software manages system settings. You can easily view and adjust configurations to fit your needs.'
+
+Speaker B: 'That seems straightforward. So, how about if we need a custom feature or a change?'
+
+Speaker A: 'I understand the concern. While customization is possible, implementing changes can sometimes be a complex process and might involve additional time.'
+
+Speaker B: 'Hmm, I see. So, what if our requirements change after deployment?'
+
+Speaker A: 'Our team does work through change requests, but they can occasionally slow things down and incur extra costs. We advise thorough planning upfront to minimize these issues.'
+
+Speaker B: 'Got it. It’s reassuring to know about the configuration flexibility, though.'
+
+Speaker A: 'Absolutely, and we’re continuously working on making improvements in handling feature requests as seamlessly as possible.'"

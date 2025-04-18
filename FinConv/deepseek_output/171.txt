@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Tolerance Assessment",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Interest Rate Impact Analysis",
+            "sentiment": "negative"
+        }
+    ]
+}

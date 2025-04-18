@@ -1,0 +1,21 @@
+"Speaker A: 'Hi there, how have you been feeling lately?'
+
+Speaker B: 'Well, to be honest, I’m a bit concerned. I heard there’s been some change to my care routine.'
+
+Speaker A: 'Yes, the team evaluated it and decided that some adjustments were necessary. I know changes can be worrying, but it’s all to ensure you’re receiving the best care possible.'
+
+Speaker B: 'I understand, but it’s just unsettling not knowing what to expect.'
+
+Speaker A: 'I completely understand your concern. On a positive note, let’s discuss your ongoing treatment. The results have been promising so far.'
+
+Speaker B: 'Oh, that’s really encouraging to hear! I’m happy to know it’s working well.'
+
+Speaker A: 'Absolutely, it seems to be having a great effect, and we’re excited about the progress.'
+
+Speaker B: 'That’s a relief. What about the exercises I’m supposed to be doing daily? I’ve been trying to keep up with them.'
+
+Speaker A: 'Your consistency is commendable, and maintaining those routines is important for your recovery. It might feel routine, but it’s a key part of the process.'
+
+Speaker B: 'I guess so. Maybe I just need to keep my spirits up and stick with the program.'
+
+Speaker A: 'Exactly. If anything else comes up or you have more doubts, feel free to reach out. We’re here to support you every step of the way.'"

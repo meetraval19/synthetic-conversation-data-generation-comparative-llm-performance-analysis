@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Witness Identification and Preparation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "negative"
+    }
+  ]
+}

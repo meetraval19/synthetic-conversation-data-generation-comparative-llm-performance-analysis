@@ -1,0 +1,19 @@
+"Speaker A: 'Hello, how have you been feeling since our last visit?'
+
+Speaker B: 'Hi, Doctor. I've been a bit concerned about the current approach. It doesn't seem to be working as well as we hoped.'
+
+Speaker A: 'I understand. Sometimes, treatment plans need adjustments. It's important we find what suits you best.'
+
+Speaker B: 'Exactly. I was hoping we could revisit the strategy and see if there's a better alternative.'
+
+Speaker A: 'Absolutely, we can discuss some modifications. On a brighter note, how are you finding the new medication we added last time?'
+
+Speaker B: 'Oh, that's been a relief! The side effects seem to be minimal, and I feel much better since starting it.'
+
+Speaker A: 'That's great to hear! It's always encouraging when we find something that works well.'
+
+Speaker B: 'Yes, it's been one less thing to worry about amidst everything else.'
+
+Speaker A: 'Let's work together to tweak the overall plan, just as we did with the medication. I'm confident we can find a balance that suits you.'
+
+Speaker B: 'I appreciate that. Thank you for listening and being proactive.'"

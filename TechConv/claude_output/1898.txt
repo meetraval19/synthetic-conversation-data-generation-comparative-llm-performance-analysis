@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

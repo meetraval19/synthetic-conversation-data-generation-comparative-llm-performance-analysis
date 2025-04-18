@@ -1,0 +1,21 @@
+"Speaker A: 'Thank you for calling tech support, how may I assist you today?'
+
+Speaker B: 'Hi, I’m having trouble getting my new tool to work with our existing system.'
+
+Speaker A: 'I’m sorry to hear that. Integration can sometimes be tricky. Can you tell me more about what's happening?'
+
+Speaker B: 'It seems like no matter what I try, the systems just don’t talk to each other.'
+
+Speaker A: 'I understand. Let’s run through a few checks to see if we can resolve the compatibility issues.'
+
+Speaker B: 'I hope it doesn’t take too long. Our team really needs this tool to streamline our workflow.'
+
+Speaker A: 'Absolutely, we definitely want to optimize your process. Once we sort this out, I’m sure you’ll see an improvement in efficiency.'
+
+Speaker B: 'I’ve heard great things about how it can improve productivity, so I’m really looking forward to it.'
+
+Speaker A: 'Yes, many users report a significant boost in performance once everything is set up properly.'
+
+Speaker B: 'That’s good to hear. Hopefully, we can get this integration issue sorted quickly.'
+
+Speaker A: 'I’m confident we’ll have you up and running soon. Let’s look at a few more details so we can enhance your system’s performance.'

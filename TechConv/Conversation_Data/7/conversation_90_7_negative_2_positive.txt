@@ -1,0 +1,24 @@
+"Speaker A: 'Thanks for joining us today to give feedback on the app. How has your experience been overall?'
+
+Speaker B: 'Overall, the app's been great. It performs efficiently, especially considering the complex tasks it handles.'
+
+Speaker A: 'That's wonderful to hear! We're really focused on maintaining optimal performance. Have you encountered any areas where we could improve?'
+
+Speaker B: 'Yes, actually. The support and escalation process could use some work. It feels like issues take a long time to resolve whenever I reach out.'
+
+Speaker A: 'I understand the frustration. Can you share more about what happened?'
+
+Speaker B: 'Sure, last time I faced an issue, it seemed like my request bounced around a lot before it was addressed, which was time-consuming.'
+
+Speaker A: 'I'm really sorry to hear that. We're re-evaluating our support systems to make them more streamlined. We appreciate your patience.'
+
+Speaker B: 'Thank you. I think once that's improved, the entire app experience would become even better.'
+
+Speaker A: 'Absolutely! And your feedback is invaluable to us as we work on these updates. Is there anything else about the app's performance you’d like to discuss?'
+
+Speaker B: 'Honestly, aside from the support part, the performance is top-notch. It's fast, reliable, and has a clean interface, which I love.'
+
+Speaker A: 'All excellent feedback. We’re committed to both enhancing performance and improving the support journey. Your insights today play a big role in that.'
+
+Speaker B: 'Glad to hear it. Looking forward to future updates!'"
+

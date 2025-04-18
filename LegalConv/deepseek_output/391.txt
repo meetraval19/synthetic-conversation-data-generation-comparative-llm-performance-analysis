@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "positive"
+        }
+    ]
+}

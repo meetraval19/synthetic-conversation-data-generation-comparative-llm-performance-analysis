@@ -1,0 +1,20 @@
+After analyzing the conversation between the healthcare provider and patient, I've identified the following topics and their associated sentiments:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

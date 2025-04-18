@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Witness Identification and Preparation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Strategy and Action Plan Development",
+            "sentiment": "positive"
+        }
+    ]
+}

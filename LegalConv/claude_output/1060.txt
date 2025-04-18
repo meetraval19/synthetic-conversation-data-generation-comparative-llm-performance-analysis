@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Timeline and Key Deadlines",
+      "sentiment": "positive"
+    }
+  ]
+}

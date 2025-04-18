@@ -1,0 +1,20 @@
+"Speaker A: 'Thanks for taking the time to chat about your experience with our software. Let’s start with how you’ve found the licensing process.'
+
+Speaker B: 'Oh, it’s been fantastic! I appreciated how straightforward everything was, and the flexibility in choosing plans really suited our needs.'
+
+Speaker A: 'That's great to hear! We've also been curious about users' thoughts on configuration. Have you faced any challenges there?'
+
+Speaker B: 'Quite a few, actually. The system setup was more complicated than expected. It took much longer to find the right settings, and the documentation wasn’t very helpful.'
+
+Speaker A: 'I’m sorry you had that experience. We’re gathering feedback to improve it. As for our future updates, do you have any thoughts on what you’d like to see?'
+
+Speaker B: 'Honestly, I’m concerned. There seems to be a lack of clarity about where the software is headed. It’d be reassuring to know there’s a solid plan.'
+
+Speaker A: 'I understand your concern. We’re working on making our roadmap more transparent and engaging with users like yourself to refine our plans.'
+
+Speaker B: 'That would definitely help. Knowing what's next would make it easier to integrate your solutions into our own.'
+
+Speaker A: 'Absolutely, and we’re committed to making that a priority. Thank you for being candid with your feedback—it truly helps.' 
+
+Speaker B: 'I appreciate the opportunity to share. Looking forward to seeing positive changes!'"
+

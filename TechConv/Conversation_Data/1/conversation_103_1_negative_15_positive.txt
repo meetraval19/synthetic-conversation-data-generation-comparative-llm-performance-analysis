@@ -1,0 +1,22 @@
+"Speaker A: 'Hello, thank you for calling tech support. How can I assist you today?'
+
+Speaker B: 'Hi, I'm having a bit of a problem with the software. It's not behaving as expected, and it's really frustrating.'
+
+Speaker A: 'I'm sorry to hear that. Let's get this sorted. Can you describe what exactly is happening?'
+
+Speaker B: 'Every time I try to run a certain task, the system crashes unexpectedly.'
+
+Speaker A: 'I understand how disruptive that can be. Let me guide you through a few steps to troubleshoot this issue.'
+
+Speaker B: 'Thanks, I appreciate any help you can provide.'
+
+Speaker A: 'Once we resolve this, perhaps we can discuss optimizing your workflow. The software has some great features to streamline your processes.'
+
+Speaker B: 'That would be great. I’ve heard that it can really enhance efficiency when set up properly.'
+
+Speaker A: 'Absolutely! Many users have reported positive results. It can transform your daily operations seamlessly.'
+
+Speaker B: 'I’m looking forward to trying that out once this issue is fixed.'
+
+Speaker A: 'Let’s get you back on track first, and then we’ll explore those optimization features.'"
+

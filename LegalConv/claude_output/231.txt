@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "neutral"
+    }
+  ]
+}

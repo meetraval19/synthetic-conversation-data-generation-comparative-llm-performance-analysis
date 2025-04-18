@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Performance Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "neutral"
+        }
+    ]
+}

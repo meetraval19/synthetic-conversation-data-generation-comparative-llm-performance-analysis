@@ -1,0 +1,34 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Security and Privacy Discussion",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Technical Documentation Reference",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

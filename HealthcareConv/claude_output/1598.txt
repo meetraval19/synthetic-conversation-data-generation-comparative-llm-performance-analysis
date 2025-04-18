@@ -1,0 +1,16 @@
+Based on the conversation, I've identified the underlying themes discussed and analyzed the sentiment toward each topic:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Shared Decision",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Test Results",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

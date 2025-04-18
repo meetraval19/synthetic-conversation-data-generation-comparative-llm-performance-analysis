@@ -1,0 +1,24 @@
+"Speaker A: 'Hello, this is Tech Support. How can I assist you today?'
+
+Speaker B: 'Hi, I’m having some trouble understanding the new update in the software. It’s been rather confusing to figure out.'
+
+Speaker A: 'I’m sorry to hear that. Could you share more details about which part is unclear?'
+
+Speaker B: 'The layout change and the way settings are now organized seem overly complicated. It doesn't feel intuitive.'
+
+Speaker A: 'I understand how that can be frustrating. Let me guide you through it step by step to make it simpler.'
+
+Speaker B: 'That would be great, thank you. Also, while using the app, I encountered this strange glitch.'
+
+Speaker A: 'Oh, could you describe what happened?'
+
+Speaker B: 'Sure, it was more like a freeze when I tried to export a file. I wasn’t sure if it saved my work.'
+
+Speaker A: 'Thanks for letting us know. We’ve heard similar reports and our team is already working on a fix. Your feedback really helps us improve!'
+
+Speaker B: 'That’s reassuring to hear. I appreciate you taking the time to help with both these concerns.'
+
+Speaker A: 'My pleasure! If you have any more questions or run into further issues, feel free to reach out. We’re here to help.'
+
+Speaker B: 'Thanks again!'"
+

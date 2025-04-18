@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Medical History",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Risk Assessment",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Medication Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Referral Coordination",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "neutral"
+        }
+    ]
+}

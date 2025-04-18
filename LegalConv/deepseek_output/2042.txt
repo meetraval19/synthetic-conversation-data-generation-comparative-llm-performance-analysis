@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Enforcement and Implementation Issues",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+
+"Speaker A: 'We've been implementing new workflows for coordinating patient referrals lately.'
+
+Speaker B: 'That's interesting. How's it working out in terms of efficiency?'
+
+Speaker A: 'It's been stable, improving gradually, though it still feels like a lot of routine steps.'
+
+Speaker B: 'It sounds like a necessary foundation, even if it’s not a game-changer right now. What about diagnosis discussions with patients? Any improvements there?'
+
+Speaker A: 'Unfortunately, there's been some frustration. Many patients still feel overwhelmed and dissatisfied with how complex information is conveyed.'
+
+Speaker B: 'I can understand that. Miscommunication can really impact patient confidence. Have you thought about integrating more visual aids or simplified summaries?'
+
+Speaker A: 'That's a great suggestion. We're currently considering different approaches to make the process more empathetic and clear.'
+
+Speaker B: 'It’s crucial for patient well-being and trust. Hopefully, those changes will help ease the tension.'
+
+Speaker A: 'Definitely. It's an area we’re prioritizing to ensure better patient experiences.'"

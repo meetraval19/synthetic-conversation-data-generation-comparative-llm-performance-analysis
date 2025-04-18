@@ -1,0 +1,28 @@
+{
+    "topics": [
+        {
+            "topic": "Risk Assessment and Mitigation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Evidence and Documentation Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

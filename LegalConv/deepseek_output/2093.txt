@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Timeline and Key Deadlines",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Strategy and Action Plan Development",
+            "sentiment": "positive"
+        }
+    ]
+}

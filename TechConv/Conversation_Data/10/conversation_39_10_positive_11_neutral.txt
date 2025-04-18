@@ -1,0 +1,19 @@
+"Speaker A: 'Thanks for joining us today. We’re gathering feedback on our software. How have you found the experience so far?'
+
+Speaker B: 'Overall, I like using it. One feature that would be really great, though, is an integrated calendar tool. It would streamline my workflow so much.'
+
+Speaker A: 'That's great to hear! We’re always looking to enhance the user experience, and new features are part of that. Now, about the onboarding process, how was your experience?'
+
+Speaker B: 'It was alright. The initial training sessions were helpful, but there were a few areas that felt a bit rushed.'
+
+Speaker A: 'Thanks for the input. We aim to make onboarding as comprehensive as possible. Were there any specific areas you think need more focus?'
+
+Speaker B: 'Just a bit more detail on advanced functionalities. I figured it out eventually, but a deeper dive during training would be beneficial.'
+
+Speaker A: 'Understood. We appreciate your feedback, and it helps us improve our training module. Back to features, if the calendar integration were implemented, how do you think it would impact your daily tasks?'
+
+Speaker B: 'Positively, for sure. Having everything in one place means less time switching between applications, which boosts productivity.'
+
+Speaker A: 'That’s exactly the kind of positive impact we’re hoping to achieve. Thanks for sharing your thoughts on this.'
+
+Speaker B: 'No problem! Looking forward to seeing what improvements come next.'"

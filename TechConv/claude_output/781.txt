@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Security and Privacy Discussion",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Roadmap or Future Plans",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

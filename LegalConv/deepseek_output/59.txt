@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Issue Identification",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Evidence and Documentation Review",
+            "sentiment": "neutral"
+        }
+    ]
+}

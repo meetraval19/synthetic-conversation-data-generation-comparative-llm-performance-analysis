@@ -1,0 +1,20 @@
+"Speaker A: 'Thanks for coming in today. Let's start by reviewing your last few visits.'
+
+Speaker B: 'Sure, my medical history might be a bit complex, but I think it’s fairly straightforward now.'
+
+Speaker A: 'Absolutely, it’s important to have everything in order. Now, regarding your report, the documentation looks really thorough and clear.'
+
+Speaker B: 'That's good to hear. It’s nice when the paperwork doesn’t add more stress.'
+
+Speaker A: 'On another note, I noticed some gaps in the support services you’ve been receiving. How’s that been for you?'
+
+Speaker B: 'Honestly, it's been frustrating. It feels like I’m always waiting for callbacks or navigating endless phone menus.'
+
+Speaker A: 'That must be challenging. Let’s see if we can find a way to make things easier for you.'
+
+Speaker B: 'I would appreciate any help. It’s tough to focus on getting better with these hurdles.'
+
+Speaker A: 'We’ll work on that together. In the meantime, feel free to reach out if any concerns arise, especially once you get the updated documentation.'
+
+Speaker B: 'Absolutely, thanks for your help with this.'"
+

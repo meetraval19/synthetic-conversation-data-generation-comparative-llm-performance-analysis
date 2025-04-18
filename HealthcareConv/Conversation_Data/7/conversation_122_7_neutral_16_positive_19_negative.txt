@@ -1,0 +1,24 @@
+"Speaker A: 'I just received the latest notes from Dr. Smith about the patient's case.'
+
+Speaker B: 'Great, it's always important that we stay on the same page with our team.'
+
+Speaker A: 'Absolutely, having clear information helps us all focus on patient care.'
+
+Speaker B: 'About the diagnosis, I spoke with the patient today. They seemed relieved with the clarity we provided.'
+
+Speaker A: 'I'm glad to hear that! Understanding their condition can really help ease their concerns.'
+
+Speaker B: 'True. Effective communication can make a real difference in their treatment journey.'
+
+Speaker A: 'Have we explored all the potential support services for them?'
+
+Speaker B: 'Unfortunately, those resources are not as robust as they could be right now.'
+
+Speaker A: 'That's a shame. Patients could really benefit from more comprehensive support services.'
+
+Speaker B: 'I agree, it's something we should push for improvement on.'
+
+Speaker A: 'Meanwhile, we'll keep making sure the patient feels supported in other ways.'
+
+Speaker B: 'Definitely, let's do our best with what we have available.'"
+

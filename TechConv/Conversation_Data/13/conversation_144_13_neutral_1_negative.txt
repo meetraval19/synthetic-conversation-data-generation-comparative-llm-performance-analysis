@@ -1,0 +1,11 @@
+"Speaker A: 'Welcome to our software demo. Let's start by discussing how our licensing works. You'll find it straightforward and easy to manage.'
+
+Speaker B: 'That sounds good. Simplicity in licensing is definitely a plus for us.'
+
+Speaker A: 'Great to hear! Now, let's move on to reporting issues or bugs. We have a dedicated team to handle these efficiently, but I understand there might have been concerns in the past.'
+
+Speaker B: 'Yes, we've had some challenges with timely resolutions in the past. Quick response to problems is crucial for us.'
+
+Speaker A: 'Absolutely, and I completely agree. Our system has been upgraded to address these challenges, ensuring quicker turnaround times.'
+
+Speaker B: 'I appreciate that. It's good to see improvements being made in those areas.'"

@@ -1,0 +1,15 @@
+"Speaker A: 'I'm glad to hear you're having a good experience with our healthcare access today.'
+
+Speaker B: 'Yes, the support in navigating through the system has been helpful. It feels like things are getting smoother.'
+
+Speaker A: 'I'm pleased to hear that. Now, regarding your recent test results, how would you like us to go over them?'
+
+Speaker B: 'I appreciate a straightforward approach. Just lay out the facts, and we can discuss them together.'
+
+Speaker A: 'Certainly, we'll focus on the main points and any immediate concerns. How comfortable are you in making decisions about your treatment plan?'
+
+Speaker B: 'I'm open to discussing options and making an informed choice together. I value a collaborative approach.'
+
+Speaker A: 'That's great. We'll ensure you have all the information needed to feel confident in our shared decisions.'
+
+Speaker B: 'Thanks for that. I feel like we're on the same page. Let's work through this together.'"

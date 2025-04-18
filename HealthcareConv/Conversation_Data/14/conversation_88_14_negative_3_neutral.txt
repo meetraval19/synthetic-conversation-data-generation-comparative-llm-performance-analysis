@@ -1,0 +1,17 @@
+"Speaker A: 'I understand you've been feeling uneasy after starting the new medication. Can you tell me more about that?'
+
+Speaker B: 'Yes, I've noticed some uncomfortable symptoms since last week. It's been quite concerning.'
+
+Speaker A: 'That sounds difficult. It's important to monitor these reactions closely. Often, such issues can diminish over time, but let's look into it.'
+
+Speaker B: 'I hope so. It's been distracting, and I wasn't expecting this level of discomfort.'
+
+Speaker A: 'For now, let's review your current medications to ensure everything is necessary and compatible. We might find a way to adjust things for better outcomes.'
+
+Speaker B: 'That makes sense. I wasn't sure if everything I was taking was right for me.'
+
+Speaker A: 'We’ll go over each one carefully and assess their benefits and interactions. We'll consider if any changes are needed to help alleviate your symptoms.'
+
+Speaker B: 'I appreciate that approach. It's reassuring to know we're looking at the broader picture.'
+
+Speaker A: 'Absolutely. The goal is to make sure your treatment enhances your well-being without causing undue stress.'"

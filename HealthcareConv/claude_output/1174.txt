@@ -1,0 +1,28 @@
+Based on the conversation, I've identified several underlying themes that align with the provided topics list. I'll analyze the sentiment for each topic based on how the speakers discuss them.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Patient Education",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Side Effects",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Documentation Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Team Communication",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Shared Decision",
+            "sentiment": "neutral"
+        }
+    ]
+}

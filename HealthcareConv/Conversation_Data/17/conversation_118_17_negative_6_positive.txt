@@ -1,0 +1,19 @@
+"Speaker A: 'How would you rate the coordination of patient referrals in your department?'
+
+Speaker B: 'Honestly, I'm quite impressed with how smoothly the referral system is running. We've been able to connect patients with specialists quickly and efficiently.'
+
+Speaker A: 'That's great to hear. Efficient referral processes can make such a difference in patient outcomes.'
+
+Speaker B: 'Absolutely. It's rewarding to see patients getting the care they need without unnecessary delays.'
+
+Speaker A: 'On another note, have you noticed any barriers affecting patient care recently?'
+
+Speaker B: 'Unfortunately, yes. We've had several patients express concerns about accessing certain services due to insurance limitations and long wait times.'
+
+Speaker A: 'That's definitely a challenge. It's frustrating when these barriers prevent patients from receiving timely treatment.'
+
+Speaker B: 'Agreed. It feels like we're constantly trying to navigate a complicated system that isn't as patient-friendly as it should be.'
+
+Speaker A: 'It's an issue we need to address, ensuring that all patients can access care without undue hardship.' 
+
+Speaker B: 'I hope we can find ways to minimize these barriers and improve overall patient experience in the future.'"

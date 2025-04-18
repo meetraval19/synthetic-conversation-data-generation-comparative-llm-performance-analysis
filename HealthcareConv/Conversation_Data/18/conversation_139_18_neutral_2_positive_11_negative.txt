@@ -1,0 +1,24 @@
+"Speaker A: 'Let's start with what brought you to the emergency room. Can you describe the situation?'
+
+Speaker B: 'Sure, I had some unusual discomfort, and since it didn't feel like a typical issue, I thought it was best to come in.'
+
+Speaker A: 'That was a good decision. It's always wise to get checked if something feels off. Now, regarding your test results, I'm pleased to tell you that everything looks great.'
+
+Speaker B: 'That's a relief! I was quite anxious about what they might reveal.'
+
+Speaker A: 'Understandable. The results are quite encouraging, but I want to go over some preventative measures.'
+
+Speaker B: 'Alright, I'm eager to know what I should do.'
+
+Speaker A: 'While we’ll provide comprehensive information, I want to mention that sometimes, the depth of detail can be overwhelming. We often find that patients feel overloaded with the medical jargon.'
+
+Speaker B: 'Yes, I've noticed that before. Sometimes the materials seem more confusing than helpful.'
+
+Speaker A: 'Exactly, and we're working on making it more accessible. If you ever have questions or need clarification, don't hesitate to reach out.'
+
+Speaker B: 'I really appreciate that. I'll definitely keep that in mind as I go through any literature.'
+
+Speaker A: 'Great. My goal is to ensure you feel informed without the stress of sifting through overly complex information.'
+
+Speaker B: 'Thank you for understanding. It makes a big difference when the information is clear and accessible.'"
+

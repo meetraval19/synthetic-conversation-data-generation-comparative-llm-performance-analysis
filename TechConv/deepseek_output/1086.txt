@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Enforcement and Implementation Issues",
+            "sentiment": "positive"
+        }
+    ]
+}

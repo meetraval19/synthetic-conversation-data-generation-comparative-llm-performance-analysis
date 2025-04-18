@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Tool or Platform Comparison",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

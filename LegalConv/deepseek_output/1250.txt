@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Witness Identification and Preparation",
+            "sentiment": "positive"
+        }
+    ]
+}

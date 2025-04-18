@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Technical Documentation Reference",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

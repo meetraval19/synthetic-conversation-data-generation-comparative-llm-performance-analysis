@@ -1,0 +1,21 @@
+"Speaker A: 'I'm pleased to let you know that we've updated your care plan, and it seems to be working really well for you.'
+
+Speaker B: 'That's great to hear! I do feel better these days.'
+
+Speaker A: 'That's wonderful. Now, I noticed you've been struggling a bit with following the therapy regimen. Can you tell me more about what's been challenging?'
+
+Speaker B: 'It's been tough to keep up every day. Sometimes I just forget, or the schedule gets overwhelming.'
+
+Speaker A: 'I understand. It's not uncommon to feel that way. Maybe we can find some strategies to make it easier for you.'
+
+Speaker B: 'That would be helpful. I definitely want to stay on track.'
+
+Speaker A: 'Let's also talk a bit about understanding your condition better. Do you feel like you have all the information you need?'
+
+Speaker B: 'I've read some, but I think there's still a lot I'm unsure about.'
+
+Speaker A: 'No problem, let's break it down together. Knowledge can really empower you in managing your health.'
+
+Speaker B: 'I appreciate that. It makes me feel more in control.'
+
+Speaker A: 'Absolutely, and we're here to support you every step of the way.'"

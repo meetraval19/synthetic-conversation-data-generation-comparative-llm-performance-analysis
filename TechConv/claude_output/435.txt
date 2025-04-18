@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

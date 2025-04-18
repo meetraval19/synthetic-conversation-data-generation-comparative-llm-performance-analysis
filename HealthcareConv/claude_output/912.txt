@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Care Plan Update",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Documentation Review",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

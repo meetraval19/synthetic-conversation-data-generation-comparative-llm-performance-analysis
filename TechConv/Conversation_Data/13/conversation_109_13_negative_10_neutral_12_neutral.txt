@@ -1,0 +1,22 @@
+"Speaker A: 'Thank you for joining today. I'd love to hear your thoughts on using our software. Any particular challenges you've encountered?'
+
+Speaker B: 'Well, the main issue I've had is with the way access rights are managed. It's been quite a headache.'
+
+Speaker A: 'I see. Access rights can be tricky. Could you elaborate a bit more on what's been challenging for you?'
+
+Speaker B: 'Sure, the restrictions sometimes feel overly complex, making it hard to get necessary tasks done smoothly.'
+
+Speaker A: 'I understand that can be frustrating. Moving on, have you had any thoughts about changes or features you’d like to see?'
+
+Speaker B: 'Hmm, I think incorporating a more intuitive settings panel would be helpful for both new and experienced users.'
+
+Speaker A: 'That's a great suggestion. Having a user-friendly interface makes a significant difference. How about the setup process itself? Any thoughts there?'
+
+Speaker B: 'Well, the setup was straightforward. Not much to say on that front, really. It was quite standard.'
+
+Speaker A: 'That's good to hear. We aim for simplicity. Any other feedback you might have?'
+
+Speaker B: 'Not much else, but addressing the access issues would really elevate the overall user experience.'
+
+Speaker A: 'Thank you for highlighting that. We're continuously working on improvements. Your input is invaluable to us.'"
+

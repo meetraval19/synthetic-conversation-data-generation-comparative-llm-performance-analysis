@@ -1,0 +1,21 @@
+"Speaker A: 'Hi, how have things been since your last appointment?'
+
+Speaker B: 'Not too bad, but I did notice something during my hospital stay.'
+
+Speaker A: 'Oh? What was that?'
+
+Speaker B: 'The coordination among the medical team seemed a bit off. They often repeated questions and sometimes it felt like they weren't on the same page.'
+
+Speaker A: 'I’m sorry to hear that. We strive for seamless team communication, but I’ll definitely bring this up in our next meeting.'
+
+Speaker B: 'I appreciate that. Aside from that, I’ve been reading up on managing my condition.'
+
+Speaker A: 'That’s great! There’s a lot of good information out there.'
+
+Speaker B: 'Yeah, but sometimes it’s overwhelming, trying to figure out what’s most relevant.'
+
+Speaker A: 'I understand, it can be confusing. Feel free to ask any questions you have, and I can help clarify.'
+
+Speaker B: 'Thank you. I’ll make sure to reach out if anything comes up.' 
+
+Speaker A: 'Anytime. Let’s work together to make sure you feel supported both in and out of the clinic.'"

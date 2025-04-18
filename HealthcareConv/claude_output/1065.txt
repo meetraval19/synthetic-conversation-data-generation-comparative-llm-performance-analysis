@@ -1,0 +1,20 @@
+Based on my analysis of the conversation, I've identified the underlying themes being discussed and determined the sentiment toward each topic:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Shared Decision",
+      "sentiment": "negative"
+    }
+  ]
+}
+```
+
+The speakers express a clearly positive sentiment toward "Therapy Adherence," noting significant improvements in patient outcomes and emphasizing its importance in treatment success.
+
+For "Shared Decision," the sentiment is negative because the speakers express concern about the current state - patients feeling left out of their care decisions and not being sufficiently involved. While they want to improve this aspect of care, their current feeling toward how shared decision-making is being implemented is one of concern and dissatisfaction.

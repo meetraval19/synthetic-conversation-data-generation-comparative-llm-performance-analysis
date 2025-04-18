@@ -1,0 +1,11 @@
+"Speaker A: 'I reviewed the treatment plan for our patient, and I feel very optimistic about its potential outcomes.'
+
+Speaker B: 'That’s great to hear! It seems well-aligned with the latest guidelines. How did the patient react to the diagnosis details?'
+
+Speaker A: 'The communication was quite straightforward. The patient seemed to understand the implications clearly.'
+
+Speaker B: 'That’s good. Clear communication helps set realistic expectations.'
+
+Speaker A: 'Absolutely. Now, about the next steps, I'm confident in the care team’s ability to execute the plan effectively.'
+
+Speaker B: 'With a solid plan like this, I agree our patient is in good hands.'"

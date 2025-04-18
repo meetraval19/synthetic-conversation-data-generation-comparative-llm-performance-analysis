@@ -1,0 +1,17 @@
+"Speaker A: 'Welcome to our software demo. Let's start by exploring how our tool's intuitive design reduces reliance on documentation, which can be overwhelming.'
+
+Speaker B: 'I’ve noticed that. Sometimes, dense manuals can be more of a barrier than a help.'
+
+Speaker A: 'Exactly. That's why we've focused on a user-friendly interface, so less time is spent on trying to decipher instructions.'
+
+Speaker B: 'That’s a relief. How does your software address compliance concerns, though?'
+
+Speaker A: 'Great question. Our software includes built-in features that help you adhere to regulations without added effort.'
+
+Speaker B: 'That sounds promising. Regulations can be tricky.'
+
+Speaker A: 'Absolutely, but our tools are designed to keep everything streamlined, ensuring compliance is as seamless as possible.'
+
+Speaker B: 'That’s reassuring. It's important to have peace of mind regarding these issues.'
+
+Speaker A: 'We understand, and that’s why we’re here to support you every step of the way.'"

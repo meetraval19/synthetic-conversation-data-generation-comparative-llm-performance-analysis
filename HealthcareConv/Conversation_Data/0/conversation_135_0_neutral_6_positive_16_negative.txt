@@ -1,0 +1,16 @@
+"Speaker A: 'I’ve reviewed the patient’s chart, and the medical background is straightforward, nothing unexpected there.'
+
+Speaker B: 'That’s good to hear. I’ll make sure we integrate that seamlessly into the treatment plan.'
+
+Speaker A: 'I checked with the patient's primary physician, and they were very supportive about getting a second opinion. They were really on top of coordinating everything efficiently.'
+
+Speaker B: 'That's fantastic. It makes a big difference when the referral process goes smoothly. It ensures everything moves faster for the patient.'
+
+Speaker A: 'Exactly. However, discussing the diagnosis today was challenging. The patient seemed really distressed about the prognosis.'
+
+Speaker B: 'I noticed that too. It's always tough to have these conversations, but we’ll need to navigate them with sensitivity to help the patient understand what’s next.'
+
+Speaker A: 'Absolutely. We should probably consider scheduling another meeting to go over things with a bit more care and detail.'
+
+Speaker B: 'I agree. Breaking down the information into smaller, more digestible parts might help them process everything better.'"
+

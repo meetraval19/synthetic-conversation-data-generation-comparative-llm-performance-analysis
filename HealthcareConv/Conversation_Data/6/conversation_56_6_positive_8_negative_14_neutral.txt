@@ -1,0 +1,22 @@
+"Speaker A: 'Thanks for meeting with me today. I wanted to discuss the coordination with the specialist. Has that been smooth for you?'
+
+Speaker B: 'Yes, it’s been great. The referral process was really straightforward, and the specialist was very helpful. I felt well-guided.'
+
+Speaker A: 'I’m glad to hear that. Now, about your current treatment plan. We've noticed some issues, which we need to address.'
+
+Speaker B: 'Oh, really? What’s been the concern?'
+
+Speaker A: 'The current medication hasn’t been as effective as we hoped. We might need to revisit some aspects of your care plan.'
+
+Speaker B: 'I see. That is disappointing. I was hoping for more progress by now.'
+
+Speaker A: 'I understand. It's important to find the right balance, and we’ll adjust as needed. Have you experienced any new reactions to your medication?'
+
+Speaker B: 'Not really. Just some occasional nausea, but nothing too serious.'
+
+Speaker A: 'That’s good to know. It sounds manageable, but let us know if anything changes.'
+
+Speaker B: 'Will do. Thanks for being proactive in adjusting the plan.'
+
+Speaker A: 'Of course. Ensuring your well-being is our top priority.'"
+

@@ -1,0 +1,15 @@
+"Speaker A: 'I understand you're concerned about the potential risks of your condition.'
+
+Speaker B: 'Yes, the possible complications are a bit daunting.'
+
+Speaker A: 'It's important to assess them, but remember, we're here to support you through every step.'
+
+Speaker B: 'That’s reassuring. What if there's an emergency situation?'
+
+Speaker A: 'In such cases, we're well-prepared and equipped to handle emergencies effectively. Our team is trained for rapid response.'
+
+Speaker B: 'That makes me feel a lot more confident. What about understanding the diagnosis?'
+
+Speaker A: 'We’ll provide detailed information about your condition, ensuring you understand each aspect clearly. Do you have any more questions about the diagnosis?'
+
+Speaker B: 'Not at the moment. I appreciate how you’ve explained everything.'

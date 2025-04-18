@@ -1,0 +1,16 @@
+"Speaker A: 'I see you've been reviewing your medical documents. Do you find everything clear?'
+
+Speaker B: 'Yes, the documents are quite detailed. It's all been straightforward so far.'
+
+Speaker A: 'Great to hear. Now, about your discharge, there might be some delays due to administrative procedures.'
+
+Speaker B: 'That's disappointing. I was hoping to leave soon.'
+
+Speaker A: 'I understand. It can be frustrating. We'll try to expedite the process as much as possible.'
+
+Speaker B: 'I appreciate that. What about support services once I'm home?'
+
+Speaker A: 'Support services are excellent. You'll have access to home visits, and there's a hotline for any immediate concerns.'
+
+Speaker B: 'That sounds reassuring. It's comforting to know there will be support.'"
+

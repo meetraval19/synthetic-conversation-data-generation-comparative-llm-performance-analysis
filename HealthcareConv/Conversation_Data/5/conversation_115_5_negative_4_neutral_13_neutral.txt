@@ -1,0 +1,21 @@
+"Speaker A: 'Hi, how have you been feeling since your last visit?'
+
+Speaker B: 'Honestly, I'm still a bit concerned. I didn't expect the follow-up to bring more complications.'
+
+Speaker A: 'I understand. Let's discuss those concerns and see how we can address them.'
+
+Speaker B: 'That would help. I've been following the treatment plan diligently, but I'm unsure if it's making a difference.'
+
+Speaker A: 'It's important to stay consistent. The effects can sometimes take a bit longer to manifest. How are you managing the medications?'
+
+Speaker B: 'I'm sticking to the schedule, but I still feel the same most days.'
+
+Speaker A: 'Sometimes it just takes time, but let's look at possible adjustments if needed. What about your plans once you're discharged?'
+
+Speaker B: 'I haven't thought too much about it. It seems like the next step, but I'm not sure how to prepare.'
+
+Speaker A: 'That's perfectly fine. We can work together on a plan that's tailored to your needs, gradually transitioning to your routine.'
+
+Speaker B: 'I appreciate your support. I guess I'm just overwhelmed with all the information.'
+
+Speaker A: 'It's completely normal to feel that way. Let's take it one step at a time and focus on getting you better.'"

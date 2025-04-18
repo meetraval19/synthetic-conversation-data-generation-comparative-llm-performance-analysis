@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "positive"
+        }
+    ]
+}

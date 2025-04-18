@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Valuation Metrics Discussion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Liquidity Risk Evaluation",
+            "sentiment": "positive"
+        }
+    ]
+}

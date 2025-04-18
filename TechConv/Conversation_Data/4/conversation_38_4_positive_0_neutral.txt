@@ -1,0 +1,17 @@
+"Speaker A: 'Thanks for joining the interview. Let’s start by discussing how you found the integration with your existing systems.'
+
+Speaker B: 'Oh, it was surprisingly smooth. Everything synced up seamlessly, and it didn’t disrupt our workflow at all.'
+
+Speaker A: 'That’s great to hear! Now, regarding some of the specific features, how would you describe your experience with their functionality?'
+
+Speaker B: 'Hmm, I’d say most of them perform as expected. Some options were a bit counterintuitive at first, but once we got used to them, they were fine.'
+
+Speaker A: 'So, there weren’t any major issues with how things worked once you understood them?'
+
+Speaker B: 'Exactly. It was just a learning curve thing. Once we figured that out, it was fairly straightforward to use.'
+
+Speaker A: 'Fantastic. We’re looking to ensure that our integration remains top-notch. Is there anything else you’d like to add about your overall experience?'
+
+Speaker B: 'Not really, the integration was definitely a highlight. Just keep improving those features for even smoother usability.'
+
+Speaker A: 'Will do! Thanks for your feedback and sharing your insights with us today.'"

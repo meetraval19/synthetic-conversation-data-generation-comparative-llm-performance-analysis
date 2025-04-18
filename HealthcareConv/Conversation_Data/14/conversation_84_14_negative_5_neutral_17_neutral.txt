@@ -1,0 +1,17 @@
+"Speaker A: 'I know you're eager to get home, but let's discuss the side effects of your medication first.'
+
+Speaker B: 'Yes, I've noticed a few discomforts. Are they expected?'
+
+Speaker A: 'Some mild effects are common, but please report anything severe. It's crucial to monitor them closely.'
+
+Speaker B: 'I’ll keep a close watch. What about the next steps once I’m home?'
+
+Speaker A: 'You'll have a follow-up appointment in two weeks. It’s just a routine check to see how you're progressing.'
+
+Speaker B: 'That sounds good. What if I face difficulties accessing necessary care?'
+
+Speaker A: 'It's a valid concern. We have resources to help you overcome any barriers, like connecting you with local support services.'
+
+Speaker B: 'Great to know. I’ll reach out if needed. Thanks for the information.'
+
+Speaker A: 'Of course. Your well-being is our priority. Feel free to contact us anytime for assistance.'"

@@ -1,0 +1,11 @@
+"Speaker A: 'I see you're here for a follow-up. How have things been?'  
+Speaker B: 'Honestly, not great. The symptoms are still bothering me.'  
+Speaker A: 'I'm sorry to hear that. Let's talk about your medication. Have there been any issues or changes?'  
+Speaker B: 'No major issues, everything seems the same as before.'  
+Speaker A: 'Alright, consistency is good. How about therapy? Have you been able to stick to the schedule?'  
+Speaker B: 'Yes, I’ve been attending regularly, but I’m not sure how much it’s helping.'  
+Speaker A: 'Sometimes, progress can be slow. We'll keep monitoring and adjust as needed.'  
+Speaker B: 'Okay, I appreciate that. I just hope things start improving soon.'  
+Speaker A: 'I understand. Let's keep working together to get you feeling better.'  
+Speaker B: 'Thank you, Doctor. I really hope we find a solution.'  
+Speaker A: 'Absolutely. We’ll get through this together.'”

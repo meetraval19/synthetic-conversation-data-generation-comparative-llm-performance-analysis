@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "neutral"
+        }
+    ]
+}

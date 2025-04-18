@@ -1,0 +1,27 @@
+"Speaker A: 'Thanks for coming in today. Are you experiencing any unusual symptoms since starting the new medication?'
+
+Speaker B: 'Not really, just a bit of fatigue. Is that something to worry about?'
+
+Speaker A: 'Fatigue can be a common response. It's neutral in terms of side effects. Anything else?'
+
+Speaker B: 'No, that's about it.'
+
+Speaker A: 'Okay, let's discuss your care plan. There are a few issues we need to address.'
+
+Speaker B: 'Oh, what's going on?'
+
+Speaker A: 'Well, the last test results were not as we expected. The current plan might not be very effective for you.'
+
+Speaker B: 'That's not great. What do we do now?'
+
+Speaker A: 'We might need to consider different options. It could mean adjusting the medication or introducing new therapies.'
+
+Speaker B: 'I was hoping for better news.'
+
+Speaker A: 'I understand. On another note, let's talk about your health risk factors. We need to take a closer look at your lifestyle habits.'
+
+Speaker B: 'Is it that serious?'
+
+Speaker A: 'Unfortunately, yes. There are risks we're concerned about. Addressing them now could prevent complications later.'
+
+Speaker B: 'Alright, let's tackle them. What do you recommend?'

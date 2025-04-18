@@ -1,0 +1,24 @@
+"Speaker A: 'Good to see you again. How have things been since our last appointment?'
+
+Speaker B: 'It's been okay, but getting here was a bit challenging. Public transport isn’t reliable, and the clinic is quite a distance away.'
+
+Speaker A: 'I understand the difficulty in accessing care. We’re working on solutions to make visits more convenient.'
+
+Speaker B: 'That would be great. I did have an emergency visit last month, though.'
+
+Speaker A: 'I’m glad you were able to get the help you needed quickly! It's reassuring to know our emergency services were there for you.'
+
+Speaker B: 'Yes, they were fantastic and really put my mind at ease.'
+
+Speaker A: 'That's good to hear. Let's take a look at your medication. Any changes or issues since we adjusted it last?'
+
+Speaker B: 'No real changes, but I have noticed I'm more tired in the evenings.'
+
+Speaker A: 'That’s something we can keep an eye on. It might be a natural adjustment to the medication. We’ll monitor it and see if any alterations are needed.'
+
+Speaker B: 'Sounds good, just want to make sure everything's on track.'
+
+Speaker A: 'We’ll keep a close watch on it, and feel free to reach out if anything concerns you.'
+
+Speaker B: 'I appreciate it. Looking forward to seeing how things improve.'"
+

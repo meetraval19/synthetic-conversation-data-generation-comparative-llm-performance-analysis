@@ -1,0 +1,17 @@
+"Speaker A: 'During our last appointment, we discussed your general medical background. How have you been feeling since then?'
+
+Speaker B: 'I’ve been okay. The medications seem to be working fine, but I had some questions about additional support services.'
+
+Speaker A: 'I understand that accessing those services can be frustrating. Many patients find the process quite challenging and slow.'
+
+Speaker B: 'Exactly, I feel a bit overwhelmed by the paperwork and waiting times.'
+
+Speaker A: 'I’m sorry to hear that. I’ll provide you with some resources that might make it easier to navigate.'
+
+Speaker B: 'That would be helpful. I also had a minor scare last week that got me thinking about emergency situations.'
+
+Speaker A: 'I’m sorry you went through that. It’s certainly concerning when those issues arise unexpectedly. Let’s discuss some steps to ensure you’re prepared for any future occurrences.'
+
+Speaker B: 'That would really put my mind at ease.'
+
+Speaker A: 'Of course, making sure you have a plan can reduce stress. Let me know how else I can support you.'

@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Performance Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "neutral"
+        }
+    ]
+}

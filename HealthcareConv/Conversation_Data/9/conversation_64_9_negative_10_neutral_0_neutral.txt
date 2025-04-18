@@ -1,0 +1,21 @@
+“Speaker A: 'Hello, how have you been feeling since our last consultation?'
+
+Speaker B: 'I've been okay, but I'm a bit concerned after reading about potential complications.'
+
+Speaker A: 'I understand. It’s important to stay informed, but let's focus on staying proactive about minimizing risks.'
+
+Speaker B: 'That makes sense. I've been following the treatment plan, but I just needed reassurance.'
+
+Speaker A: 'Consistency is key, and it's great that you're sticking with it. How's everything going with the medication?'
+
+Speaker B: 'I’ve been taking it regularly, though I haven't noticed any dramatic changes yet.'
+
+Speaker A: 'That’s normal. Sometimes, the effects are gradual. We can review your progress at the next visit.'
+
+Speaker B: 'Okay, and anything from my past health records we should keep an eye on?'
+
+Speaker A: 'Nothing alarming stands out, but maintaining regular check-ups will help us stay on top of everything.'
+
+Speaker B: 'Thank you, that eases my worries a bit.'
+
+Speaker A: 'Of course, I’m here to help. If anything changes, just let me know.'”

@@ -1,0 +1,12 @@
+"Speaker A: 'I’ve just reviewed the latest assessment, and it seems there are some concerns regarding potential complications after discharge.'
+
+Speaker B: 'Yes, I noticed the same. We should definitely highlight those and ensure the patient is aware.'
+
+Speaker A: 'Absolutely, it’s important they understand the risks. On another note, I think we should update their care plan to reflect any new findings.'
+
+Speaker B: 'Updating the care plan makes sense. It’ll allow us to monitor their progress closely and adjust as needed.'
+
+Speaker A: 'Agreed. Let’s make sure to keep everything documented so the transition is as smooth as possible for the patient.'
+
+Speaker B: 'Good idea. I’ll work on the documentation while you discuss the potential risks with them.'''
+

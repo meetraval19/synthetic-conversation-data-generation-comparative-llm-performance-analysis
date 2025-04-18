@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Roadmap or Future Plans",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Technical Documentation Reference",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

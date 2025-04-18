@@ -1,0 +1,14 @@
+"Speaker A: 'I reviewed the patient's documentation, and everything is organized perfectly.'
+
+Speaker B: 'That's great to hear. It's always reassuring when we have detailed notes.'
+
+Speaker A: 'However, when I looked through the latest set of test results, there are a few concerns.'
+
+Speaker B: 'That's worrying. Were there any unexpected findings?'
+
+Speaker A: 'Yes, there were inconsistencies compared to previous results. It might require further investigation.'
+
+Speaker B: 'I agree. It's important to follow up on those to ensure the best care for the patient.'
+
+Speaker A: 'Absolutely. Let's make sure we address these issues as soon as possible.'"
+

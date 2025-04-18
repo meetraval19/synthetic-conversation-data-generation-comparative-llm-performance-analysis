@@ -1,0 +1,21 @@
+"Speaker A: 'Hi, thanks for calling Tech Support. How can I assist you today?'
+
+Speaker B: 'Hi, I'm having a little trouble with setting up my workstation. I was hoping you could walk me through the details.'
+
+Speaker A: 'Absolutely! Our system configuration is designed to be user-friendly, and I think you’ll find it straightforward once we get started.'
+
+Speaker B: 'That’s good to hear. Should I reference any particular technical document during this process?'
+
+Speaker A: 'The documentation we have is quite comprehensive. It’s kept neutral, so it can apply to several versions. Let me guide you through some key sections.'
+
+Speaker B: 'Thanks. I often find it tricky because when I reach out to different teams, the communication isn’t always clear.'
+
+Speaker A: 'I understand. Collaboration gaps can indeed be frustrating. We’re working on improving our internal communication to make your experience smoother.' 
+
+Speaker B: 'I appreciate that. It would really help if the instructions are more synchronized between teams.'
+
+Speaker A: 'Absolutely, we’re aware of that. Let’s get your system up and running in the meantime.' 
+
+Speaker B: 'That sounds perfect. Thank you for your support today.'
+
+Speaker A: 'You're welcome! I’m here to help anytime you need assistance.'"

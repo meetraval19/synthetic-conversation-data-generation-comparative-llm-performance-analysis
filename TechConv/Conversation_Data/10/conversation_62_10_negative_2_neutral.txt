@@ -1,0 +1,22 @@
+"Speaker A: 'Hello, thank you for calling Tech Support. How can I assist you today?'
+
+Speaker B: 'Hi, I was looking to make an adjustment to the app to better fit our workflow.'
+
+Speaker A: 'I understand. Implementing changes can be complex and might not always be feasible due to the system's current framework.'
+
+Speaker B: 'That’s a bit disappointing. It seems like a standard requirement for many users.'
+
+Speaker A: 'I apologize for the inconvenience. I’ll forward your feedback to our development team for consideration. Is there anything else I can help you with?'
+
+Speaker B: 'Yes, I've noticed the app sometimes slows down during peak hours.'
+
+Speaker A: 'Performance can vary, but we’re always aiming for consistent speed. Could you provide specifics on when the slowdown occurs?'
+
+Speaker B: 'It usually happens around midday when our team's workload is the heaviest.'
+
+Speaker A: 'I see. This information is useful. We’ll look into optimizing server loads during those times.'
+
+Speaker B: 'Great, I appreciate your help with this.'
+
+Speaker A: 'You’re welcome! Feel free to reach out if you encounter any other issues.'"
+

@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Roadmap or Future Plans",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

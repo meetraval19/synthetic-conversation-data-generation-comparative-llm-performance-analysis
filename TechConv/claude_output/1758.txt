@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Change Request or Feature Suggestion",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Bug or Issue Reporting",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "positive"
+    }
+  ]
+}

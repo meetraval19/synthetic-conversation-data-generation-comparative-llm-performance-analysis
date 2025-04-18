@@ -1,0 +1,21 @@
+"Speaker A: 'Hi, I'm glad you're here for your follow-up. How have you been managing with your treatment plan?'
+
+Speaker B: 'Honestly, it's been tough sticking to it all the time.'
+
+Speaker A: 'I understand it can be challenging. Let's talk about what's making it difficult for you to adhere to the therapy.'
+
+Speaker B: 'Some days I just feel overwhelmed, and it's hard to keep up with the schedule.'
+
+Speaker A: 'We can work together to adjust the plan so it’s more manageable for you. What are your thoughts on that?'
+
+Speaker B: 'I think that could help. I’d like to have a bit more say in how we proceed.'
+
+Speaker A: 'Absolutely! Shared decision-making is important to ensure the treatment fits your lifestyle.'
+
+Speaker B: 'Great, I appreciate that. Also, I'd like to know more about how the treatment works.'
+
+Speaker A: 'Of course. Let’s go over the key details so you feel more informed. Understanding the process can make a difference in how you manage it.'
+
+Speaker B: 'Thanks, that would really help me feel more in control.'
+
+Speaker A: 'Anytime. We’re here to support you in every way we can.'"

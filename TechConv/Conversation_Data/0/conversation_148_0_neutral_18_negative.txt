@@ -1,0 +1,17 @@
+"Speaker A: 'Thanks for taking the time to speak with us. We'd love your thoughts on how easy it is to understand the functionality of our new software update.'
+
+Speaker B: 'Well, it's pretty straightforward overall. Most features were easy to figure out, which is good. But some parts needed a bit more clarification.'
+
+Speaker A: 'That's helpful to hear. We aim to make things as intuitive as possible. Was there anything else that stood out?'
+
+Speaker B: 'Actually, there were some concerns around the regulatory aspects that caught my attention. I noticed a couple of areas where compliance seemed a bit off.'
+
+Speaker A: 'I see. Compliance is definitely a priority for us. Can you elaborate on the specifics you found concerning?'
+
+Speaker B: 'Certainly. It just seemed like there were potential issues with data handling that might not align with the latest regulations. It's crucial to address those.'
+
+Speaker A: 'That's important feedback. We are committed to making necessary changes to meet all regulatory standards. Anything else you'd like to add?'
+
+Speaker B: 'Not beyond what we've discussed. It's just vital to ensure everything is airtight when it comes to compliance.'
+
+Speaker A: 'Absolutely. Your insights are invaluable, and we'll use this information to improve our product. Thank you.'"

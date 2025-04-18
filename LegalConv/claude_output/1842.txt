@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Enforcement and Implementation Issues",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Witness Identification and Preparation",
+      "sentiment": "positive"
+    }
+  ]
+}

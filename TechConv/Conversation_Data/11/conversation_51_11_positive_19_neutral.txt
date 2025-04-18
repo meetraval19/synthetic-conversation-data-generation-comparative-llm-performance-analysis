@@ -1,0 +1,14 @@
+"Speaker A: 'Thanks for joining our feedback session today. Let's dive into your experience with our onboarding process. How did you find it?'
+
+Speaker B: 'Honestly, it was quite impressive. The tutorials were thorough, and the support team was really helpful.'
+
+Speaker A: 'That's great to hear! We strive to ensure that new users feel comfortable and confident. Moving on, have you compared our tool with others in the market?'
+
+Speaker B: 'I have, actually. Each platform has its strengths and weaknesses. Yours is user-friendly, but there are others with unique features.'
+
+Speaker A: 'I appreciate that insight. Balancing functionality and ease-of-use is always a challenge. Any specific features you think stand out compared to others?'
+
+Speaker B: 'Well, your interface is cleaner, which I like. Others might have more integrations, though.'
+
+Speaker A: 'Noted. We’re constantly working on improvements. Thanks for sharing your thoughts with us today!'"
+

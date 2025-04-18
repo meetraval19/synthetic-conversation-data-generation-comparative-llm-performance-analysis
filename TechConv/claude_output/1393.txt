@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Bug or Issue Reporting",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "System Configuration Details",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

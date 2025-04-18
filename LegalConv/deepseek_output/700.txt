@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Evidence and Documentation Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Witness Identification and Preparation",
+            "sentiment": "positive"
+        }
+    ]
+}

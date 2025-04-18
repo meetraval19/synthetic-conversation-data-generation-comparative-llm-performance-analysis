@@ -1,0 +1,28 @@
+Looking at this medical conversation, I can identify several topics from the provided list and analyze the sentiment around each topic.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Care Barriers",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Support Services",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

@@ -1,0 +1,15 @@
+"Speaker A: 'I'm glad to see your symptoms have improved significantly during your stay. How are you feeling about your recovery?'
+
+Speaker B: 'I do feel much better, especially after the regular assessments and therapies. It's been reassuring to see progress.'
+
+Speaker A: 'That's wonderful to hear. We've been closely monitoring everything to ensure you're on the right track.'
+
+Speaker B: 'I appreciate the support. However, I'm a bit concerned with how my diagnosis was initially explained. It felt quite overwhelming.'
+
+Speaker A: 'I'm sorry to hear that. We strive to communicate clearly, but it's crucial to ensure all details are understood. We can go over everything again if you like.'
+
+Speaker B: 'That would be helpful. I think understanding my condition better will give me more confidence as I transition home.'
+
+Speaker A: 'Absolutely. Let’s make sure you leave with all your questions answered, and I’ll schedule another session with our specialist for more clarity on your diagnosis.'
+
+Speaker B: 'Thank you, that sounds like a good plan. I do feel more at ease knowing there's a path forward.'"

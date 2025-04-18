@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Costs, Fees, and Budgeting",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "neutral"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+"Speaker A: 'I see that you’re getting ready for discharge. We should review your medications before you leave.'
+
+Speaker B: 'Yes, I've been a bit overwhelmed by the complexity of it all. The instructions were pretty confusing.'
+
+Speaker A: 'I understand; medication regimens can be tricky. We’ll simplify it for you and make sure everything is clear before you go.'
+
+Speaker B: 'That would really help. I've been making notes, but I’m still unsure about a few things.'
+
+Speaker A: 'Let’s go through it together. How have you been feeling overall? Have you noticed any new symptoms?'
+
+Speaker B: 'Nothing new, really. It’s been pretty stable since the last checkup.'
+
+Speaker A: 'That’s good to hear. It sounds like the main symptoms we were monitoring are under control.'
+
+Speaker B: 'Yes, thankfully. I’m always a bit anxious about any changes.'
+
+Speaker A: 'Understandable. Now, about any side effects from the meds; have you been experiencing anything unusual?'
+
+Speaker B: 'I had some mild dizziness at first, but it seems to have settled down.'
+
+Speaker A: 'It’s good to know it’s tapering off, but keep us updated in case anything changes.'
+
+Speaker B: 'Will do. Thanks for helping clear things up. I’m feeling more confident about managing at home now.'
+
+Speaker A: 'Glad to hear that. We’ll make sure you have all the support you need. Let us know if any questions arise once you’re settled in.'
+
+Speaker B: 'I appreciate it. I’ll reach out if anything comes up.'"

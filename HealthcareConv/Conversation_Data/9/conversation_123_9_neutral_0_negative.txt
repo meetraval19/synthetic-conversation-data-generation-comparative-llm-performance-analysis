@@ -1,0 +1,8 @@
+"Speaker A: 'Let's review your recent check-up results to assess any potential risks.'  
+Speaker B: 'Sure, I'm always concerned about what might come up.'  
+Speaker A: 'From the tests, everything seems stable, but we'll continue monitoring just to be safe.'  
+Speaker B: 'I appreciate that. What worries me is my past medical history, though.'  
+Speaker A: 'I understand. The previous conditions have been challenging, but we’ll manage them closely.'  
+Speaker B: 'It's just frustrating how it seems to complicate everything else.'  
+Speaker A: 'I know it can be tough, but remember, we’re here to support you every step of the way.'  
+Speaker B: 'Thank you, that’s reassuring to hear.'"

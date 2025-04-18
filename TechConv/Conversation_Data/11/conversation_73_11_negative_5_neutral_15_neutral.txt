@@ -1,0 +1,17 @@
+"Speaker A: 'Thanks for joining this feedback session. Let's start with how you're finding the initial setup and guidance provided.'
+
+Speaker B: 'Honestly, the initial setup could be a lot smoother. The training was pretty overwhelming and not as helpful as I'd hoped.'
+
+Speaker A: 'I see. Improving that part of the experience is definitely on our agenda. Moving on, what are your thoughts on where we’re headed as a company?'
+
+Speaker B: 'I don’t have strong feelings either way about the future plans. I think some of the proposed features could be interesting, but it really depends on how they’re executed.'
+
+Speaker A: 'Totally understand. Execution is key. How about the day-to-day efficiency of your tasks with our product—any thoughts on that?'
+
+Speaker B: 'It’s alright. The current processes seem standard, but they could definitely be streamlined a bit more. Nothing too frustrating, just room for improvement.'
+
+Speaker A: 'That's valuable input. We'll look into those optimizations. Anything else you'd like to add?'
+
+Speaker B: 'Not much, just focusing on making it more user-friendly would go a long way.'
+
+Speaker A: 'Thank you for your candid feedback. Much appreciated.'"

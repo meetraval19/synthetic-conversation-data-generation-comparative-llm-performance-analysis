@@ -1,0 +1,16 @@
+"Speaker A: 'Thanks for coming in today. How have you been feeling lately?'
+
+Speaker B: 'I’ve been managing okay, but honestly, some of the support services have been disappointing. It just feels like there's not enough help when I need it.'
+
+Speaker A: 'I’m really sorry to hear that. We’re working hard to improve those services, but thank you for sharing your experience. On a brighter note, have you had the chance to look over the new educational materials we provided at your last visit?'
+
+Speaker B: 'Yes, I did! Those resources have been really helpful, especially the tips on managing anxiety.'
+
+Speaker A: 'I’m glad to hear that. We’ve put a lot of effort into curating information that's useful and easy to understand. Education makes a big difference in managing health effectively.'
+
+Speaker B: 'Absolutely, it’s made me feel more in control of my situation. But I still hope the support services get better soon.'
+
+Speaker A: 'I completely understand. If you have any specific concerns, feel free to let us know, and we’ll do our best to address them. Meanwhile, I’m pleased the educational part has had a positive impact.'
+
+Speaker B: 'Thank you, I appreciate it. I’ll definitely keep communicating my concerns. It’s reassuring to know there’s a focus on improving things from the education side.'"
+

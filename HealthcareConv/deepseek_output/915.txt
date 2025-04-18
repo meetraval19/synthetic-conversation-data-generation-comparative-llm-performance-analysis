@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "negative"
+        }
+    ]
+}

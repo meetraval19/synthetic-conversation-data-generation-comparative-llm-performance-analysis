@@ -1,0 +1,13 @@
+"Speaker A: 'Hello, how have you been feeling since your discharge?'
+
+Speaker B: 'I’ve been doing quite well, actually. The discharge process was so smooth and helpful.'
+
+Speaker A: 'I'm glad to hear that. Our team has been working hard to ensure a positive experience with planning your transition back home.'
+
+Speaker B: 'Yes, they made me feel comfortable and prepared. Now, about the support services, I'm not quite sure what to expect.'
+
+Speaker A: 'That’s understandable. The support services are there to help if you need any guidance or additional care, but it's completely optional.'
+
+Speaker B: 'I see. It's good to know that someone is available if I need them.'
+
+Speaker A: 'Absolutely. We aim to provide all our patients with resources to ensure their recovery is steady and well-supported.'

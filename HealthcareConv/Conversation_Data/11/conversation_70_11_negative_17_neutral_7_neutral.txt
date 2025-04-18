@@ -1,0 +1,17 @@
+"Speaker A: 'Hello, how have you been managing your condition since our last visit?'
+
+Speaker B: 'It's been a bit challenging. I still find some of the medical instructions difficult to follow.'
+
+Speaker A: 'I understand. Sometimes the information can be overwhelming. Do you feel like the team has been clear in their explanations?'
+
+Speaker B: 'Mostly, but there are moments when things get a bit confusing. I'm not sure if it's just me or if it's a general issue.'
+
+Speaker A: 'Communication is key, and we're working to ensure everyone is on the same page. Have there been any hurdles in accessing the care you need?'
+
+Speaker B: 'Not really. Getting what I need is mostly smooth, but I still worry about missing something important.'
+
+Speaker A: 'It's a common concern. Making sure you have all the information and understanding it fully is crucial. We’re here to support you in any way.'
+
+Speaker B: 'I appreciate that. I just hope I can keep up with everything as we go forward.'
+
+Speaker A: 'Absolutely. We'll continue to work together to make things easier for you. Let’s discuss any specific questions you have today.'"

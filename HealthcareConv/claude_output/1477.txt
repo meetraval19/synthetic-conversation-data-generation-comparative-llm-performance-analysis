@@ -1,0 +1,20 @@
+Based on the provided conversation, I'll identify the underlying topics from the list and determine their sentiment.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Side Effects",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Patient Education",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

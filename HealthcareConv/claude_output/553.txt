@@ -1,0 +1,16 @@
+Based on the conversation between the healthcare provider and patient, I've identified the relevant topics and their sentiments:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Diagnosis Communication",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

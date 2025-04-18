@@ -1,0 +1,23 @@
+"Speaker A: 'I'm glad you're feeling better today. Let's discuss your discharge plan.'
+
+Speaker B: 'Great, I've been looking forward to going home!'
+
+Speaker A: 'We'll provide you with some educational materials. Understanding your condition and how to manage it will empower you.'
+
+Speaker B: 'That sounds helpful. I really want to stay on top of things once I'm back home.'
+
+Speaker A: 'Absolutely. Now, I wanted to talk with you about your recent test results. There are a few concerns we need to address.'
+
+Speaker B: 'Oh, that doesn’t sound good. What should I know?'
+
+Speaker A: 'While some levels were within expected ranges, there are others we need to monitor closely. It might require further treatment.'
+
+Speaker B: 'I was hoping for better news. What’s the next step?'
+
+Speaker A: 'We'll schedule a follow-up to keep a close watch on your progress. The educational materials will help you understand these results more deeply.' 
+
+Speaker B: 'Thanks for explaining everything. I feel more prepared to handle this now.' 
+
+Speaker A: 'We’re here to support you. Don’t hesitate to reach out with any questions after you’re home.' 
+
+Speaker B: 'I appreciate that. I feel more confident knowing I have all this information.'"

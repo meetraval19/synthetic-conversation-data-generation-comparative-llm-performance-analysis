@@ -1,0 +1,15 @@
+"Speaker A: 'So, starting with our software, we provide an intuitive setup process.'
+
+Speaker B: 'That sounds straightforward. What about getting new team members up to speed?'
+
+Speaker A: 'We offer comprehensive onboarding sessions that are designed to be clear and efficient.'
+
+Speaker B: 'I see. What if they need to look up specifics later?'
+
+Speaker A: 'We do have technical documentation, although I'll admit there have been some concerns about its complexity.'
+
+Speaker B: 'That's important to me. I find overly complicated manuals can really hinder our workflow.'
+
+Speaker A: 'I completely understand. We’re actually in the process of revising them based on customer feedback to make them more user-friendly.'
+
+Speaker B: 'That's good to hear. I think a smoother onboarding paired with clear references will be beneficial.'"

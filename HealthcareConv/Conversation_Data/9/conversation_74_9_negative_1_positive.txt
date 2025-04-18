@@ -1,0 +1,17 @@
+"Speaker A: 'Before you leave, let's go over your recovery plan. How are you feeling about your symptoms lately?'
+
+Speaker B: 'Honestly, much better. The new medication seems to be working well. The symptoms have really improved.'
+
+Speaker A: 'That's great to hear! It's always encouraging when treatment aligns well with symptom assessment. On another note, we need to conduct a final risk assessment before discharge.'
+
+Speaker B: 'I understand, but I’m a bit worried. During my last assessment, there were some concerns about potential complications.'
+
+Speaker A: 'Those concerns are valid. We have to make sure everything's covered to prevent any issues after you go home. It’s all part of ensuring your safety.'
+
+Speaker B: 'I appreciate that. As much as I’m looking forward to going home, I want to make sure it's safe.'
+
+Speaker A: 'Exactly. We'll take all the necessary precautions to make your transition as smooth as possible. Is there anything else on your mind?'
+
+Speaker B: 'No, I think that covers it. I just want to be sure everything's okay before I leave.'
+
+Speaker A: 'Rest assured, we’ll address every concern to ensure your health and safety. Let’s continue to focus on the positive progress you’ve made with your symptoms. That’s a huge step forward!'"

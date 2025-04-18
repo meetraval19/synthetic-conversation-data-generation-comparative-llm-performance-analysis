@@ -1,0 +1,19 @@
+"Speaker A: 'How do you feel about the clarity of diagnoses our team has been communicating lately?'
+
+Speaker B: 'I think our clinicians do a decent job of explaining conditions, but there’s always room for improvement.'
+
+Speaker A: 'That's true. Patients seem to appreciate when we simplify the language.'
+
+Speaker B: 'Absolutely, sometimes we forget how technical our explanations can be.'
+
+Speaker A: 'Now, about our recent checks on medication management...'
+
+Speaker B: 'Yes, there have been some concerns. Patients have reported confusion over dosage instructions.'
+
+Speaker A: 'I’ve noticed the same. We need to ensure our pharmacists are conducting thorough reviews.'
+
+Speaker B: 'Agreed. Miscommunication in medication reviews can really impact patient safety.'
+
+Speaker A: 'We should organize a training session to address this issue.'
+
+Speaker B: 'That’s a good idea. Team collaboration is crucial to avoid these negative outcomes.'"

@@ -1,0 +1,13 @@
+"Speaker A: 'Our recent improvements in bug reporting have really streamlined our process.'
+
+Speaker B: 'Yes, it’s been a game changer. The team can sort issues much faster now.'
+
+Speaker A: 'On a different note, have you seen the latest roadmap draft?'
+
+Speaker B: 'I have. I’m a bit concerned. It seems quite ambitious and might stretch the team too thin.'
+
+Speaker A: 'I agree, especially with the resources we have. It might be tough to deliver everything on time.'
+
+Speaker B: 'We might need to revisit the priorities and adjust based on realistic goals.'
+
+Speaker A: 'Absolutely, it’s crucial to ensure our efforts are both effective and sustainable.'"

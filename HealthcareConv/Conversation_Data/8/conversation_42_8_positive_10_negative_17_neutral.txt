@@ -1,0 +1,17 @@
+"Speaker A: 'I'm glad to report that your latest care plan update is showing promising results. How are you feeling about it?'
+
+Speaker B: 'I'm really happy to hear that. I feel more energetic and hopeful these days.'
+
+Speaker A: 'That's great! However, I've noticed there have been some challenges with keeping up with the therapy sessions. Can you share what might be happening?'
+
+Speaker B: 'Honestly, it's been hard to stick to the routine. I sometimes feel overwhelmed and miss a few sessions.'
+
+Speaker A: 'I understand. Sticking to therapy can be tough for many. Let’s talk about any obstacles that might be in your way.'
+
+Speaker B: 'Sometimes it's just the timing and occasionally transport is an issue. It’s not always easy to get to appointments.'
+
+Speaker A: 'Thanks for sharing that. We might be able to explore some solutions, like virtual sessions or coordinating schedules. What do you think?'
+
+Speaker B: 'That could really help. Virtual sessions especially sound convenient.'
+
+Speaker A: 'Perfect. We'll work together to address these barriers and keep you on track. Remember, you're doing a great job, and we're here to support you every step of the way.'"

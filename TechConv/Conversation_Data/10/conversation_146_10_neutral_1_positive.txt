@@ -1,0 +1,21 @@
+"Speaker A: 'Thanks for joining the feedback session. Could you tell me if there's anything you'd like to see changed or added in our app?'
+
+Speaker B: 'Well, I've been using it for a while now, and it generally meets my needs. Maybe a bit more customization in the user interface would be nice, but nothing pressing.'
+
+Speaker A: 'Customizing the interface sounds interesting. I’ll make a note of that. We always aim to improve based on user feedback.'
+
+Speaker B: 'I appreciate that. It would just enhance the user experience without changing the core functionality.'
+
+Speaker A: 'Got it. Now, shifting gears a bit, have you encountered any issues or bugs while using the app?'
+
+Speaker B: 'Actually, yes, I noticed a small glitch that occurs occasionally during login. It’s rare, but I must say your team was incredibly quick in addressing it when I reported it.'
+
+Speaker A: 'I'm glad to hear our response time was satisfactory. We're constantly looking to ensure issues are resolved swiftly.'
+
+Speaker B: 'Yes, your responsiveness made a great impression. It’s reassuring to see a company so dedicated to improving their product.'
+
+Speaker A: 'Thank you for your kind words. We'll keep working hard to ensure a seamless experience. Any other thoughts?'
+
+Speaker B: 'Not at the moment, but I’ll definitely keep you posted if anything comes up. Keep up the good work!'
+
+Speaker A: 'We will. Thank you for your valuable feedback. It really makes a difference.'"

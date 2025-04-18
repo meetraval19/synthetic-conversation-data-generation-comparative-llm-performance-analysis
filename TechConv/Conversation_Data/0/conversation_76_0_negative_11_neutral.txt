@@ -1,0 +1,15 @@
+"Speaker A: 'During our recent incident, it was clear that the new tool's features were not straightforward. Did anyone else find them frustrating?'
+
+Speaker B: 'Absolutely, I struggled to clarify what each feature was meant to do. It really slowed down our response time.'
+
+Speaker A: 'We need to address this immediately. Confusing functionality can have serious repercussions in a crisis.'
+
+Speaker B: 'Agreed. Perhaps a review session is needed. Speaking of which, how is everyone finding the training materials?'
+
+Speaker C: 'They seem adequate, but some areas could use more depth. I think a few onboarding sessions might help bridge those gaps.'
+
+Speaker B: 'Yes, the basics are there, but finer details would definitely benefit people new to the team.'
+
+Speaker A: 'Let’s prioritize a training refresh. The goal is to ensure everyone feels confident in using every tool available.'
+
+Speaker C: 'Sounds good. A clear understanding will enhance our readiness for future incidents.'"

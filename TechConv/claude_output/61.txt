@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Roadmap or Future Plans",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

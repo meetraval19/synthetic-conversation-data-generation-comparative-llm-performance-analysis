@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+"Speaker A: 'I see that you’re here for a follow-up appointment. Let’s start by reviewing your medical history. It looks quite comprehensive, which is great.'
+
+Speaker B: 'Yes, my previous doctor kept detailed records. It’s been really helpful for ongoing care.'
+
+Speaker A: 'Absolutely, having such detailed information makes everything smoother. However, I noticed some challenges in coordinating your referral to the specialist.'
+
+Speaker B: 'Yes, it’s been quite frustrating. There were delays and miscommunications that made the process difficult.'
+
+Speaker A: 'I’m sorry to hear that. We often hear similar feedback, and it’s an area we’re actively working to improve.'
+
+Speaker B: 'I appreciate that. It’s just a bit daunting when you’re trying to access the care you need and encounter these hurdles.'
+
+Speaker A: 'I understand. Let’s also discuss any barriers you’ve faced in your care journey and see how we can address them together.'
+
+Speaker B: 'Well, access hasn’t been particularly problematic, but sometimes I'm unsure about the next steps in my treatment plan.'
+
+Speaker A: 'That’s understandable. It’s important for patients to have clarity. Let’s make sure we address all your questions before you leave today.'
+
+Speaker B: 'Thank you, that would be helpful. Having a clear plan gives me a sense of relief and control over my health.'
+
+Speaker A: 'Great, let's get started on that. Your thorough medical history will certainly aid in making this process more efficient.'"

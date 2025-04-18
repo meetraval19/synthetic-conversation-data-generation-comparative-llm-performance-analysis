@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Performance Concerns",
+            "sentiment": "positive"
+        }
+    ]
+}

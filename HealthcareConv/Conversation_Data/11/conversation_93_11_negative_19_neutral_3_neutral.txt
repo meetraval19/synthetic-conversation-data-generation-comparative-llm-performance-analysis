@@ -1,0 +1,17 @@
+"Speaker A: 'We're preparing for your discharge today, but I noticed there were some gaps in the information about your care plan.'
+
+Speaker B: 'Yes, I felt a bit lost when they explained everything. It was a lot to take in, and some of the details were confusing.'
+
+Speaker A: 'I'm sorry to hear that. We'll make sure you have access to detailed instructions and someone to guide you through it. Now, about the support services available after discharge...'
+
+Speaker B: 'I did hear there's some help I can access, but I'm not sure what exactly is offered.'
+
+Speaker A: 'We can connect you with a case manager who'll explain options like home health visits or transport services. It's important to find what suits you best.'
+
+Speaker B: 'That sounds like it could be helpful. And what about the medications I'm supposed to take?'
+
+Speaker A: 'We'll review your medications before you leave. It's crucial to ensure everything's clear, so please ask if anything seems uncertain.'
+
+Speaker B: 'Alright, I think I have a basic understanding, but I'll double-check with you then.'
+
+Speaker A: 'Definitely, feel free to ask any questions. We want to make this as smooth as possible for you.'"

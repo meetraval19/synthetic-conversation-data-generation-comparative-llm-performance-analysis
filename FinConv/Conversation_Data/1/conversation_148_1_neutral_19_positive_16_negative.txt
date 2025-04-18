@@ -1,0 +1,19 @@
+"Speaker A: 'Let's start our review with an assessment of your comfort level with investment risks. How do you feel about your current exposure?'
+
+Speaker B: 'I think it's balanced, but I'm open to a deeper analysis if needed.'
+
+Speaker A: 'Great, I find it helpful to run a scenario and sensitivity analysis. It typically brings out potential advantages.'
+
+Speaker B: 'That sounds promising. I'm interested in seeing how different factors might influence my returns.'
+
+Speaker A: 'Absolutely, it's a proactive approach to maximize opportunities.'
+
+Speaker B: 'Speaking of external factors, what about the impact of interest rate changes on my investments?'
+
+Speaker A: 'Unfortunately, that's a bit concerning. Rising rates could potentially reduce bond values in your portfolio.'
+
+Speaker B: 'That's a bit unsettling. How should we address that?'
+
+Speaker A: 'We'll explore strategies to mitigate those risks, adjusting allocations as necessary to protect your portfolio.'
+
+Speaker B: 'I appreciate that. It's good to have a strategy in place.'"

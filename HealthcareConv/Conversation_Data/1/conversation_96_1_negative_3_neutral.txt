@@ -1,0 +1,21 @@
+"Speaker A: 'I'm concerned about the recurring headache you mentioned. Have you felt any improvement today?'
+
+Speaker B: 'Not really, the headache has been persistent and it's quite worrisome.'
+
+Speaker A: 'I understand, it can be difficult to manage. Let's make sure we fully address it before discharge.'
+
+Speaker B: 'That would be helpful. It seems like a significant issue right now.'
+
+Speaker A: 'Absolutely. Now, regarding your medication review, we've added a new prescription to help manage your symptoms.'
+
+Speaker B: 'I noticed that. The pharmacist explained it to me, but I want to make sure I understand all my medications.'
+
+Speaker A: 'Of course, let's go through each one. It's important that you feel comfortable with what you're taking.'
+
+Speaker B: 'I appreciate that. I want to ensure there are no interactions I need to be aware of.'
+
+Speaker A: 'That's a good point. We'll provide a detailed plan for you before you leave, and you can always reach out if there are any questions.'
+
+Speaker B: 'Thank you. I feel a bit more reassured now about the medications, though I'm still concerned about the headache.'
+
+Speaker A: 'We'll keep monitoring it, and make any necessary adjustments before you go home.'"

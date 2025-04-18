@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

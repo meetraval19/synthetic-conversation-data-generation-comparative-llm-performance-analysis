@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Integration or Compatibility Inquiry",
+            "sentiment": "neutral"
+        }
+    ]
+}

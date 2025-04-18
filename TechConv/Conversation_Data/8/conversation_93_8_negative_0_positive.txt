@@ -1,0 +1,18 @@
+"Speaker A: 'Thanks for joining us today. How have you found using our software?'  
+Speaker B: 'Overall, it's been quite intuitive, but I have had some challenges.'  
+
+Speaker A: 'Could you elaborate on what aspects were difficult?'  
+Speaker B: 'The instructions were not very clear. I found myself getting lost in the details.'  
+
+Speaker A: 'I'm sorry to hear that. We’re working on improving those materials. Was there anything that did work well for you?'  
+Speaker B: 'Yes, definitely. I found the features themselves exceeded my expectations once I understood them.'  
+
+Speaker A: 'That's great to hear! Was there anything specific you appreciated about the features?'  
+Speaker B: 'I appreciated how each tool integrated seamlessly with what I already use, which made a big difference.'  
+
+Speaker A: 'That's encouraging feedback. We'll definitely take your comments on the documentation into consideration.'  
+Speaker B: 'I’d love to see more examples or clearer step-by-step guides in the future.'  
+
+Speaker A: 'Absolutely, and we'll work on those improvements. Thank you for your insights today!'  
+Speaker B: 'Thank you for listening. I’m excited to continue using the software with the new features.'"
+

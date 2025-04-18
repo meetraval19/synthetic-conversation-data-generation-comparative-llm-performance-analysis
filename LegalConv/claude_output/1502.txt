@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "positive"
+    }
+  ]
+}

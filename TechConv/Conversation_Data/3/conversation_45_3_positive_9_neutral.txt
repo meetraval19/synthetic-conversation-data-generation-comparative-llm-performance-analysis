@@ -1,0 +1,16 @@
+"Speaker A: 'Thank you for joining our user feedback interview today. I’d love to hear your thoughts on how secure you feel your data is with our new product.'
+
+Speaker B: 'Honestly, I feel quite confident. The recent updates on encryption and privacy controls are really impressive.'
+
+Speaker A: 'That’s great to hear! We've put a lot of effort into enhancing those features. What about your experience with our beta features during the testing phase?'
+
+Speaker B: 'It’s been quite smooth, actually. Some minor hiccups during setup, but overall, things seem to be functioning as expected.'
+
+Speaker A: 'I’m glad there haven’t been any major issues. We’re constantly monitoring feedback during this phase to make sure everything is validated properly.'
+
+Speaker B: 'That’s reassuring. I think being open to user feedback really helps in catching those little bugs early on.'
+
+Speaker A: 'Absolutely. It’s crucial for us to ensure everything is working seamlessly before the final release.' 
+
+Speaker B: 'I appreciate your proactive approach. Looking forward to using all the finalized features soon!'"
+

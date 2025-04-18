@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "negative"
+        }
+    ]
+}

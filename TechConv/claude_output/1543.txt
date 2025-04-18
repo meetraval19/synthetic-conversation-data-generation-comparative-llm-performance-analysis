@@ -1,0 +1,20 @@
+Based on my analysis of the conversation, I've identified the main topics being discussed and their associated sentiments:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "negative"
+    }
+  ]
+}
+```
+
+The speakers show a positive attitude toward using metrics and data to guide their decisions, with Speaker A emphasizing their importance for an unbiased approach and Speaker B agreeing it's a good starting point.
+
+However, they express concern about infrastructure scaling, with Speaker C directly stating worry about the current setup's ability to handle growth, Speaker A highlighting the costs and complexity involved, and Speaker B warning about potential setbacks without proper planning - all indicating a negative sentiment toward this topic.

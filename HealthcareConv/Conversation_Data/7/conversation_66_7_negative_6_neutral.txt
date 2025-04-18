@@ -1,0 +1,17 @@
+"Speaker A: 'I noticed some issues with how our team communicates, especially during the last shift handover.' 
+
+Speaker B: 'Yes, I observed that too. The reports weren't as clear as they should be.'
+
+Speaker A: 'It can lead to misunderstandings, which we really need to avoid in patient care.'
+
+Speaker B: 'Absolutely. It's crucial that everyone is on the same page, especially with complex cases.'
+
+Speaker A: 'Speaking of cases, how did the coordination go on the recent patient referral?'
+
+Speaker B: 'It went smoothly, though there was a bit of back and forth. But, overall, it seemed alright.'
+
+Speaker A: 'That's good to hear. Streamlining that process is always beneficial.'
+
+Speaker B: 'Indeed, even a neutral experience is better than a disorganized one. Still, improving communication can make everything run better.'
+
+Speaker A: 'Agreed. We should discuss potential solutions in our next meeting.'"

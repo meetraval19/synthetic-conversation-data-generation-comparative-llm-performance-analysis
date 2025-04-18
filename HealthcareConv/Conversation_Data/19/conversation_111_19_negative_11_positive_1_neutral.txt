@@ -1,0 +1,15 @@
+"Speaker A: 'I appreciate you taking the time to discuss the recent performance review. Let's start by looking at how we're informing our patients.'
+
+Speaker B: 'Absolutely, the new initiatives in patient education have really enhanced our engagement. The feedback has been overwhelmingly positive.'
+
+Speaker A: 'That's great to hear. Educated patients tend to have better health outcomes. Now, we've had some concerns about support services. How's that going?'
+
+Speaker B: 'Unfortunately, there have been a few hiccups. Patients have faced delays, and it has negatively impacted their experience. We need to address those bottlenecks promptly.'
+
+Speaker A: 'That's concerning, and something we need to prioritize. Moving on, how's the process going for assessing symptoms in consultations?'
+
+Speaker B: 'It's been fairly consistent. No significant issues, but there's always room for improvement in terms of efficiency.'
+
+Speaker A: 'That's good to know. We should continue exploring ways to streamline that process.'
+
+Speaker B: 'Agreed, a well-rounded approach will benefit all aspects of our services.'"

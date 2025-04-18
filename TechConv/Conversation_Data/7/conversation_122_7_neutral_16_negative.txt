@@ -1,0 +1,15 @@
+"Speaker A: 'I’d like to start by reviewing our current support and escalation process. How do we think it's holding up during incidents?'
+
+Speaker B: 'I think it’s adequate. We have clear steps, but perhaps there's room for faster escalation in urgent cases.'
+
+Speaker C: 'Yes, maintaining neutrality, it's functional but could benefit from more flexibility during high-pressure situations.'
+
+Speaker A: 'Good points. Now, let's address any communication issues we've encountered. I’ve noticed some gaps during our last incident.'
+
+Speaker B: 'I agree. There were several instances where teams did not relay critical information promptly, leading to delays.'
+
+Speaker C: 'That’s been a recurring problem. Negative communication practices often hinder our response efficiency.'
+
+Speaker A: 'It’s crucial we address this. Improved tools and a tailored communication strategy could make a difference.'
+
+Speaker B: 'Certainly, closing these gaps is essential for better incident response in the future.'"

@@ -1,0 +1,23 @@
+"Speaker A: 'I'm glad we could make decisions together about your treatment plan. It seems to have worked well for you.'
+
+Speaker B: 'Yes, it really helped to feel included in the process. I appreciate the collaborative approach.'
+
+Speaker A: 'Let's review your discharge plan. How have things been going since you left the hospital?'
+
+Speaker B: 'It's been okay. The instructions were clear, but I'm still trying to keep everything organized.'
+
+Speaker A: 'That's understandable. Feel free to reach out if you need any clarification.'
+
+Speaker B: 'Thanks, I might do that. There was one thing... the support services you mentioned aren't as helpful as I'd hoped.'
+
+Speaker A: 'I'm sorry to hear that. What issues have you faced with them?'
+
+Speaker B: 'They seem overwhelmed and not as responsive as I need them to be.'
+
+Speaker A: 'We should look into alternative options then, to make sure you get the support you need.'
+
+Speaker B: 'I'd appreciate any recommendations you can offer. I just want to stay on track with my recovery.'
+
+Speaker A: 'Of course. Let’s explore some better services that can assist you effectively.'
+
+Speaker B: 'Thank you. I feel better knowing there are other options to consider.'"

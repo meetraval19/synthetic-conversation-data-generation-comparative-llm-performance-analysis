@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "negative"
+        }
+    ]
+}

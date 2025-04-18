@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Bug or Issue Reporting",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

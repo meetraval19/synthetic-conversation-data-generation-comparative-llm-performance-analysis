@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Governing Law and Jurisdiction",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Witness Identification and Preparation",
+            "sentiment": "positive"
+        }
+    ]
+}

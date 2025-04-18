@@ -1,0 +1,11 @@
+"Speaker A: 'I'm pleased with the progress we've made in preparing the patient for discharge. The new protocol seems effective.'
+
+Speaker B: 'Absolutely, the coordination between the care team and the family has been remarkable. It really sets a positive tone for recovery at home.'
+
+Speaker A: 'However, during the symptom assessment, I noticed some inconsistencies in the patient's reported pain levels.'
+
+Speaker B: 'Yes, that's concerning. It's difficult when the symptoms aren't as straightforward as we'd like.'
+
+Speaker A: 'We may need to adjust the monitoring approach to ensure we don’t miss anything important.'
+
+Speaker B: 'Agreed. It’s crucial to address this so the patient’s post-discharge journey remains smooth.'"

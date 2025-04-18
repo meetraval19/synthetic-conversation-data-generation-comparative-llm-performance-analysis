@@ -1,0 +1,17 @@
+"Speaker A: 'I reviewed your medical history, and it’s great to see you've had successful treatments in the past.'
+
+Speaker B: 'Yes, it’s reassuring to know that history can guide us in choosing the right path moving forward.'
+
+Speaker A: 'Absolutely. However, I'm concerned about some of the challenges you've faced in accessing care.'
+
+Speaker B: 'I agree. There have been significant barriers that made it difficult at times.'
+
+Speaker A: 'We'll need to address those to improve outcomes. Have you had a chance to think about your follow-up sessions?'
+
+Speaker B: 'I have. It's all about keeping consistent appointments, but I’m unsure about the frequency you recommend.'
+
+Speaker A: 'Given your progress and history, a regular schedule should suffice. We’ll tailor it to what works best for you while addressing any obstacles you might face.'
+
+Speaker B: 'Sounds like a good plan. Addressing those barriers is key, though.'
+
+Speaker A: 'Indeed. We’ll collaborate with support services to ensure you can overcome these challenges.'"

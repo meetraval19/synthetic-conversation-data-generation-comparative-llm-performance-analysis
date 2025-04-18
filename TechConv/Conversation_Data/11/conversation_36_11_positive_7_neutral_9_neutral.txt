@@ -1,0 +1,17 @@
+“Speaker A: ‘Our software includes an intuitive onboarding experience to get your team up and running quickly. Many clients find our training resources to be extremely beneficial.’
+
+Speaker B: ‘That sounds promising. Smooth onboarding is crucial for us, and it's great to hear positive feedback about your training resources.’
+
+Speaker A: ‘Absolutely, we focus on making the transition as seamless as possible. Now, I’d like to discuss our support and escalation framework.’
+
+Speaker B: ‘I’m interested in that. Understanding the support process is important so we know what to expect.’
+
+Speaker A: ‘Our support team is available 24/7, and we have a clear escalation path to resolve issues efficiently.’
+
+Speaker B: ‘Good to know. Finally, can you tell me more about how you handle testing and validation?’
+
+Speaker A: ‘Certainly. We ensure all features are rigorously tested and validated before release, maintaining a steady and reliable platform.’
+
+Speaker B: ‘That’s reassuring. It’s crucial that everything runs smoothly once implemented.’
+
+Speaker A: ‘Exactly, we prioritize stability and efficiency, ensuring you get the most reliable service.’”

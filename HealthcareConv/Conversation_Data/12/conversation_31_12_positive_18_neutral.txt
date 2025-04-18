@@ -1,0 +1,23 @@
+"Speaker A: 'Hi there, how have you been since our last appointment?'
+
+Speaker B: 'I've been doing alright. I had some questions about the notes you took during our last visit.'
+
+Speaker A: 'Of course! I went through your records, and everything seems well-documented. It looks very promising.'
+
+Speaker B: 'That's good to hear. It helps to know everything's organized and clear.'
+
+Speaker A: 'Definitely. I'm here to ensure you have a smooth experience.'
+
+Speaker B: 'Thank you. I also wanted to ask about handling unexpected medical situations. It's been on my mind lately.'
+
+Speaker A: 'Understood. Emergencies can pop up anytime. It's all about having a plan and staying calm.'
+
+Speaker B: 'That makes sense. I just want to be prepared without panicking.'
+
+Speaker A: 'Absolutely, it's important to be aware but not stressed. We can go over some strategies if you'd like.'
+
+Speaker B: 'I appreciate that. It feels better to have guidance.'
+
+Speaker A: 'I'm glad to hear. Remember, you're not alone in this.'
+
+Speaker B: 'Thank you, that's reassuring. I'll keep that in mind for sure.'"

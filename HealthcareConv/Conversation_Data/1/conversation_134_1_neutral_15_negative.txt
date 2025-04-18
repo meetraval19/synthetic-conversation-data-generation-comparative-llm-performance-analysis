@@ -1,0 +1,15 @@
+"Speaker A: 'During the last shift, we worked through that influx of patients quite efficiently. How do you think the team managed assessing symptoms on the fly?'
+
+Speaker B: 'I think we did okay with evaluating the symptoms quickly. It's about sticking to the basics and ensuring nothing gets missed.'
+
+Speaker A: 'Right. Every time, it's about balancing speed with accuracy. But what about when we had to make decisions together?'
+
+Speaker B: 'That's where things got tricky. There were a few moments where differing opinions slowed us down. It's frustrating when we don't reach a consensus quickly.'
+
+Speaker A: 'I felt that too. Especially when the urgency required immediate decisions, and discussions caused delays.'
+
+Speaker B: 'Absolutely. It’s challenging when there's pressure and not everyone agrees. Maybe we need to explore better ways to streamline these decisions in the future.'
+
+Speaker A: 'Yes, fortunately, our symptom assessments went smoothly, which compensated a bit. But improving our decision-making process would definitely help for future scenarios.'
+
+Speaker B: 'We should discuss this in the next team meeting. Staying neutral in evaluating symptoms was manageable, but shared decisions under pressure need more coordination.'

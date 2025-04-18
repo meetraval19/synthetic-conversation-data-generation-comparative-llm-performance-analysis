@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Follow Up",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Diagnosis Communication",
+            "sentiment": "positive"
+        }
+    ]
+}

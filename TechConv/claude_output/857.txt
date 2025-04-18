@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Technical Documentation Reference",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Metrics or Analytics Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

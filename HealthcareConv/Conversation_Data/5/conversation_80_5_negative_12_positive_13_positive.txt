@@ -1,0 +1,17 @@
+"Speaker A: 'I wanted to discuss your recent test results and the next steps for your treatment.'
+
+Speaker B: 'I’m really not looking forward to coming back for another follow-up visit.'
+
+Speaker A: 'I understand. We can try to make these appointments as efficient as possible for you.'
+
+Speaker B: 'That would help. Anything to make it less time-consuming.'
+
+Speaker A: 'On a brighter note, I’ve reviewed your medical documentation, and everything is organized and up-to-date. This will definitely aid in your treatment planning.'
+
+Speaker B: 'That’s reassuring. At least everything is in order.'
+
+Speaker A: 'Absolutely. Now, let’s talk about your discharge plan. We’re aiming to ensure you have a smooth transition and all resources available.'
+
+Speaker B: 'That sounds great. I’m looking forward to being in a stable condition once I’m discharged.'
+
+Speaker A: 'We'll make sure you have the support you need at home. Let’s work together to get you there comfortably.'

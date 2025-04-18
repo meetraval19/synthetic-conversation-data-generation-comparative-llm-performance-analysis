@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Medication Review",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Treatment Plan",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Shared Decision",
+            "sentiment": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+"Speaker A: 'I heard you had some questions about your upcoming consultations.'
+
+Speaker B: 'Yes, I’ve been referred to a specialist for further evaluation. The process seems pretty smooth so far.'
+
+Speaker A: 'That's great to hear. We’ve been working hard to streamline coordination with specialists to improve patient experience.'
+
+Speaker B: 'It definitely shows. I'm feeling more confident about the next steps.'
+
+Speaker A: 'Glad to hear it. About your current treatment, do you have any concerns?'
+
+Speaker B: 'Well, I want to make sure the plan covers all my needs. It's quite detailed, but I still have some questions.'
+
+Speaker A: 'Of course, it's crucial to address every aspect of your care. Let me know what's on your mind.'
+
+Speaker B: 'I just want to ensure that each step is clear and manageable.'
+
+Speaker A: 'Absolutely, we can review it together to ensure everything aligns with your expectations.'
+
+Speaker B: 'That would be helpful. Thank you for taking the time to discuss it with me.’
+
+Speaker A: 'Anytime. It’s important that you feel supported at every stage.'"

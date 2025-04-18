@@ -1,0 +1,21 @@
+"Speaker A: 'I’ve gone through your file, and everything seems well-documented, but let’s ensure we didn’t miss anything.'
+
+Speaker B: 'Sure, I appreciate the thorough review. How am I doing overall?'
+
+Speaker A: 'You’re doing quite well! I wanted to discuss some support services that could really help enhance your well-being. Our wellness programs have received fantastic feedback.'
+
+Speaker B: 'That sounds promising! I’m always open to learning how I can improve my health.'
+
+Speaker A: 'Great to hear that. Now, on to your medications. Have you been experiencing any issues since the last visit?'
+
+Speaker B: 'Actually, yes. I’ve noticed some unpleasant side effects that are really bothersome.'
+
+Speaker A: 'I’m sorry to hear that. Let’s go over each medication and see what adjustments we can make to help minimize those side effects.' 
+
+Speaker B: 'That would be helpful. It’s been a bit of a struggle dealing with them lately.'
+
+Speaker A: 'We’ll make sure to address this and find a better solution for you. Your comfort is a priority.' 
+
+Speaker B: 'Thank you for being attentive. Support like this makes a big difference.' 
+
+Speaker A: 'Absolutely, we’re here to support you every step of the way. Let’s make those adjustments and check in again soon.'"

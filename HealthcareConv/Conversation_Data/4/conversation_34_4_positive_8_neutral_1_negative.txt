@@ -1,0 +1,15 @@
+"Speaker A: 'I'm pleased with how well you're responding to the current treatment. Have you noticed any improvements?'
+
+Speaker B: 'Yes, I really feel the treatment is working. My energy levels are up, and the side effects are minimal.'
+
+Speaker A: 'That's great to hear. Now, let's review your care plan. We haven't made any major changes, just some minor adjustments to ensure we're on the right track.'
+
+Speaker B: 'That sounds good. I just want to make sure everything is in place for the next steps.'
+
+Speaker A: 'Absolutely, we'll keep monitoring your progress closely. However, I'm concerned about some symptoms you mentioned previously. Have they persisted or worsened?'
+
+Speaker B: 'Actually, I've noticed some of them getting a bit more severe, especially in the evenings, which has been worrying.'
+
+Speaker A: 'I'm sorry to hear that. We'll need to address those symptoms more aggressively. Let’s look into some additional interventions that might help.'
+
+Speaker B: 'Thank you, I’d appreciate any help with managing those symptoms better.'"

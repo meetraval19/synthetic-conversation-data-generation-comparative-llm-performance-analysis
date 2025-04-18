@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Dispute Resolution Options",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Legal Argument and Case Theory",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "positive"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "positive"
+    }
+  ]
+}

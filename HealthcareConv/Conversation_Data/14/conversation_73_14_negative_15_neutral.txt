@@ -1,0 +1,15 @@
+"Speaker A: 'I wanted to discuss patient J's current treatment plan. There have been some unexpected reactions to the medication.'
+
+Speaker B: 'Yes, I noticed those too. The side effects are quite concerning, and we need to address them immediately.'
+
+Speaker C: 'Agreed, we should consult with the pharmacology team to explore alternative options.'
+
+Speaker A: 'On a different note, how do we feel about the current patient involvement in choosing their treatment paths?'
+
+Speaker B: 'It's been a bit mixed. While some patients appreciate being part of the decision-making process, others find it overwhelming.'
+
+Speaker C: 'Exactly, it’s neutral, really. It seems to depend on each individual’s comfort level with medical information.'
+
+Speaker A: 'Let’s ensure we provide ample support and clear information to help patients make informed choices without feeling pressured.'
+
+Speaker B: 'Good point. As we work on these, patient safety must remain our priority.'"

@@ -1,0 +1,13 @@
+"Speaker A: 'Let's start by reviewing your symptoms. How have you been feeling lately?'
+
+Speaker B: 'Overall, my symptoms have been pretty stable, I think.'
+
+Speaker A: 'Good to hear. Based on your assessment, I'm pleased to say we've reached a conclusive diagnosis.'
+
+Speaker B: 'That's great news! It feels like a weight off my shoulders to finally know what's going on.'
+
+Speaker A: 'Absolutely, and I'm glad we could communicate this effectively. Now, let's discuss the next steps. We normally decide on the treatment plan together, but there are a few limitations.'
+
+Speaker B: 'I understand, but I was hoping for more options. It feels like I'm not entirely part of the decision-making.'
+
+Speaker A: 'I see your concern. Let's try to work through it and find a solution that works for both of us.'

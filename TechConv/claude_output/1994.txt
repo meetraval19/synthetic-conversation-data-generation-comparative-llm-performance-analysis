@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Testing and Validation Status",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Tool or Platform Comparison",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

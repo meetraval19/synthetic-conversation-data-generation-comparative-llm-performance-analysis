@@ -1,0 +1,16 @@
+"Speaker A: 'You've made great progress, and it's really important that you understand how to manage your medication at home.'
+
+Speaker B: 'I feel much better informed after the sessions with the nurse. They really helped me understand what to expect and how to take care of myself.'
+
+Speaker A: 'That's fantastic to hear. We strive to ensure our patients leave feeling confident and educated.'
+
+Speaker B: 'I’m a bit concerned about what comes next, though. The planning for leaving seems overwhelming.'
+
+Speaker A: 'I understand. Discharge planning can feel like a lot to handle at first, but we’re here to guide you through each step.'
+
+Speaker B: 'That’s reassuring. So, I’ll have everything I need once I’m home?'
+
+Speaker A: 'Yes, we’ll make sure you have all necessary resources and contacts, just in case you have questions later on.' 
+
+Speaker B: 'Thank you. That really helps put my mind at ease.'"
+

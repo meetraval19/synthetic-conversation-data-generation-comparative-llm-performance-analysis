@@ -1,0 +1,22 @@
+Based on the conversation, I've identified the key topics discussed and analyzed the sentiment expressed toward each one.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Follow Up",
+      "sentiment": "positive"
+    }
+  ]
+}
+```
+
+The speakers discuss their symptom assessment process with a balanced perspective - acknowledging consistency while identifying room for improvement, reflecting a neutral sentiment. When discussing therapy adherence, they express clear positivity, noting patients have been "remarkably diligent" and calling this "great to hear." The topic of follow-up is mentioned in a positive light, with speakers emphasizing its importance for successful patient outcomes.

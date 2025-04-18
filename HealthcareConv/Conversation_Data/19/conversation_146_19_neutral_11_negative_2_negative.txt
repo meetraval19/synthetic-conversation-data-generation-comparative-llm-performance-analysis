@@ -1,0 +1,18 @@
+"Speaker A: 'I've gone through the patient's file. Shall we discuss the referral?'
+
+Speaker B: 'Absolutely. One thing to note is how our support services play a role here. They're quite standard but sufficient for ongoing care.'
+
+Speaker A: 'Yes, they seem adequate. However, I'm concerned about the level of patient education. It seems it could be confusing for some patients.'
+
+Speaker B: 'I agree. The information provided is often too technical, leaving many unsure about their treatment plans.'
+
+Speaker A: 'That's a significant issue because it might affect patient compliance and outcomes.'
+
+Speaker B: 'Exactly. Moving on to the test results, the numbers aren't looking promising.'
+
+Speaker A: 'The variants in the test results do indicate the need for more aggressive management.'
+
+Speaker B: 'I’ll communicate this to the primary care provider. Hopefully, clearer education and consistent support can help improve the situation.'
+
+Speaker A: 'Sounds good. Let’s ensure the referral process is smooth for the patient.'"
+

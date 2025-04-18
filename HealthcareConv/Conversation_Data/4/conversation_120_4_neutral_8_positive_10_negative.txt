@@ -1,0 +1,23 @@
+"Speaker A: 'I see you're here for your follow-up appointment. How are you feeling about the medications you've been taking?'
+
+Speaker B: 'I think they've been okay. It's hard to tell sometimes which changes are due to the treatment.'
+
+Speaker A: 'That's quite normal. We can always adjust if needed, but you're on the standard path for now.'
+
+Speaker B: 'Okay, that makes sense. Have there been any updates or improvements to the care plan we should discuss?'
+
+Speaker A: 'Yes, actually! We've integrated some new strategies that have been showing promising results. I'm optimistic about incorporating them into your routine.'
+
+Speaker B: 'That's great news! I'm excited to see how they might help.'
+
+Speaker A: 'Now, about the therapy sessions—there's been a few skips. Any particular challenges you're facing?'
+
+Speaker B: 'Honestly, the schedule is hard to keep up with. It's difficult to stay consistent.'
+
+Speaker A: 'It's understandable; life can get in the way. Let's find ways to make it easier for you to adhere to the therapy.'
+
+Speaker B: 'I appreciate that. I want to make sure I'm doing everything I can.'
+
+Speaker A: 'We'll work it out together. The main thing is to keep moving forward, even if it's a step at a time.'
+
+Speaker B: 'Thank you. That really helps put things in perspective.'"

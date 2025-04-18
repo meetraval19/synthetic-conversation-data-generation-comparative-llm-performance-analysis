@@ -1,0 +1,20 @@
+"Speaker A: 'So, how have things been since our last appointment?'
+
+Speaker B: 'Pretty steady, actually. I've been keeping up with the treatment plan as discussed.'
+
+Speaker A: 'That's great to hear. Sticking to the plan can make a big difference. How do you feel about the team's support?'
+
+Speaker B: 'Honestly, the communication within the team could be better. Messages sometimes get lost or aren't clear.'
+
+Speaker A: 'I'm sorry to hear that. It's important for everyone to be on the same page. I'll make sure to address this with the team.'
+
+Speaker B: 'Thanks. I appreciate that. As for following the therapy suggestions, I think I'm doing alright with it.'
+
+Speaker A: 'That’s good. It's not always easy, but consistency is key. How about the documentation we provided? Any issues with it?'
+
+Speaker B: 'No issues, really. It's pretty straightforward. All the information I need is there.'
+
+Speaker A: 'Glad to hear it's clear. If you ever have questions, don’t hesitate to ask.'
+
+Speaker B: 'I will, thank you. I'm hopeful things will improve with the team communication.'"
+

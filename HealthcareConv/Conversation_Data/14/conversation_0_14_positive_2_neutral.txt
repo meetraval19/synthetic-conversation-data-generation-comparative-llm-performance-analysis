@@ -1,0 +1,16 @@
+"Speaker A: 'Hi there, how have you been feeling since starting the new medication?'
+
+Speaker B: 'Surprisingly well, actually. The usual side effects I worried about didn't really happen.'
+
+Speaker A: 'That's great to hear! Sometimes patients experience mild side effects initially, but it's encouraging that you haven't faced any discomfort.'
+
+Speaker B: 'Yes, quite a relief. How about the tests I did last week?'
+
+Speaker A: 'Your test results came back, and they're quite stable, which is a good sign. Nothing unusual to report.'
+
+Speaker B: 'That’s good. I was a bit anxious about them.'
+
+Speaker A: 'Understandable. We’ll continue to monitor everything, but for now, it looks like things are on the right track.'
+
+Speaker B: 'Thank you. It's reassuring to know everything is stable right now.'"
+

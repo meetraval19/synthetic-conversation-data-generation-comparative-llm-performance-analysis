@@ -1,0 +1,13 @@
+"Speaker A: 'Thanks for joining today to share your feedback. Let's start with how you feel about the regulatory aspects of the software.'
+
+Speaker B: 'Absolutely. I think the way the software handles compliance is really reassuring. It makes everything feel seamless and secure.'
+
+Speaker A: 'It's great to hear that! Our team worked hard to integrate those features. How about your overall experience using the software?'
+
+Speaker B: 'The interface is intuitive, which I found helpful. However, there are a few areas that could use some refinement.'
+
+Speaker A: 'I see. Any specifics on what improvements you'd suggest?'
+
+Speaker B: 'Not major ones, really. Perhaps a bit more customization in the settings, but overall, it’s pretty straightforward.'
+
+Speaker A: 'Thank you for that insight. We'll definitely take your suggestions into consideration for future updates.'"

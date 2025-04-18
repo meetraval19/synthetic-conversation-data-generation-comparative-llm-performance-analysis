@@ -1,0 +1,15 @@
+"Speaker A: 'I noticed there was some confusion in our team meeting today. It seems like we're struggling to stay on the same page.' 
+
+Speaker B: 'Yes, communication among the team members has been a bit lacking. We really need to improve how we share updates on patient care.'
+
+Speaker A: 'On a brighter note, I reviewed the latest patient documentation, and it was thorough. They've done a great job keeping it all up to date.'
+
+Speaker B: 'Absolutely, the recent improvements in documentation have been impressive. It really makes our job easier.'
+
+Speaker A: 'What are your thoughts on the discharge planning for Mr. Harris?'
+
+Speaker B: 'It seems straightforward, though we’ll need to ensure everything aligns with his follow-up care.'
+
+Speaker A: 'Agreed. It’s important to handle his transition without any hiccups.'
+
+Speaker B: 'Let’s focus on refining our communication skills as well, so we can enhance the team’s efficiency moving forward.'"

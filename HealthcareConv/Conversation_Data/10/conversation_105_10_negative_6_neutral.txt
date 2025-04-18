@@ -1,0 +1,11 @@
+"Speaker A: 'We've noticed some issues with patients sticking to their therapy schedules lately.'
+
+Speaker B: 'Yes, missed appointments and skipped doses are becoming more common.'
+
+Speaker A: 'It's a challenge. Patients often find it hard to remember, or they might not see the immediate benefits.'
+
+Speaker B: 'Exactly, which is why consistent follow-ups are crucial. On another note, how do you feel about the way we coordinate care between specialists?'
+
+Speaker A: 'I think it's functioning well. We have a decent system for referrals, though it could use some streamlining.'
+
+Speaker B: 'I agree, it’s important that our coordination doesn’t add more stress to the patient's experience.'

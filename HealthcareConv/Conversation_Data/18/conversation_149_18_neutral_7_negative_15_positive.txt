@@ -1,0 +1,20 @@
+"Speaker A: 'So, I wanted to go over your recent health status. Have you had any unexpected visits to the ER?'
+
+Speaker B: 'Thankfully, no. Everything's been fairly stable lately.'
+
+Speaker A: 'That's great to hear. Transitioning a bit, how have you felt about the updates from our medical team?'
+
+Speaker B: 'Honestly, it's been a bit frustrating. Sometimes it feels like there's a disconnect between doctors and nurses, and it makes things a bit confusing for me.'
+
+Speaker A: 'I understand, and I'm sorry to hear that. We’re working to improve the communication flow. On a brighter note, have you had a chance to look over the treatment plan we designed together?'
+
+Speaker B: 'Yes, and I really appreciate how you included my preferences in the decision-making process. It feels good to be actively involved.'
+
+Speaker A: 'I’m glad to hear that. It’s important that you feel empowered in your healthcare journey.'
+
+Speaker B: 'Absolutely, it makes a big difference. Thank you for that.'
+
+Speaker A: 'Of course, it’s all about teamwork. Let’s keep the lines of communication open. Is there anything else you’d like to discuss today?'
+
+Speaker B: 'Not at the moment, but thanks for checking in.'"
+

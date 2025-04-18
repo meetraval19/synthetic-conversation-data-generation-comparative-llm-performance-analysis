@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Technical Documentation Reference",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

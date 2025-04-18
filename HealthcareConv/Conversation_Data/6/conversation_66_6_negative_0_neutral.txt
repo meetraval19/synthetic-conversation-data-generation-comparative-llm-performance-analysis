@@ -1,0 +1,14 @@
+"Speaker A: 'I've been looking into our process for coordinating patient referrals lately, and it's becoming a bit of a bottleneck.'
+
+Speaker B: 'I know what you mean. The communication between different departments seems to cause delays.'
+
+Speaker A: 'Exactly. We need a more streamlined system to avoid these disruptions.'
+
+Speaker B: 'On a different note, how's the integration of our new electronic health records going in terms of patient history?'
+
+Speaker A: 'Surprisingly well. It's helpful to have all the medical information in one place.'
+
+Speaker B: 'Yes, having a comprehensive view of patient history definitely aids in our research, even if it's just a neutral tool right now.'
+
+Speaker A: 'Agreed. Now if only we could improve the referral situation as effectively.'"
+

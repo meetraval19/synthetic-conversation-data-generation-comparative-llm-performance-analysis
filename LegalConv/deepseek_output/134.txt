@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Legal Argument and Case Theory",
+            "sentiment": "positive"
+        }
+    ]
+}

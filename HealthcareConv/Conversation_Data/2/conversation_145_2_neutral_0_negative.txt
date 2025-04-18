@@ -1,0 +1,24 @@
+"Speaker A: 'Good morning, how have you been feeling since your last visit?'
+
+Speaker B: 'Not too bad, thanks. I've been a bit anxious about the blood work we did. Any news?'
+
+Speaker A: 'Yes, I have your test results here. Everything looks within the normal range.'
+
+Speaker B: 'That's a relief. I was worried there might be something off.'
+
+Speaker A: 'Understandable. It's always good to check. As for your past records, I noticed a recurring issue that might need revisiting.'
+
+Speaker B: 'Oh, I hoped we wouldn't have to go back to that.'
+
+Speaker A: 'I understand it's not easy, but addressing it now might prevent future complications.'
+
+Speaker B: 'I suppose you're right. It's just been a constant concern for me.'
+
+Speaker A: 'I completely understand, and we'll take it step by step. Let's work together to find a manageable plan.'
+
+Speaker B: 'Thank you, I appreciate your support.'
+
+Speaker A: 'Of course. I'm here to help. Let me know if you have any more questions about the results or anything else.'
+
+Speaker B: 'Will do. Thanks again for your time.'"
+

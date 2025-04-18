@@ -1,0 +1,15 @@
+"Speaker A: 'I see you're all set for discharge today. How do you feel about how the team has been communicating with you during your stay?'
+
+Speaker B: 'It's been smooth overall. Everyone kept me well-informed about what was happening.'
+
+Speaker A: 'I'm glad to hear that. Let's go over your medication list carefully. There were some concerns we need to address.'
+
+Speaker B: 'Oh, is there an issue with the medications? I noticed there were changes.'
+
+Speaker A: 'Yes, we found a potential side effect with one of them, but we've adjusted your prescription to ensure it’s safer now.'
+
+Speaker B: 'I appreciate the heads-up. I was feeling a bit uneasy about the changes.'
+
+Speaker A: 'It's understandable. Please reach out if you notice anything unusual once you're home.' 
+
+Speaker B: 'Sure, I will do that. Thank you for clarifying everything today.'"

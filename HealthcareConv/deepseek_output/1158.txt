@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Patient Education",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Discharge Planning",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Test Results",
+            "sentiment": "neutral"
+        }
+    ]
+}

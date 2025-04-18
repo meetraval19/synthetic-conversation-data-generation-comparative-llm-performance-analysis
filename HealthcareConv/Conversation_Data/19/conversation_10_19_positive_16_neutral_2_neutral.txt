@@ -1,0 +1,15 @@
+"Speaker A: 'Looks like you’re ready to head home today. The support services team will be making sure you have everything you need once you’re discharged.'
+
+Speaker B: 'That’s a relief. They’ve been really helpful, explaining everything clearly and setting up home visits.'
+
+Speaker A: 'Glad to hear that. Now, regarding the information you were given about your condition, do you feel like you’ve had all your questions answered?'
+
+Speaker B: 'Yes, the doctors were straightforward about what to expect, which I appreciate. It’s a lot to take in, but I feel informed.'
+
+Speaker A: 'Good, clear communication is key. As for your lab reports from earlier, they show stable results. There’s no immediate cause for concern, but we’ll keep monitoring your progress.'
+
+Speaker B: 'That’s what I thought. They mentioned it was more about tracking over time.'
+
+Speaker A: 'Exactly. So, once you’re home, remember to reach out if you have any questions or concerns.'
+
+Speaker B: 'I will, thanks for making everything so seamless during my stay here.'"

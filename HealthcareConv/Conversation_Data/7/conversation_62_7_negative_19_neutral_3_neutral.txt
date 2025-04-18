@@ -1,0 +1,16 @@
+"Speaker A: 'I wanted to discuss how the team has been handling my case. I feel there have been some issues with communication.'
+
+Speaker B: 'I understand your concerns. We've been working to address some gaps there. Can you share more about your experience?'
+
+Speaker A: 'There were a few instances where I felt left out of important updates regarding my treatment.'
+
+Speaker B: 'I'm sorry to hear that. We’ll make sure to improve our coordination and keep you informed.'
+
+Speaker A: 'Thank you. How about the other services, like therapy and counseling? Are there any updates about that?'
+
+Speaker B: 'Those services remain available, though we've maintained some of the same protocols. Is there anything specific you’d like addressed?'
+
+Speaker A: 'Not really, just wanted to confirm availability. Lastly, can we go over my medications again? I want to ensure everything is in order.'
+
+Speaker B: 'Certainly, let's review your current prescriptions to ensure they align with your treatment goals. If anything needs adjusting, we can take care of that now.'"
+

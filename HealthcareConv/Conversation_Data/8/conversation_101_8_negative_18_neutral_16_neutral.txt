@@ -1,0 +1,19 @@
+"Speaker A: 'Hi there, I wanted to go over your care plan today. There have been a few changes that might be a bit challenging.'
+
+Speaker B: 'I’ve noticed some differences. Is it going to be more complicated?'
+
+Speaker A: 'There are a few new procedures involved, and it might feel overwhelming at first. Let's break it down step by step.'
+
+Speaker B: 'I appreciate that. It's just a lot to take in.'
+
+Speaker A: 'I understand. If you have any immediate concerns, like needing assistance or an unexpected situation arises, feel free to reach out. We’re here to help you any time.'
+
+Speaker B: 'That’s reassuring. I haven’t had any major issues so far, but I’ll keep that in mind.'
+
+Speaker A: 'As for your diagnosis, I want to ensure everything is clear. Do you have any questions about it?'
+
+Speaker B: 'Not really, everything was explained pretty well last time. It’s just the treatment changes that caught me off guard.'
+
+Speaker A: 'Got it. If you ever need more clarity on anything, just let me know. We’ll work through this together.'
+
+Speaker B: 'Thank you. I feel a bit more at ease now, knowing I have support.'"

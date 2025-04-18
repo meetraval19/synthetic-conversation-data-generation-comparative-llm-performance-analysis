@@ -1,0 +1,17 @@
+"Speaker A: 'Thanks for joining us today to discuss your experience with our software. Let's start with how you find its overall performance.'
+
+Speaker B: 'Sure, I’d say the performance is consistent. It does what it needs to without major hiccups, but it doesn’t particularly stand out either.'
+
+Speaker A: 'That’s helpful to know. We aim for reliability. Have you had to use our support services at any point?'
+
+Speaker B: 'Yes, unfortunately, I did have to contact support, and it wasn't the best experience. It felt like my issue was bounced around without a clear resolution path.'
+
+Speaker A: 'I’m sorry to hear that. We’re working on improving the escalation process to ensure quicker and more effective responses. How do you think we can make this experience smoother for you in the future?'
+
+Speaker B: 'A clearer pathway and perhaps having a dedicated person handling follow-ups would help. It was quite frustrating as it felt like starting over each time.' 
+
+Speaker A: 'That feedback is invaluable. We definitely want to avoid any frustration on your end. We’ll take this into account as we refine our processes.'
+
+Speaker B: 'Thank you. If the support could reflect the same reliability as the performance, it’d be a vast improvement.'
+
+Speaker A: 'Absolutely. Your input is crucial as we continue to develop and improve our service. Thanks again for your time today!'"

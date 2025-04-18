@@ -1,0 +1,23 @@
+"Speaker A: 'Hi, I hope you're doing well since your last visit. I took a look at your risk factors with the new assessment we did.'
+
+Speaker B: 'Yes, I was a bit anxious about it, to be honest.'
+
+Speaker A: 'Understandable, but the results are actually quite promising. Your numbers are on the right track.'
+
+Speaker B: 'That's a relief to hear.'
+
+Speaker A: 'Great! Now, moving on to your results. The lab tests came back, and I’d like to explain them to you.'
+
+Speaker B: 'Alright, I’m all ears.'
+
+Speaker A: 'Your results indicate nothing severe, just a couple of areas we should keep monitoring over time.'
+
+Speaker B: 'Okay, so more monitoring rather than immediate action?'
+
+Speaker A: 'Exactly, just keeping an eye on things. Lastly, regarding the specialist, I've coordinated your referral.'
+
+Speaker B: 'Thank you. Do I need to do anything specific for that?'
+
+Speaker A: 'No, it should be straightforward. They’ll contact you soon to set up an appointment.'
+
+Speaker B: 'Sounds good. Thank you for making that easy on my end.'"

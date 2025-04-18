@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "System Configuration Details",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Security and Privacy Discussion",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Portfolio Diversification Review",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Tax Implication Review",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Internal Controls and Governance",
+      "sentiment": "neutral"
+    }
+  ]
+}

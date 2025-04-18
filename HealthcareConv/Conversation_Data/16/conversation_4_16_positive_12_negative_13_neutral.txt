@@ -1,0 +1,15 @@
+"Speaker A: 'It's fantastic to see how our team is improving in relaying complex diagnoses to our patients. The feedback has been overwhelmingly positive.'
+
+Speaker B: 'Absolutely, empowering patients with clear information can really enhance their understanding and comfort during their treatment journey.'
+
+Speaker A: 'However, I noticed that the documentation review process is still quite cumbersome. We seem to be struggling with the volume and consistency.'
+
+Speaker B: 'I agree. The system's issues are causing delays, and it's becoming a real challenge to ensure everything is completed accurately and on time.'
+
+Speaker A: 'On a different note, how are we handling the discharge planning lately?'
+
+Speaker B: 'It’s been steady. The protocols are in place, and the transitions are generally smooth, but there's always room for improvement.'
+
+Speaker A: 'True, ensuring all team members are aligned could help streamline the process further.'
+
+Speaker B: 'Yes, consistency in communication during planning is key for a safer transition for our patients.'"

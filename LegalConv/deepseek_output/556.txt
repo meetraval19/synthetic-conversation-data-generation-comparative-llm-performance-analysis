@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "negative"
+        }
+    ]
+}

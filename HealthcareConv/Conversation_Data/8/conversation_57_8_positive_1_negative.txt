@@ -1,0 +1,14 @@
+"Speaker A: 'I’m glad to say that your care plan has shown significant improvements. How are you feeling overall?'
+
+Speaker B: 'That’s great to hear! I do feel a bit more energized lately.'
+
+Speaker A: 'Wonderful! We’ve tailored it to boost your daily energy levels. Now, about your recent symptoms, how have they been?'
+
+Speaker B: 'Well, I’ve been having some discomfort and it’s a bit concerning.'
+
+Speaker A: 'I understand. Let’s take a closer look today and make sure we address any issues right away.'
+
+Speaker B: 'I hope it’s not anything serious.'
+
+Speaker A: 'We’ll do our best to find out what’s going on and adjust your treatment as needed. We’re here to support you every step of the way.'"
+

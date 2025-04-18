@@ -1,0 +1,13 @@
+"Speaker A: 'I noticed you've reviewed the patient's chart. How did the initial diagnosis come across to you?'
+
+Speaker B: 'It was presented quite clearly. I think the communication there was straightforward, which helps manage expectations.'
+
+Speaker A: 'That's good to hear. The documentation was thorough, wasn't it? The details included in the lab results really aid in making informed decisions.'
+
+Speaker B: 'Absolutely. The documentation has been excellent. It provides the confidence needed for next steps.'
+
+Speaker A: 'I'm glad we agree. Now, how do you feel about involving the patient in our next decision-making process?'
+
+Speaker B: 'I see great value in that. By sharing our insights and considering their preferences, it truly enhances the treatment outcomes.'
+
+Speaker A: 'Definitely, working together always seems to lead to the best results for everyone involved.'"

@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "positive"
+    }
+  ]
+}

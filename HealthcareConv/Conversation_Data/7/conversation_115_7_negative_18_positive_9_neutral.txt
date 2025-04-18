@@ -1,0 +1,23 @@
+"Speaker A: 'So, let's go over your discharge plan. Any questions about the instructions?'
+
+Speaker B: 'Most of it seems clear, but I was worried because there were a few times when the team didn't seem to be on the same page about my treatment.'
+
+Speaker A: 'I understand your concern about the communication. We’re working on improving those situations. I assure you that your feedback will help us make necessary adjustments.'
+
+Speaker B: 'I appreciate that. On a positive note, the way the emergency team handled my situation when I first arrived was exceptional.'
+
+Speaker A: 'I'm glad to hear that. We strive to ensure our emergency response is top-notch for every patient. Was there anything specific you found particularly reassuring?'
+
+Speaker B: 'Yes, the swift action and calm approach of the staff really made a huge difference for me.'
+
+Speaker A: 'That's great to hear. It's vital that our emergency protocols effectively ease patient concerns. Regarding your discharge, the risk assessment looks good. Are you comfortable with your follow-up appointments?'
+
+Speaker B: 'Yes, I feel okay. The plans for my follow-up seem straightforward enough.'
+
+Speaker A: 'Perfect. Please don’t hesitate to contact us if any issues arise, especially if you have any uncertainties with the next steps.' 
+
+Speaker B: 'Thank you. I’ll definitely reach out if needed. Your reassurance has made me feel much more confident about heading home.' 
+
+Speaker A: 'I'm glad to hear that. Remember, we’re here if you have any further questions post-discharge. Take care!' 
+
+Speaker B: 'Thanks, I appreciate all the support.'"

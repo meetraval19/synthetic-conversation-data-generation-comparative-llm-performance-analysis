@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Legal Argument and Case Theory",
+      "sentiment": "neutral"
+    }
+  ]
+}

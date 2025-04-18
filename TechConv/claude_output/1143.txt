@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Tool or Platform Comparison",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

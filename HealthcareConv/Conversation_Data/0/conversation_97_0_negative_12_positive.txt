@@ -1,0 +1,19 @@
+"Speaker A: 'Thanks for coming in for your follow-up, how have things been since our last appointment?'
+
+Speaker B: 'Honestly, reviewing my past treatments has been a bit daunting. There were more complications than I remembered.'
+
+Speaker A: 'I understand how that can be overwhelming. We'll address those concerns one at a time.'
+
+Speaker B: 'I appreciate that. On a brighter note, how’s everything looking with my recent reports?'
+
+Speaker A: 'I've looked over the latest documentation, and it’s quite encouraging. Your recent tests show significant improvement.' 
+
+Speaker B: 'That's great to hear! It feels like things are moving in the right direction.'
+
+Speaker A: 'Absolutely. With this progress, we can continue adjusting your treatment for even better results.'
+
+Speaker B: 'Thanks for the reassurance. It’s motivating to see positive changes starting to happen.' 
+
+Speaker A: 'Remember, if anything feels off, keep communication open. We're here to support you throughout.' 
+
+Speaker B: 'I will, and I appreciate the thorough review and guidance.'"

@@ -1,0 +1,21 @@
+"Speaker A: 'I reviewed your treatment plan, and it looks very promising. We've seen excellent results with this approach.'
+
+Speaker B: 'That’s great to hear. I'm hopeful it’ll work well for me.'
+
+Speaker A: 'Absolutely, it's tailored to your specific needs and has a strong success rate.'
+
+Speaker B: 'I did have some concerns about coordinating my referrals, though. It’s been quite confusing and stressful.'
+
+Speaker A: 'I understand, and you're not alone. Referral systems can often be a bit disorganized. We're working to improve the process to make it smoother for you.'
+
+Speaker B: 'That would be really helpful. It’s been a challenge.'
+
+Speaker A: 'Regarding your medication, everything seems to be in order, but let’s go through it to make sure there are no interactions.'
+
+Speaker B: 'Okay, I haven't noticed any side effects so far.'
+
+Speaker A: 'That's good to hear. If anything changes, don’t hesitate to let us know so we can adjust accordingly.'
+
+Speaker B: 'Will do. Thanks for addressing all my concerns today.'
+
+Speaker A: 'Of course, making sure you’re comfortable and informed is our priority.'"

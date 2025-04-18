@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Security and Privacy Discussion",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Bug or Issue Reporting",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

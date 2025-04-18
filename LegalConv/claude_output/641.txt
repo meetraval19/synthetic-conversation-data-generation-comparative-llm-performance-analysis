@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Timeline and Key Deadlines",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Drafting and Reviewing Legal Documents",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "positive"
+    }
+  ]
+}

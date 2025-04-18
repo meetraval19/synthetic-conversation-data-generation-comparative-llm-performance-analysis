@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Collaboration or Communication Gaps",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

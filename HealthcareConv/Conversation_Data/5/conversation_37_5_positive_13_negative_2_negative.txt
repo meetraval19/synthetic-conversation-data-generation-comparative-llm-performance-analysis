@@ -1,0 +1,16 @@
+"Speaker A: 'It's great to see you back for your follow-up. How have you been feeling since we last met?'
+
+Speaker B: 'I've been doing much better, actually. I feel like I’m on the right path to recovery.'
+
+Speaker A: 'That's wonderful to hear! Let's take a look at how the discharge process went. Were there any issues?'
+
+Speaker B: 'There were a few hiccups. The instructions were a bit confusing, and coordinating with the pharmacy was tough.'
+
+Speaker A: 'I'm sorry to hear that. We’ll make sure to streamline that better next time. Now, about those lab tests we discussed...'
+
+Speaker B: 'Yes, I did get those back. It seems like there are some concerns.'
+
+Speaker A: 'Unfortunately, there are a few things we need to address based on those results. But don’t worry, we'll come up with a plan going forward.'
+
+Speaker B: 'I appreciate your support. I’m ready to tackle whatever comes next.'"
+

@@ -1,0 +1,13 @@
+"Speaker A: 'Let's go over the patient's discharge details. It seems straightforward.'
+
+Speaker B: 'Yes, the steps for going home seem well laid out, but we need to ensure all team members are clear on their responsibilities.'
+
+Speaker A: 'Absolutely. It's essential that everyone's on the same page.'
+
+Speaker B: 'About the follow-up, I'm concerned about the current scheduling issues. Patients struggle to get prompt appointments.'
+
+Speaker A: 'I agree; the backlog is making it hard for timely follow-ups. We might need to reallocate some resources to help with that.'
+
+Speaker B: 'That would be helpful. Otherwise, patient care might be compromised, and that's not what we want.'
+
+Speaker A: 'Indeed. Let's address these issues to improve the process for the patients' health and well-being.'"

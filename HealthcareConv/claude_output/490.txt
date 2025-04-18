@@ -1,0 +1,16 @@
+Based on the conversation, I've identified the following topics and their associated sentiments:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

@@ -1,0 +1,22 @@
+"Speaker A: 'Good to see you again! How have you been feeling since starting the new medication?'
+
+Speaker B: 'Hi, Doctor. I've noticed some improvement, but there are a few side effects that are pretty bothersome.'
+
+Speaker A: 'I'm sorry to hear that. Let's discuss those symptoms in detail. Sometimes, managing side effects can help improve your overall treatment experience.'
+
+Speaker B: 'Sure, I've been experiencing some dizziness and mild headaches.'
+
+Speaker A: 'That can be quite uncomfortable. I’ll consider adjusting the dosage or find an alternative that suits you better.'
+
+Speaker B: 'I’d appreciate that. On a positive note, I've been able to attend my physical therapy sessions more easily now.'
+
+Speaker A: 'That's great to hear! Access to regular care can significantly enhance recovery. How are the sessions going?'
+
+Speaker B: 'They’re really helping. I feel stronger and more motivated each time I go.'
+
+Speaker A: 'That's the spirit! Let’s also take a closer look at your symptoms. Is there anything new or different you've noticed?'
+
+Speaker B: 'Actually, the persistent tiredness seems to be decreasing.'
+
+Speaker A: 'Fantastic! Seeing improvements like these is encouraging. We'll continue monitoring everything closely.'"
+

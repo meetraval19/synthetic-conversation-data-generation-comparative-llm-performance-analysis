@@ -1,0 +1,19 @@
+"Speaker A: 'I noticed there was some confusion about the treatment plan during your last visit. Could you clarify what was difficult?'
+
+Speaker B: 'Honestly, the information seemed overwhelming. I felt like there wasn't enough time to really understand everything.'
+
+Speaker A: 'I apologize for that. We can go over anything you’re unsure about today, and I'm here to answer all your questions.'
+
+Speaker B: 'Thank you, that would help. Also, I had some minor concerns over the weekend but didn’t think they warranted a trip to the ER.'
+
+Speaker A: 'That's reasonable. It’s important to identify what constitutes an emergency, so let's discuss what types of symptoms would require immediate attention.'
+
+Speaker B: 'That would be helpful. I want to be prepared but not overreact.'
+
+Speaker A: 'Absolutely. Let’s also review the notes from your last visit to ensure everything was captured correctly.'
+
+Speaker B: 'Sure, I want to make sure I’m following the instructions properly.'
+
+Speaker A: 'Great, and if anything is unclear, we can address it today. Your understanding is crucial for your recovery.'
+
+Speaker B: 'I appreciate that. It's good to know we’re on the same page.'"

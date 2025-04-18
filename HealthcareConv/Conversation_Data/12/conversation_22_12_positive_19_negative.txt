@@ -1,0 +1,13 @@
+"Speaker A: 'I've reviewed your recent blood work and everything looks great.'
+
+Speaker B: 'That's good to hear. The last time I was here, there was so much documentation to fill out.'
+
+Speaker A: 'Yes, but it's been streamlined a lot recently, making it easier to track your progress.'
+
+Speaker B: 'Streamlining really helps, but I’ve struggled to get in touch with someone for additional support services.'
+
+Speaker A: 'I understand, and that's an area we're working to improve. It's important for us to ensure you have access to the support you need.'
+
+Speaker B: 'I hope so. It’d be great to have a smoother process when reaching out.'
+
+Speaker A: 'Absolutely, we're focusing on that feedback as we aim to enhance communication channels.'"

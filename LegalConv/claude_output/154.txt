@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Enforcement and Implementation Issues",
+      "sentiment": "neutral"
+    }
+  ]
+}

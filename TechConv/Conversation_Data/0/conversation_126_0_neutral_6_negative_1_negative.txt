@@ -1,0 +1,21 @@
+"Speaker A: 'Thank you for agreeing to this interview. Could you start by telling me about your understanding of our app's various features?'
+
+Speaker B: 'Of course. I find most functionalities to be straightforward, though some need clearer instructions.'
+
+Speaker A: 'Thanks for that input. How would you rate your overall experience using the app?'
+
+Speaker B: 'Honestly, it's been a bit frustrating. The layout feels cluttered, and it's sometimes challenging to navigate.'
+
+Speaker A: 'I'm sorry to hear that. We'll definitely look into improving those aspects. Have you encountered any specific issues or bugs that you'd like to report?'
+
+Speaker B: 'Yes, actually. There have been a few times when the app crashes unexpectedly, which is quite disruptive.'
+
+Speaker A: 'That's concerning. Could you provide details on what actions led to the crashes?'
+
+Speaker B: 'Usually, it happens when I'm trying to switch between sections quickly. It's quite inconvenient.'
+
+Speaker A: 'I appreciate your feedback. We'll focus on these issues to enhance your experience. Anything else you'd like to share?'
+
+Speaker B: 'No, that's all for now. I'm hopeful that these improvements can be made.'
+
+Speaker A: 'Thank you for your valuable feedback. It's crucial for making our app better for everyone.'"

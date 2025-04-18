@@ -1,0 +1,18 @@
+"Speaker A: 'Thank you for joining us today. Let's start by discussing how you feel about understanding the different features of the app.'
+
+Speaker B: 'Honestly, it's been a bit challenging. Some features aren’t very intuitive, and I’ve spent quite a bit of time figuring them out.'
+
+Speaker A: 'I see. Could you provide an example where you faced difficulty?'
+
+Speaker B: 'Certainly. The way the app manages notifications is confusing. It wasn’t clear how to customize my settings to suit my needs.'
+
+Speaker A: 'We appreciate that feedback. We're working on making things more user-friendly. Now, shifting gears a bit, are you interested in where we're heading with future updates?'
+
+Speaker B: 'Somewhat. I mean, it’s always good to know what's coming, but I'm mainly focused on how the app performs now.'
+
+Speaker A: 'That makes sense. We aim to balance current improvements while planning exciting new features.'
+
+Speaker B: 'That’s good to hear. If the updates streamline some of the existing issues, that would be great.'
+
+Speaker A: 'Definitely. We’re committed to enhancing both current and future functionalities. Thanks for your valuable insights today.'"
+

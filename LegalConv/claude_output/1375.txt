@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

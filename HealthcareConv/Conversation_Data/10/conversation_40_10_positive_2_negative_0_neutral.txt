@@ -1,0 +1,23 @@
+"Speaker A: 'How have you been managing your therapy regimen?'
+
+Speaker B: 'Actually, I've been keeping up with it diligently, and it's made a real difference. I feel more energetic.'
+
+Speaker A: 'That's excellent to hear. Sticking with the plan can really improve outcomes.'
+
+Speaker B: 'Absolutely, I've noticed improvements every week.'
+
+Speaker A: 'Regarding your recent test results, we did find some abnormalities we need to discuss.'
+
+Speaker B: 'Oh, that doesn't sound good. What does it mean for my treatment?'
+
+Speaker A: 'We may need to adjust your current plan and do some further testing, but we'll manage it together.'
+
+Speaker B: 'I see. I was hoping for better results, but I appreciate your guidance.'
+
+Speaker A: 'Also, looking over your medical records, I see you had a similar issue a few years back.'
+
+Speaker B: 'Yes, it was around the same time of year, now that you mention it.'
+
+Speaker A: 'It might be something seasonal. We should keep an eye on it, but let’s focus on maintaining your adherence to therapy in the meantime.'
+
+Speaker B: 'Definitely, I'll continue with that. Thank you for looking out for me.'"

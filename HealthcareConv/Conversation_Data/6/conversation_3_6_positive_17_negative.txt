@@ -1,0 +1,25 @@
+"Speaker A: 'I'm glad to see you today. How have things been since our last visit?'
+
+Speaker B: 'It's been going well, actually. The specialist you recommended was really helpful.'
+
+Speaker A: 'That's great to hear. Referral coordination seems to have worked smoothly this time.'
+
+Speaker B: 'Absolutely, it was seamless, and the specialist provided some great insights into my treatment plan.'
+
+Speaker A: 'Excellent. Now, have you faced any issues accessing the care or treatments we discussed?'
+
+Speaker B: 'Well, unfortunately, there have been a few hurdles. The transportation to appointments has been a bit challenging.'
+
+Speaker A: 'I'm sorry to hear that. It can be tough dealing with those barriers to care.'
+
+Speaker B: 'Yeah, it feels like managing health should be a bit easier, but these obstacles can be frustrating.'
+
+Speaker A: 'I understand. Let's explore some support options to help ease those difficulties.'
+
+Speaker B: 'That would be wonderful. I appreciate you looking into it.'
+
+Speaker A: 'Of course. My aim is to make your healthcare experience as smooth as possible.'
+
+Speaker B: 'Thank you. It really helps to know there's support in place.'
+
+Speaker A: 'Anytime. Let's keep working together to overcome these challenges.'"

@@ -1,0 +1,13 @@
+"Speaker A: 'Thanks for taking the time to chat with us today about your experience with our platform. I’m curious about your thoughts on where we’re heading with our future updates.'
+
+Speaker B: 'I’ve been following your roadmap, and honestly, it feels a bit ambitious without enough detail on practical implementation. It’s a bit worrying.'
+
+Speaker A: 'I understand your concerns. We’re working on providing more clarity and detail soon. On another note, how has your experience been with integrating our tools with existing systems?'
+
+Speaker B: 'Oh, that part has been great! The compatibility with other software is seamless, and it’s made our workflow much more efficient.'
+
+Speaker A: 'I'm glad to hear that! We’ve been focusing on ensuring the integration process is as smooth as possible. Any other feedback you’d like to share?'
+
+Speaker B: 'Just that while the integration is a strong point, more transparency on future features could really boost user confidence.'
+
+Speaker A: 'That’s valuable feedback. We’ll definitely take it into account. Thanks for your honesty and insights today!'"

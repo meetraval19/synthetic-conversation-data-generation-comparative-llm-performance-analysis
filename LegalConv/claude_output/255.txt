@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "positive"
+    }
+  ]
+}

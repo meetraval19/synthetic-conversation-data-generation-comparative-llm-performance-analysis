@@ -1,0 +1,15 @@
+"Speaker A: 'I'm excited to walk you through our software's system setup. It's pretty straightforward with customizable options.'
+
+Speaker B: 'That sounds good. How detailed are the configurations?'
+
+Speaker A: 'We offer a range of preset configurations, but you can also dive deeper and adjust specifics according to your needs.'
+
+Speaker B: 'I like the flexibility. Now, I'm more interested in how seamless the initial setup and training will be for our team.'
+
+Speaker A: 'Absolutely, we've got you covered there. Our onboarding process is designed to be smooth and efficient. We provide guided training sessions and resources tailored to different user roles.'
+
+Speaker B: 'That’s reassuring. Having supportive training can really speed up our implementation process.'
+
+Speaker A: 'Exactly, our goal is to empower your team quickly so they feel confident using the software from day one.'
+
+Speaker B: 'I appreciate that focus on training. It makes a huge difference to our transition success.'"

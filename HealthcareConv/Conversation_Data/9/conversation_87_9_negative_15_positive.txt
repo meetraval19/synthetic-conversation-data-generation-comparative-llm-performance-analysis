@@ -1,0 +1,23 @@
+"Speaker A: 'Thank you for joining us today to discuss your discharge plans. Before we proceed, we've reviewed your risk assessment.'
+
+Speaker B: 'I appreciate that. Were there any significant concerns that came up?'
+
+Speaker A: 'There were a couple of issues highlighted. For instance, your recent test results show some complications that might affect your recovery. We want to ensure we address those properly.'
+
+Speaker B: 'That's concerning to hear. What steps do we need to take to mitigate these risks?'
+
+Speaker A: 'We'll need to monitor your progress closely after you leave, and we recommend some follow-up visits to keep an eye on those results.'
+
+Speaker B: 'That makes sense. I'm willing to do whatever is needed.'
+
+Speaker A: 'On a positive note, we're focusing on shared decision-making for your treatment plan moving forward. We believe it's important for you to have a voice in these decisions.'
+
+Speaker B: 'I really like that approach. It feels empowering to be included like that. What are the next steps we should take together?'
+
+Speaker A: 'We'll work collaboratively to tailor the discharge plan to suit your needs. This includes medication management and lifestyle adjustments. Your input is invaluable.'
+
+Speaker B: 'I'm grateful for that. It feels reassuring to be part of a team that's looking out for my best interests.'
+
+Speaker A: 'We're here to support you every step of the way. Let's schedule a follow-up call to discuss any further questions you might have before heading home.'
+
+Speaker B: 'That sounds good. Thank you for the comprehensive care and involving me in the process.'"

@@ -1,0 +1,17 @@
+"Speaker A: 'Thank you for joining this feedback session. How have you found the overall process when you needed support with our technology services?'
+
+Speaker B: 'I’d say it’s been pretty straightforward. When I need to escalate an issue, the response is timely and clear.'
+
+Speaker A: 'It’s good to hear that the escalation process is working well for you. Have you experienced any challenges in communication during these support interactions?'
+
+Speaker B: 'Actually, yes. There have been times when communication between different teams seemed a bit off. It feels like information isn't always shared efficiently, and that can delay solutions.'
+
+Speaker A: 'That's unfortunate. Miscommunications between teams can definitely be frustrating. Do you have any suggestions on how we might bridge these communication gaps?'
+
+Speaker B: 'I think a more integrated platform could help. Having everyone on the same page with updates could reduce those lag times.'
+
+Speaker A: 'Integrating updates systematically does sound beneficial. We’ll consider this feedback seriously and see how we can improve.'
+
+Speaker B: 'That’d be great. Improving team collaboration could significantly enhance the support experience overall.'
+
+Speaker A: 'Absolutely. Thanks for your insights—they’re invaluable to us as we strive to improve our technology services.'"

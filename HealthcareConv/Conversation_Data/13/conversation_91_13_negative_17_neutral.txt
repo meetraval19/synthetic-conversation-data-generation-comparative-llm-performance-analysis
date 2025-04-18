@@ -1,0 +1,13 @@
+"Speaker A: 'Hi, how have you been managing since you left the hospital?' 
+
+Speaker B: 'Honestly, it's been a bit tough. The discharge instructions were a little confusing, and I'm worried I'm not following them correctly.'
+
+Speaker A: 'I understand. Discharge plans can be complicated, and we’re here to help clarify anything. Let’s go over any parts you found confusing.'
+
+Speaker B: 'Thank you, that would help a lot. Also, I’ve been having trouble scheduling follow-up appointments because of transportation issues.'
+
+Speaker A: 'I see. Accessing care can sometimes be challenging. We can discuss options like telehealth or community resources that might assist with transport.'
+
+Speaker B: 'That sounds promising. I appreciate your help with finding solutions.'
+
+Speaker A: 'We’re focused on ensuring you have everything you need for your recovery. Let’s tackle these one step at a time.'"

@@ -1,0 +1,21 @@
+"Speaker A: 'Hello, how have you been feeling since our last visit?'
+
+Speaker B: 'Overall, I'm doing well. I'm curious about the recent risk analysis we did. Is the outlook still as encouraging?'
+
+Speaker A: 'Yes, the results are indeed promising. The risks are lower than we initially thought, which is great news for your treatment plan.'
+
+Speaker B: 'That's a relief! However, I've been experiencing some unwanted reactions from the medication.'
+
+Speaker A: 'I understand, that can be quite frustrating. Let's discuss the specific reactions you're having and explore how we can manage them.'
+
+Speaker B: 'I've been having headaches and some nausea. It's difficult to handle sometimes.'
+
+Speaker A: 'Those are common. We can look into adjusting your dosage or consider alternative options if it becomes too bothersome.'
+
+Speaker B: 'Thank you, that sounds helpful. Also, regarding my other symptoms, nothing new there. How do you see it?'
+
+Speaker A: 'The symptom evaluation shows that everything else is stable, which is a good sign. We'll keep monitoring to ensure everything remains under control.'
+
+Speaker B: 'That sounds reasonable. I'm glad we're keeping an eye on everything.'
+
+Speaker A: 'Absolutely, staying proactive is key. Let's continue to make adjustments as needed to keep you feeling your best.'"

@@ -1,0 +1,66 @@
+"Speaker A: 'During our market analysis, we've noticed that the latest regulatory updates are quite manageable this year.'
+
+Speaker B: 'Absolutely, the simplified guidelines should definitely ease the compliance process.'
+
+Speaker A: 'Yes, it's a relief to see a streamlined approach; it gives us more time to focus on strategic decisions.'
+
+Speaker B: 'Speaking of strategy, I've been reviewing our asset allocation, and it seems there are some concerns.'
+
+Speaker A: 'I see. Are you worried about potential downturns or perhaps the balance across different asset classes?'
+
+Speaker B: 'Yeah, the balance is tricky. With current market volatility, our risk exposure seems higher than expected.'
+
+Speaker A: 'I understand. The global market has been unpredictable lately, making it tough to optimize our asset spread.'
+
+Speaker B: 'Exactly. We might need to reassess our positions to mitigate those risks effectively.'
+
+Speaker A: 'Definitely. It's crucial to adapt our strategy to current market conditions. Let’s plan a session to dive deeper into this.'"You are tasked with generating a dialogue-based conversation with about 400 words based on the following input parameters:
+    1. Field: Finance
+    2. Type of Conversation: 'Investment Portfolio Review'
+    3. Topics and Sentiments: {'Regulatory Compliance Check': 'positive', 'Asset Allocation Strategy': 'negative'}
+
+
+    **Instructions**:
+    - Create a dialogue-based conversation that is specific to the field mentioned.
+    - Ensure the conversation involves all the topics provided in the Topics and Sentiments dictionary.
+    - Avoid using the topic names directly in the conversation.
+    - Prefer mentioning about sub-topics related to the selected main topic
+    - Annotate each speaker in the conversation simply by labeling them as "Speaker A", "Speaker B", etc.
+    - Use the Topics and Sentiments dictionary to add a sentimental aspect around each topic, and apply the corresponding sentiment from the dictionary for each topic.
+    - The conversation should reflect realistic exchanges, with each character responding naturally to the topics.
+    - The sentiment for each topic must be directly reflected in the conversation, based on the Topics and Sentiments dictionary values.
+    - Each topic mentioned in the Topics and Sentiments must be addressed in the dialogue, and each speaker's sentiment should align with the assigned sentiment for that topic.
+
+
+    **Output Format**:
+    Provide the conversation like this:
+
+
+    "<Deepseek generated conversation>"
+
+
+
+
+
+Output:
+"Speaker A: 'I’ve been reviewing the latest reports, and it's encouraging to see how smoothly we're aligning with the new regulations.'
+
+Speaker B: 'Yes, the changes to the guidelines have really made a positive impact on our operational efficiency.'
+
+Speaker A: 'Absolutely. With the reduced complexity, we can focus more on enhancing other areas of our portfolio.'
+
+Speaker B: 'On that note, I’ve been examining our investment distribution, and I have some concerns about our current balance.'
+
+Speaker A: 'Are there specific sectors you're worried about?'
+
+Speaker B: 'The high volatility in some of the markets is making our exposure feel riskier than usual.'
+
+Speaker A: 'That does sound concerning. Have you thought about adjusting our proportions to mitigate some of that risk?'
+
+Speaker B: 'Definitely. We might need to shift our focus towards defensive assets to stabilize the portfolio.'
+
+Speaker A: 'Makes sense. We'll need a strategic review to ensure we're not too heavily invested in high-risk areas.'
+
+Speaker B: 'Agreed. Let’s schedule a comprehensive session to re-evaluate our positions accordingly.'
+
+Speaker A: 'Sounds like a plan. It's crucial that we adapt quickly to maintain a secure footing in the market climate.'"

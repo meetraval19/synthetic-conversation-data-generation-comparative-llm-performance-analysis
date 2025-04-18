@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Evidence and Documentation Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "negative"
+        }
+    ]
+}

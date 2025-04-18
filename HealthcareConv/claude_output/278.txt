@@ -1,0 +1,20 @@
+Based on the conversation between what appears to be a healthcare provider and a patient, I'll identify the underlying themes and analyze their sentiment.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Test Results",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

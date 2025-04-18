@@ -1,0 +1,23 @@
+"Speaker A: 'Thanks for taking the time to speak with me about your experience with our software.'
+
+Speaker B: 'Of course, happy to help. There are a few things I wanted to mention.'
+
+Speaker A: 'Great! Let's start with any suggestions you have.'
+
+Speaker B: 'I submitted a feature request last month, but it feels like it got lost in the system.'
+
+Speaker A: 'I'm sorry to hear that. We aim to address all requests quickly.'
+
+Speaker B: 'It’s just frustrating because this change could really improve my workflow.'
+
+Speaker A: 'I understand. We’ve been working to improve our response time on feature requests.'
+
+Speaker B: 'That would be helpful. Also, when I started, I found the training materials somewhat lacking.'
+
+Speaker A: 'Yes, onboarding has been a focus area for us. We’re updating our guides soon.'
+
+Speaker B: 'That’s good to hear. New users will definitely benefit from clearer instructions.'
+
+Speaker A: 'We want to make sure everyone can navigate the software smoothly.'
+
+Speaker B: 'It’s definitely an adjustment at first, but the updates sound promising.'"

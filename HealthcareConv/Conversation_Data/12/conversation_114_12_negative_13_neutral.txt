@@ -1,0 +1,13 @@
+"Speaker A: 'I’ve reviewed the notes from your recent hospitalization, but the documentation was quite a mess. It made understanding your treatment plan quite difficult.'
+
+Speaker B: 'I completely agree. It’s frustrating when records aren’t clear. It feels like it slows everything down.'
+
+Speaker A: 'Indeed. Let's ensure we address all your needs properly. Moving on, I want to discuss your upcoming discharge.'
+
+Speaker B: 'Sure, what do I need to know before leaving the hospital?'
+
+Speaker A: 'We’ll coordinate with the nursing team to create a simple post-discharge plan. It’s essential to ensure you have support at home and know when to attend follow-up appointments.'
+
+Speaker B: 'That sounds straightforward. I appreciate a clear outline for what's next.'
+
+Speaker A: 'Exactly. It’s all about making the transition smooth. We’ll stay in touch to help monitor your recovery.'"

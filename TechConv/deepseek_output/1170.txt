@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Onboarding or Training Needs",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "positive"
+        }
+    ]
+}

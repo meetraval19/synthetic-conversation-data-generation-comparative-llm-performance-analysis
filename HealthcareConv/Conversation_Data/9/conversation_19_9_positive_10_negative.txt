@@ -1,0 +1,15 @@
+"Speaker A: 'I'm pleased with the progress we've made in evaluating your condition. The risk assessment looks promising for your discharge soon.'
+
+Speaker B: 'That’s reassuring. It’s been a long journey, and I’m eager to get back home. Are there any risks I should still be careful about?'
+
+Speaker A: 'We've identified manageable ones, and your commitment to the care plan has been excellent. But how have you been managing with the therapy sessions?'
+
+Speaker B: 'Honestly, keeping up with the therapy schedule has been quite challenging. It feels overwhelming at times.'
+
+Speaker A: 'I understand it's been tough, but consistency is crucial for a full recovery. Is there anything that might help you adhere better to the plan?'
+
+Speaker B: 'Perhaps more support at home or resources to help schedule my sessions. I think that would make a difference.'
+
+Speaker A: 'We can definitely work on that. I’ll ensure you have the necessary support and resources lined up before your discharge.'
+
+Speaker B: 'Thanks, that would help a lot. I want to feel confident that I can keep up with everything once I’m home.'"

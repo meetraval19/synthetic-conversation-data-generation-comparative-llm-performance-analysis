@@ -1,0 +1,19 @@
+"Speaker A: 'I'm glad to hear that your symptoms have improved since the last visit.'
+
+Speaker B: 'Yes, the new medication seems to be working well, I feel much more energetic.'
+
+Speaker A: 'That's excellent news. We can continue to monitor your progress and make any necessary adjustments.'
+
+Speaker B: 'I appreciate that. However, I’m a bit concerned about some of the side effects we've discussed.'
+
+Speaker A: 'I understand, and it's important we address those. We have a few options to consider for your ongoing treatment.'
+
+Speaker B: 'I hope we can find a balance that doesn't compromise my overall well-being.'
+
+Speaker A: 'Absolutely, we’ll work together to find the best plan. Your input is crucial for making these decisions.'
+
+Speaker B: 'I agree, but sometimes it feels overwhelming having to decide on these complex issues.'
+
+Speaker A: 'I know it can be daunting, but I'm here to help guide you through it. We’ll take it one step at a time.'
+
+Speaker B: 'Thank you, I appreciate your support in navigating this.'"

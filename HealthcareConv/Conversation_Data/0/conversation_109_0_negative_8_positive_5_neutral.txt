@@ -1,0 +1,15 @@
+"Speaker A: 'I reviewed the patient's medical history before the consultation, and there are quite a few concerns that need to be addressed.'
+
+Speaker B: 'Yes, the history indicates some recurring issues that definitely require attention. However, I'm optimistic about the new care plan we put in place.'
+
+Speaker A: 'The adjustments to the treatment look promising. The addition of tailored physical therapy sessions should really benefit the patient.'
+
+Speaker B: 'Absolutely, and the updated diet regimen seems to be having a positive impact already. We should continue monitoring progress closely.'
+
+Speaker A: 'Agreed. What do you think about setting up a follow-up in two weeks? That should give us a better picture of how things are progressing.'
+
+Speaker B: 'Two weeks sounds reasonable. It will allow us to see if the changes are effective and make any necessary adjustments.'
+
+Speaker A: 'Great. I'll draft the follow-up schedule and ensure everything is documented properly.'
+
+Speaker B: 'Perfect. Let’s keep an eye on any further developments and stay on top of this.' "

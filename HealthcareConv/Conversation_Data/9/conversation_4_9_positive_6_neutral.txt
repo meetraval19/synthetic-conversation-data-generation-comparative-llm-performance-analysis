@@ -1,0 +1,10 @@
+"Speaker A: 'I've noticed that our approach to evaluating patient risks has greatly improved.'  
+Speaker B: 'Absolutely. The new tools and processes have really enhanced our ability to assess risks accurately and efficiently.'  
+Speaker A: 'It's been a significant positive change in how we handle patient care, wouldn't you agree?'  
+Speaker B: 'Definitely. It's making a difference in outcomes.'  
+Speaker A: 'On another note, how do you feel about the workflow of handling patient referrals?'  
+Speaker B: 'It's alright, though coordinating between different departments and specialists can feel a bit routine at times.'  
+Speaker A: 'That's true. While it runs smoothly most of the time, there’s room for some innovation or efficiency improvements.'  
+Speaker B: 'Right, but overall, it gets the job done without many issues.'  
+Speaker A: 'I think if we keep the lines of communication open, we can find ways to enhance it further.'  
+Speaker B: 'Yes, I agree. Continuous improvement should always be our goal.'"

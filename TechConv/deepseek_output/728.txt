@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Support and Escalation Process",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "neutral"
+        }
+    ]
+}

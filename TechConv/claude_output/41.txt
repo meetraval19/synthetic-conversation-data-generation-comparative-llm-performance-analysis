@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Technical Documentation Reference",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

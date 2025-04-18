@@ -1,0 +1,15 @@
+"Speaker A: 'Hi there, thanks for joining this feedback session. How have you been finding the accessibility of our software in terms of obtaining the necessary rights?'
+
+Speaker B: 'Honestly, it's been great. Setting up access was straightforward and hassle-free.'
+
+Speaker A: 'That's excellent to hear. We've worked hard to streamline the process. Now, I'd love to learn about your experience with our support system. Have you needed to escalate any issues?'
+
+Speaker B: 'I did once or twice. The support was responsive, though there seemed to be a standard routine they followed each time. It was fairly neutral for me, just the typical procedure.'
+
+Speaker A: 'I appreciate your insights. We're always looking to improve. Lastly, how do you feel about the functionality of certain features in the software?'
+
+Speaker B: 'Honestly, that's an area where I’ve faced some frustration. Some features were not as intuitive or clearly explained as I expected.'
+
+Speaker A: 'Thank you for sharing. We’ll definitely pass that along to the development team to see how we can improve functionality clarity. Your feedback is really valuable to us.'
+
+Speaker B: 'Thanks for listening. I’m hopeful for some improvements in future updates.'

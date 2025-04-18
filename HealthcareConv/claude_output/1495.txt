@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Side Effects",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

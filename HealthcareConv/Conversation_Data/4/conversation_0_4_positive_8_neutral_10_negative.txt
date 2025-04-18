@@ -1,0 +1,23 @@
+"Speaker A: 'I'm glad to inform you that your treatment has been progressing exceptionally well.'
+
+Speaker B: 'That's great to hear! I was hoping for some good news today.'
+
+Speaker A: 'Absolutely, your recovery has been faster than expected. Now, let's move on to updating your care plan for the next few weeks.'
+
+Speaker B: 'Sure, I'm curious about what changes might be in place.'
+
+Speaker A: 'Well, we've made some adjustments to ensure you have all the support you need at home, but nothing too drastic.'
+
+Speaker B: 'Okay, that sounds manageable. How about the therapy sessions?'
+
+Speaker A: 'Now, regarding therapy adherence, we've noticed some challenges. It's important to follow the prescribed exercises closely.'
+
+Speaker B: 'I’ve been finding it tough to keep up with all the sessions lately.'
+
+Speaker A: 'I understand it can be overwhelming, but sticking with the routine is crucial for long-term success.'
+
+Speaker B: 'I'll definitely try harder then. It's just a bit difficult some days.'
+
+Speaker A: 'I completely understand. We'll work on making it more convenient for you, maybe by adjusting the schedule.' 
+
+Speaker B: 'That would be very helpful. Thanks for understanding.'"

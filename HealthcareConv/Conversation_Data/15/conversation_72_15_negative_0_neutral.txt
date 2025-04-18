@@ -1,0 +1,25 @@
+"Speaker A: 'Thanks for meeting with me to discuss your recent experiences with our healthcare team.'
+
+Speaker B: 'Of course. I wanted to bring up how decisions were made during my treatment.'
+
+Speaker A: 'I understand. Could you elaborate on that?'
+
+Speaker B: 'Certainly. There were moments when I felt my input wasn't quite considered in making decisions. It's like my preferences weren't prioritized.'
+
+Speaker A: 'I’m sorry to hear that. We aim for collaboration. What do you think could have improved that process?'
+
+Speaker B: 'Perhaps more discussions where my concerns could have been integrated effectively would help.'
+
+Speaker A: 'I appreciate your feedback. We’ll definitely work on enhancing our approach to decision-making.'
+
+Speaker B: 'Thank you. On another note, reviewing my medical records was straightforward, which was helpful.'
+
+Speaker A: 'I’m glad to hear that accessing your history was convenient. Your records being organized is crucial for ongoing care.'
+
+Speaker B: 'Absolutely, and it’s always reassuring to see everything in one place.'
+
+Speaker A: 'Great. We’ll continue to prioritize transparency in your medical history management.'
+
+Speaker B: 'Thank you for addressing my concerns. I hope future interactions will be more inclusive.'
+
+Speaker A: 'We’re committed to improving and appreciate your insights. It helps us serve you better.'"

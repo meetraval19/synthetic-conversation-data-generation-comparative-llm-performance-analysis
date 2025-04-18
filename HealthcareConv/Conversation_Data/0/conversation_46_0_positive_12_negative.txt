@@ -1,0 +1,21 @@
+"Speaker A: 'Your medical history looks excellent. You've made great progress during your stay here.'
+
+Speaker B: 'Thank you. I really feel much better now.'
+
+Speaker A: 'Let's talk about the discharge process. I noticed you’re enthusiastic about getting home.'
+
+Speaker B: 'Yes, I can’t wait. I just hope everything's in order with the papers.'
+
+Speaker A: 'Ah, about that—there were some issues with the documentation. It's a bit frustrating, I must say.'
+
+Speaker B: 'Oh no, what's the problem?'
+
+Speaker A: 'It seems there was a mix-up with some of the forms. We’re double-checking all the details to make sure there are no errors.'
+
+Speaker B: 'I hope it won’t delay anything. I'm really eager to leave the hospital.'
+
+Speaker A: 'We’ll sort it out as quickly as we can. Fortunately, your overall health is in great shape, making the rest of the process smoother.'
+
+Speaker B: 'That’s a relief at least. Thanks for keeping me updated.'
+
+Speaker A: 'Of course. Rest assured, we're here to make this as seamless as possible for you.'"

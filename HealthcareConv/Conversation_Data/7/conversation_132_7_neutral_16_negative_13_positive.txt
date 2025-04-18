@@ -1,0 +1,21 @@
+"Speaker A: 'Hi, how have you been feeling since your last visit?'
+
+Speaker B: 'Overall, not too bad. The team here seems to work well together, even when things get busy.'
+
+Speaker A: 'I'm glad to hear that. Team coordination is crucial, especially in ensuring quality care.'
+
+Speaker B: 'Yes, though I did have some concerns. I felt a bit confused during the diagnosis explanation last time.'
+
+Speaker A: 'I’m sorry to hear that. I understand how important clear communication is, and I’ll make sure we address any questions you have today.'
+
+Speaker B: 'I appreciate that. It's just a bit overwhelming at times.'
+
+Speaker A: 'Absolutely, let's go over any details you’re unclear about. Now, about your discharge plan—how do you feel about the next steps?'
+
+Speaker B: 'I'm actually feeling positive about it. The plan seems comprehensive and I feel ready.'
+
+Speaker A: 'That's excellent! We've worked hard to ensure it's detailed and supportive for your transition home.'
+
+Speaker B: 'Thank you. That gives me reassurance moving forward.'
+
+Speaker A: 'Our goal is to see you thrive after discharge. Let’s make this transition as smooth as possible.'"

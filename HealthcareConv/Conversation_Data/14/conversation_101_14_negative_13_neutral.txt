@@ -1,0 +1,21 @@
+"Speaker A: 'Thanks for coming in today. How have you been feeling since starting the new medication?'
+
+Speaker B: 'I've noticed some unpleasant reactions, actually. It’s been a bit worrying.'
+
+Speaker A: 'I'm sorry to hear that. Can you tell me more about what you've been experiencing?'
+
+Speaker B: 'I’ve been having frequent headaches and some nausea.'
+
+Speaker A: 'Those side effects can be quite troublesome. Let’s adjust your dosage and monitor your symptoms closely.'
+
+Speaker B: 'That sounds like a good plan. I just hope it improves soon.'
+
+Speaker A: 'On another note, let’s review your discharge plan. How do you feel about it?'
+
+Speaker B: 'I think it’s manageable. There are quite a few steps, but nothing overwhelming.'
+
+Speaker A: 'Great to hear. Remember, your care team is here to support you. Do you have any concerns about your follow-up appointments?'
+
+Speaker B: 'Not really. I appreciate the clear schedule.'
+
+Speaker A: 'Glad to know it’s clear. We’ll check in regularly to make sure everything’s on track.'"

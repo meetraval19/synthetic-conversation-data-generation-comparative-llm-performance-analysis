@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Settlement Opportunities and Strategy",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Evidence and Documentation Review",
+            "sentiment": "positive"
+        }
+    ]
+}

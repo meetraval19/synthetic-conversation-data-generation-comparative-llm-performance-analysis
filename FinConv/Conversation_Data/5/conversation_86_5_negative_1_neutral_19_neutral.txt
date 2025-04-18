@@ -1,0 +1,15 @@
+"Speaker A: 'I've been reviewing your portfolio and noticed a few challenges with the current liquidity.'  
+Speaker B: 'Yes, cash flow has been tighter than expected recently.'  
+Speaker A: 'It's crucial to address this soon. We might need to consider restructuring some allocations.'   
+
+Speaker B: 'I understand. How does this impact our overall risk profile?'  
+Speaker A: 'We can reassess your risk tolerance. Given your previous preferences, we might need to adjust the balance slightly.'  
+Speaker B: 'That makes sense. I haven't felt too concerned, but a fresh look might be wise.'   
+
+Speaker A: 'Great. We can also run a few scenario analyses to see how different market conditions could affect your portfolio.'  
+Speaker B: 'Sounds good. With the current environment, that might be quite revealing.'  
+Speaker A: 'Absolutely, and we can include sensitivity analysis as well, just to ensure we're covering all bases and aligning with your goals.'   
+
+Speaker B: 'I appreciate that approach. Let's proceed with those adjustments and analyses.'  
+Speaker A: 'I'll start working on this and follow up soon with a detailed plan.'  
+Speaker B: 'Thank you. Looking forward to getting this sorted out.' 

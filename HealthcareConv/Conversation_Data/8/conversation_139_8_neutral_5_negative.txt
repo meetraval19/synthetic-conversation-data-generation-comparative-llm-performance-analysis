@@ -1,0 +1,15 @@
+"Speaker A: 'So, let's go over the updates to your care plan before you're discharged.'
+
+Speaker B: 'Sure, I wasn’t expecting anything major to change with it.'
+
+Speaker A: 'That's right; it's mostly routine checks. Just ensuring everything is in place for a smooth transition home.'
+
+Speaker B: 'Sounds straightforward enough. What about the follow-up appointments? I’ve heard it can be tricky to schedule those.'
+
+Speaker A: 'Unfortunately, it can be a bit of a hassle. The scheduling system is still being improved, and some patients report delays.'
+
+Speaker B: 'That’s frustrating. I just don’t want to fall through the cracks.'
+
+Speaker A: 'Completely understandable. I'll make sure to put a note for the team to prioritize your follow-up, so we minimize any inconvenience.'
+
+Speaker B: 'Thank you. I really appreciate that. Hopefully, the system improves soon.'"

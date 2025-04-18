@@ -1,0 +1,19 @@
+"Speaker A: 'During this performance review, let's discuss the recent handling of patient files.' 
+
+Speaker B: 'Yes, the patients' medical histories were not documented as thoroughly as we expect. That's been a concern.'
+
+Speaker A: 'True, it's crucial to have complete information for accurate treatment and follow-ups.'
+
+Speaker B: 'Absolutely, we need to address this quickly to improve future documentation.'
+
+Speaker A: 'Moving forward, how do you feel about the current risk assessment protocols?'
+
+Speaker B: 'They're generally effective, though there might be areas for enhancement to streamline the process.'
+
+Speaker A: 'Agreed. Continual evaluation and updating of protocols is essential.'
+
+Speaker B: 'And what about our approach to educating patients? Have you observed any noticeable feedback?'
+
+Speaker A: 'Overall, patients seem well-informed, but there’s always room for improvement to ensure clarity and understanding.'
+
+Speaker B: 'Yes, maintaining open communication and offering accessible resources remains a priority.'

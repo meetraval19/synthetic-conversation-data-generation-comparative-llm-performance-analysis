@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Roadmap or Future Plans",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Performance Concerns",
+            "sentiment": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+"Speaker A: 'I’m pleased to say that your recent tests show improvements in your medical history. It's great to see positive progress.'
+
+Speaker B: 'That’s reassuring to hear. I’ve been trying to stick to all the recommendations you gave me.'
+
+Speaker A: 'And it definitely shows! Now, let’s discuss the discharge plan. We’ll go over the evaluation we conducted yesterday.'
+
+Speaker B: 'Sure, I’m curious about what the risk assessment indicates.'
+
+Speaker A: 'While the assessment presents a few areas to keep an eye on, overall it suggests you’re stable. It’s neutral, really—no major changes from the last time.'
+
+Speaker B: 'Okay, so just continue with the current management plan?'
+
+Speaker A: 'Exactly. We’ll monitor this during your follow-ups. Just keep adhering to your medication and lifestyle adjustments.'
+
+Speaker B: 'Will do. Thanks for the clarity on everything. It feels good to know where I stand.'
+
+Speaker A: 'Absolutely. And don’t hesitate to reach out if you have any concerns after you leave. We’re here to support you.'
+
+Speaker B: 'I appreciate that. I feel well-prepared to handle things now. Thank you for the thorough explanation!'"

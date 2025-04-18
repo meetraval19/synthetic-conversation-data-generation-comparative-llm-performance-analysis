@@ -1,0 +1,23 @@
+"Speaker A: 'Hello! It's good to see you for your follow-up appointment.'
+
+Speaker B: 'Thank you, Doctor. I'm feeling much better since our last visit.'
+
+Speaker A: 'I'm glad to hear that. Your recovery progress has been impressive.'
+
+Speaker B: 'Yes, I followed all your advice, and it seems to be working well.'
+
+Speaker A: 'Great! Let's go over some of your symptoms from last time. Are you still experiencing any discomfort?'
+
+Speaker B: 'Well, occasionally I feel a slight twinge, but it’s not often.'
+
+Speaker A: 'That's understandable. It’s normal to have some mild sensations as your body heals. Just keep monitoring it.'
+
+Speaker B: 'I will. It’s not causing any issues with my daily activities.'
+
+Speaker A: 'Good to know. If there are any changes or new symptoms, don’t hesitate to reach out.'
+
+Speaker B: 'Absolutely, I’ll keep that in mind. Thank you for the reassurance.'
+
+Speaker A: 'You're doing great. Keep up with your routine, and we'll have another follow-up in a few weeks to ensure everything stays on track.'
+
+Speaker B: 'Sounds perfect. Thank you for your support and guidance, Doctor.'"

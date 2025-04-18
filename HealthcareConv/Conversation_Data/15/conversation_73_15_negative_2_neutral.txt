@@ -1,0 +1,15 @@
+“Speaker A: 'Thanks for coming in today. Let's review your recent health status together.'
+
+Speaker B: 'Of course. I appreciate the update. Were you able to look at the results from my last test?'
+
+Speaker A: 'Yes, I've reviewed them. They’re stable, which is encouraging. However, I wanted to discuss the next steps in managing your condition.'
+
+Speaker B: 'I see. I know last time the treatment plan was a bit unclear.'
+
+Speaker A: 'I understand. It can be challenging when we can't always decide together on a clear path forward. It's important you feel heard during this process.'
+
+Speaker B: 'It has been frustrating at times, but I trust your expertise. I hope we can align better moving forward.'
+
+Speaker A: 'Absolutely. We’ll work to improve this together. Let's focus on what comes next with the treatment options.'
+
+Speaker B: 'That sounds good. The neutral results are a relief for now, at least.'”

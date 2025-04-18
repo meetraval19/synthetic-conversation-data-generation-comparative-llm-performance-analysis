@@ -1,0 +1,22 @@
+"Speaker A: 'I believe focusing on our infrastructure to ensure scalability will set us up for long-term success.'
+
+Speaker B: 'Absolutely, expanding our infrastructure is crucial. It supports growth and future-proofs our systems.'
+
+Speaker C: 'That sounds promising, but what about the onboarding process for new hires? I've heard concerns about its complexity.'
+
+Speaker A: 'It's a valid point, though it sometimes seems like it's more of a burden than a benefit. Training sessions aren't getting the engagement they need.'
+
+Speaker B: 'Yeah, those sessions can be draining. But, if we optimize our systems for scalability first, perhaps we can streamline onboarding later.'
+
+Speaker C: 'But doesn't that leave our new team members without guidance in the meantime?'
+
+Speaker A: 'True, but our priority should be the infrastructure. A strong foundation might alleviate some of those onboarding challenges naturally.'
+
+Speaker B: 'And once our tech is robust, we can look at more innovative training solutions. Maybe even using the improved systems to enhance the learning experience.'
+
+Speaker C: 'I see your points. Improving infrastructure could indirectly benefit training, even if it's not immediate.'
+
+Speaker A: 'Exactly, both need attention, but building a scalable infrastructure can open up new possibilities downstream.'
+
+Speaker B: 'Let's keep looking for ways to make that process easier in the meantime, though. Team feedback will be crucial.'"
+

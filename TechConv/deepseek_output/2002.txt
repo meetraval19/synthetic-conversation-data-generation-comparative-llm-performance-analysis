@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "User Experience Feedback",
+            "sentiment": "neutral"
+        }
+    ]
+}

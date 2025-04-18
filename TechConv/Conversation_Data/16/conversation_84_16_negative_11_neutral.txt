@@ -1,0 +1,11 @@
+"Speaker A: 'During the last incident, we noticed quite a few challenges in how departments communicated. It created some unnecessary delays.'
+
+Speaker B: 'I agree. The lack of clear communication channels seems to be a recurring issue. It's definitely something we need to address to prevent future problems.'
+
+Speaker A: 'Absolutely. We should consider improving the way we onboard new team members too. I feel like a more structured approach could help.'
+
+Speaker B: 'That makes sense. A well-designed training program could really set the right expectations and ensure everyone is on the same page.'
+
+Speaker A: 'Let's prioritize these changes in our next strategy meeting to see tangible improvements.'
+
+Speaker B: 'Sounds good. Addressing both aspects could really strengthen our incident response process.'"

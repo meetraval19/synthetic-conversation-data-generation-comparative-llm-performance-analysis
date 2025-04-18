@@ -1,0 +1,11 @@
+"Speaker A: 'I’m really impressed with how our documentation processes have improved. It's making our patient care more efficient!'
+
+Speaker B: 'Absolutely, the recent updates have streamlined everything. Easier access to information has really helped us focus more on patient interaction.'
+
+Speaker C: 'Speaking of patient interaction, how are we handling the coordination of referrals? Are there any issues?'
+
+Speaker A: 'Well, it’s going smoothly for the most part, but there are still occasional delays when different systems don't align perfectly.'
+
+Speaker B: 'True, but as long as we maintain clear communication, we manage to keep things moving. Maybe further integration will help.'
+
+Speaker C: 'Agreed, keeping everyone in the loop is key. Let’s continue to refine our strategies for coordination while we explore better solutions.'"

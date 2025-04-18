@@ -1,0 +1,21 @@
+"Speaker A: 'Good to see you again. How have things been since your last visit?'
+
+Speaker B: 'It's been alright. I did notice that communication within the team seems quite stable. Everyone knows their roles and responsibilities.'
+
+Speaker A: 'That's great to hear. Smooth coordination is important. Have you had any issues with the reports or papers we've sent you?'
+
+Speaker B: 'Actually, the documentation has been a bit overwhelming. It's often hard to digest, especially when it's not clear or too technical.'
+
+Speaker A: 'I understand. We’ll make sure to simplify things for you. Is there anything else you’ve struggled with?'
+
+Speaker B: 'There have been a few hurdles in getting my medications approved by insurance. It's been frustrating at times.'
+
+Speaker A: 'I’m sorry to hear that. We can explore alternative options or reach out to see if we can help mitigate these issues.'
+
+Speaker B: 'That would be helpful. It's just been stressful dealing with these obstacles on top of everything.'
+
+Speaker A: 'We’ll do our best to support you. Let’s try to address these barriers together. Anything else?'
+
+Speaker B: 'No, that's about it for now. Thanks for listening and for your help.'
+
+Speaker A: 'Of course, we’re here for you. Let’s see how we can improve these aspects before your next appointment.'"

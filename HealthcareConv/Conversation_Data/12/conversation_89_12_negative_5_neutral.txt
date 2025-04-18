@@ -1,0 +1,15 @@
+"Speaker A: 'I've been looking over the patient's record, and I'm a bit concerned about how the documentation is managed.'
+
+Speaker B: 'I noticed that too. It seems the records aren't as thorough as they should be. It's causing some issues with clarity.'
+
+Speaker A: 'Definitely. It's frustrating when vital information is missing or hard to decipher. Shall we discuss a plan to address this?'
+
+Speaker B: 'Yes, that's necessary. Moving on, have you thought about how to handle the follow-up appointments for this patient?'
+
+Speaker A: 'I have. It's pretty standard, considering their current treatment plan. We'll just need to ensure they maintain regular intervals.'
+
+Speaker B: 'Agreed. Consistency is key. It should help us stay on top of their progress without much fuss.'
+
+Speaker A: 'Exactly. I'll make sure their schedule is up-to-date and check-in with the team to avoid any lapses in care.'
+
+Speaker B: 'Sounds perfect. Let's hope the system starts working more efficiently soon.'"

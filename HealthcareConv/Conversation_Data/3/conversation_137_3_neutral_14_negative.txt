@@ -1,0 +1,16 @@
+"Speaker A: 'Alright, let's go over your medication plan before you leave today.'
+
+Speaker B: 'Sure, I think I've got everything sorted. The doses and timings seem clear.'
+
+Speaker A: 'Great to hear that it makes sense. Now, regarding the side effects we discussed...'
+
+Speaker B: 'Ah yes, those. The dizziness and nausea have been quite troublesome.'
+
+Speaker A: 'That's understandable. They can be particularly challenging at first.'
+
+Speaker B: 'Is there anything that can be done to lessen these effects?'
+
+Speaker A: 'We can consider adjustments or alternatives if they persist. Keep us updated on how you're feeling.'
+
+Speaker B: 'I will. Thank you for the support and information.'"
+

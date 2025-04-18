@@ -1,0 +1,15 @@
+"Speaker A: 'How have things been with involving patients in decision-making?'
+
+Speaker B: 'It's been challenging. Some patients feel their input isn't valued, which is a concern.'
+
+Speaker A: 'That's tough to hear. What about the discharge planning process? Any updates there?'
+
+Speaker B: 'Well, it's been mostly smooth. We've streamlined a few steps, but there are always areas to refine.'
+
+Speaker A: 'I'm glad it's generally working well. How about our support services?'
+
+Speaker B: 'They're stable at the moment. The team is managing to keep up with the demand, but we're continually assessing any needs for expansion.'
+
+Speaker A: 'It's good to know we're maintaining there. We should focus on improving the areas where patients feel unheard.' 
+
+Speaker B: 'Absolutely, that's a priority moving forward.'"

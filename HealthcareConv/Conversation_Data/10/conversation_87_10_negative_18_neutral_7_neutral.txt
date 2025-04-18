@@ -1,0 +1,13 @@
+"Speaker A: 'How have you been managing with your treatment plan lately?'
+
+Speaker B: 'Honestly, it's been hard sticking to the therapy schedule. Life gets in the way.'
+
+Speaker A: 'I understand. It's not uncommon to face challenges with keeping up. Have there been any urgent issues or symptoms since our last meeting?'
+
+Speaker B: 'No major emergencies, just the usual ups and downs. But nothing alarming, I think.'
+
+Speaker A: 'That's a relief to hear. It's always good to keep an eye on things, though. How has communication with the healthcare team been?'
+
+Speaker B: 'It's been okay. I get updates as needed, but sometimes I feel like I’m not in the loop.'
+
+Speaker A: 'We can work on that. Clear communication is essential in making sure everyone’s aligned on your care plan.'

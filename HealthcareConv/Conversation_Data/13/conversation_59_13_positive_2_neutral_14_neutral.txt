@@ -1,0 +1,21 @@
+"Speaker A: 'So, our recent patient is progressing well. It looks like they're ready for discharge soon.'
+
+Speaker B: 'That's great to hear. The family will be relieved. Have we finalized the follow-up care plan?'
+
+Speaker A: 'Yes, the discharge planning team has arranged everything. They did a fantastic job coordinating with community care services.'
+
+Speaker B: 'On another note, I reviewed the latest test outcomes. Everything seems stable, although there's nothing particularly noteworthy.'
+
+Speaker A: 'Agreed, the results were as expected. It's good that there were no surprises.'
+
+Speaker B: 'Have there been any updates on the medication protocol? How's the patient responding?'
+
+Speaker A: 'No major issues with adherence, but there have been some reports of mild side effects. Nothing alarming, though.'
+
+Speaker B: 'That's a relief. Mild side effects are manageable, and it's important to keep monitoring just in case.'
+
+Speaker A: 'Absolutely, and we'll continue to evaluate their response over the next few weeks.'
+
+Speaker B: 'I'm confident with the support in place, they'll continue to recover smoothly.'
+
+Speaker A: 'Yes, the team’s done excellent work on this case.'"

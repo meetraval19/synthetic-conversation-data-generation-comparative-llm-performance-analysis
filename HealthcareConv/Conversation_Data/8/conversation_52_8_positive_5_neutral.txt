@@ -1,0 +1,17 @@
+"Speaker A: 'Great news! We've made some significant improvements to your care plan. The new changes are expected to enhance your recovery process.'
+
+Speaker B: 'That sounds excellent. What specifically has been improved in my care plan?'
+
+Speaker A: 'We've added a more personalized approach, including some innovative physical therapy techniques tailored to your needs. Patients have been responding very well to them.'
+
+Speaker B: 'I'm glad to hear that. And about the upcoming check-ins, when should we schedule our next follow-up?'
+
+Speaker A: 'The follow-up will be in two weeks. It's essential to monitor your progress and make any necessary adjustments.'
+
+Speaker B: 'Sounds reasonable. Anything special to prepare for at the follow-up?'
+
+Speaker A: 'Just continue with your current exercises and make a note of any changes or concerns you experience.'
+
+Speaker B: 'Alright, I'll do that. Thank you for the update and for coordinating things so smoothly.' 
+
+Speaker A: 'Anytime! Looking forward to seeing how well your recovery is going at the next visit.'"

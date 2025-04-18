@@ -1,0 +1,24 @@
+"Speaker A: 'Thank you for taking the time to give us feedback on the new software update. How have you found its usability so far?’
+
+Speaker B: 'It's pretty straightforward, but I have a couple of ideas for new features that might enhance it.'
+
+Speaker A: 'We’re always open to suggestions. Could you share some details?'
+
+Speaker B: 'Sure, adding customizable dashboards could be valuable. It’s not urgent, but it might improve user experience for those who need specific data at their fingertips.'
+
+Speaker A: 'Interesting point. Customizability does make tools more versatile.’
+
+Speaker B: 'Exactly. The current setup is functional, but a bit more flexibility would be great.'
+
+Speaker A: 'I’ll definitely bring that up with the team. Now, regarding onboarding, how was your experience with the training resources available to you?'
+
+Speaker B: 'Oh, that was fantastic! The tutorials were spot-on and really helpful. They made getting started much easier than I expected.'
+
+Speaker A: 'I’m glad to hear that. We’ve put a lot of effort into making the training comprehensive and user-friendly.'
+
+Speaker B: 'It definitely shows. It’s been a smooth transition compared to other tools I’ve used in the past.'
+
+Speaker A: 'Great feedback! It’s important for us that our users feel comfortable and well-supported from the beginning.'
+
+Speaker B: 'You’re doing a great job with that. Keep it up!'"
+

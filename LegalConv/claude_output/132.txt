@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Client Objectives and Priorities",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Dispute Resolution Options",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "neutral"
+    }
+  ]
+}

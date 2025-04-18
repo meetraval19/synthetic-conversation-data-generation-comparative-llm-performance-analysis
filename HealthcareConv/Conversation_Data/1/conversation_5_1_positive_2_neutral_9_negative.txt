@@ -1,0 +1,25 @@
+"Speaker A: 'Hi there, how have you been feeling since our last visit?'
+
+Speaker B: 'I must say, I've been feeling much better. The changes we implemented seem to be helping with my energy levels.'
+
+Speaker A: 'That's great to hear. Your improvements in symptoms like increased energy are a positive sign. Let’s take a look at the recent test results.'
+
+Speaker B: 'Sure, how do they look?'
+
+Speaker A: 'They’re quite steady, which is exactly what we wanted. Nothing alarming, just consistent with what we expected from the initial diagnosis.'
+
+Speaker B: 'Good to know that there aren’t any surprises there.'
+
+Speaker A: 'However, we should talk about your overall risk profile going forward, especially considering your family history.'
+
+Speaker B: 'Yes, that does worry me a bit. The risk factors are concerning, but I'm ready to take proactive steps.'
+
+Speaker A: 'It’s important to be cautious. We’ll devise a plan to manage those risks more effectively.'
+
+Speaker B: 'I appreciate that. It’s reassuring to have a strategy in place.'
+
+Speaker A: 'Exactly. We’ll keep monitoring everything closely and make adjustments as needed.'
+
+Speaker B: 'Sounds like a plan. Thanks for keeping a close eye on things.'
+
+Speaker A: 'Of course, that’s what I’m here for. Let’s schedule your next follow-up to continue tracking your progress.'"

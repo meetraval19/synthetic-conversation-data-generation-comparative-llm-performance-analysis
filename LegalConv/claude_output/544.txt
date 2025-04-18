@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Confidentiality and Privilege",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "positive"
+    }
+  ]
+}

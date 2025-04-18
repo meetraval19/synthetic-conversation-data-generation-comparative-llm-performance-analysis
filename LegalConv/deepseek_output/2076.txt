@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Confidentiality and Privilege",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Costs, Fees, and Budgeting",
+            "sentiment": "negative"
+        }
+    ]
+}

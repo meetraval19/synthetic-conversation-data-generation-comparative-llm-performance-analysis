@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Timeline and Key Deadlines",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Settlement Opportunities and Strategy",
+      "sentiment": "positive"
+    }
+  ]
+}

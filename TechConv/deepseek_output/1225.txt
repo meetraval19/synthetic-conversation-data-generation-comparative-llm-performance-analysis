@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "neutral"
+        }
+    ]
+}

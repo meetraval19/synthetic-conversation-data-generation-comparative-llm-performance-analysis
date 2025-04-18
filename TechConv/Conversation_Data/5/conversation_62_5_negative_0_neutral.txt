@@ -1,0 +1,24 @@
+"Speaker A: 'Thanks for coming in for this performance review. I wanted to start by discussing the roadmap you've been working on.' 
+
+Speaker B: 'Certainly. I understand there are some concerns about it.'
+
+Speaker A: 'Yes, the feedback we've received suggests we might not be heading in the most strategic direction. Can you elaborate on your vision?'
+
+Speaker B: 'I've been evaluating the latest market trends, but some unexpected shifts occurred. I'm actively revising our approach.'
+
+Speaker A: 'I appreciate that you're adapting. Let's see how we can realign those plans more effectively.'
+
+Speaker B: 'Absolutely. I'm open to suggestions on improving.'
+
+Speaker A: 'Moving on, I noticed there were a few queries regarding the new feature's functionality last week. How did that go?'
+
+Speaker B: 'We had a good discussion. The team needed clarity on integration details, which we addressed collectively.'
+
+Speaker A: 'That's good to hear. Resolving those questions smoothly is always a positive step.'
+
+Speaker B: 'Indeed, and I'll ensure we document everything for future reference.'
+
+Speaker A: 'Great. Let's keep in touch about the roadmap adjustments. I'm confident we can find a way forward.'
+
+Speaker B: 'Thank you for your guidance and understanding. I'll make this a priority.'"
+

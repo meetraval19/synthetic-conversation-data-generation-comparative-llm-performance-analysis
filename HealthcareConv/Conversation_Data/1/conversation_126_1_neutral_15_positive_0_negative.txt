@@ -1,0 +1,21 @@
+"Speaker A: 'I see you’ve been experiencing some discomfort. Can we go over the details of your symptoms?'
+
+Speaker B: 'Of course. There's been a recurring pain that seems consistent, but I can't pinpoint any specific triggers.'
+
+Speaker A: 'Alright, we'll take a thorough look to get a better understanding of what's going on.'
+
+Speaker B: 'That sounds good. I've also got my medical history here if that helps.'
+
+Speaker A: 'Great, let’s review it. It’s crucial we’re aware of everything, though looking through it, I can see there have been some chronic concerns that might need addressing.'
+
+Speaker B: 'Yes, it’s been a bit overwhelming, honestly.'
+
+Speaker A: 'I understand. But let’s not dwell on that for now—we’re here to focus on our next steps. How do you feel about deciding on the course of action together?'
+
+Speaker B: 'I’d actually really appreciate that. Having a say in my treatment plan makes me feel more confident.'
+
+Speaker A: 'Exactly. We’ll build a plan that you’re comfortable with, and that will work best for your situation.'
+
+Speaker B: 'That’s reassuring, thank you.'
+
+Speaker A: 'You’re welcome. Now, let’s go back to evaluating those symptoms and see what our options are.'"

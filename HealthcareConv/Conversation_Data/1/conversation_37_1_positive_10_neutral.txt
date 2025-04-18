@@ -1,0 +1,19 @@
+"Speaker A: 'I'm pleased with the progress in your symptoms since we last assessed you. How have you been feeling lately?'
+
+Speaker B: 'Honestly, much better. The headaches have decreased significantly, and I’m more energetic.'
+
+Speaker A: 'That's wonderful to hear. It's a testament to your progress. Now, about sticking to the therapy plan, how’s that been for you?'
+
+Speaker B: 'It's been okay. I’ve been following the schedule, but sometimes it's tough to remember the evening dose.'
+
+Speaker A: 'That's understandable. Have you considered setting reminders or using a pill organizer?'
+
+Speaker B: 'I might try that. I want to make sure I’m doing everything right.'
+
+Speaker A: 'Consistency is key. But it’s also perfectly normal to experience some hiccups along the way.'
+
+Speaker B: 'Thanks for understanding. I’ll keep working on it.'
+
+Speaker A: 'Great! Don’t hesitate to reach out if you have any concerns as we move forward.'
+
+Speaker B: 'I really appreciate the support. It makes managing everything a bit easier.'"

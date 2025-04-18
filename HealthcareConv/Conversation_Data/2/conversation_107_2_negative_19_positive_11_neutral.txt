@@ -1,0 +1,19 @@
+"Speaker A: 'I'm looking at your test results, and it seems we've detected some concerning issues.'
+
+Speaker B: 'Oh, that's not what I hoped to hear. What does this mean for my treatment plan?'
+
+Speaker A: 'We'll need to explore a few options, but I assure you, we have excellent support services to help you through this.'
+
+Speaker B: 'That's really reassuring to hear. Can you tell me more about the kind of support available?'
+
+Speaker A: 'Of course. We have a dedicated team that assists with everything from counseling to connecting you with community resources.'
+
+Speaker B: 'That sounds great. I want to make sure I understand everything clearly. How do you suggest I learn more about my condition?'
+
+Speaker A: 'Patient education is key. We offer sessions where you can learn more about your specific health needs and the steps you can take.'
+
+Speaker B: 'I think that would be helpful. I want to be as informed as possible about managing my health.'
+
+Speaker A: 'Absolutely, we can schedule you for an educational session. The more informed you are, the better we can work together on your care plan.'
+
+Speaker B: 'I appreciate all your support—it's comforting to know I'm not handling this alone.'"

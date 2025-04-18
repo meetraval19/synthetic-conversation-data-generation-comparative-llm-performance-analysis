@@ -1,0 +1,11 @@
+"Speaker A: 'I reviewed your latest notes on the patient, but the documentation seems a bit overwhelming. It might be hindering efficient care.'
+
+Speaker B: 'Yes, I understand. The paperwork can get daunting, but let's focus on the patient's immediate needs.'
+
+Speaker A: 'Absolutely, I noticed the patient had a quick recovery in the emergency room. The team there did a fantastic job.'
+
+Speaker B: 'They did, indeed. It’s always reassuring to see such positive outcomes in those situations.'
+
+Speaker A: 'Speaking of which, have you seen the latest test results? They look promising and confirm the initial diagnosis.'
+
+Speaker B: 'Yes, the results are very encouraging. It’s great to have clarity so we can proceed with confidence in their treatment plan.'"

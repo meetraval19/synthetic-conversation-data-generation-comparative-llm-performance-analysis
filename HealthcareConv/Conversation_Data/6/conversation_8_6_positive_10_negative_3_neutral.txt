@@ -1,0 +1,33 @@
+"Speaker A: 'I’m glad we were able to get your referral sorted out so quickly. How did the specialist visit go?'
+
+Speaker B: 'It was really smooth. The office was already expecting me, and the staff were so helpful.'
+
+Speaker A: 'That’s great to hear. Coordinating these referrals can sometimes take time, so it’s good to know this one went well.'
+
+Speaker B: 'Indeed, it has definitely made a difference.'
+
+Speaker A: 'Now, about your therapy sessions. I noticed you’ve missed a couple recently. Is everything okay?'
+
+Speaker B: 'It’s been challenging to keep up. With work and other commitments, I find it hard to attend regularly.'
+
+Speaker A: 'I understand. It can be tough to balance everything, but staying consistent with therapy is crucial for progress.'
+
+Speaker B: 'I know. It’s just been overwhelming.'
+
+Speaker A: 'Let’s see if we can adjust the schedule or find more support to make it easier for you.'
+
+Speaker B: 'I’d appreciate that. Maybe a different time would work better.'
+
+Speaker A: 'We’ll sort that out. Now, regarding your medication, how are you finding the current dosage?'
+
+Speaker B: 'It seems okay, but I sometimes forget whether I've taken it or not.'
+
+Speaker A: 'That's something we can fix easily. Some find setting an alarm or using a pill organizer helpful. Let’s ensure you have what you need.'
+
+Speaker B: 'That sounds like a good idea. I hadn’t thought of using a reminder.'
+
+Speaker A: 'Great, let’s make these adjustments and keep things moving forward. Anything else on your mind?'
+
+Speaker B: 'No, that covers it. Thanks for the support.'
+
+Speaker A: 'You’re welcome. We’re here to help you every step of the way.'"

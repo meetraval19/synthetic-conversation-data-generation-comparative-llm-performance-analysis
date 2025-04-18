@@ -1,0 +1,24 @@
+"Speaker A: 'Hello, how are you feeling since your last visit?'
+
+Speaker B: 'I'm managing, thanks. The last check-up went as expected, nothing too surprising.'
+
+Speaker A: 'That's good to hear. Have you had the chance to follow up on the suggested tests?'
+
+Speaker B: 'Yes, I completed them all. The results were pretty straightforward, thankfully.'
+
+Speaker A: 'Perfect. Let me know if there's anything you need clarification on.'
+
+Speaker B: 'I will, thanks. But I have to mention, getting in touch with some of the support services has been a hassle.'
+
+Speaker A: 'I'm sorry to hear that. What issues have you been facing?'
+
+Speaker B: 'It seems like every time I call, there’s a long wait, and sometimes they don’t have the answers I need.'
+
+Speaker A: 'That's frustrating. I’ll report this feedback and see if we can streamline the process to make it easier for patients.'
+
+Speaker B: 'I’d appreciate that. It would be helpful to have reliable access when needed.'
+
+Speaker A: 'Absolutely. We want to ensure you feel supported, and I'll do what I can to help improve the situation.'
+
+Speaker B: 'Thank you. Overall, I appreciate the care here, but the support side could use some attention.'"
+

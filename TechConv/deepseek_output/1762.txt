@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "negative"
+        }
+    ]
+}

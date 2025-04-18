@@ -1,0 +1,17 @@
+"Speaker A: 'I’m glad to hear you found the new telehealth service helpful for your follow-up.'
+
+Speaker B: 'Yes, it made things so much easier without the long drive. Access like this is fantastic!'
+
+Speaker A: 'It’s great to know that these efforts are reducing barriers for patients like you.'
+
+Speaker B: 'Definitely, it’s a positive change. Now, I wanted to discuss what I should do in case any symptoms worsen suddenly.'
+
+Speaker A: 'Of course, it’s always good to be prepared. If things change rapidly, visiting the nearest emergency room would be ideal.'
+
+Speaker B: 'That sounds reasonable. It’s reassuring to have a clear plan for emergencies.' 
+
+Speaker A: 'Yes, keeping things clear helps everyone. Anything else you'd like to discuss?'
+
+Speaker B: 'No, that covers it for today. Thank you!'
+
+Speaker A: 'You’re welcome! Stay well and feel free to reach out if you need anything else.' "

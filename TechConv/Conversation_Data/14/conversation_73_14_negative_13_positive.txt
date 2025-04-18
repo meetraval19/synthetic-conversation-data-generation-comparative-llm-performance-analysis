@@ -1,0 +1,19 @@
+"Speaker A: 'Thanks for joining the demo today. Let's dive right into how we handle reports and analysis.'
+
+Speaker B: 'I hope your tool simplifies that process. Our current setup is really cumbersome.'
+
+Speaker A: 'I understand. Many of our clients felt the same before switching. Our system automates data gathering, reducing manual errors.'
+
+Speaker B: 'That sounds promising. We struggle with inconsistencies in the reports.'
+
+Speaker A: 'We definitely address that. Now, let me show you our approach to licensing. It's designed to be super flexible.'
+
+Speaker B: 'Oh, that's good to hear. Our current solution is quite restrictive.'
+
+Speaker A: 'With us, you get customizable access rights tailored to your specific needs. It’s straightforward and cost-effective.'
+
+Speaker B: 'That’s refreshing. Licensing complications have been quite a hassle for us.'
+
+Speaker A: 'I’m glad to hear our approach aligns with your needs. Would you like to see a live example of how it all works?'
+
+Speaker B: 'Absolutely! I'm particularly interested in seeing the licensing management in action.'"

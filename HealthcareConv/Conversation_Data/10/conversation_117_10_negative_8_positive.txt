@@ -1,0 +1,17 @@
+"Speaker A: 'I've been reviewing the patient's progress, and there's a concern about how well they are sticking to their sessions and medication.'
+
+Speaker B: 'That's troubling. Non-compliance can really hinder overall recovery. Do we know what's causing the difficulty?'
+
+Speaker A: 'It seems there could be several barriers—possibly side effects or a lack of motivation.'
+
+Speaker B: 'We should definitely address those. On a brighter note, I've been considering some updates to their treatment strategy.'
+
+Speaker A: 'Oh, that's good news! Any specific adjustments in mind?'
+
+Speaker B: 'Yes, incorporating more personalized activities based on recent assessments. I believe it could make a significant difference.'
+
+Speaker A: 'That sounds very promising. Tailoring the plan might also encourage better engagement.'
+
+Speaker B: 'Exactly. Let's coordinate on this and ensure the updates are communicated clearly to the patient.'
+
+Speaker A: 'I agree. A collaborative approach could lead to better outcomes for them.'"

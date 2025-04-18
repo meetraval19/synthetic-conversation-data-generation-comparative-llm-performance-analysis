@@ -1,0 +1,13 @@
+"Speaker A: 'I’m pleased to report that our new approach to discharge planning has significantly improved patient outcomes.'
+
+Speaker B: 'That's wonderful! Better planning really aids in a smoother transition from hospital to home.'
+
+Speaker A: 'Absolutely. Patients are reporting more confidence in managing their health post-discharge now.'
+
+Speaker C: 'On the other hand, therapy adherence remains a bit challenging. We've noticed a drop in patients following their prescribed routines.'
+
+Speaker A: 'Yes, that is concerning. Perhaps we could implement more personalized check-ins to encourage adherence?'
+
+Speaker B: 'That's a good idea. Addressing barriers to adherence could really help patients stay on track.'
+
+Speaker C: 'It would make a big difference. We need to understand why they're struggling and support them better.'

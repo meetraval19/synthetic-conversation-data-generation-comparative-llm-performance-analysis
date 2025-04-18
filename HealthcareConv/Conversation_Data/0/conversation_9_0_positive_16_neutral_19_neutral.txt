@@ -1,0 +1,23 @@
+"Speaker A: 'Hello! It's good to see you. I've reviewed your medical history, and everything looks quite positive.'
+
+Speaker B: 'That's wonderful to hear. I was a little worried initially.'
+
+Speaker A: 'Understandable. Moving on, I wanted to discuss your current condition. How have you felt since our last appointment?'
+
+Speaker B: 'I've had some ups and downs. It’s been a bit challenging to fully understand some of the diagnosis details.'
+
+Speaker A: 'I see. Let's go over it together and clarify any confusion you might have.'
+
+Speaker B: 'That would be helpful. I appreciate you taking the time.'
+
+Speaker A: 'Of course. And have you been accessing any support services or groups available to you?'
+
+Speaker B: 'I looked into a couple of them. They seem neutral, but I haven't decided yet.'
+
+Speaker A: 'It’s definitely worth exploring, even if just for some additional perspective.'
+
+Speaker B: 'I suppose you’re right. I'll give it some more thought.'
+
+Speaker A: 'Great. Just reach out if you have any questions or need guidance.' 
+
+Speaker B: 'I will, thank you for your support.'"

@@ -1,0 +1,20 @@
+Based on the conversation between what appears to be a healthcare provider and patient, I've identified the underlying themes and their associated sentiments:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Referral Coordination",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Treatment Plan",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

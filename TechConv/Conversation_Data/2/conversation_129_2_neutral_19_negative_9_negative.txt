@@ -1,0 +1,13 @@
+"Speaker A: 'Thanks for joining the interview today. How do you find the overall performance of the software?'
+
+Speaker B: 'It's stable overall, but there are occasional slowdowns during peak hours.'
+
+Speaker A: 'That sounds typical. Have you had any experiences comparing it with other tools in the market?'
+
+Speaker B: 'Yes, I looked into a few alternatives, but honestly, I found their interfaces less intuitive and some features were lacking.'
+
+Speaker A: 'I understand. It's always a balance between features and usability. What about the testing phase of the current software?'
+
+Speaker B: 'Well, I've heard that the testing has encountered several issues. It seems there might be some unresolved bugs impacting the release schedule.'
+
+Speaker A: 'That's concerning. We're definitely making improvements, but it's clear more work is needed on that front.'

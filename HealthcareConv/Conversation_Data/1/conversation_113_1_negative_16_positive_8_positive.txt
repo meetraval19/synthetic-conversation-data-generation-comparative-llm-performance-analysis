@@ -1,0 +1,11 @@
+"Speaker A: 'I'm concerned about the complexity of evaluating the patient's symptoms. It seems more challenging than we anticipated.'
+
+Speaker B: 'I agree. The symptoms are quite challenging to pin down, which can be frustrating.'
+
+Speaker A: 'On a brighter note, when we communicated the diagnosis, the family seemed relieved with the clear explanation.'
+
+Speaker B: 'Absolutely, presenting it with empathy and clarity really made a difference.'
+
+Speaker A: 'Now, about the care plan update, I’m optimistic. We've incorporated evidence-based practices, and progress looks promising.'
+
+Speaker B: 'Yes, the new interventions show potential, and the patient's response so far is quite encouraging.'"

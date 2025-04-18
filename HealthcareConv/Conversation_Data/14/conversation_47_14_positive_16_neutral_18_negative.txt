@@ -1,0 +1,21 @@
+"Speaker A: 'I was reviewing the side effects some patients have been experiencing with the new medication.'
+
+Speaker B: 'Yes, but it's great that most of them are mild and tend to resolve quickly.'
+
+Speaker A: 'Absolutely, the minimal side effects have been reassuring.'
+
+Speaker B: 'About communicating diagnosis, do you think our approach is clear enough?'
+
+Speaker A: 'I'd say our explanations are fairly balanced. Patients seem to understand their options.'
+
+Speaker B: 'I agree, though there's always room for improvement in how we interact with them.'
+
+Speaker A: 'Definitely, tailoring information to individual needs is always beneficial.'
+
+Speaker B: 'On the emergency front, have you noticed an uptick in after-hours calls?'
+
+Speaker A: 'Yes, it's concerning. Some cases could have been managed better with timely intervention.'
+
+Speaker B: 'Agreed, we need to address those gaps to ensure better preparedness in real-time situations.'
+
+Speaker A: 'Absolutely, improving response protocols is a priority moving forward.'"

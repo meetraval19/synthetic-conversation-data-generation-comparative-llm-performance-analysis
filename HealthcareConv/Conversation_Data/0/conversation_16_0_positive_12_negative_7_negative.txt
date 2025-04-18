@@ -1,0 +1,17 @@
+"Speaker A: 'I’m pleased to see that your recovery has been great, thanks to the positive aspects of your medical history. It really helped in tailoring your treatment plan effectively.'
+
+Speaker B: 'That’s wonderful to hear! I was a bit worried initially. Is there anything else we need to go over before discharge?'
+
+Speaker A: 'Yes, we need to finalize the documentation. It’s been challenging because the process has some inconsistencies.'
+
+Speaker B: 'Oh, that sounds stressful. I hope it doesn’t delay anything?'
+
+Speaker A: 'We’re doing our best to keep everything on track. It's just that reviewing every detail can be frustrating.'
+
+Speaker B: 'I appreciate you keeping me informed. How about the communication between the care team? I noticed some missed messages during my stay.'
+
+Speaker A: 'Unfortunately, there have been some issues. We’re working on improving our internal communication to prevent such problems in the future.'
+
+Speaker B: 'I understand. Thank you for addressing these concerns. Hopefully, everything will go smoothly moving forward.'
+
+Speaker A: 'Absolutely, and we’re committed to ensuring a better experience for our patients. If you have any more questions, please let me know.'"

@@ -1,0 +1,24 @@
+"Speaker A: 'It's great to see you today. I hope the recent changes have improved your access to care?'
+
+Speaker B: 'Yes, the new system has made it much easier to book appointments and follow up with specialists.'
+
+Speaker A: 'I'm glad to hear that! Now, regarding your recent visit to the ER, how are you feeling about it?'
+
+Speaker B: 'It was quite unexpected, but the staff were efficient. I'm feeling okay now, just a bit overwhelmed at the time.'
+
+Speaker A: 'That’s understandable. Emergencies can be stressful. Let's ensure it doesn't happen frequently.'
+
+Speaker B: 'Exactly, I'd prefer to avoid the ER if possible.'
+
+Speaker A: 'Definitely. Now about your care plan, there have been some updates. How do you feel about the new medications we've added?'
+
+Speaker B: 'I think the changes make sense. I'm just curious how they'll interact with my current routine.'
+
+Speaker A: 'Good question. We’ll monitor closely and adjust as necessary. You’re comfortable with this plan moving forward?'
+
+Speaker B: 'Yes, it seems manageable. I appreciate the detailed explanation.'
+
+Speaker A: 'Great! Let’s keep aiming for progress. Feel free to reach out if anything feels off.'
+
+Speaker B: 'Will do. Thanks for your ongoing support.'"
+

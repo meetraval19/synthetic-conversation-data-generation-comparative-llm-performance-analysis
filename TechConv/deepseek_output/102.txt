@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Performance Concerns",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Metrics or Analytics Review",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "positive"
+    }
+  ]
+}

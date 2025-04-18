@@ -1,0 +1,15 @@
+"Speaker A: 'I reviewed your medical records, and everything is very well documented. This will ensure we have all the necessary details for your care.'
+
+Speaker B: 'That's reassuring to hear. Having accurate records makes me feel confident about my treatment.'
+
+Speaker A: 'Absolutely. Now, I wanted to discuss your upcoming discharge. There are some concerns we need to address.'
+
+Speaker B: 'I’ve been worried about leaving too early. What exactly are the issues?'
+
+Speaker A: 'We want to make sure everything is in place for a smooth transition home, but there have been some hiccups coordinating with your home care team.'
+
+Speaker B: 'I understand. It's important to me that I'm fully prepared before leaving.'
+
+Speaker A: 'Yes, we'll work on resolving those issues to ensure you're comfortable and well-supported once you're discharged.'
+
+Speaker B: 'Thank you. I appreciate the thoroughness in this process. It eases some of my anxiety about the transition.'"

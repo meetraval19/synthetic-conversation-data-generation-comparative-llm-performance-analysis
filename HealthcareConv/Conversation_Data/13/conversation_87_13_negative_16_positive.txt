@@ -1,0 +1,20 @@
+"Speaker A: 'Hi, I hope you're feeling better since your last visit. How did you find the information we shared with you about your diagnosis?'
+
+Speaker B: 'Honestly, it was very helpful. Everything was clear and straightforward, which made it easier for me to understand what's going on.'
+
+Speaker A: 'I’m glad to hear that. We believe clear communication is crucial. Have you had a chance to think about the next steps based on that information?'
+
+Speaker B: 'Yes, I have a clearer picture now. But I've been a bit concerned about the discharge process from the hospital.'
+
+Speaker A: 'I understand. We've had some challenges recently with making sure everything goes smoothly when patients are discharged.'
+
+Speaker B: 'That's what worries me. Coordinating aftercare has been stressful, and I'm uncertain about the support once I leave.'
+
+Speaker A: 'It's important for us to improve on those fronts. We're currently working to better coordinate with care teams to make sure patients have what they need at home.'
+
+Speaker B: 'I hope that comes into play soon. It’s been a bit overwhelming managing everything.'
+
+Speaker A: 'I completely understand. Let’s focus on creating a more detailed plan for you, so you feel more confident moving forward.'
+
+Speaker B: 'That would be really reassuring. I appreciate your help in making sure I’m prepared.'"
+

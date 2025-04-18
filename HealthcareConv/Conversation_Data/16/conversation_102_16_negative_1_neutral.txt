@@ -1,0 +1,15 @@
+"Speaker A: 'I've reviewed your tests, and it seems we need to discuss some concerns related to the results.'
+
+Speaker B: 'I was afraid of that. Do you think there's a way we could have caught this sooner?'
+
+Speaker A: 'The symptoms you've been experiencing are quite common and can be linked to multiple causes, which makes it challenging to pinpoint early.'
+
+Speaker B: 'I see. It’s just frustrating not to have clear-cut answers.'
+
+Speaker A: 'I understand. It’s important we communicate openly about these challenges so we can manage expectations. How have your symptoms been recently? Any changes?'
+
+Speaker B: 'They’ve stayed pretty much the same. I haven’t noticed anything new.'
+
+Speaker A: 'Alright, maintaining the status quo can sometimes be positive, as it gives us a clearer baseline for next steps.'
+
+Speaker B: 'That makes sense. I just hope we can find a clearer path forward soon.'"

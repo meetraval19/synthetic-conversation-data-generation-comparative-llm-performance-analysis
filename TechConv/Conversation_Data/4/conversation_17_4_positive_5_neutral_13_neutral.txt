@@ -1,0 +1,16 @@
+"Speaker A: 'Thanks for taking the time to chat with us today about your experience with our platform. How has the integration with your current systems been?'
+
+Speaker B: 'It’s been wonderful, actually. Seamless integration with our existing tools was a pleasant surprise.'
+
+Speaker A: 'That’s great to hear! We really focused on making it as compatible as possible. As for our roadmap, do you have any thoughts on the features you’d like to see in the future?'
+
+Speaker B: 'I’m curious about what you’re planning next. Keeping up with industry trends would be beneficial, but I haven’t heard much about any new features coming up.'
+
+Speaker A: 'We’re still in the planning stages for some upcoming updates, so we appreciate any input. How about the current licensing structure, does it meet your needs?'
+
+Speaker B: 'It works for us now, though I’m neutral about any changes. Just curious if any modifications might affect our current access.'
+
+Speaker A: 'Our priority is to maintain flexibility for our users. Your feedback will definitely be invaluable for shaping our future policies.'
+
+Speaker B: 'Glad to know. Looking forward to seeing how everything evolves. Thanks for including us in this discussion!'"
+

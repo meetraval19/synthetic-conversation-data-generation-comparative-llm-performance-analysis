@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Legal and Contractual Obligations",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Forecasting and Projections",
+      "sentiment": "positive"
+    }
+  ]
+}

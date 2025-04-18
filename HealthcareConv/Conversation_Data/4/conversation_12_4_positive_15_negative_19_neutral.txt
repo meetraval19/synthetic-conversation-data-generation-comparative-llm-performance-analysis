@@ -1,0 +1,15 @@
+"Speaker A: 'I'm pleased with how well the treatment plan worked. Your recovery has been remarkable.' 
+
+Speaker B: 'Thank you. The plan was straightforward and I felt supported throughout.'
+
+Speaker A: 'I'm glad to hear that. There seemed to be some difficulties initially with the treatment choices though.'
+
+Speaker B: 'Yes, there was a bit of confusion when trying to make decisions together with the team. It was overwhelming at times.'
+
+Speaker A: 'I understand. We'll work on making that process smoother for future patients.'
+
+Speaker B: 'That would be helpful. Now, about the support services, are there groups I can join post-discharge?'
+
+Speaker A: 'Definitely, there are several community resources available to you. I can provide a list.' 
+
+Speaker B: 'Great, just knowing they’re there makes the transition feel less daunting.'"

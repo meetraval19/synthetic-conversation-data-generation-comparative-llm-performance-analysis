@@ -1,0 +1,15 @@
+"Speaker A: 'I wanted to discuss your approach to how patients are informed about their condition.'
+
+Speaker B: 'Certainly, I strive to ensure clarity in every discussion.'
+
+Speaker A: 'That's good to hear. It's important that they fully understand the information we provide.'
+
+Speaker B: 'Absolutely, I always find it helps to take extra time to explain any complexities.'
+
+Speaker A: 'Regarding patient release, have you noticed any issues with the current system?'
+
+Speaker B: 'Yes, I feel there's room for improvement in coordinating follow-up care and arranging post-discharge resources.'
+
+Speaker A: 'I've heard similar concerns. Sometimes the handoff process isn't as smooth as it could be.'
+
+Speaker B: 'Agreed, streamlining the process would definitely benefit both patients and their ongoing recovery.'"

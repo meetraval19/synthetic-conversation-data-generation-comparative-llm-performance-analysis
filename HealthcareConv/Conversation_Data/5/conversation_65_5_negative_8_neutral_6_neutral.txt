@@ -1,0 +1,15 @@
+"Speaker A: 'I was reviewing the follow-up process for our latest emergency cases. It seems like there’s been a lot of confusion and delays.'
+
+Speaker B: 'I noticed that too. It's frustrating when patients don't get timely updates. Improving this should be a priority.'
+
+Speaker A: 'Agreed. On a different note, I think our approach to updating care plans is fairly standard, though.'
+
+Speaker B: 'Yes, the care plan updates have been straightforward. The new dashboard helps keep everything organized.'
+
+Speaker A: 'True, and how about the coordination for referrals? Anything notable there?'
+
+Speaker B: 'It seems pretty stable; the team has been handling the hand-offs efficiently.'
+
+Speaker A: 'That's good to hear. Let's focus on ironing out the follow-up processes next.' 
+
+Speaker B: 'Absolutely, ensuring patients aren't left in the dark is vital.'"

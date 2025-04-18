@@ -1,0 +1,21 @@
+"Speaker A: 'I just finished going through the notes and everything seems to be in order.'
+
+Speaker B: 'Yes, the documentation is quite comprehensive. It’s essential to ensure all details are accurate.'
+
+Speaker A: 'Absolutely. It provides a good overview of the treatment plan so far.'
+
+Speaker B: 'Now, about the therapy sessions, I’ve noticed some concerns.'
+
+Speaker A: 'Is there an issue with how patients are following through with their sessions?'
+
+Speaker B: 'Unfortunately, yes. There’s been a noticeable drop in adherence recently.'
+
+Speaker A: 'That's worrisome. Do we know why patients are struggling to stick with it?'
+
+Speaker B: 'A few mentioned it was due to the complexity of the regimen and time constraints.'
+
+Speaker A: 'We might need to revisit how we’re supporting them, maybe with more flexible options.'
+
+Speaker B: 'That could help. Encouraging consistent participation is critical to their progress.'
+
+Speaker A: 'Agreed, we should reorganize some strategies to make it more manageable for them.'"

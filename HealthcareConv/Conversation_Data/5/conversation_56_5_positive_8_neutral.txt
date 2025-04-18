@@ -1,0 +1,21 @@
+"Speaker A: 'Hello, how have you been feeling since our last appointment?'
+
+Speaker B: 'Hi, I've been feeling much better. The treatment seems to be going well.'
+
+Speaker A: 'That's great to hear! Your progress reflects the effort you've put into following the recommendations.'
+
+Speaker B: 'Thank you, I really appreciate all the guidance. It’s been comforting to see improvement.'
+
+Speaker A: 'Let's move on to updating your care plan. We'll review some modifications to ensure you continue improving.'
+
+Speaker B: 'Okay, that sounds fine. I'm interested to see what adjustments are recommended.'
+
+Speaker A: 'We’ll mostly be looking at tweaking your medication slightly to keep things balanced.'
+
+Speaker B: 'Got it. I expected some updates, and I'm open to following the new routine.'
+
+Speaker A: 'Excellent. Your commitment is key to maintaining your health. If you have any questions, please feel free to ask.'
+
+Speaker B: 'I will. Thanks again for everything. It feels good to be on the right path.'
+
+Speaker A: 'Glad to hear that. Keep up the excellent work, and we’ll see even more progress together.'"

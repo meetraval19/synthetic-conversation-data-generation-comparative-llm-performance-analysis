@@ -1,0 +1,19 @@
+"Speaker A: 'Good to see you today. How are you managing with the changes we've made to your care plan?'
+
+Speaker B: 'It's been alright. Nothing too different, I guess. Just getting used to the new routine.'
+
+Speaker A: 'That's understandable. On a positive note, your last set of results showed some improvement. It's great to see progress.'
+
+Speaker B: 'That’s encouraging! I’ve been trying to stick to everything we discussed.'
+
+Speaker A: 'Excellent. Now, I do want to talk about the symptoms you mentioned last time. Have you noticed any changes, especially with those persistent headaches?'
+
+Speaker B: 'Unfortunately, they’ve been getting worse, which is frustrating.'
+
+Speaker A: 'I’m sorry to hear that. Let’s focus on finding a solution to make you feel better during this next phase.'
+
+Speaker B: 'I appreciate that. It’s been a bit overwhelming.'
+
+Speaker A: 'We’ll work on it together. In the meantime, I’d like to schedule another follow-up to keep things on track. How does that sound?'
+
+Speaker B: 'Absolutely. It’s good to know we’re moving in the right direction.'"

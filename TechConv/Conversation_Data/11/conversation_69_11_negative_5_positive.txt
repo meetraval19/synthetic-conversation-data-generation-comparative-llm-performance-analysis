@@ -1,0 +1,21 @@
+"Speaker A: 'Thank you for joining the demo today! I'm excited to show you how our software can improve your team's efficiency.'
+
+Speaker B: 'Thanks for having me. My primary concern is the initial phase. Our past experiences with onboarding have been challenging.'
+
+Speaker A: 'I understand. Transitioning to new software can be tough. We've designed additional resources and support to alleviate those hurdles, but I'm here to ensure it goes smoothly.'
+
+Speaker B: 'That's good to hear. Our team struggles when the training isn't thorough enough.'
+
+Speaker A: 'Absolutely. We've built a comprehensive training module and offer continuous support to minimize any friction during onboarding.'
+
+Speaker B: 'That’s reassuring. Now, about your future plans, how does the software evolve over time?'
+
+Speaker A: 'Great question! We have an exciting roadmap ahead. We’re actively working on integrating more AI-driven features to enhance user experience.'
+
+Speaker B: 'That sounds promising. Innovations like that could really make a difference for us in the long run.'
+
+Speaker A: 'Absolutely! Our goal is to align with your evolving needs and ensure our software stays ahead of the curve.'
+
+Speaker B: 'I'm definitely interested in seeing where your developments lead. Future-proofing is a high priority for us.'
+
+Speaker A: 'We’re dedicated to continuous improvement, and we're excited to partner with forward-thinking teams like yours.'

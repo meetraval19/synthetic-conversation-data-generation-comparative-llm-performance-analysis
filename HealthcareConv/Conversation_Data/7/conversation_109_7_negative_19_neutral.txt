@@ -1,0 +1,17 @@
+"Speaker A: 'Hi, Doctor. I’ve been following the medication plan, but honestly, some communication from your team has been a bit confusing.'
+
+Speaker B: 'I’m sorry to hear that. Can you give me an example? We strive to improve our coordination.'
+
+Speaker A: 'Sure. Last week, I received conflicting instructions on my dosage from two different nurses.'
+
+Speaker B: 'I apologize. It’s crucial for us to ensure everyone’s on the same page. I’ll address this with the team to prevent it from happening again.'
+
+Speaker A: 'I appreciate that. On another note, I’ve been considering using the hospital’s support services. Are they useful?'
+
+Speaker B: 'They can be quite helpful, especially if you need dietary or mental health support. Feedback has been mixed, but many find them valuable.'
+
+Speaker A: 'That sounds promising. I might give them a try while we sort out the communication issues.'
+
+Speaker B: 'Good idea. And please, feel free to reach out if you encounter any more issues. We’re here to ensure the best care for you.'
+
+Speaker A: 'Thank you, Doctor. I’ll definitely keep you updated.'"

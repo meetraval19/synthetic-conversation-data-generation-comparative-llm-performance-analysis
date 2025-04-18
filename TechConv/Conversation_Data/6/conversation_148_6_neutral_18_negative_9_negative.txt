@@ -1,0 +1,13 @@
+"Speaker A: 'Thank you for joining us today. I’d love to hear your thoughts on how the application feels to use on a daily basis.'
+
+Speaker B: 'Overall, it’s pretty intuitive. There are a few things that could be smoother, but it works well for my needs.'
+
+Speaker A: 'Great to hear. We’re always looking to improve. Now, have you encountered any issues related to regulations or compliance while using the application?'
+
+Speaker B: 'Actually, that’s been a bit concerning. I noticed some features don’t seem aligned with the latest compliance standards.'
+
+Speaker A: 'I appreciate your honesty. We’ve been working to address those areas. Moving on, have you been involved in the testing or validation processes at any point?'
+
+Speaker B: 'Yes, I participated in some testing phases, but I did feel there were gaps, especially in stress and compatibility tests.'
+
+Speaker A: 'Thank you for bringing that up. We’ll definitely look into enhancing those processes. Your feedback is invaluable to us.'"

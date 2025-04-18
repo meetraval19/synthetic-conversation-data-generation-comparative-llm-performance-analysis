@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Scalability and Infrastructure Planning",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "negative"
+        }
+    ]
+}

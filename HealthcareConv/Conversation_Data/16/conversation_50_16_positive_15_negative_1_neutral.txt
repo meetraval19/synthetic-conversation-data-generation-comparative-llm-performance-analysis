@@ -1,0 +1,19 @@
+"Speaker A: 'I'm happy to report that the way we communicated your diagnosis has been clear and you're responding well to treatment.'
+
+Speaker B: 'That’s a relief to hear. Your explanation really helped me understand what’s happening.'
+
+Speaker A: 'I'm glad to hear that. However, I know the decision about your discharge wasn’t entirely satisfactory.'
+
+Speaker B: 'Yeah, I felt a bit sidelined when it came to making that choice. I wish there was more discussion about my preferences.'
+
+Speaker A: 'I apologize for that. We should have better engaged you in that decision-making process.'
+
+Speaker B: 'Thank you for acknowledging it. Hopefully, it improves for the future.'
+
+Speaker A: 'Of course. Now, let’s focus on assessing your symptoms before discharge to ensure everything is stable.'
+
+Speaker B: 'Sounds good. Everything has felt normal today, thankfully.'
+
+Speaker A: 'I’ll just go over a couple of standard checks to confirm. It’s important to make sure nothing is overlooked.' 
+
+Speaker B: 'Absolutely. I appreciate the thoroughness.'"

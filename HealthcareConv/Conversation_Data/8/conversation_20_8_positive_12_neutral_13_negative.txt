@@ -1,0 +1,18 @@
+
+"Speaker A: 'Hello, it's great to see you for your follow-up appointment. How have you been feeling since we updated your care plan?'
+
+Speaker B: 'I've been feeling much better, actually. The changes have made a big difference in my daily routine.'
+
+Speaker A: 'I'm glad to hear that! Ensuring the care plan meets your needs is always our goal. Let's take a look at your documentation just to make sure everything is in order.'
+
+Speaker B: 'Sure, everything seems to be well documented from what I can tell.'
+
+Speaker A: 'Great, it seems straight-forward. Now, regarding your upcoming discharge, how do you feel about the process?'
+
+Speaker B: 'Honestly, I'm a bit anxious about it. The whole procedure seems overwhelming, and I'm worried about managing everything on my own.'
+
+Speaker A: 'I understand your concerns. Let’s go over each step to make it more manageable. We’ll support you throughout the transition.'
+
+Speaker B: 'Thank you, that would ease my mind. I've really appreciated how supported I’ve felt here.'
+
+Speaker A: 'We’re here to help you every step of the way. Let’s ensure you have everything you need before you leave.'"

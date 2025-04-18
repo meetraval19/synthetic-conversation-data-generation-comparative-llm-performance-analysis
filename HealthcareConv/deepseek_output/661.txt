@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Referral Coordination",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Medical History",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Test Results",
+            "sentiment": "negative"
+        }
+    ]
+}

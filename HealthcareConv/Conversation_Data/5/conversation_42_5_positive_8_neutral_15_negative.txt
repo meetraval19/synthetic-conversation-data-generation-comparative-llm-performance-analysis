@@ -1,0 +1,20 @@
+"Speaker A: 'Good to see you again! I must say, your progress has been impressive.'  
+Speaker B: 'Thank you, doctor! I've been sticking to the routine as best as I can.'  
+
+Speaker A: 'That's great to hear. Now, let's update your care plan. We'll adjust some of your medications.'  
+Speaker B: 'Alright, what changes should I expect?'  
+
+Speaker A: 'We'll slightly lower the dosage of one of your prescriptions. It's a routine change, nothing to worry about.'  
+Speaker B: 'That sounds reasonable. Anything else I should know?'  
+
+Speaker A: 'There's one more thing. I wanted to discuss our approach to your treatment plan and make sure we're on the same page.'  
+Speaker B: 'Of course, but is there a particular concern?'  
+
+Speaker A: 'I believe it’s crucial that we align our expectations. Sometimes shared decisions can lead to misunderstandings, and I want to avoid that.'  
+Speaker B: 'I appreciate that. It's important for us to be clear about the next steps.'  
+
+Speaker A: 'Absolutely. If we work through this together, we can achieve the best outcome.'  
+Speaker B: 'I agree. Thank you for being so attentive to my needs.'  
+
+Speaker A: 'You're welcome. Let's keep moving forward positively!'  
+Speaker B: 'Definitely, looking forward to the next appointment!'  

@@ -1,0 +1,15 @@
+"Speaker A: 'I see your discharge is scheduled for tomorrow. How are you feeling about leaving the hospital?'
+
+Speaker B: 'Honestly, I'm a bit concerned. The discharge process seems a bit rushed and confusing at times.'
+
+Speaker A: 'I understand. Let’s focus on ensuring that you have everything you need. Shall we go over your care plan together?'
+
+Speaker B: 'That sounds great. I really appreciate being part of the decision-making. Knowing that my preferences are considered makes me feel more confident.'
+
+Speaker A: 'Absolutely. Having you actively involved is important. Let’s review the updated care plan and ensure it aligns with your needs.'
+
+Speaker B: 'Thank you. Having a clear plan for my medications and follow-ups makes this transition much smoother.'
+
+Speaker A: 'I’m glad to hear that. Remember, if you have any questions or concerns, you're not alone. We’re here to support you through every step.'
+
+Speaker B: 'Thank you so much. It's reassuring to know I have a strong support system as I head home.'"

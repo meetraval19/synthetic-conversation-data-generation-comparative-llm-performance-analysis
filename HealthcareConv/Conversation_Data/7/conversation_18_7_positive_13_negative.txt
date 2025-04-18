@@ -1,0 +1,17 @@
+"Speaker A: 'How have you been feeling since your operation last week?'
+
+Speaker B: 'Overall, much better, thanks to everyone’s support. Your team’s communication was incredible throughout my stay.'
+
+Speaker A: 'I’m really glad to hear that! We aim to keep everyone informed and involved.'
+
+Speaker B: 'It definitely showed. But I was a bit worried when it came to planning my discharge.'
+
+Speaker A: 'I understand. We've been working on coordinating those plans more efficiently. Was there anything specific that concerned you?'
+
+Speaker B: 'Just some confusion about the medication schedule and follow-up appointments.'
+
+Speaker A: 'I’ll make sure we address those areas moving forward. Your feedback helps us improve.'
+
+Speaker B: 'I appreciate that. It’s reassuring to know you’re listening.'
+
+Speaker A: 'Absolutely, it’s all about ensuring you feel supported at every step.'"

@@ -1,0 +1,19 @@
+"Speaker A: 'It's great to see you're making progress in recovery. Let's talk about getting you home soon.'
+
+Speaker B: 'That sounds good! What are the next steps?'
+
+Speaker A: 'We'll start planning your transition home with a detailed care plan. Everything indicates you'll manage well.'
+
+Speaker B: 'I'm relieved to hear that. Are there any specific things I should prepare for?'
+
+Speaker A: 'Just routine follow-ups, but let's also review any medications you might be prescribed. It’s important to discuss any potential reactions you might experience.'
+
+Speaker B: 'I was wondering about that. Are there common issues I should be aware of?'
+
+Speaker A: 'Some may experience mild symptoms. It's different for everyone, so let’s monitor how you respond.'
+
+Speaker B: 'Okay, that makes sense. I'll keep an eye on things and let you know if something feels off.'
+
+Speaker A: 'Perfect. We're here to support you. Overall, you’re on a positive track for going home.'
+
+Speaker B: 'Thank you. I'm feeling optimistic about heading home soon.'"

@@ -1,0 +1,13 @@
+"Speaker A: 'Thanks for joining us today to discuss your experience with the new software system. How do you find setting up or configuring the tools?'
+
+Speaker B: 'Honestly, it's been quite frustrating. The setup process isn't very intuitive, and I spent a lot of time figuring it out.'
+
+Speaker A: 'I see. We're looking into ways to simplify that process. How do you feel about the initial training you received?'
+
+Speaker B: 'It was decent. The training covered the basics, but I still had a lot of questions afterward. It would be helpful to have more in-depth resources.'
+
+Speaker A: 'That's valuable feedback. We're considering offering more comprehensive materials. How's the overall performance of the system so far?'
+
+Speaker B: 'The performance is decent. I haven't noticed any major issues, but I'm still trying to explore all the features thoroughly.'
+
+Speaker A: 'Great to hear there's nothing too concerning on that front. We'll definitely look into improving the areas you mentioned. Thank you for your honest feedback.'"

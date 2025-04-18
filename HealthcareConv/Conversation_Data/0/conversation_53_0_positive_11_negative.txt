@@ -1,0 +1,11 @@
+"Speaker A: 'The quick access to the patient's medical history really made a difference today.'
+
+Speaker B: 'Absolutely, having those records available helped us make informed decisions quickly.'
+
+Speaker A: 'However, there seemed to be some gaps when it came to explaining the treatment process to the patient.'
+
+Speaker B: 'Yes, patient understanding about their condition seemed low, which is concerning.'
+
+Speaker A: 'It's crucial for patients to be well-informed to ensure they adhere to the treatment plan.'
+
+Speaker B: 'Agreed, we should work on improving communication and educational materials for the patients.'"

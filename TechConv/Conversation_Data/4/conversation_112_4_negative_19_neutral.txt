@@ -1,0 +1,13 @@
+"Speaker A: 'Morning, team. I wanted to kick off today's meeting by discussing the difficulties we've had with the system integrations. They’re not going as smoothly as planned.' 
+
+Speaker B: 'Yes, I’ve noticed the same. The compatibility issues between the platforms are creating more headaches than expected.'
+
+Speaker C: 'It's frustrating. We might need to rethink our approach or consult with the vendors to see if there's an easier solution.'
+
+Speaker A: 'Good idea. On another note, how's everyone finding the new project management tool?'
+
+Speaker B: 'It's pretty similar to the last one we used. I don't see much of a difference in functionality, honestly.'
+
+Speaker C: 'I agree. It's straightforward, but the benefits aren't very clear over the previous tool we had.'
+
+Speaker A: 'Alright, thanks for the feedback. Let’s plan to discuss alternatives later this week and prioritize solving the integration issues first.'"

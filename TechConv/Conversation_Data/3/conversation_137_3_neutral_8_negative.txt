@@ -1,0 +1,15 @@
+"Speaker A: 'Thanks for joining this session. Could you share your thoughts on how the app handles your personal information?'
+
+Speaker B: 'Sure, I've reviewed the privacy details. It seems straightforward, nothing alarming.'
+
+Speaker A: 'That's good to hear. Now, what about the instructions provided for setting up and using the app?'
+
+Speaker B: 'Honestly, the setup guide was quite hard to follow. The explanations were confusing, and I spent too much time figuring things out.' 
+
+Speaker A: 'I see. So, the documentation didn’t really align with your expectations?'
+
+Speaker B: 'Exactly, it was frustrating. Clearer steps and examples would definitely help.' 
+
+Speaker A: 'Got it, we’ll look into improving that. Thanks for your feedback on both aspects.' 
+
+Speaker B: 'No problem, happy to help!' "

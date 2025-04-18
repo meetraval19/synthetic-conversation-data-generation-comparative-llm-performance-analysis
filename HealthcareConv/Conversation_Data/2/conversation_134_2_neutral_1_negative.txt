@@ -1,0 +1,15 @@
+"Speaker A: 'Let's start with the patient's test results. They seem to be within the expected ranges.'
+
+Speaker B: 'Yes, I noticed that as well. Nothing too surprising there.'
+
+Speaker A: 'Moving on to the symptom assessment, it looks like the patient is experiencing increased discomfort.'
+
+Speaker B: 'That's concerning. The symptoms have escalated, and we need to address this quickly.'
+
+Speaker A: 'I agree. We'll need to adjust the treatment plan to alleviate those symptoms.'
+
+Speaker B: 'Definitely. We should prioritize re-evaluating the current medications.'
+
+Speaker A: 'Yes, and closely monitor any further developments to ensure we're on the right track.'
+
+Speaker B: 'Agreed. Let's keep the focus on managing the symptoms effectively.'"

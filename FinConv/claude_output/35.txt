@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "topic": "Financial Statement Analysis",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Regulatory Compliance Check",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Creditworthiness Evaluation",
+      "sentiment": "neutral"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Communication with Opposing Parties",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Evidence and Documentation Review",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Governing Law and Jurisdiction",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Contract Terms and Obligations",
+      "sentiment": "neutral"
+    }
+  ]
+}

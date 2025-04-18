@@ -1,0 +1,17 @@
+"Speaker A: 'I'm relieved to say you're ready for discharge, but first, let's discuss any concerns you might have after your recent visit.'
+
+Speaker B: 'Well, there were some worrying moments in the emergency department. That episode felt quite unsettling.'
+
+Speaker A: 'I understand. It can be daunting to face emergencies, but we've taken all necessary precautions to ensure your safety before sending you home.'
+
+Speaker B: 'That’s reassuring to hear. Now about the symptoms I was experiencing—have they been thoroughly assessed?'
+
+Speaker A: 'Yes, we've completed a comprehensive evaluation. Your symptoms seem stable, but we'll monitor them as part of your follow-up plan. It's important to keep track, just in case.'
+
+Speaker B: 'I’ll make sure to do that. And what about the medication I was prescribed? I want to ensure I'm taking the right dosage.'
+
+Speaker A: 'Certainly, that's important. We've reviewed your medication, and the dosage remains the same for now. If you experience any side effects or have questions, don’t hesitate to reach out.'
+
+Speaker B: 'Thanks for clarifying everything. I feel much better equipped to manage my care at home now.'
+
+Speaker A: 'That’s great to hear. If anything else comes up, remember help is just a call away.'"

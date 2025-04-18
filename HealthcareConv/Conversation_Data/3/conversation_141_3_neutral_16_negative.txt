@@ -1,0 +1,17 @@
+"Speaker A: 'Let's start by going over the medications you'll be taking at home.'
+
+Speaker B: 'Sure, but I'm feeling a bit overwhelmed with all the new information.'
+
+Speaker A: 'I understand. We'll review each medication, and I'll make sure you know what each one is for and when to take it.'
+
+Speaker B: 'That sounds helpful. I just want to ensure I get it right.'
+
+Speaker A: 'No worries, we’ll take it step by step. Now, about the diagnosis you received earlier...'
+
+Speaker B: 'Honestly, it wasn’t clear to me. I left the consultation feeling confused and worried.'
+
+Speaker A: 'I’m sorry to hear that. It's important you understand what’s going on with your health. Let’s go through your diagnosis and clarify any doubts.'
+
+Speaker B: 'I’d appreciate that. I just want to know exactly what to expect moving forward.'
+
+Speaker A: 'Absolutely, and you have every right to feel informed and confident about your care plan. We'll make sure everything is clear before you leave today.'"

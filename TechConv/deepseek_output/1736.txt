@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Collaboration or Communication Gaps",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "negative"
+        }
+    ]
+}

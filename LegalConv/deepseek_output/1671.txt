@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Argument and Case Theory",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "positive"
+        }
+    ]
+}

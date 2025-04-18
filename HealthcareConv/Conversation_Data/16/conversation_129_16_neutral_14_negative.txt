@@ -1,0 +1,21 @@
+"Speaker A: 'Let's start by discussing how we communicated the latest diagnosis to our patient. How did it go?'
+
+Speaker B: 'The conversation was pretty straightforward. The patient seemed to understand the information clearly.'
+
+Speaker C: 'That's good to hear. Maintaining clarity in these discussions is so important.'
+
+Speaker A: 'Absolutely. Now, about the treatment side effects. I've noticed a few patients are struggling.'
+
+Speaker B: 'Yes, I've observed that some are having a hard time with nausea and fatigue. It's been particularly challenging for them.'
+
+Speaker C: 'I agree. It's tough to see patients dealing with these discomforts.'
+
+Speaker A: 'We should explore ways to better manage these side effects. Do we have any new strategies that could help?'
+
+Speaker B: 'There’s a couple of options, but managing expectations and close monitoring might be the first step.'
+
+Speaker C: 'I’ll check in with the pharmacy team to see if there are alternative approaches we could try to help alleviate these symptoms.'
+
+Speaker A: 'Great, let's keep communication open and make sure everyone feels supported through this.' 
+
+Speaker B: 'Definitely. We owe it to them to make their journey as smooth as possible.'"

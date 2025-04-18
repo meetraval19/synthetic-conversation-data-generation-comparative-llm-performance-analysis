@@ -1,0 +1,19 @@
+"Speaker A: 'I just finished reviewing the patient's records, and some of the documentation is quite inconsistent.'
+
+Speaker B: 'That sounds frustrating. Documentation issues can really complicate things.'
+
+Speaker A: 'Exactly. It makes assessing the past treatments difficult.'
+
+Speaker B: 'On a brighter note, the medication review was thorough. The new prescriptions seem to be working well without any adverse effects.'
+
+Speaker A: 'That's great to hear. It's always a relief when the medications are effective and well-tolerated.'
+
+Speaker B: 'Yes, medication management is crucial for recovery.'
+
+Speaker A: 'Have you started planning for the patient's discharge?'
+
+Speaker B: 'There's ongoing discussion about coordinating with outpatient services, but nothing final yet.'
+
+Speaker A: 'A neutral approach seems best for now, considering the outpatient options.'
+
+Speaker B: 'Agreed. Communication with follow-up care is key for a smooth transition.'"

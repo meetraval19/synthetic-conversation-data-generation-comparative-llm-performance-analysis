@@ -1,0 +1,19 @@
+"Speaker A: 'I’ve been reviewing your medications, and it looks like we’ve made some excellent progress in managing your symptoms.'
+
+Speaker B: 'That’s great to hear. I've been feeling much better lately. It seems like the adjustments worked really well.'
+
+Speaker A: 'On another note, I noticed that some of the documentation from your last visit might have been recorded incorrectly.'
+
+Speaker B: 'Oh, that sounds frustrating. I hope it doesn’t cause any issues.'
+
+Speaker A: 'We’ll get it sorted out, but it can be a challenge sometimes to ensure every detail is captured accurately.'
+
+Speaker B: 'I understand. Is there anything else we should discuss?'
+
+Speaker A: 'Just a quick word about communication with our team. It’s vital we’re all on the same page for your care, and everything looks to be going smoothly.'
+
+Speaker B: 'Good to know. It feels reassuring to have everyone coordinated.'
+
+Speaker A: 'Absolutely. Is there anything else on your mind today?'
+
+Speaker B: 'No, I think we’ve covered everything important. Thanks for the update!'”

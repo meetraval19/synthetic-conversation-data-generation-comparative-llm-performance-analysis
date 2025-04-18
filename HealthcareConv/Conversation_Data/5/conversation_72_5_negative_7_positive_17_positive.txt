@@ -1,0 +1,21 @@
+"Speaker A: 'Hi, Doctor. I'm a bit concerned about how things have been since our last visit.'
+
+Speaker B: 'I understand your worries. Let's address any issues you might have experienced.'
+
+Speaker A: 'It’s been tough to keep track of all the steps. The follow-up process seems a bit disorganized.'
+
+Speaker B: 'I'm sorry to hear that. We’ll work on clarifying the steps to make it smoother for you.'
+
+Speaker A: 'Thanks. On a brighter note, I’ve noticed how well your team communicates. It's reassuring.'
+
+Speaker B: 'I'm glad to hear that! We strive for clear communication to make sure you feel supported.'
+
+Speaker A: 'Also, I appreciate how you’ve helped me tackle barriers like scheduling and transport. It's made getting care much easier.'
+
+Speaker B: 'That’s great to hear. We want to remove as many obstacles as possible for our patients.'
+
+Speaker A: 'It really makes a difference. I feel more motivated knowing these supports are in place.'
+
+Speaker B: 'I’m pleased to know that. Let’s continue to work together to ensure you get the best care.'
+
+Speaker A: 'Thank you, Doctor. I feel more optimistic after our conversation.'"

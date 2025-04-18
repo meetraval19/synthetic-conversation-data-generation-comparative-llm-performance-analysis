@@ -1,0 +1,16 @@
+Based on the conversation, I've identified the underlying themes and their associated sentiments:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Discharge Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Team Communication",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

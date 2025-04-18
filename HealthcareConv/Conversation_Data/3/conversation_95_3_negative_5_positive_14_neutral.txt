@@ -1,0 +1,25 @@
+"Speaker A: 'Hello, how have you been feeling since we last met?'
+
+Speaker B: 'I've been okay, but I have some concerns about the medication.'
+
+Speaker A: 'I understand. What specifically has been bothering you about it?'
+
+Speaker B: 'It just doesn’t seem to be working as well as I hoped.'
+
+Speaker A: 'That’s important to address. We can review the dosage or consider alternatives.'
+
+Speaker B: 'I’d appreciate that. On a brighter note, the follow-up exercises you recommended have helped a lot.'
+
+Speaker A: 'I’m glad to hear that! Continuing those can really promote better health outcomes.'
+
+Speaker B: 'Yes, they’ve definitely made a difference, especially the breathing techniques.'
+
+Speaker A: 'Great to hear. Any noticeable changes from the medication, like side effects?'
+
+Speaker B: 'Well, there have been some mild ones, but they were manageable.'
+
+Speaker A: 'Okay, keep an eye on those, and let me know if anything changes.'
+
+Speaker B: 'Will do. Thanks for taking the time to review everything with me.'
+
+Speaker A: 'Of course. It’s important to keep you feeling your best. We’ll adjust as needed to get you there.'"

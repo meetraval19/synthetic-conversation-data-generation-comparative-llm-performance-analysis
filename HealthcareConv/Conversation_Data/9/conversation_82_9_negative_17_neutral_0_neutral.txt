@@ -1,0 +1,20 @@
+"Speaker A: 'Before we finalize your discharge, let's review your risk factors. Some concerns need addressing, like those elevated levels we discussed.'
+
+Speaker B: 'Right, I was worried when you mentioned those. What steps can I take to manage them?'
+
+Speaker A: 'We'll provide a comprehensive plan, but it's crucial to monitor them closely. Now, let's move on to any difficulties you might face accessing your care plan.'
+
+Speaker B: 'Accessing the plan shouldn't be too difficult, but I do have questions about getting to follow-up appointments.'
+
+Speaker A: 'That's understandable. We can discuss transportation options and find what works best for you.'
+
+Speaker B: 'I appreciate that. As for my past health records, do I need to bring anything particular for my check-ups?'
+
+Speaker A: 'Your recent test results should suffice, but we’ll ensure the information is easily accessible for your next visits.'
+
+Speaker B: 'Great, having everything in one place will definitely help.'
+
+Speaker A: 'Exactly, keeping your medical history organized makes continuity of care much smoother. Let’s make sure you’re set with all the info you need.' 
+
+Speaker B: 'Thanks, being prepared gives me peace of mind.'"
+

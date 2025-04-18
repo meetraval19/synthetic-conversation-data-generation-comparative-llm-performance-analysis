@@ -1,0 +1,19 @@
+"Speaker A: 'Good to see you again. Let's start by going over some of your recent test results.'
+
+Speaker B: 'I hope they are all right, but I'm a bit anxious about them.'
+
+Speaker A: 'Unfortunately, there's something we need to address. Your cholesterol levels came back higher than expected.'
+
+Speaker B: 'That's not what I wanted to hear. What can we do about it?'
+
+Speaker A: 'We can adjust your diet and exercise routine, and if needed, consider medication. But let's pull up your medical history, it's impressive how well you've handled previous issues.'
+
+Speaker B: 'Thank you, I try to stay on top of things.'
+
+Speaker A: 'And it's clearly paying off. Now, let's review your current medication. The medication you started a few months ago for blood pressure has shown positive effects.'
+
+Speaker B: 'I've actually felt better since starting it, so that's good news.'
+
+Speaker A: 'Yes, absolutely. The improvements are noticeable. We'll focus on maintaining this progress while we address the other concerns.'
+
+Speaker B: 'Sounds like a plan. I appreciate your guidance.'

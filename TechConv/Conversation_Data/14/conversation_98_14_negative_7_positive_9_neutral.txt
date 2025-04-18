@@ -1,0 +1,14 @@
+"Speaker A: 'Thanks for joining the feedback session today. Let's start by discussing the data analysis tools you've been using. How have you found the metrics and analytics features?'
+
+Speaker B: 'Honestly, the analytics section has been a bit overwhelming. It's difficult to extract the insights we need without a lot of manual work.'
+
+Speaker A: 'I see. That's definitely something we need to look into. Now, regarding the support team, how do you feel about their response times and the escalation process?'
+
+Speaker B: 'The support team has been fantastic! They're quick to respond, and the escalation process is smooth. I've always felt supported whenever issues arise.'
+
+Speaker A: 'That's great to hear. We strive to keep our support top-notch. Moving on, I'd like to get your thoughts on the testing and validation aspect. How's your experience been on that front?'
+
+Speaker B: 'It's been okay overall. The testing phase is thorough, but sometimes it feels a bit prolonged. It's understandable, though, considering the importance of getting it right.'
+
+Speaker A: 'Thank you for your honest feedback. Your insights are invaluable to us as we continue to improve our offerings.'"
+

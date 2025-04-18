@@ -1,0 +1,19 @@
+"Speaker A: 'Hello, it's good to see you today. Have you had any thoughts about the recent tests we conducted?'
+
+Speaker B: 'Hi. I've been a bit worried. You mentioned there were some concerns.'
+
+Speaker A: 'Yes, I understand your concerns. The assessment did indicate a few risks, but let’s focus on addressing them effectively.'
+
+Speaker B: 'That’s reassuring. What do you suggest as the next steps?'
+
+Speaker A: 'We have a solid plan for follow-up care that could make a big difference in managing these risks.'
+
+Speaker B: 'That sounds hopeful. What does that involve?'
+
+Speaker A: 'We’ll schedule regular check-ups and adjust your treatment as needed. This proactive approach should yield positive results.'
+
+Speaker B: 'I appreciate that. It’s nice to know there’s a plan in place.'
+
+Speaker A: 'Absolutely. Keeping you informed and involved in your care is important to us.'
+
+Speaker B: 'Thank you. I feel more optimistic now knowing there's a clear path forward.'"

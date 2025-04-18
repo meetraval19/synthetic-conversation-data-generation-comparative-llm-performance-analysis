@@ -1,0 +1,13 @@
+"Speaker A: 'So, it seems there have been some changes since your last visit. How have things been going?'
+
+Speaker B: 'Well, there have been improvements, but I faced a few hurdles accessing the new services.'
+
+Speaker A: 'It can be tricky navigating the system sometimes. Let’s make sure we address those as part of your care plan.'
+
+Speaker B: 'Thank you. Also, I’ve noticed there have been some hiccups in communication between your team members.'
+
+Speaker A: 'I’m sorry to hear that. We’re working on improving our internal communication to ensure a smoother experience for you.'
+
+Speaker B: 'I appreciate that. On a good note, I’m quite optimistic about the recent updates to my treatment plan. It feels more thorough now.'
+
+Speaker A: 'That’s great to hear! We’ve really focused on tailoring it to better meet your needs. Let’s review it together and clear up any questions you might have.'"

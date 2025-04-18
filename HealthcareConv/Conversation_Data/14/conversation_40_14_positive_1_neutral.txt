@@ -1,0 +1,13 @@
+"Speaker A: 'The new medication seems to be doing wonders for our patients.'
+
+Speaker B: 'Yes, I’ve noticed the side effects have been surprisingly minimal and manageable.'
+
+Speaker A: 'That's a relief, considering how some treatments can lead to more complications.'
+
+Speaker B: 'Absolutely. Now, regarding the patient’s current condition, have you assessed the latest symptoms?'
+
+Speaker A: 'I have; there’s not much change from the previous evaluations.'
+
+Speaker B: 'It seems stable then, which is good, but we’ll need to continue monitoring closely.'
+
+Speaker A: 'Definitely. Continuing regular checks will help us track any potential shifts quickly.'"

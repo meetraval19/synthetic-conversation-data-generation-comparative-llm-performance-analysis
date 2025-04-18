@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Applicable Laws and Regulations",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Risk Assessment and Mitigation",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "negative"
+    }
+  ]
+}

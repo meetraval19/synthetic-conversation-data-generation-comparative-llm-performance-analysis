@@ -1,0 +1,19 @@
+"Speaker A: 'Welcome! I'm excited to show you how our software can streamline your operations.'
+
+Speaker B: 'Thanks, but I’ve heard some concerns about performance. Can you address that?'
+
+Speaker A: 'Absolutely. We’ve made significant improvements to optimize system speed, though I understand why previous reports might worry you.'
+
+Speaker B: 'Alright, I’m willing to see how it performs in action.'
+
+Speaker A: 'Great! Now, as for handling any issues, our integrated feedback system is straightforward. It allows users to report bugs directly within the platform.'
+
+Speaker B: 'That sounds useful. How is the response time once an issue is submitted?'
+
+Speaker A: 'It’s designed to ensure quick resolutions. We aim to address any reports within 24 hours.'
+
+Speaker B: 'That’s good to know. I appreciate the transparency.'
+
+Speaker A: 'Our goal is to provide you with a seamless experience. Let me show you a demo of these features.' 
+
+Speaker B: 'Looking forward to seeing it in action.'"

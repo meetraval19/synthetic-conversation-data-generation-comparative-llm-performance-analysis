@@ -1,0 +1,20 @@
+{
+  "topics": [
+    {
+      "topic": "Witness Identification and Preparation",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Strategy and Action Plan Development",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Legal Issue Identification",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Updates and Next Steps Planning",
+      "sentiment": "positive"
+    }
+  ]
+}

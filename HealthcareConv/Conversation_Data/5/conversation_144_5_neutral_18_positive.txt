@@ -1,0 +1,15 @@
+"Speaker A: 'Hi there, how have you been since our last appointment?'
+
+Speaker B: 'I've been okay, thanks. Just here for my regular check-up.'
+
+Speaker A: 'Great. It's important to stay on top of things with these follow-ups to ensure everything's going smoothly.'
+
+Speaker B: 'I agree. It keeps me reassured about my health.'
+
+Speaker A: 'Good to hear. Have you experienced any unexpected issues or emergency concerns since we last met?'
+
+Speaker B: 'Actually, there was one incident where I felt a bit off, but the quick response from the clinic was very comforting. It made me feel secure knowing help is readily available.'
+
+Speaker A: 'I'm glad to hear you felt supported. Ensuring you get prompt care in any urgent situation is a top priority for us.'
+
+Speaker B: 'Yes, it’s such a relief knowing you’re always there when needed.'"

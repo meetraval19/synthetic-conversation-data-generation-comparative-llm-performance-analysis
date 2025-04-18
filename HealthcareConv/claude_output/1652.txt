@@ -1,0 +1,16 @@
+Based on the conversation provided, I'll identify the underlying themes and analyze the sentiment for each topic.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Shared Decision",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Risk Assessment",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

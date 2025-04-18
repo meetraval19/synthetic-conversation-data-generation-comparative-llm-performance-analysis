@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Liquidity Risk Evaluation",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Strategic Financial Planning",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "neutral"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+"Speaker A: 'I’ve been reviewing the integration metrics, and everything looks balanced so far.'
+
+Speaker B: 'That’s good to hear. It seems like we’re on the right track, but I’ve encountered some issues on the communication side.'
+
+Speaker A: 'Really? What's been happening?'
+
+Speaker B: 'Well, there have been several misunderstandings between our teams. It’s causing delays in deploying the API.'
+
+Speaker A: 'That’s frustrating. Could it be due to unclear documentation?'
+
+Speaker B: 'Partly, but also some messages aren’t reaching the right people. It’s affecting our efficiency.'
+
+Speaker A: 'We should definitely set up a clearer communication protocol to avoid these gaps.'
+
+Speaker B: 'Agreed. Regular check-ins might help us catch these issues early.'
+
+Speaker A: 'For sure. Meanwhile, if you have any suggestions on metrics improvements, let me know.'
+
+Speaker B: 'I’ll compile some insights. Let’s tackle these communication hurdles first though.'"
+

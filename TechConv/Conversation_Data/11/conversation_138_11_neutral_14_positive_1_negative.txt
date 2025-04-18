@@ -1,0 +1,18 @@
+"Speaker A: 'Thanks for taking the time to talk with us today. We've recently introduced some new features, and I'd love to hear your thoughts. Let's start with how you found the initial setup process.'
+
+Speaker B: 'Honestly, the setup was pretty straightforward. I didn’t feel like I needed much extra guidance.'
+
+Speaker A: 'That's great to hear. We've been working to streamline the onboarding to make it as seamless as possible. How about looking at the insights or analytics from the platform?'
+
+Speaker B: 'Oh, the analytics are fantastic! They offer such detailed insights that help us track our progress efficiently.'
+
+Speaker A: 'I'm glad to hear that the analytics are benefiting you. It's one of our main goals to provide valuable data to our users. Now, have you encountered any issues while using the system?'
+
+Speaker B: 'Unfortunately, yes. There have been a few glitches here and there, which have been a bit frustrating to deal with.'
+
+Speaker A: 'I'm sorry to hear that. We're actively looking for feedback to address any bugs quickly. Could you give us specific examples so that we can work on improving them?'
+
+Speaker B: 'Sure, I'll make a list and send it over. I think it's just minor things, but they do affect the experience.'
+
+Speaker A: 'Thank you for doing that. Your feedback is essential in helping us enhance the platform.'"
+

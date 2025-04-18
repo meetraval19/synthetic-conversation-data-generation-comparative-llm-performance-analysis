@@ -1,0 +1,16 @@
+"Speaker A: 'I see you're getting ready to be discharged soon. How are you feeling about the transition from hospital to home care?'
+
+Speaker B: 'It's a bit daunting, but I feel prepared. They've explained the home-care plan quite thoroughly.'
+
+Speaker A: 'Great to hear. Now, regarding your specialist appointments, did you face any issues with getting the referrals?'
+
+Speaker B: 'Actually, there were some delays. It was frustrating trying to coordinate everything between the different offices.'
+
+Speaker A: 'I'm sorry to hear that. We'll try to streamline the process better next time. On a brighter note, how's your progress with the therapy routine?'
+
+Speaker B: 'That's been going really well. I've been sticking to the exercises daily and noticed significant improvements in my mobility.'
+
+Speaker A: 'That’s fantastic. Sticking to the therapy plan makes a big difference in recovery.'
+
+Speaker B: 'Absolutely, and I'm feeling more confident with each session.'"
+

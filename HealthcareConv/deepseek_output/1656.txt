@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Shared Decision",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Emergency Concerns",
+            "sentiment": "neutral"
+        }
+    ]
+}

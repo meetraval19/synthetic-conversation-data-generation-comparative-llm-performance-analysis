@@ -1,0 +1,17 @@
+"Speaker A: 'I'm glad to see you back for your follow-up. How are you feeling after being discharged?' 
+
+Speaker B: 'Really good, actually. The care plan was clear, and I felt well-prepared when I left the hospital.'
+
+Speaker A: 'That’s great to hear. Our goal is always to ensure a smooth transition home.'
+
+Speaker B: 'It really was. But I must admit, I’m still a bit anxious about the next steps in managing my condition.'
+
+Speaker A: 'I understand. Let’s take a closer look at the most recent risk factors. We’ll make sure you’re well-equipped to handle them.'
+
+Speaker B: 'I appreciate that. The unknowns make me a bit nervous.'
+
+Speaker A: 'Completely understandable. Our goal is to mitigate those risks as much as possible. We’ll adjust your care plan based on this discussion.'
+
+Speaker B: 'Thank you, that definitely makes me feel more at ease. Knowing I have a solid plan helps.' 
+
+Speaker A: 'Of course. We’re here to support you every step of the way.'"

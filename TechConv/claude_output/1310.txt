@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Licensing or Access Rights",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Bug or Issue Reporting",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "System Configuration Details",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

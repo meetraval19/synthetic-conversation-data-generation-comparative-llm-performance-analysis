@@ -1,0 +1,17 @@
+"Speaker A: 'Hi, thanks for calling support. How can I assist you today?'
+
+Speaker B: 'Hello! I'm trying to decide between a couple of platforms for our project. Heard great things about both.'
+
+Speaker A: 'Absolutely, both platforms have impressive features and user-friendly interfaces. You're sure to find what you need.'
+
+Speaker B: 'Great to hear! But I’m having some trouble setting up the current system configuration. It's been a bit of a hassle.'
+
+Speaker A: 'I understand. System configurations can be tricky. Sometimes, documentation isn't as clear as it should be, causing quite the headache.'
+
+Speaker B: 'Exactly. And on another note, I'm a bit confused about the licensing or access rights. Could you shed some light on that?'
+
+Speaker A: 'Of course. Licensing often depends on specific needs. Let’s go over your requirements, and we can figure out what makes sense.' 
+
+Speaker B: 'Thanks, that would be really helpful. Appreciate your assistance!'
+
+Speaker A: 'No problem at all. Let's start with the basics and go from there.'"

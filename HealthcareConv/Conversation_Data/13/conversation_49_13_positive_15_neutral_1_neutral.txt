@@ -1,0 +1,15 @@
+"Speaker A: 'Hello, Doctor. I'm feeling much better since I got discharged. The plan they gave me was really comprehensive.'
+
+Speaker B: 'I'm glad to hear that. We always aim for clear and positive plans to ensure patients recover smoothly.'
+
+Speaker A: 'During my discharge, we talked about options for ongoing care. It was helpful to decide together what might work best for me.'
+
+Speaker B: 'Shared decision-making is crucial. It helps in tailoring the treatment to fit your needs and circumstances.'
+
+Speaker A: 'Absolutely. Also, I've noticed some mild symptoms here and there. Should I be concerned?'
+
+Speaker B: 'Let's assess those symptoms. Understanding them better will help us decide if any adjustments to your care plan are needed.'
+
+Speaker A: 'Sounds good. Thank you for taking the time to go over this with me.'
+
+Speaker B: 'Of course. It's important to address any concerns you have, so you feel confident in your recovery path.'"

@@ -1,0 +1,19 @@
+"Speaker A: 'Hi, I'm having some confusion with how a certain feature works in your software.'
+
+Speaker B: 'I understand. Which aspect of the feature is giving you trouble?'
+
+Speaker A: 'It’s the automatic scheduling—it seems a bit off or not as intuitive as I expected.'
+
+Speaker B: 'I apologize for the inconvenience. We’re aware that the feature can be a bit challenging to navigate at first. Let me guide you through the process.'
+
+Speaker A: 'That would be helpful. Is it also tied to any system performance impacts?'
+
+Speaker B: 'Actually, many users have found that after a brief setup period, the performance has been really smooth, if that’s been a concern.'
+
+Speaker A: 'I haven’t noticed any performance issues, actually. It runs quite well on my device.'
+
+Speaker B: 'Great to hear! We’ve optimized the software significantly for better efficiency. Let’s go back to the feature. Shall we resolve the setup you mentioned?' 
+
+Speaker A: 'Yes, please. I'd appreciate your help with that.'
+
+Speaker B: 'Absolutely, I’m here to assist. Let’s get that sorted for you!'"

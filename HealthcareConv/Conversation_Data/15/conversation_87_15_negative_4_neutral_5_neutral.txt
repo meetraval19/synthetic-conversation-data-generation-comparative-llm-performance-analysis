@@ -1,0 +1,18 @@
+"Speaker A: 'I wanted to discuss the recent challenges we've had with engaging patients in their care decisions.'
+
+Speaker B: 'Yes, I've noticed that. Some patients seem overwhelmed by the amount of information we provide.'
+
+Speaker A: 'Exactly. It feels like shared decision-making isn't as effective as we hoped.'
+
+Speaker B: 'Perhaps we need to simplify the options or guide them more through the decision process.'
+
+Speaker A: 'That's a good idea. Now, about the latest treatment plan we discussed—should we review it once more before finalizing?'
+
+Speaker B: 'Absolutely. This last plan seemed comprehensive, but I'm open to minor adjustments if necessary.'
+
+Speaker A: 'Right, a second look never hurts. And regarding follow-up, are we still going to schedule it as discussed?'
+
+Speaker B: 'Yes, let's stick with the current schedule. It ensures consistency in monitoring without overwhelming the patient.' 
+
+Speaker A: 'Agreed. Consistency is key in maintaining their confidence in our care.'"
+

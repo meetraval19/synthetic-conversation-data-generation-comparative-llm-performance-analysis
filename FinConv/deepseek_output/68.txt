@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Financial Statement Analysis",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Internal Controls and Governance",
+            "sentiment": "negative"
+        }
+    ]
+}

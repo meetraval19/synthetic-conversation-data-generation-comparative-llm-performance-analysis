@@ -1,0 +1,17 @@
+"Speaker A: 'Thank you for calling tech support. How can I assist you today?'
+
+Speaker B: 'Hi, I'm setting up a new system and was wondering about the onboarding process.'
+
+Speaker A: 'Absolutely, our onboarding is fairly intuitive. You'll find the training resources in the user portal. Have you had a chance to explore those?'
+
+Speaker B: 'Yes, I did have a quick look, but I'm not sure if I covered everything. The steps seemed straightforward though.'
+
+Speaker A: 'Great to hear! If you need more support, know that our team can provide additional guidance without too much hassle.'
+
+Speaker B: 'That’s reassuring. Now, about the system’s testing phase, has there been any update on its validation?'
+
+Speaker A: 'Yes, actually. The testing has yielded highly positive results. We're seeing excellent performance metrics across the board.'
+
+Speaker B: 'That's great to hear. It's always a relief knowing the system has been thoroughly validated.'
+
+Speaker A: 'Definitely, and if you encounter anything unexpected, feel free to reach out anytime. We’re here to help make the transition as smooth as possible.'"

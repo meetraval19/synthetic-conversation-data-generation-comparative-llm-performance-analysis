@@ -1,0 +1,13 @@
+"Speaker A: 'I’ve reviewed the patient's symptoms and, unfortunately, they're concerning. The severity has increased since the last visit.'
+
+Speaker B: 'That's not what we wanted to hear. Have we considered a further assessment to understand any underlying issues?'
+
+Speaker A: 'Absolutely. We need to be thorough in our approach. Now, regarding the medications, have there been any noticeable side effects you've observed?'
+
+Speaker B: 'Surprisingly, no major side effects have been noted so far. It seems the medications are well-tolerated, but we should continue monitoring.'
+
+Speaker A: 'Agreed, it's crucial to keep a close watch. For the treatment plan, I’m considering a few options. Any thoughts on adjusting the current regimen?'
+
+Speaker B: 'I think we should evaluate additional alternatives. A more detailed plan might give us better outcomes without unexpected results.'
+
+Speaker A: 'That’s sensible. Let's arrange a follow-up to discuss this further and make sure everything is in place for the patient's next steps.'"

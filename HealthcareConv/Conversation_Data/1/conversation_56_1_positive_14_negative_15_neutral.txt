@@ -1,0 +1,17 @@
+"Speaker A: 'I reviewed the latest symptom assessments from your charts, and there has been significant improvement. How do you feel about that?'
+
+Speaker B: 'That's great to hear. I do feel a bit better, especially with the new medication regime.'
+
+Speaker A: 'It's encouraging to see such progress. However, we should also discuss the side effects you've been experiencing.'
+
+Speaker B: 'Yeah, the fatigue is overwhelming sometimes, and it's been hard to manage with my daily activities.'
+
+Speaker A: 'I understand how challenging that must be. We can explore alternatives that might lessen these effects.'
+
+Speaker B: 'I appreciate that. I'd like to have a say in choosing the next steps as well.'
+
+Speaker A: 'Absolutely. Shared decision-making is important, so let's go through the options together and find the best fit for your needs.'
+
+Speaker B: 'That sounds fair. I'm glad we're taking this approach, as it's reassuring to be part of the process.'
+
+Speaker A: 'We'll make sure all your concerns are addressed, and we’ll check in regularly to adjust the plan as needed.'"

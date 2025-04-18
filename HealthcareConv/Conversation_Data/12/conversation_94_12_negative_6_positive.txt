@@ -1,0 +1,19 @@
+"Speaker A: 'I noticed that you've been a bit frustrated with the paperwork involved in your treatment. How can I assist with that?'
+
+Speaker B: 'Yes, the amount of paperwork and documentation is overwhelming. It feels like there's always something missing or unclear.'
+
+Speaker A: 'I understand, and I apologize for the inconvenience. We're working on streamlining the process to make it less cumbersome for patients like you.'
+
+Speaker B: 'That would be a relief. Managing all the forms has been quite stressful.'
+
+Speaker A: 'On a brighter note, I see that your referral to the specialist went smoothly. How was your experience with that?'
+
+Speaker B: 'Actually, it went really well. The communication between your office and the specialist was seamless, and I felt well-informed every step of the way.'
+
+Speaker A: 'I'm glad to hear that. We strive to ensure our patients have positive experiences when coordinating with other providers.'
+
+Speaker B: 'It's definitely appreciated. The ease of the referral process made a big difference for me.'
+
+Speaker A: 'Thank you for sharing that. We'll keep working on improving all aspects of the patient experience, including the documentation.' 
+
+Speaker B: 'I appreciate your help and understanding. Hopefully, the whole process becomes less of a hassle over time.'"

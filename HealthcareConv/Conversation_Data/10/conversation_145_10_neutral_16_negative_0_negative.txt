@@ -1,0 +1,17 @@
+"Speaker A: 'How did you find the therapy adherence rate in our recent cases?'
+
+Speaker B: 'It seemed stable overall. Most patients are keeping up with their treatment plans.'
+
+Speaker A: 'That's good to hear. Now, about our communication yesterday—there was confusion during the diagnosis discussion.'
+
+Speaker B: 'Exactly. The explanations weren't clear enough for the families to fully understand the situation.'
+
+Speaker A: 'We need to work on delivering information more effectively. It's crucial for better outcomes.'
+
+Speaker B: 'Absolutely. And I noticed missing pieces in some patients’ medical backgrounds.'
+
+Speaker A: 'Yes, that missing history can really complicate emergency response.'
+
+Speaker B: 'For sure. It’s critical we ensure all patient records are up-to-date for future cases.'
+
+Speaker A: 'Agreed. Let’s address these issues in our follow-up training sessions.'"

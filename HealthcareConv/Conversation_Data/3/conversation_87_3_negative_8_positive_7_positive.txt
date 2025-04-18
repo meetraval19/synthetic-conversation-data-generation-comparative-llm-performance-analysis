@@ -1,0 +1,21 @@
+"Speaker A: 'Hi there, how have you been feeling since starting the new medication?'
+
+Speaker B: 'Honestly, not great. I've been experiencing some side effects that are quite bothersome.'
+
+Speaker A: 'I'm sorry to hear that. Let’s review your medications and see if we can adjust the dosage or find an alternative.'
+
+Speaker B: 'That would be helpful. I hope we can find a better option.'
+
+Speaker A: 'Absolutely. On a positive note, I’ve updated your care plan to include some new exercises that should help with your mobility.'
+
+Speaker B: 'That sounds great! I’m eager to give them a try. Physical activity has always helped my mood.'
+
+Speaker A: 'I’m glad to hear that! Also, I wanted to mention that our team now has improved communication tools, so you’ll receive updates and support more efficiently.'
+
+Speaker B: 'That’s reassuring. It feels good to know the team is working together well. It makes a big difference.'
+
+Speaker A: 'We’re committed to supporting you in every way we can. Let’s tackle the medication issue first, and we’ll make sure everything else falls into place.'
+
+Speaker B: 'Thank you for your support, I feel more hopeful now.'
+
+Speaker A: 'You’re welcome. We’re here to help you every step of the way.'"

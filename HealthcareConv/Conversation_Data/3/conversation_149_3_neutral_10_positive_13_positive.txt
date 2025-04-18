@@ -1,0 +1,20 @@
+"Speaker A: 'How have you been feeling since your discharge?'
+
+Speaker B: 'Surprisingly well. The plan we set up really made the transition smooth.'
+
+Speaker A: 'I'm glad to hear that. Let's review your medications next. Are you experiencing any side effects?'
+
+Speaker B: 'Not really. Everything seems stable, which is a relief.'
+
+Speaker A: 'Great. Consistency is key. I noticed you've been attending your therapy sessions regularly. That's impressive.'
+
+Speaker B: 'Yes, I’ve been motivated to keep at it. It’s helping more than I thought it would.'
+
+Speaker A: 'That’s wonderful. Adhering to your therapy can really accelerate your progress.'
+
+Speaker B: 'Absolutely. I feel more optimistic about recovery.'
+
+Speaker A: 'It's encouraging to see your commitment. We'll continue with this discharge plan for now and reassess in the next follow-up.'
+
+Speaker B: 'Sounds good. Thank you for your support.'"
+

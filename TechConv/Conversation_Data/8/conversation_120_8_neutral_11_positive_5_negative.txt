@@ -1,0 +1,16 @@
+"Speaker A: 'Thank you for joining us today. How do you find our technical resources?'
+
+Speaker B: 'The documentation is quite extensive. It’s neither overwhelming nor lacking.'
+
+Speaker A: 'That’s good to hear. We strive for balance. Regarding your initial experience, did the training sessions meet your expectations?'
+
+Speaker B: 'Absolutely! The onboarding process was very thorough and engaging. It made it easy to dive right in.'
+
+Speaker A: 'Glad to hear the training met your needs. What about our future plans—do you have any thoughts on the direction we’re heading?'
+
+Speaker B: 'Honestly, I have some concerns there. The future plans seem a bit unfocused, and that makes me uneasy about what’s to come.'
+
+Speaker A: 'I understand. Feedback like this is crucial for refining our strategy. We do aim for clarity and direction moving forward.'
+
+Speaker B: 'I appreciate that. It’s encouraging to know our feedback is valued here.'"
+

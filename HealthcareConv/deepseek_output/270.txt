@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Test Results",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Follow Up",
+            "sentiment": "neutral"
+        }
+    ]
+}

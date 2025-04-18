@@ -1,0 +1,17 @@
+"Speaker A: 'How did the coordination between departments run during the emergency?'
+
+Speaker B: 'It went as expected. The handoff between the ER and radiology was smooth, although it stays pretty routine.'
+
+Speaker A: 'That’s good to hear. Any updates on the test findings?'
+
+Speaker B: 'Yes, we got the results back quickly, and they were accurate. The rapid turnaround really helped manage the case efficiently.'
+
+Speaker A: 'Perfect. It's always reassuring when lab work flows seamlessly. Were there any obstacles in providing care?'
+
+Speaker B: 'Unfortunately, yes. There were some significant challenges. Insurance issues delayed a few necessary procedures, which was frustrating.'
+
+Speaker A: 'That's unfortunate. These barriers can really impact patient outcomes negatively.'
+
+Speaker B: 'Exactly, it’s something we need to address to improve future responses.'
+
+Speaker A: 'Agreed. Let’s make sure we bring this up in our next meeting to find a solution.'"

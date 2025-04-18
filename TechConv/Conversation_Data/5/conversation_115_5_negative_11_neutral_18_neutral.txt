@@ -1,0 +1,13 @@
+"Speaker A: 'Thanks for taking the time to talk with us about your experience. Let's start by discussing the predicted developments. How do you feel about the direction we're heading?'
+
+Speaker B: 'Honestly, I'm a bit concerned. The roadmap seems ambitious, but it lacks specifics about the practical steps and outcomes.'
+
+Speaker A: 'I understand. We'll look into providing more clarity. Now, regarding the initial setup and learning process, was it manageable for you?'
+
+Speaker B: 'It wasn't too difficult, but there were moments where I felt more information could have been beneficial. A more structured onboarding would help future users.'
+
+Speaker A: 'That's valuable feedback. We're looking into expanding our training resources. Lastly, how do you view the compliance and regulatory side of things with our technology?'
+
+Speaker B: 'It seems adequate, but staying updated with changing regulations is crucial to avoid any issues. A more proactive approach might be beneficial.'
+
+Speaker A: 'Absolutely, staying compliant is essential. Thank you for sharing your insights. We'll take these into account as we move forward.'"

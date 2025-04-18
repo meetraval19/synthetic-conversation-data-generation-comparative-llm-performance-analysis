@@ -1,0 +1,23 @@
+"Speaker A: 'Tech Support, how can I assist you today?'
+
+Speaker B: 'Hi, I’m having an issue with how cases are getting handled after I reach out for help.'
+
+Speaker A: 'I understand. Can you tell me more about the flow of support you're experiencing?'
+
+Speaker B: 'Sure, I feel like the process is a bit unclear. It’s hard to know if my issue is being prioritized correctly.'
+
+Speaker A: 'I see. Our goal is to make the process as seamless as possible, but I can help clarify how cases are escalated for you.'
+
+Speaker B: 'That would be great. I just want to make sure my concerns get the proper attention.'
+
+Speaker A: 'Of course, once a case is logged, our agents evaluate the urgency and complexity to escalate it appropriately. Is there anything else you'd like to address?'
+
+Speaker B: 'Yes, I'm also concerned about how our system will handle future growth. We plan to expand, and there are worries about our current infrastructure.'
+
+Speaker A: 'Scalability is indeed a critical aspect. We need to ensure our infrastructure can support growing demands, and it sounds like there might be some limitations currently.'
+
+Speaker B: 'Exactly, we're worried it might not be robust enough to handle increased load.'
+
+Speaker A: 'Let’s schedule a detailed analysis to ensure your infrastructure is prepared for future growth and challenges.'
+
+Speaker B: 'That sounds like a good plan, thanks for the help today.'"

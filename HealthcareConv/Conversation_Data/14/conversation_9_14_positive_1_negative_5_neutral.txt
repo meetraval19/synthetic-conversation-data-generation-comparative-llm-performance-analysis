@@ -1,0 +1,24 @@
+"Speaker A: 'How have you been feeling since starting the new medication?'
+
+Speaker B: 'Surprisingly well! The only thing I noticed is a mild headache, but overall, it's manageable.'
+
+Speaker A: 'That's great to hear. Mild headaches are a common side effect, but it's good they aren't too bothersome.'
+
+Speaker B: 'Exactly, I'm quite relieved it's nothing severe.'
+
+Speaker A: 'Let’s discuss your main symptoms. Have you experienced any changes?'
+
+Speaker B: 'Actually, they're a bit worse. The fatigue is really lingering.'
+
+Speaker A: 'I’m sorry to hear that. It's important we address this. We might need to adjust your treatment plan.'
+
+Speaker B: 'That sounds sensible. I’d like to explore some options.'
+
+Speaker A: 'Of course, we’ll look into it. Also, let’s set up your next follow-up. It's good to keep things on track.'
+
+Speaker B: 'Sounds good, maintaining regular updates is key for me.'
+
+Speaker A: 'I’ll schedule you for a month from now, and we can reassess everything then.'
+
+Speaker B: 'I appreciate that. Thank you for your help!'"
+

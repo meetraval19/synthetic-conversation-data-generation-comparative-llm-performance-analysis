@@ -1,0 +1,15 @@
+"Speaker A: 'I'm pleased to let you know that the medication you're on has relatively mild side effects for most patients.'
+
+Speaker B: 'That's reassuring to hear. I've been anxious about how I'd feel after starting it.'
+
+Speaker A: 'Understandable. However, the recent blood test results weren't as promising as we hoped.'
+
+Speaker B: 'Oh no, that's disappointing. What do they indicate?'
+
+Speaker A: 'It seems some levels are outside the normal range, and we'll need to follow up closely.'
+
+Speaker B: 'I see. I was also confused by the way my diagnosis was explained initially.'
+
+Speaker A: 'I'm sorry to hear that. Communicating diagnoses can sometimes be challenging, but let's clarify anything that's unclear now.'
+
+Speaker B: 'Yes, please. I really want to fully understand what's happening with my health.'"

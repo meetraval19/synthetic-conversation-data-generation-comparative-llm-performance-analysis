@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Contract Terms and Obligations",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Communication with Opposing Parties",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "negative"
+        }
+    ]
+}

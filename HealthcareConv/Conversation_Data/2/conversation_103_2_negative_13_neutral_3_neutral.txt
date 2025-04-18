@@ -1,0 +1,11 @@
+"Speaker A: 'I reviewed the test results, and unfortunately, some levels are concerning.'  
+Speaker B: 'I was hoping for better news. What do you suggest we do next?'  
+Speaker A: 'Given the current situation, we may need to adjust the treatment plan. Let's move on to discussing the discharge process.'  
+Speaker B: 'Sure, I'm eager to know more about that. Is there anything specific we need to focus on?'  
+Speaker A: 'It's a standard procedure, but we should ensure all follow-up appointments are scheduled before discharge.'  
+Speaker B: 'That makes sense. And regarding the medications, do any changes need to be made?'  
+Speaker A: 'Let's do a thorough review. It's important to ensure everything is up to date and appropriate for their current condition.'  
+Speaker B: 'Good idea. It's crucial to get everything right before proceeding with the next steps.'  
+Speaker A: 'Absolutely. It's about making informed decisions every step of the way.'  
+Speaker B: 'I agree. Thank you for walking me through this.'  
+Speaker A: 'Anytime. We're here to ensure the best care possible.'"

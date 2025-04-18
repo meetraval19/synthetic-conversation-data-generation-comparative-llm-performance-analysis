@@ -1,0 +1,19 @@
+"Speaker A: 'I went through your medical records, and it's great to see how well you've managed your condition over the years.'
+
+Speaker B: 'Thank you! I’ve been trying to stay on top of it, but I’m worried about the next steps.'
+
+Speaker A: 'Well, the test results we received are consistent, so there's nothing unexpected, which can be a relief.'
+
+Speaker B: 'That's good to know. I guess the results match what we were discussing last time.'
+
+Speaker A: 'Precisely. However, I noticed you missed the last check-up. It's important to keep up with follow-ups to ensure everything remains stable.'
+
+Speaker B: 'I understand. It’s just been tough scheduling around work. I’ll make sure to prioritize the next one.'
+
+Speaker A: 'That’s great to hear. Let’s set a convenient date for you during this visit.'
+
+Speaker B: 'Sounds good. I definitely don't want to fall behind.' 
+
+Speaker A: 'Remember, maintaining those positive outcomes depends on consistent monitoring and follow-ups.' 
+
+Speaker B: 'Exactly. I’ll stick to the plan this time around.'"

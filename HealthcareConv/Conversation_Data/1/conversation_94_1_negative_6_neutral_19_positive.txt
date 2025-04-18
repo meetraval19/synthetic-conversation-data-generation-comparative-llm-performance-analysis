@@ -1,0 +1,17 @@
+"Speaker A: 'I’ve been reviewing the latest symptom notes, and it seems the patient’s symptoms have worsened. This needs immediate attention.'
+
+Speaker B: 'Yes, I noticed that too. It's quite concerning. We should prioritize reevaluating their condition.'
+
+Speaker A: 'Absolutely. We may also need to discuss the coordination of their referral to the specialist.'
+
+Speaker B: 'Right. Coordinating that transfer smoothly is important, but it’s straightforward. We’ve done it many times.'
+
+Speaker A: 'True. It’s crucial we handle this correctly to avoid any mix-ups or delays.'
+
+Speaker B: 'For sure. On a brighter note, have you looked into the new support services available to the patients?'
+
+Speaker A: 'Yes! There’s a fantastic range now. Patients seem to really benefit, especially in terms of mental health support.'
+
+Speaker B: 'That’s great to hear and could really help lift their spirits during treatment. I’ll be sure to discuss this with the patient.'
+
+Speaker A: 'Perfect. Let’s ensure we bring all these elements together for the best care possible.'"

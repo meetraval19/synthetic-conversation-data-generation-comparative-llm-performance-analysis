@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Care Plan Update",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Side Effects",
+            "sentiment": "positive"
+        }
+    ]
+}

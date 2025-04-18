@@ -1,0 +1,20 @@
+"Speaker A: 'Hi, I’m calling about getting started with your software. Do you have any guidance for new users?'
+
+Speaker B: 'Absolutely, we have a comprehensive onboarding package that includes tutorials and hands-on training sessions.'
+
+Speaker A: 'That sounds helpful. I want to ensure my team is up to speed quickly.'
+
+Speaker B: 'The training is designed to be intuitive, so your team should find it straightforward.'
+
+Speaker A: 'Great. Now, I’m concerned about the system's capacity as we plan for growth. How does it handle scaling?'
+
+Speaker B: 'I understand. Currently, there are some challenges with scaling the infrastructure smoothly. We’re aware of the limitations and are working on improvements.'
+
+Speaker A: 'I was worried about that. We anticipate significant expansion soon.'
+
+Speaker B: 'We’re prioritizing updates to enhance scalability, but I recommend regularly monitoring the usage.'
+
+Speaker A: 'Thanks for the advice. I’ll stay in touch as we scale. I appreciate your help with the basics today.'
+
+Speaker B: 'Anytime! Feel free to reach out if you need further assistance with anything.'"
+

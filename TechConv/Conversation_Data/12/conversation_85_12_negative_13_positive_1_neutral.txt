@@ -1,0 +1,17 @@
+"Speaker A: 'Hello, this is Tech Support. How can I assist you today?'
+
+Speaker B: 'Hi, I’m struggling with setting up my system. The configuration details seem off, and it's quite frustrating.'
+
+Speaker A: 'I understand. System configurations can sometimes be tricky. Let’s see what’s going wrong and get it sorted out for you.'
+
+Speaker B: 'That would be great. Also, I'm unsure about some of the licensing terms. Is there a straightforward way to verify my access rights?'
+
+Speaker A: 'Absolutely! Our licensing setup is designed to be user-friendly. I can guide you on where to check your access rights or help verify them for you.'
+
+Speaker B: 'Perfect, that’s a relief. Lastly, I think I encountered a minor glitch. How should I report this issue?'
+
+Speaker A: 'You can report any bugs directly through our support portal. It’s quite efficient and helps us address such issues promptly.'
+
+Speaker B: 'Thanks for helping with all my queries. I appreciate the support.'
+
+Speaker A: 'You’re welcome! Let me know if there’s anything else I can assist with.'"

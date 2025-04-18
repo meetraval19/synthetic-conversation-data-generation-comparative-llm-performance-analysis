@@ -1,0 +1,17 @@
+"Speaker A: 'How have you been feeling since our last appointment? Any improvement with the symptoms you mentioned?'
+
+Speaker B: 'Actually, I've noticed a significant improvement. The medications seem to be working well.'
+
+Speaker A: 'That's great to hear! Consistent symptom relief is always a good sign. How's it going with sticking to your therapy plan?'
+
+Speaker B: 'I've been managing to keep up with it. Some days are easier than others, but overall it's been manageable.'
+
+Speaker A: 'It's understandable. Maintaining a routine can be challenging, but it's important for ongoing progress.'
+
+Speaker B: 'I agree, although sometimes I feel like there are mixed messages from the team managing my care. It gets a bit confusing.'
+
+Speaker A: 'I apologize for any confusion. Communication between our team members should be better. We’ll work on ensuring information is clear and consistent moving forward.'
+
+Speaker B: 'Thank you, I appreciate that. It’ll really help me stay on track.'
+
+Speaker A: 'Of course. Let’s keep focus on your positive progress and ensure you have all the support you need.'

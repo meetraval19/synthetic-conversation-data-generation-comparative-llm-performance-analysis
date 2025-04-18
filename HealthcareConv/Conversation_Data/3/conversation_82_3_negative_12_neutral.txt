@@ -1,0 +1,21 @@
+"Speaker A: 'Welcome back. Let's start with how you're feeling about your medication routine.'
+
+Speaker B: 'Honestly, I'm struggling a bit. The side effects have been tough to manage.'
+
+Speaker A: 'I'm sorry to hear that. We can look into adjusting the dosage or trying a different option.'
+
+Speaker B: 'I would appreciate that. I've noticed it affects my daily activities more than I'd like.'
+
+Speaker A: 'Understandable. We’ll work together to find a better fit for you. Now, let's go over your chart notes.'
+
+Speaker B: 'Sure. I remember we discussed updating some of my information last time.'
+
+Speaker A: 'Yes, everything looks in order. Just a few things to confirm and we’ll be good.'
+
+Speaker B: 'Great, it’s always reassuring to know everything's being tracked accurately.'
+
+Speaker A: 'Absolutely. I’ll make those changes and we’ll set an action plan. How does that sound?'
+
+Speaker B: 'That sounds perfect. Thank you for being thorough.'
+
+Speaker A: 'My pleasure. Let’s make sure you’re as comfortable as possible moving forward.'"

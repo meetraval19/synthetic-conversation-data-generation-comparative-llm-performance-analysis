@@ -1,0 +1,15 @@
+"Speaker A: 'How have you been managing your health since our last appointment?'
+
+Speaker B: 'It's been manageable, but there have been some obstacles like insurance approvals and appointment scheduling.'
+
+Speaker A: 'I understand. Those barriers can sometimes make it challenging to get seamless care.'
+
+Speaker B: 'Exactly, but I'm trying to navigate through it. On another note, I’ve noticed some miscommunications within the care team.'
+
+Speaker A: 'I’m sorry to hear that. Poor communication among healthcare providers can indeed lead to frustrations for patients.'
+
+Speaker B: 'Yes, it feels like I'm often caught in the middle, repeating information that should already be shared.'
+
+Speaker A: 'We aim to improve that by using more integrated systems, though it’s an ongoing process. Let's focus on ensuring you receive the best possible care moving forward.'
+
+Speaker B: 'Thank you. That sounds reassuring, and I’m hopeful things will improve with time.'"

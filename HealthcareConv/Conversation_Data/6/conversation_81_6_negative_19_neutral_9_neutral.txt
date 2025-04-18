@@ -1,0 +1,23 @@
+"Speaker A: 'I wanted to ask about the recent tests. Do we have the results yet?'
+
+Speaker B: 'Yes, they came back, and everything looks stable. But I noticed there was some confusion about your referral to the specialist.'
+
+Speaker A: 'Oh, yes. The coordination was a bit of a hassle. I had to follow up multiple times.'
+
+Speaker B: 'I'm sorry to hear that. It can be frustrating when the process isn't seamless.'
+
+Speaker A: 'Definitely, it kind of adds to the stress when you're already worried about your health.'
+
+Speaker B: 'I understand. On a brighter note, have you had a chance to explore any support services we discussed last time?'
+
+Speaker A: 'I looked into a couple of them. They seem helpful, but I'm still deciding which one might be the best fit.'
+
+Speaker B: 'Take your time. They’re there to support you, so it's important you find what suits you best.'
+
+Speaker A: 'True. And what about any new assessments I should be aware of?'
+
+Speaker B: 'Right now, I don't see any immediate need for additional assessments. We'll keep monitoring and make changes if necessary.'
+
+Speaker A: 'Sounds good. I'm glad things are stable for now.'
+
+Speaker B: 'Yes, that’s always a relief. Let's focus on keeping it that way.'"

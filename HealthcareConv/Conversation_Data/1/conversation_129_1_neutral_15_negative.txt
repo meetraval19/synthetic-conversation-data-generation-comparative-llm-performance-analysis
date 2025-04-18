@@ -1,0 +1,17 @@
+"Speaker A: 'Let's start by evaluating the symptoms the patient presented with. I noticed the fatigue and joint pain were quite persistent.'
+
+Speaker B: 'Yes, the symptoms are ambiguous and can be related to various conditions. It’s important to consider both common and rare possibilities.'
+
+Speaker A: 'Absolutely, we need a detailed assessment to narrow down the potential causes.'
+
+Speaker B: 'Now, on to planning. Have you had any discussions about treatment with the patient?'
+
+Speaker A: 'Yes, but the shared decision-making process didn't go as smoothly as I hoped. The patient seemed overwhelmed by the options.'
+
+Speaker B: 'That's challenging. It can be difficult when patients feel uncertain about their contributions to the decisions.'
+
+Speaker A: 'I agree. It's crucial to find a balance where they feel informed but not pressured.'
+
+Speaker B: 'Let’s see if we can devise a clearer pathway that empowers the patient more.'
+
+Speaker A: 'Good idea. A more structured approach might help ease their concerns and make the process less daunting for them.'"

@@ -1,0 +1,19 @@
+"Speaker A: 'I've noticed that our risk assessments have improved remarkably over the last quarter.'
+
+Speaker B: 'Absolutely, the team is really engaging with the patients effectively, understanding their needs and potential risks.'
+
+Speaker A: 'It's great to see that shared decision-making is becoming more integrated too. Patients seem to appreciate being part of the treatment planning.'
+
+Speaker B: 'Yes, the feedback has been overwhelmingly positive. Patients feel more empowered and involved.'
+
+Speaker A: 'However, there appears to be an issue with how we handle follow-ups. Some patients have reported delays and miscommunications.'
+
+Speaker B: 'I agree, that's been a persistent problem. We need to streamline our follow-up processes to prevent these issues.'
+
+Speaker A: 'Addressing that will definitely improve our overall performance. Any thoughts on steps we could take to tackle it?'
+
+Speaker B: 'Perhaps implementing a more robust scheduling system could ensure timely follow-ups and improve communication between departments.'
+
+Speaker A: 'That's a solid idea. If we can enhance our follow-up protocols, it'll complement the progress we’ve made in other areas.' 
+
+Speaker B: 'Exactly. Building on our strengths while addressing these gaps will lead to better outcomes for our patients.'"

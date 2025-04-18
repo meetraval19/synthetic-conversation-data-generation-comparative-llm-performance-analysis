@@ -1,0 +1,19 @@
+"Speaker A: 'Thanks for joining our care coordination meeting. I've been hearing some concerns about the availability of support services for our patients.'
+
+Speaker B: 'Yes, there have been a lot of complaints about delays and the lack of resources. It's been quite frustrating for both staff and patients.'
+
+Speaker C: 'I’ve noticed that too. We need to find ways to streamline these services. It’s impacting patient satisfaction.'
+
+Speaker A: 'Definitely, it’s something we have to address promptly. On another note, has anyone received feedback on our current practices for communicating diagnoses to patients?'
+
+Speaker B: 'Patients seem to understand the information we provide, but I wonder if we’re always being as clear as we could be. Some folks do leave with questions unanswered.'
+
+Speaker C: 'I agree. Maybe it’s worth revisiting our approach to ensure we’re addressing all concerns. That could help us improve the initial communication.'
+
+Speaker A: 'Good point. We should consider a review of our process to see if adjustments are needed. Moving on, how is everyone feeling about involving patients more in shared decision-making?'
+
+Speaker B: 'From what I’ve seen, patients appreciate being included in decisions, especially when it comes to treatment options. It’s mostly been a smooth process.'
+
+Speaker C: 'Yes, the patients I’ve spoken with feel respected when they’re part of these decisions. I think we’re on the right track here, though there’s always room for improvement.'
+
+Speaker A: 'That’s encouraging to hear. Let’s continue developing that aspect and support our patients in the best way possible. Thanks, everyone, for your input today.'"

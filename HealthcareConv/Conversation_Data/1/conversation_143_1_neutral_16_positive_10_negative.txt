@@ -1,0 +1,23 @@
+"Speaker A: 'Let's start by discussing the recent assessments. How are we doing with symptom evaluations?'
+
+Speaker B: 'The assessments have been consistent, though there are variations depending on individual cases.'
+
+Speaker C: 'Right, we need to ensure accuracy remains our focus.'
+
+Speaker A: 'Next, let’s talk about how our team conveys diagnoses to patients.'
+
+Speaker B: 'I've seen significant improvements. Patients appear more informed and reassured after their consultations.'
+
+Speaker C: 'That's true. The training on clearer communication seems to be paying off.'
+
+Speaker A: 'Now, about therapy adherence. We seem to be facing challenges.'
+
+Speaker B: 'Yes, there’s been a noticeable drop in adherence rates. Patients mention side effects and forgetfulness.'
+
+Speaker C: 'We might need to better educate them on the importance of sticking to their therapy plans.'
+
+Speaker A: 'It's crucial, but finding an effective approach has been tough.'
+
+Speaker B: 'Agreed. Perhaps a more tailored follow-up system could help.'
+
+Speaker C: 'That sounds like a good plan. Let’s strategize on that moving forward.'"

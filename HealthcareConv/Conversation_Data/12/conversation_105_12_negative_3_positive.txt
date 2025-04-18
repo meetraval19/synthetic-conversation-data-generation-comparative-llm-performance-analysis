@@ -1,0 +1,15 @@
+"Speaker A: 'I wanted to discuss the latest performance review. It seems there are some concerns about the patient records.'
+
+Speaker B: 'Yes, unfortunately, the documentation hasn't been as thorough as we’d like. We've noticed several inconsistencies.'
+
+Speaker A: 'That definitely needs to be addressed. We should consider additional training sessions.'
+
+Speaker B: 'Agreed, but on a brighter note, the feedback on the medication protocols has been excellent. Our accuracy in prescribing has improved noticeably.'
+
+Speaker A: 'That's great to hear! The new system for tracking prescriptions seems to be working well.'
+
+Speaker B: 'Absolutely, it's streamlined the process significantly and reduced errors.'
+
+Speaker A: 'While we celebrate the win with the medication review, addressing the documentation issue should be our priority moving forward.'
+
+Speaker B: 'I completely agree. Let's focus on implementing effective solutions to enhance documentation quality.'"

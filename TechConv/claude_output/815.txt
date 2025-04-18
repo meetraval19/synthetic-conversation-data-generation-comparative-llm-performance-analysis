@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Technical Documentation Reference",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "System Configuration Details",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Performance Concerns",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

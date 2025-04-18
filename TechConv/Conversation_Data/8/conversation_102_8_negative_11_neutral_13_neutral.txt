@@ -1,0 +1,14 @@
+"Speaker A: 'Thank you for joining us today to discuss your experience with our product. How have you found the resources available for understanding the system?'
+
+Speaker B: 'Honestly, I struggled a bit with the written guides. They weren't as clear or comprehensive as I hoped.'
+
+Speaker A: 'I'm sorry to hear that. We're working on improving our technical documentation. How about your initial experience when you first started using the product?'
+
+Speaker B: 'The onboarding was straightforward enough, I guess. It wasn’t too complicated, but I had to feel my way around a bit before I got comfortable.'
+
+Speaker A: 'That's valuable feedback. We aim for clarity. Regarding access, have you encountered any issues with licensing or your user permissions at any stage?'
+
+Speaker B: 'Not particularly. The process was pretty standard, and I didn't run into any major hurdles with that.'
+
+Speaker A: 'Great to hear there were no significant issues there. Your insights are incredibly helpful for us to make necessary improvements. Thank you again for your time.'"
+

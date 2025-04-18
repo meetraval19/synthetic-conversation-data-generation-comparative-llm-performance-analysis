@@ -1,0 +1,18 @@
+"Speaker A: 'How have you been feeling since starting the new medication?'
+
+Speaker B: 'I’ve noticed some unexpected symptoms lately. Is this something to be worried about?'
+
+Speaker A: 'It’s unfortunate, but side effects are not uncommon with this medication. Let’s discuss them and see how we can manage things.'
+
+Speaker B: 'I’ve had some dizziness and nausea. It’s quite bothersome.'
+
+Speaker A: 'That sounds uncomfortable. We can look at adjusting your dosage or possibly exploring alternatives.'
+
+Speaker B: 'I appreciate that. And what about the additional help you mentioned last time?'
+
+Speaker A: 'Yes, there are various support options. Counseling and dietary advice could be neutral yet effective complements to your treatment.'
+
+Speaker B: 'That sounds helpful, actually. I’ll consider looking into those.'
+
+Speaker A: 'Great. Let's make sure you have all the resources you need to feel better.'"
+

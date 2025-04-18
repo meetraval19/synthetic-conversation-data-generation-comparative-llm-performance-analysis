@@ -1,0 +1,19 @@
+"Speaker A: 'Thanks for joining us today to give some feedback on our new app. How's your overall experience been?'
+
+Speaker B: 'It's been pretty smooth overall. The interface is intuitive and easy to navigate.'
+
+Speaker A: 'That's great to hear. Is there anything specific you think could be improved or added?'
+
+Speaker B: 'Actually, I've noticed there are some features that would be really useful but aren’t available yet.'
+
+Speaker A: 'Could you elaborate on those features?'
+
+Speaker B: 'Well, for starters, a dark mode option would be helpful. I find the current theme straining on the eyes, especially at night.'
+
+Speaker A: 'I see. That’s valuable input. Anything else that might be less than ideal in the current version?'
+
+Speaker B: 'There’s also the issue of notifications not syncing properly. It gets frustrating when I miss important updates due to this.'
+
+Speaker A: 'Understood. We’re aware of the notification issue, and it's something our team is actively working to resolve. We appreciate your patience.'
+
+Speaker B: 'Glad to hear that. I hope these improvements can be integrated soon because the potential is definitely there.'"

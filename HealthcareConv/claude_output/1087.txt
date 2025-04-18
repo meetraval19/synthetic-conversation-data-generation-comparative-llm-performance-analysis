@@ -1,0 +1,16 @@
+I'll analyze the conversation to identify the underlying topics and determine the sentiment toward each.
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Therapy Adherence",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Care Plan Update", 
+      "sentiment": "positive"
+    }
+  ]
+}
+```

@@ -1,0 +1,17 @@
+"Speaker A: 'I understand you're feeling uncertain about the diagnosis we discussed.'
+
+Speaker B: 'Yeah, it's a bit overwhelming. I wish it had been explained more clearly from the beginning.'
+
+Speaker A: 'I apologize for that. Let's go over any parts that were confusing. Now, looking at your medical history, there's some stability in your condition, which is good.'
+
+Speaker B: 'That's reassuring, though nothing surprising there, I guess.'
+
+Speaker A: 'Exactly, it's consistent with what we've seen before. Now, on a positive note, your latest test results have shown significant improvement.'
+
+Speaker B: 'Really? That’s a relief! I was worried about what they'd say.'
+
+Speaker A: 'Yes, your progress is very encouraging. You're healing well, which is a great sign for your recovery.'
+
+Speaker B: 'I’m so glad to hear that. Thank you for explaining it all. It’s good to leave with some clarity.'
+
+Speaker A: 'Of course. If you have any more questions, feel free to ask. We're here to help as you transition back home.'"

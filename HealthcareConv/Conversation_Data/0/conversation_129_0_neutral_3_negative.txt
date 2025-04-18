@@ -1,0 +1,13 @@
+"Speaker A: 'I see you’ve been maintaining a detailed record of your medical history. That’s helpful.'
+
+Speaker B: 'Yes, I try to stay organized to make things easier during appointments.'
+
+Speaker A: 'It definitely helps us provide better care when we have the full picture. Let's review your current medications next.'
+
+Speaker B: 'I'm actually a bit concerned about the side effects I’ve been experiencing with some of them.'
+
+Speaker A: 'I understand. Side effects can be troubling, and it’s important we address them. Have you noticed any recent changes in how you feel?'
+
+Speaker B: 'Yes, the dizziness has been quite frequent since I started the new prescription.'
+
+Speaker A: 'That sounds unpleasant. We should look into alternatives that might suit you better without causing such discomfort.'"

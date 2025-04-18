@@ -1,0 +1,33 @@
+"Speaker A: 'Hello, I wanted to have a chat about your discharge process today.'
+
+Speaker B: 'Sure, I’m looking forward to going home!'
+
+Speaker A: 'Great to hear that! First, let's review some of your documentation. Unfortunately, we've noticed a few inconsistencies.'
+
+Speaker B: 'Oh, that sounds concerning. Is it something major?'
+
+Speaker A: 'It's mostly minor issues, but it's important to get it all sorted for your records. We'll ensure everything is accurate before you leave.'
+
+Speaker B: 'Okay, I understand. I'll make sure to go over it carefully.'
+
+Speaker A: 'Moving on, your medical history has been updated, and there are some positive notes. Your treatment has been progressing well.'
+
+Speaker B: 'That’s such a relief! It’s encouraging to know that everything is on the right track for recovery.'
+
+Speaker A: 'Absolutely, keep up the good work with your exercises and medications. We’ll provide you with more detailed instructions before you leave.'
+
+Speaker B: 'I’ll make sure to follow everything carefully. Anything specific I should be aware of?'
+
+Speaker A: 'We’ll cover that in our patient education session. It will provide a good overview of managing your condition at home. It's all straightforward, nothing too overwhelming.'
+
+Speaker B: 'Sounds good. I appreciate having clear guidance to follow.'
+
+Speaker A: 'If you have any questions during that session, don’t hesitate to ask. We want to make sure you feel completely prepared.'
+
+Speaker B: 'Thank you! I feel more confident about going home now.'
+
+Speaker A: 'Glad to hear that. Once we finalize your documents, you’ll be all set to go. Just a few more things to wrap up.'
+
+Speaker B: 'Thank you for all your help. It really makes a difference having this guidance as I make this transition.'
+
+Speaker A: 'You’re welcome. We’re here to make the discharge process as smooth as possible. We’ll get everything sorted for you shortly.'"

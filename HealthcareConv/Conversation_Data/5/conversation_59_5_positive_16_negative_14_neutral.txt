@@ -1,0 +1,17 @@
+"Speaker A: 'I'm glad to see you're doing better since your last visit.' 
+
+Speaker B: 'Thank you, I've been following the exercise plan you suggested.'
+
+Speaker A: 'That's fantastic. It's always rewarding to see such progress.'
+
+Speaker B: 'I did have some concerns, though, about how the diagnosis was communicated last time. It felt a bit overwhelming.'
+
+Speaker A: 'I understand, and I'm sorry if it was too much at once. We'll make sure to address that more clearly in the future.'
+
+Speaker B: 'I appreciate that. On another note, I've noticed some minor side effects from the medication. It's nothing major, but should I be concerned?'
+
+Speaker A: 'Those can be typical with new medications. Let's monitor them and make adjustments if needed. It's important you feel comfortable.'
+
+Speaker B: 'Thanks for listening. It's reassuring to know you’re keeping an eye on everything.'
+
+Speaker A: 'Of course, your health and peace of mind are priorities for us. Let’s continue to work together on this.'"

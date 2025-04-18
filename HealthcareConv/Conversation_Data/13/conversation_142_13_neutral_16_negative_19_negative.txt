@@ -1,0 +1,17 @@
+"Speaker A: 'Let's review the recent case. I think the discharge planning went smoothly, don't you?'
+
+Speaker B: 'Yes, it was quite straightforward. The team managed to coordinate everything efficiently this time.'
+
+Speaker A: 'However, the way the diagnosis was communicated to the patient was less than ideal.'
+
+Speaker B: 'I agree. The patient seemed quite confused, and we might need to improve on how we explain complex conditions.'
+
+Speaker A: 'Definitely. We need clearer protocols for ensuring patients understand their situation fully.'
+
+Speaker B: 'And what about the support services we recommended?'
+
+Speaker A: 'Unfortunately, the patient had difficulty accessing them due to some administrative issues.'
+
+Speaker B: 'It's frustrating that these barriers prevent effective care. We need to find a way to streamline the process.'
+
+Speaker A: 'Very true. Improving access to support services is essential to better patient outcomes.'

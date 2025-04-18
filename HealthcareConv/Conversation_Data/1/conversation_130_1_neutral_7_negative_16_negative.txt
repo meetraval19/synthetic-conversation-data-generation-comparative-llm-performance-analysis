@@ -1,0 +1,17 @@
+"Speaker A: 'Good to see you today. How have the symptoms been since your last visit?'
+
+Speaker B: 'About the same, really. Still experiencing some discomfort, but nothing new.'
+
+Speaker A: 'Alright, we'll keep monitoring that. Now, have you had any issues connecting with our team for your test results?'
+
+Speaker B: 'To be honest, yes. It's been quite difficult to get timely responses. It feels like there's a lack of coordination on your end.'
+
+Speaker A: 'I'm sorry to hear that. We're working on improving our communication channels. Your feedback is really important to us.'
+
+Speaker B: 'Thanks for understanding. I’m just concerned because I still haven’t received clear information on my condition.'
+
+Speaker A: 'I completely understand your frustration. Let’s review your current diagnosis and make sure we address any questions today.'
+
+Speaker B: 'That would be great. I just want to ensure I have all the necessary information to move forward.'
+
+Speaker A: 'Yes, it's vital you feel informed. Let's go through everything thoroughly so you're clear on the next steps.'"

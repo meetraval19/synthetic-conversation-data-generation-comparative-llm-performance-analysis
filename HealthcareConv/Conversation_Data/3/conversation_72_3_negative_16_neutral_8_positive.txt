@@ -1,0 +1,25 @@
+"Speaker A: 'Good to see you again. How have you been managing your medication routine?'
+
+Speaker B: 'Honestly, I've been having a few issues. The side effects are a bit overwhelming.'
+
+Speaker A: 'I understand. We might need to adjust your prescription. Let's discuss some alternatives.'
+
+Speaker B: 'I would appreciate that. It's been tough to handle.'
+
+Speaker A: 'Let's also revisit your recent diagnosis. Do you have any questions or concerns?'
+
+Speaker B: 'A bit. I feel like there's still some information I'm missing.'
+
+Speaker A: 'That's fair. I'll walk you through each part to ensure everything is clear.'
+
+Speaker B: 'Thank you. I think that will help a lot.'
+
+Speaker A: 'Now, regarding your care plan, there's some good news. We’re seeing progress, and I think we can introduce some new approaches.'
+
+Speaker B: 'Really? That sounds promising. What kind of changes are we talking about?'
+
+Speaker A: 'We'll incorporate more personalized activities that align with your interests. It should be quite beneficial.'
+
+Speaker B: 'I'm looking forward to it, especially after everything that's been going on.'
+
+Speaker A: 'Great. We'll work together to keep things on the right track.'"

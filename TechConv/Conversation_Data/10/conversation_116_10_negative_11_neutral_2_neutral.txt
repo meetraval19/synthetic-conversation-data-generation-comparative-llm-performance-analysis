@@ -1,0 +1,15 @@
+"Speaker A: 'Hi, I need some help with getting a new feature added to our system. It's a bit frustrating to work without it.'
+
+Speaker B: 'I understand your frustration. While we’re definitely looking into improving the system, adding new features can be quite a process. Have you submitted a formal request?'
+
+Speaker A: 'Yes, I did that last week. But in the meantime, could you offer some guidance on how to get started with the current setup? I’m still a bit lost on its functionality.'
+
+Speaker B: 'Absolutely, I can walk you through the basics and provide some resources for onboarding and training. That should help you get more comfortable.'
+
+Speaker A: 'Thanks, that would be great. Also, I've noticed things slow down occasionally. Could that be on my end or a performance issue?'
+
+Speaker B: 'It’s hard to say without more details. Performance issues can be quite unpredictable, sometimes related to network or system demands. I can check a few things on our side, but you might also want to try some basic troubleshooting.'
+
+Speaker A: 'That makes sense. Thanks for your help with everything today.'
+
+Speaker B: 'No problem at all! Feel free to reach out anytime you need further assistance.'"

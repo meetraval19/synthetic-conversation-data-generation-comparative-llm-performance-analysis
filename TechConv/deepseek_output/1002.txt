@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Testing and Validation Status",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Security and Privacy Discussion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Licensing or Access Rights",
+            "sentiment": "negative"
+        }
+    ]
+}

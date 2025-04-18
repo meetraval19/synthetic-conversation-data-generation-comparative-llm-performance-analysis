@@ -1,0 +1,14 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Bug or Issue Reporting",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Security and Privacy Discussion",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

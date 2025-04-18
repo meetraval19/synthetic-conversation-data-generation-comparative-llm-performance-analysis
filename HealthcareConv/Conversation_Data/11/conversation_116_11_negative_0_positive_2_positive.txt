@@ -1,0 +1,13 @@
+"Speaker A: 'I’ve noticed our latest efforts to explain new medications aren’t sticking with patients.'
+
+Speaker B: 'Yes, patient education seems to be a challenge. It's tough to see them not fully understand their treatment.'
+
+Speaker A: 'On a brighter note, our system for keeping track of each patient’s medical history has greatly improved.'
+
+Speaker B: 'Definitely, having comprehensive records means we can coordinate care much more effectively.'
+
+Speaker C: 'And speaking of coordination, the test results for Mr. Johnson came back earlier than expected.'
+
+Speaker B: 'That’s great to hear! It allows us to adjust his treatment plan promptly.'
+
+Speaker A: 'With faster test results, we’re certainly on the right track in providing timely care.'"

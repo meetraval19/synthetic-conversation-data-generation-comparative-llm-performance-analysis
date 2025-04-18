@@ -1,0 +1,15 @@
+"Speaker A: 'Thanks for joining our demo today! Our software comes with a tailored training program. Customers have found it incredibly helpful to get started with ease.'
+
+Speaker B: 'That's good to hear. Smooth onboarding is vital for us. How detailed is your training?'
+
+Speaker A: 'Very comprehensive! We ensure that teams feel confident using all the software features quickly and you’ll have access to ongoing support too.'
+
+Speaker B: 'That sounds promising. Speaking of support, what about your documentation? How user-friendly is it?'
+
+Speaker A: 'Our technical documentation is straightforward. It’s organized for efficient reference, so finding necessary information shouldn’t be an issue.'
+
+Speaker B: 'Great. That’s crucial for our IT team when they need specific details. Is there anything else you think I should know?'
+
+Speaker A: 'I think you’ll find that our continuous training updates align perfectly with any new features we roll out. It keeps everyone in the loop effectively.'
+
+Speaker B: 'Awesome, I appreciate the information. Looking forward to exploring it further.'"

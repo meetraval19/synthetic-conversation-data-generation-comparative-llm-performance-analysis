@@ -1,0 +1,14 @@
+"Speaker A: 'Hi, thanks for coming in today. How are you feeling since your last visit?'
+
+Speaker B: 'I'm hanging in there. I've been reflecting on our previous discussions. The way you explained what's going on with me was really clear.'
+
+Speaker A: 'I'm glad you found it easy to understand. It's important that you feel informed about your health.'
+
+Speaker B: 'Absolutely. But I must say, I'm a bit anxious about what's next. The idea of leaving the hospital sooner than expected is daunting.'
+
+Speaker A: 'I completely understand. Discharge planning can be overwhelming. Let's work together to ensure you feel supported and prepared as you transition home.'
+
+Speaker B: 'That sounds good. I just want to make sure everything's in place before I leave.'
+
+Speaker A: 'Of course. We'll make sure we address every concern and set up any necessary support to ease the process.'"
+

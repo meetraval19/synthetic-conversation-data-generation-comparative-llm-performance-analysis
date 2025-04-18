@@ -1,0 +1,15 @@
+"Speaker A: 'I just started the new medication you prescribed, and surprisingly, the side effects haven’t been bothersome at all.'
+
+Speaker B: 'That’s great to hear! We aimed to choose an option with minimal impact, so I’m glad it’s working well for you.'
+
+Speaker A: 'Thank you. However, I’m a bit overwhelmed with all the health information I’ve been given recently. It’s hard to keep track.'
+
+Speaker B: 'I understand. The complexity of medical information can be really challenging. It's an area we’re constantly working to improve for patients like you.'
+
+Speaker A: 'Maybe simpler explanations could help. It feels like there’s a lot of technical jargon.'
+
+Speaker B: 'You’re not alone in feeling that way. We’ll definitely work on making the information clearer and more accessible as you continue your treatment.'
+
+Speaker A: 'Thanks, that would be very helpful. I do want to understand my treatment plan better.'
+
+Speaker B: 'Absolutely. We’ll make sure to support you with that moving forward.'"

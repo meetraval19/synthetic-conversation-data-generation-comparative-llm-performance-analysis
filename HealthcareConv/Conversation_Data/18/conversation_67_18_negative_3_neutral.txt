@@ -1,0 +1,11 @@
+"Speaker A: 'The patient presented with severe chest pain, which raises some immediate red flags.'
+
+Speaker B: 'Yes, those emergency signs are definitely concerning. We need to act fast to rule out any critical conditions.'
+
+Speaker A: 'Agreed. On another note, let's go over the current medications they're on.'
+
+Speaker B: 'Sure, looks like they're on aspirin and beta-blockers. That seems standard.'
+
+Speaker A: 'Right, nothing unusual there, but it’s important to ensure there are no interactions.'
+
+Speaker B: 'Absolutely, maintaining balance is key. We'll need to monitor closely.'

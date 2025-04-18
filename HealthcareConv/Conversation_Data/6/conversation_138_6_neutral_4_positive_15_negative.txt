@@ -1,0 +1,26 @@
+"Speaker A: 'I think we should start with how the referrals were handled this week. Any feedback?'
+
+Speaker B: 'Overall, the process went smoothly, but I noticed some patients were confused about next steps.'
+
+Speaker C: 'That's typical, but we can clarify during follow-up calls to ensure everyone understands.'
+
+Speaker A: 'Great. Now, about the new treatment plans—did you see the positive outcomes in several cases?'
+
+Speaker B: 'Absolutely, it's encouraging to see those results. It seems the new protocols are really effective.'
+
+Speaker C: 'The patients seem more optimistic, too. It’s rewarding to witness their progress firsthand.'
+
+Speaker A: 'That's fantastic! However, I did want to bring up concerns about shared decision-making.'
+
+Speaker B: 'Yes, it’s been challenging. Some patients feel their input isn’t being considered enough.'
+
+Speaker C: 'I agree. It’s tough when time limits constrain how much dialogue we can have in sessions.'
+
+Speaker A: 'Perhaps we should explore solutions for better patient engagement during decisions.'
+
+Speaker B: 'That sounds like a good plan. Enhancing communication might alleviate some of these concerns.'
+
+Speaker C: 'Yes, and maybe additional training could help us involve patients more effectively.'
+
+Speaker A: 'Let’s work on implementing these changes. Thanks for the input, everyone.'"
+

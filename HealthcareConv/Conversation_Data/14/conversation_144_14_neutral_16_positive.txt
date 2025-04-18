@@ -1,0 +1,11 @@
+"Speaker A: 'I reviewed the patient's case, and the communication of the diagnosis seemed clear and reassuring.'
+
+Speaker B: 'That's good to hear. It's crucial that patients understand their diagnosis well.'
+
+Speaker A: 'Absolutely, it helps in building trust and ensures they follow through with the treatment plan.'
+
+Speaker B: 'Regarding treatment, have you noticed any side effects from the medication?'
+
+Speaker A: 'A few mild reactions were noted, but nothing unexpected or alarming.'
+
+Speaker B: 'That's understandable. We should monitor for any changes, but it sounds manageable so far.'"

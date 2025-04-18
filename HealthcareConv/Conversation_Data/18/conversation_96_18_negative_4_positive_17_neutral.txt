@@ -1,0 +1,25 @@
+"Speaker A: 'Hi, Amanda. How have you been feeling since our last appointment?'
+
+Speaker B: 'I've been alright, but there was an incident last week where I felt really dizzy and ended up in the ER.'
+
+Speaker A: 'I'm sorry to hear that. Those unexpected visits can be stressful. Did they find out what caused it?'
+
+Speaker B: 'They mentioned it might be a side effect of the medication, but they ruled out anything serious.'
+
+Speaker A: 'That's a relief. Let's talk about your treatment plan. I saw some great improvements in your recent tests.'
+
+Speaker B: 'Yes, I've been feeling more energetic overall. It's encouraging to see progress.'
+
+Speaker A: 'I'm glad to hear it. We can continue with the current regimen. It's important to build on this positive momentum.'
+
+Speaker B: 'Absolutely, I want to make sure nothing interrupts the progress.'
+
+Speaker A: 'Are there any barriers that might affect your care, like transportation or scheduling?'
+
+Speaker B: 'Transportation can sometimes be tricky, but I've managed to work around it.'
+
+Speaker A: 'Great, if anything changes, let me know. We want to ensure nothing hinders your recovery.'
+
+Speaker B: 'Thank you, I appreciate the ongoing support.'
+
+Speaker A: 'Always here to help. Let’s keep things moving in a positive direction.'"

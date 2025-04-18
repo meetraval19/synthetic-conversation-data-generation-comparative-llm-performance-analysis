@@ -1,0 +1,27 @@
+"Speaker A: 'Before you leave, let's go over some key points to ensure everything is clear.'
+
+Speaker B: 'Sure, I think understanding the details will really help.'
+
+Speaker A: 'Good. We'll start with what the doctor mentioned last time about the ongoing treatments.'
+
+Speaker B: 'I’m a bit worried about keeping up with the therapy schedule, though.'
+
+Speaker A: 'It's understandable. Many patients find adhering to the regimen challenging, but creating a consistent routine can be beneficial.'
+
+Speaker B: 'I’ll try finding a schedule that fits, but I'm still concerned.'
+
+Speaker A: 'We can provide additional support to make it easier. Now, regarding the latest assessments...'
+
+Speaker B: 'Yes, I did see some notes about that.'
+
+Speaker A: 'There are a few areas that need attention based on the recent tests.'
+
+Speaker B: 'I was hoping to hear better news. What steps should I take next?'
+
+Speaker A: 'We'll review options to address those issues. It’s important to follow up regularly with the healthcare team.'
+
+Speaker B: 'Got it. Will there be more sessions to understand these details?'
+
+Speaker A: 'Absolutely, and remember to ask questions if anything is unclear. We're here to support you, every step of the way.'
+
+Speaker B: 'Thanks. I feel slightly better knowing there’s ongoing support.'"

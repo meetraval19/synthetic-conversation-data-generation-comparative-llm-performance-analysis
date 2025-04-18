@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Bug or Issue Reporting",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Workflow or Process Optimization",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Tool or Platform Comparison",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Change Request or Feature Suggestion",
+      "sentiment": "positive"
+    }
+  ]
+}
+```

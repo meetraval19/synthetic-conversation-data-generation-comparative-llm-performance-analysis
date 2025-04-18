@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Tax Implication Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Legal and Contractual Obligations",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Interest Rate Impact Analysis",
+            "sentiment": "neutral"
+        }
+    ]
+}

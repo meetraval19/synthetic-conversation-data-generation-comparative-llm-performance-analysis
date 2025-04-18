@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Legal Argument and Case Theory",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Applicable Laws and Regulations",
+            "sentiment": "positive"
+        }
+    ]
+}

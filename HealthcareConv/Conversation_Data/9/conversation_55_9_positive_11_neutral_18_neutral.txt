@@ -1,0 +1,23 @@
+"Speaker A: 'During your last visit, we talked about evaluating some risks related to your health. I'm pleased to share that your recent tests show significant improvements.'
+
+Speaker B: 'That's wonderful to hear! I’ve been trying to follow the guidelines you provided.'
+
+Speaker A: 'You’ve done a great job. Now, moving on to understanding your condition further, has the information in the pamphlet I gave you been helpful?'
+
+Speaker B: 'It's been informative but a bit overwhelming at times. I'm not always sure how to apply everything day-to-day.'
+
+Speaker A: 'That’s completely normal. We can go through any specific sections you'd like to discuss. Feel free to ask about anything that seems unclear.'
+
+Speaker B: 'I appreciate that. One thing I'm a bit unsure about is how to identify when I might need immediate attention.'
+
+Speaker A: 'That's a good point. Recognizing when you should seek urgent care is important. Remember, if you experience any sudden changes, it’s best to contact us right away.'
+
+Speaker B: 'Got it. It’s reassuring to know I can reach out if something feels off.'
+
+Speaker A: 'Absolutely. Just stay vigilant and maintain open communication, and you'll do well. Is there anything else on your mind?'
+
+Speaker B: 'I think that covers most of my concerns for now. Thank you for your support!' 
+
+Speaker A: 'You're welcome. Keep up the great work, and we’ll see you for your next appointment.' 
+
+Speaker B: 'Will do. Thanks again!'"

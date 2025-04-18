@@ -1,0 +1,19 @@
+"Speaker A: 'Hi, thanks for calling tech support. How can I assist you today?'
+
+Speaker B: 'Hi, I'm having some trouble setting up my new system. The configuration seems really off.'
+
+Speaker A: 'I understand how frustrating that can be. Configurations can sometimes be tricky. What seems to be the main issue?'
+
+Speaker B: 'The settings seem incompatible with my current network environment, and nothing seems to work.'
+
+Speaker A: 'That sounds challenging. Let's try to resolve this step-by-step. Meanwhile, if it's not too overwhelming, I can escalate this to our advanced technical team.'
+
+Speaker B: 'That would be great. I might need more experienced assistance.'
+
+Speaker A: 'No worries! Our support and escalation process is designed to resolve these issues efficiently. I'll make sure the next available expert takes over soon.'
+
+Speaker B: 'Thanks, I really appreciate your help. It's good to know there's a process to get the right support.'
+
+Speaker A: 'Absolutely. You're in good hands. Let's see what we can do until then. Could you tell me more about the error messages?'
+
+Speaker B: 'Sure, let me grab the details...'"

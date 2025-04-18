@@ -1,0 +1,17 @@
+"Speaker A: 'I'm glad to see you today for your follow-up. How have you been since our last visit?'
+
+Speaker B: 'I’ve been doing well, thank you. I really appreciate how well your team communicates. It makes scheduling and follow-ups seamless.'
+
+Speaker A: 'I'm pleased to hear that. We prioritize clear communication to ensure everyone stays informed.'
+
+Speaker B: 'It definitely makes a difference. However, I did have a moment last week when I was unsure if my symptoms required emergency attention.'
+
+Speaker A: 'It can be tricky to decide when urgent care is needed. If ever uncertain, our hotline can provide guidance.'
+
+Speaker B: 'That's reassuring. I also wanted to ask about additional support services available if needed.'
+
+Speaker A: 'Certainly. We have several resources for various needs. I can provide information about the ones that might be most beneficial for you.'
+
+Speaker B: 'That would be helpful, thank you. It’s good to know there’s support when necessary.'
+
+Speaker A: 'Absolutely, ensuring you feel supported is our priority. Let’s continue to monitor your progress and adjust if needed.'"

@@ -1,0 +1,17 @@
+"Speaker A: 'I'm glad to see you today. How have you been feeling since our last appointment?'
+
+Speaker B: 'Much better, actually. The assessment you did last time really helped pinpoint what was going on.'
+
+Speaker A: 'That's great to hear! It sounds like your symptoms are improving, which is always a positive sign. Have you been able to keep up with the exercise routine we discussed?'
+
+Speaker B: 'I’ve been trying, but it's been a bit hit or miss with my schedule.'
+
+Speaker A: 'I understand. Consistency can be tough, but it's important for your progress. Let’s review the therapy plan and see if there's any way to fit it better into your daily routine.'
+
+Speaker B: 'That would be helpful. Sometimes I feel unsure about sticking to it.'
+
+Speaker A: 'Sure, we can adjust it. How about the medication? Have you been taking it as prescribed?'
+
+Speaker B: 'Mostly, yes. I haven’t noticed any side effects, but I sometimes miss a dose here and there.'
+
+Speaker A: 'It's crucial to stay on track with your medication. Let’s set up some reminders or find a way that works for you to keep up with it.'

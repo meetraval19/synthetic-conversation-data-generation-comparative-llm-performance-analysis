@@ -1,0 +1,15 @@
+"Speaker A: 'That emergency response earlier was well-handled, don't you think? Especially the way the team quickly assessed the risks.'
+
+Speaker B: 'Absolutely, applying the updated protocols really helped in identifying the critical scenarios rapidly.'
+
+Speaker A: 'However, I noticed the communication around the diagnosis was a bit muddled.'
+
+Speaker B: 'Yes, there seemed to be confusion. Some team members weren't clear on the patient's condition, which could lead to major issues during treatment.'
+
+Speaker A: 'Agreed, it's something we definitely need to address in future training.'
+
+Speaker B: 'And speaking of areas to improve, the documentation process was also lacking. It took too long to track everything down.'
+
+Speaker A: 'That’s a good point. If the records had been clearer, it would’ve streamlined everything and saved time.'
+
+Speaker B: 'Definitely something to bring up in the next review meeting. Hopefully, we can implement some better practices soon.'

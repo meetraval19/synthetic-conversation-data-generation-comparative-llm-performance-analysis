@@ -1,0 +1,19 @@
+"Speaker A: 'I noticed you've been prescribed a new medication. How have you been feeling since you started?'
+
+Speaker B: 'I've noticed a few changes, but I'm unsure if they're side effects or just my usual symptoms acting up.'
+
+Speaker A: 'That's quite normal. Some symptoms may simply align with common side effects. How manageable do they seem to you?'
+
+Speaker B: 'They’re not too bothersome, thankfully. I can handle them fine.'
+
+Speaker A: 'That's good to hear. Now, let’s talk about your access to care. Have you found any improvements recently?'
+
+Speaker B: 'Actually, yes! I’ve had much quicker appointments and feel more supported overall. It’s been a relief.'
+
+Speaker A: 'Fantastic. It's encouraging to see barriers to care being addressed effectively. It plays a huge part in a patient’s recovery and overall experience.'
+
+Speaker B: 'Absolutely. Having a supportive care team makes all the difference for me.'
+
+Speaker A: 'I’m glad things are progressing positively. Let’s continue to monitor everything and adjust as needed. Feel free to reach out anytime.' 
+
+Speaker B: 'Thank you, I appreciate the support and guidance.'"

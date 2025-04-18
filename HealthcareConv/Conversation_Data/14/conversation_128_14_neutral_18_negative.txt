@@ -1,0 +1,13 @@
+"Speaker A: 'Let's go over the treatment plan for your condition. It's important to be aware of any reactions you might experience.'
+
+Speaker B: 'Yes, I've read that side effects can vary. How significant are they in my case?'
+
+Speaker A: 'They are generally mild and manageable. Most patients report fatigue or slight nausea.'
+
+Speaker B: 'Okay, that's good to know. My biggest concern is what to do if I face sudden issues.'
+
+Speaker A: 'That's understandable. It's rare, but if anything urgent arises, like severe pain or difficulty breathing, you should seek immediate help.'
+
+Speaker B: 'I was worried about potential emergencies. So, having a clear action plan helps.'
+
+Speaker A: 'Absolutely. Emergency protocols are crucial, and we're here to support you at any time.'"

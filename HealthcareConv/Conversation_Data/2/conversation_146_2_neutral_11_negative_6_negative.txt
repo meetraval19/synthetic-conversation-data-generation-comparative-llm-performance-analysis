@@ -1,0 +1,17 @@
+"Speaker A: 'I've just received the latest test results for your condition. Everything looks stable for now, so we can continue monitoring.'
+
+Speaker B: 'That's a relief, though I always find these updates a bit daunting. What's our next step?'
+
+Speaker A: 'I’d like to discuss some educational resources we have, but I understand they can be overwhelming with all the medical jargon.'
+
+Speaker B: 'Yes, when I read those materials, I feel more confused than informed. It's quite frustrating.'
+
+Speaker A: 'I completely understand. We’re working on making them more accessible. In the meantime, I’m here to help explain anything you need.'
+
+Speaker B: 'I appreciate that. Also, I've been meaning to ask about seeing a specialist. How’s that process going?'
+
+Speaker A: 'There are some challenges. Coordinating referrals is often harder than it should be, but I’m doing my best to expedite it.'
+
+Speaker B: 'I hope it doesn't take too long. The wait can be very unsettling.'
+
+Speaker A: 'I understand, and I’m advocating to ensure you get the timely care you need. Let’s keep in communication, and I’ll update you on any progress.'"

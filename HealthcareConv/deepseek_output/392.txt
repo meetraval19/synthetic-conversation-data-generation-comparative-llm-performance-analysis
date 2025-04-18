@@ -1,0 +1,12 @@
+{
+    "topics": [
+        {
+            "topic": "Medication Review",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Test Results",
+            "sentiment": "positive"
+        }
+    ]
+}

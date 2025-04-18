@@ -1,0 +1,11 @@
+"Speaker A: 'Let's review your medical background one more time. Everything seems stable, but it’s important we cover all bases before discharge.'
+
+Speaker B: 'Sure, I’ve had a fairly uneventful history, no significant health issues.'
+
+Speaker A: 'That's good to hear. Now, moving on to the medications you’ll be taking at home. We've chosen them carefully, so we expect minimal adverse effects.'
+
+Speaker B: 'That’s reassuring. I’ve been concerned about potential side effects.'
+
+Speaker A: 'Understandably so. However, most patients report feeling better rather quickly with this regimen.'
+
+Speaker B: 'Great, I’m feeling more confident about leaving the hospital now.'

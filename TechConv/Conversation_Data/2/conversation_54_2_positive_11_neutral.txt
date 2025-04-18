@@ -1,0 +1,13 @@
+"Speaker A: 'Thank you for joining our software demo today. Let's start with the performance metrics. Many clients have seen remarkable improvements in efficiency using our tool.'
+
+Speaker B: 'That sounds promising. How does it handle large data sets?'
+
+Speaker A: 'Our platform processes high volumes efficiently, reducing lag and improving overall workflow.'
+
+Speaker B: 'That's impressive. I'm curious about what the onboarding process looks like. Typically, it can be a hassle.'
+
+Speaker A: 'We actually designed our onboarding to be straightforward. Most customers find our tutorials and support quite helpful but it does require a bit of time to get accustomed.'
+
+Speaker B: 'It's good to know there's support available. Transitioning to new software can sometimes be tricky.'
+
+Speaker A: 'Absolutely, and we're dedicated to making sure the transition goes as smoothly as possible for all our clients.'"

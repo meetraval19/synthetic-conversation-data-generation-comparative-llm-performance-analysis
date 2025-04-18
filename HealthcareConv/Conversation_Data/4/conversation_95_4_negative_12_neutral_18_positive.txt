@@ -1,0 +1,17 @@
+"Speaker A: 'Hi there, I know the treatment hasn't been having the desired effect. How are you feeling about it?'
+
+Speaker B: 'Honestly, it's been a bit frustrating. I was hoping for more progress by now.'
+
+Speaker A: 'I understand. Let’s take a look at the documentation and reassess your current plan.'
+
+Speaker B: 'Alright, that sounds good. I checked the notes you made last time, but wasn’t sure about some of the medical terms.'
+
+Speaker A: 'No problem, I can explain those to you. It's important we’re on the same page. And remember, it’s a process we’ll keep adjusting as needed.'
+
+Speaker B: 'Okay, that makes me feel a bit better. Oh, and I wanted to mention, I had some concerns about emergencies. Is everything looking alright there?'
+
+Speaker A: 'Yes, actually! All your vital signs and recent tests show that there’s nothing to worry about. We’ve got everything covered for emergent situations.'
+
+Speaker B: 'That’s a relief. Knowing that gives me more confidence in handling things day-to-day.'
+
+Speaker A: 'Great! Let’s keep the lines of communication open as we work on tweaking your treatment.'

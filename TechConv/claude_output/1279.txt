@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Security and Privacy Discussion",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "System Configuration Details",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

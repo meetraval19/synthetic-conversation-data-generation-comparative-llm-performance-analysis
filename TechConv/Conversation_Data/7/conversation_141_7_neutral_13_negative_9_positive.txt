@@ -1,0 +1,11 @@
+"Speaker A: 'I’d like to hear about your experience with the support channels. How has it been for you?'
+
+Speaker B: 'Honestly, the support is pretty straightforward. They follow the usual process without any fuss, which is nice.'
+
+Speaker A: 'That’s good to hear. Have you encountered any issues with accessing the software or any limitations you didn’t expect?'
+
+Speaker B: 'Yes, actually. Navigating the licensing and access has been quite frustrating. It feels like there are too many roadblocks just to get started.'
+
+Speaker A: 'I understand how that could be problematic. What about the testing and validation phases? Any thoughts there?'
+
+Speaker B: 'Oh, that part has been fantastic! The improvements in validation really make a difference. It feels reassuring to see that everything’s reliable before going live.'"

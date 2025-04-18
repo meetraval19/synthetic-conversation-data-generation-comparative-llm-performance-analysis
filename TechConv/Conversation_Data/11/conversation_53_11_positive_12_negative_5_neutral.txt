@@ -1,0 +1,16 @@
+"Speaker A: 'Thanks for joining today. Let's start with how you found the onboarding process with our software. Any thoughts?'
+
+Speaker B: 'Honestly, the onboarding was great! The training materials were so intuitive that I felt confident using the software almost immediately.'
+
+Speaker A: 'That's wonderful to hear! Our team put a lot of effort into making the training seamless. Now, how about configuring the system settings? Were there any challenges you encountered?'
+
+Speaker B: 'Yes, actually. The configuration was rather cumbersome. It took more time than expected to get everything set up correctly.'
+
+Speaker A: 'I understand. We're working on simplifying those steps. It’s essential for us to know where improvements are needed. Finally, do you have any expectations or hopes for our software’s future developments?'
+
+Speaker B: 'I’m curious about the future directions. I read a bit about potential updates, and I'm interested to see how they'll enhance the current features, but I don't have strong feelings about it just yet.'
+
+Speaker A: 'We’re excited too! Our roadmap aims to enhance user experience based on feedback like yours. Thanks for sharing your insights today.'
+
+Speaker B: 'Glad to help. Looking forward to seeing how the improvements shape up!'"
+

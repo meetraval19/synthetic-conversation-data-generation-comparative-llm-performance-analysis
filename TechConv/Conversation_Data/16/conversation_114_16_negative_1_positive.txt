@@ -1,0 +1,15 @@
+"Speaker A: 'Thanks for meeting with me to discuss your performance. I've noticed there have been some challenges lately.'
+
+Speaker B: 'Yes, I think you're referring to that project where communication wasn't as clear as it should have been.'
+
+Speaker A: 'Exactly. It's important that we address any gaps in collaboration to improve our workflow.'
+
+Speaker B: 'I completely agree. I’ve already started working on better communication tools for the team.'
+
+Speaker A: 'That's good to hear. Now, on a positive note, your bug reporting has been exceptional.'
+
+Speaker B: 'Thank you! I've been focusing on ensuring issues are documented clearly and efficiently.'
+
+Speaker A: 'It's made a noticeable difference. Keep up the great work on that front.'
+
+Speaker B: 'I appreciate the feedback and will continue to focus on improving where needed.'"

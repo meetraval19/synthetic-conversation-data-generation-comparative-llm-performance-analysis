@@ -1,0 +1,20 @@
+Looking at this medical conversation, I'll identify the underlying themes and their sentiment:
+
+```json
+{
+  "topics": [
+    {
+      "topic": "Symptom Assessment",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Referral Coordination",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Test Results",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

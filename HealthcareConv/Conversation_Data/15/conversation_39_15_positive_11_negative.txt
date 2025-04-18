@@ -1,0 +1,13 @@
+"Speaker A: 'I'm really glad we could make that decision together about your treatment plan. How are you feeling about it now?'
+
+Speaker B: 'That process was really reassuring. Being involved in the decision made me feel more at ease.'
+
+Speaker A: 'Great! Now, regarding the information we provided during your last visit, did it help you understand your condition better?'
+
+Speaker B: 'Honestly, I found some of the materials a bit overwhelming and confusing. I wasn't sure what all the technical terms meant.'
+
+Speaker A: 'I’m sorry to hear that. We definitely need to make sure the information is clearer. How about we go over any questions or doubts you have right now?'
+
+Speaker B: 'That would be helpful. I just want to make sure I’m managing everything correctly.' 
+
+Speaker A: 'Absolutely. Let’s walk through it together, step by step, to make sure everything makes sense and you're comfortable with the next steps.'"

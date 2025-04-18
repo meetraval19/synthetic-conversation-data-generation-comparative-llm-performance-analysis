@@ -1,0 +1,31 @@
+"Speaker A: 'I'm glad to see you're recovering well. How have you been handling the treatment?'
+
+Speaker B: 'Surprisingly, I've had minimal side effects compared to what I expected. The new medication seems to be working quite well.'
+
+Speaker A: 'That's excellent to hear. Managing side effects can make a big difference in recovery.'
+
+Speaker B: 'Absolutely. It’s been a relief.'
+
+Speaker A: 'Regarding the team, how did you find the communication among the staff during your stay?'
+
+Speaker B: 'It was pretty average, to be honest. Different people had their own ways of explaining things, but they were all professional.'
+
+Speaker A: 'I understand. Consistent communication can sometimes be a challenge with multiple departments involved.'
+
+Speaker B: 'Indeed, but they did their best, which I appreciate.'
+
+Speaker A: 'Now, about your documentation and discharge paperwork, did you encounter any issues?'
+
+Speaker B: 'Actually, there were a few errors in my records that delayed my discharge. It was quite frustrating.'
+
+Speaker A: 'I'm sorry to hear that. We strive to improve our documentation process, but sometimes mistakes happen.'
+
+Speaker B: 'I hope it gets sorted out for future patients. It’s the last thing you want when you’re eager to go home.'
+
+Speaker A: 'Absolutely, ensuring accuracy in documentation is something we're actively working on.'
+
+Speaker B: 'That would definitely help make the process smoother.'
+
+Speaker A: 'Thank you for your feedback. It’s very valuable for us to know where improvements are needed.'
+
+Speaker B: 'I appreciate you taking the time to listen and ensure I’m ready to head home.'"

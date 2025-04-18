@@ -1,0 +1,23 @@
+"Speaker A: 'Hi, it's great to see you again. I wanted to update you on your care plan.' 
+
+Speaker B: 'Hello! I’m eager to hear about any changes. How’s it looking?'
+
+Speaker A: 'I have good news. We’ve made significant progress, and your latest results are very encouraging. We’ll be focusing more on preventive measures now.'
+
+Speaker B: 'That sounds reassuring. I’ve been following the plan as best as I can.'
+
+Speaker A: 'You've been doing an excellent job. Keep up the good work. Now, let’s talk about scheduling your follow-up.'
+
+Speaker B: 'I’ve been a bit worried about that. The last few visits have been stressful with all the tests.'
+
+Speaker A: 'I understand. We’ll try to make it as smooth as possible. This time, it’ll be a simpler check-up, focusing on monitoring the improvements.'
+
+Speaker B: 'Alright, I’ll do my best to prepare, but the thought of more tests is a bit daunting.'
+
+Speaker A: 'I completely get that, but we’ll aim to keep it straightforward this time. Let’s plan it at a convenient time for you.' 
+
+Speaker B: 'Thank you. That definitely helps a bit.' 
+
+Speaker A: 'You're welcome. Let’s make sure things continue to improve positively for you.' 
+
+Speaker B: 'I hope so. Thanks for your support.'"

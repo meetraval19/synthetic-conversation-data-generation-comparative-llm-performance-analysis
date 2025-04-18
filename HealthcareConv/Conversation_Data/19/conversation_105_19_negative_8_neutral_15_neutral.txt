@@ -1,0 +1,21 @@
+"Speaker A: 'Hi, thanks for coming in today. How have you been finding the support services?'
+
+Speaker B: 'Honestly, not great. It’s been difficult to get timely responses, and that adds stress to my situation.'
+
+Speaker A: 'I’m sorry to hear that. We’ve been hearing similar feedback, and we’re working on improvements.'
+
+Speaker B: 'I hope so. It would make a real difference.'
+
+Speaker A: 'Let’s focus on your care plan next. I have the latest update here. It looks like there are a few adjustments based on your last results.'
+
+Speaker B: 'I understand. Anything specific I should be aware of?'
+
+Speaker A: 'Mainly some changes in your medication schedule. It’s a minor alteration, but it should help with your progress.'
+
+Speaker B: 'Alright, I’ll make sure to follow that.'
+
+Speaker A: 'Great. Also, I wanted to talk about your input on treatment options. We value shared decision-making, and I’m interested in how you feel about the current approach.'
+
+Speaker B: 'I appreciate that. I think the current path seems reasonable, but I do have a few questions.'
+
+Speaker A: 'Of course, I’m here to help you with those. Let’s make sure everything is clear for you.'"

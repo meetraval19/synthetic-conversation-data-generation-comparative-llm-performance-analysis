@@ -1,0 +1,15 @@
+"Speaker A: 'Thanks for joining us today to discuss your experience with our new tech platform. How has the integration with your existing systems been?'
+
+Speaker B: 'Oh, it’s been great! Everything synced smoothly, and we didn’t have any major hiccups. It feels like it was designed just for us.'
+
+Speaker A: 'That’s fantastic to hear! Now, regarding the initial setup, how would you describe the onboarding process?'
+
+Speaker B: 'Honestly, it was a bit challenging. The instructions weren’t very clear, and we needed quite a bit of extra help to get started.'
+
+Speaker A: 'I see, that’s valuable feedback. We’ll definitely work on making that process more intuitive. How about communication within your team when using the platform?'
+
+Speaker B: 'Well, we’ve noticed some issues. It’s hard to keep everyone on the same page since the tools for collaboration could be better. It’s causing a few misunderstandings.'
+
+Speaker A: 'I understand. We’re looking into enhancing the collaborative features to bridge those gaps. Thank you for your insights—they’re incredibly helpful.'
+
+Speaker B: 'Glad to contribute. I’m hopeful for some improvements, but it's encouraging to know you’re taking this seriously.'"

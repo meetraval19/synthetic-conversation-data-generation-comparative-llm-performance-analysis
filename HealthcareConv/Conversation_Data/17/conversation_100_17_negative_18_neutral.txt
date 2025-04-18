@@ -1,0 +1,15 @@
+"Speaker A: 'I've been reviewing patient feedback, and it seems there are some barriers patients are encountering during their visits.'
+
+Speaker B: 'Yes, the wait times have been a significant issue, unfortunately. We need to address the bottlenecks in the check-in process.'
+
+Speaker A: 'I agree. Improving this could enhance the overall experience significantly.'
+
+Speaker B: 'On another note, I noticed mixed feedback regarding our emergency response protocols.'
+
+Speaker A: 'That's true. Some patients appreciate the responsiveness of our team.'
+
+Speaker B: 'While others feel that communication could be clearer during high-pressure situations.'
+
+Speaker A: 'An understandable concern. We might consider implementing additional training to ensure consistency.'
+
+Speaker B: 'That sounds like a solid approach. Ensuring everyone is on the same page could make a big difference for our patients.'"

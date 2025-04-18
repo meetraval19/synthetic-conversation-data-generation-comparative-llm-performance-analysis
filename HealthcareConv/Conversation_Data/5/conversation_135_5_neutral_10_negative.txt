@@ -1,0 +1,15 @@
+"Speaker A: 'Let's start by reviewing the patient's follow-up visits. Have they been consistent in attending their appointments?' 
+
+Speaker B: 'Yes, the follow-up sessions have been regular, which is good for monitoring progress.'
+
+Speaker A: 'That's reassuring. Now, what about their commitment to the therapy plan?'
+
+Speaker B: 'Unfortunately, adherence to the prescribed therapy has been lacking. It seems they're skipping sessions and not following recommendations.'
+
+Speaker A: 'That's concerning. Non-compliance can really impact recovery. Do we know why they're struggling with the regimen?'
+
+Speaker B: 'The patient mentioned feeling overwhelmed by the complexity of the routine, which might be contributing to their non-adherence.'
+
+Speaker A: 'We should definitely address this. Perhaps simplifying the routine or providing additional support might help improve their adherence.'
+
+Speaker B: 'Agreed. Tailoring the therapy to their lifestyle might make a difference in their engagement with the treatment plan.'"

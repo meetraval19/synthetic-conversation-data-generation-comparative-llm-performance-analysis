@@ -1,0 +1,22 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Tool or Platform Comparison",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Compliance or Regulatory Concerns",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Feature Functionality Clarification",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

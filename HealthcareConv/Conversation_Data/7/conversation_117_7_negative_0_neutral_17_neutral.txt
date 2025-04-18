@@ -1,0 +1,15 @@
+"Speaker A: 'I'm concerned about the information flow within our team lately. It seems like communication gaps are causing delays in patient care.'
+
+Speaker B: 'I noticed that too. It's been challenging to get everyone on the same page.'
+
+Speaker A: 'As we're reviewing this patient's file, their medical history is quite detailed. It's neutral overall, but there are a lot of notes from different specialists.'
+
+Speaker B: 'Yes, it’s comprehensive. It’ll be important to make sure every doctor is referenced properly in our treatment plan.'
+
+Speaker A: 'Absolutely. Also, we should consider any potential barriers to care, like access to specialists or transportation.'
+
+Speaker B: 'That's crucial. While those factors are neutral in some cases, they can become significant hurdles for some patients if not addressed promptly.'
+
+Speaker A: 'Let's ensure we address these issues in our referral notes and follow-up actions.'
+
+Speaker B: 'Good plan. Hopefully, improving our team's communication will help with managing these referrals better.'"

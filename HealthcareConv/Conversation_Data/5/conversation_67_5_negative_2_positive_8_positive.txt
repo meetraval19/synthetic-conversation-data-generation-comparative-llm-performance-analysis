@@ -1,0 +1,15 @@
+"Speaker A: 'I'm happy to inform you that your test results are great! Your recovery is on track.'
+
+Speaker B: 'That's a relief to hear. What about the next steps?'
+
+Speaker A: 'We're updating your care plan to focus on strengthening exercises. This should help you continue recovering smoothly.'
+
+Speaker B: 'That sounds good. Is there anything else I should be aware of?'
+
+Speaker A: 'Well, I must mention that follow-ups might be a bit challenging, as the clinic is quite booked. We might need to schedule a bit further ahead than usual.'
+
+Speaker B: 'I see. That could be difficult to manage with my work schedule. Is there any way to get an earlier appointment?'
+
+Speaker A: 'We’ll definitely try our best to accommodate you. I understand how important it is to balance your health with your commitments.'
+
+Speaker B: 'Thank you. I appreciate the support. I’ll try to stay on top of it and follow the new care plan closely.'"

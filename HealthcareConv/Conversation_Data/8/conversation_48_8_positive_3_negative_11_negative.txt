@@ -1,0 +1,15 @@
+"Speaker A: 'It's great to see you again. Your care plan updates have shown some promising results, haven't they?'
+
+Speaker B: 'Yes, I’ve noticed some positive changes, which is encouraging.'
+
+Speaker A: 'I'm glad to hear that. Now, about your medications, have you been experiencing any issues?'
+
+Speaker B: 'Actually, I have. The side effects have been a bit troublesome.'
+
+Speaker A: 'I understand, and it’s important to address those. We might need to adjust or change the prescription.'
+
+Speaker B: 'I would appreciate that. Also, I found some of the information I got last time overwhelming.'
+
+Speaker A: 'I apologize if it was too much. Let’s break it down into smaller steps that feel more manageable for you.'
+
+Speaker B: 'Thank you. That would help a lot.'"

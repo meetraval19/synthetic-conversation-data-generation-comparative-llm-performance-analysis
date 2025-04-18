@@ -1,0 +1,17 @@
+"Speaker A: 'It's great to see you've been doing well since your last visit. How have you felt overall?'
+
+Speaker B: 'Honestly, I've been feeling much better. The treatment plan seems to be working well.'
+
+Speaker A: 'That's reassuring to hear. Following up regularly helps us track your progress and make any necessary adjustments.'
+
+Speaker B: 'Absolutely. However, I'm still a bit uneasy about the decisions we made about my medications.'
+
+Speaker A: 'I understand. We can revisit those decisions and ensure you're comfortable with the treatment path.'
+
+Speaker B: 'That would be helpful. Looking back, I sometimes wonder if a different approach could have been considered.'
+
+Speaker A: 'Certainly. Let's go over your medical history again and see if any changes should be made.'
+
+Speaker B: 'Sure, my history is pretty straightforward, but I'm open to revisiting it.'
+
+Speaker A: 'Perfect. We can make more informed decisions with all that information at hand.'"

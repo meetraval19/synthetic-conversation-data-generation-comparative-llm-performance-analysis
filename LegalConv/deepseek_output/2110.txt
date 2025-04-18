@@ -1,0 +1,16 @@
+{
+    "topics": [
+        {
+            "topic": "Updates and Next Steps Planning",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Drafting and Reviewing Legal Documents",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Client Objectives and Priorities",
+            "sentiment": "neutral"
+        }
+    ]
+}

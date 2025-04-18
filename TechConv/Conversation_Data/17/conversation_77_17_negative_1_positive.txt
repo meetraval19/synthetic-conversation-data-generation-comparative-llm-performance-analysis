@@ -1,0 +1,16 @@
+"Speaker A: 'Thanks for taking the time to speak with us about the platform. First, how's your experience been with managing growth and system capacity?'
+
+Speaker B: 'Honestly, it's been quite challenging. The scalability isn't what we hoped for, and it feels like we're constantly battling infrastructure limitations.'
+
+Speaker A: 'I understand. It sounds frustrating dealing with those constraints. We'll definitely relay this to our team.'
+
+Speaker B: 'I appreciate that. On a brighter note, I must say the process for reporting bugs or issues is quite smooth. The response time has been impressive.'
+
+Speaker A: 'Glad to hear that! We've worked hard to streamline that process and ensure users feel heard.'
+
+Speaker B: 'It definitely shows. Knowing my feedback is quickly acknowledged makes a big difference.'
+
+Speaker A: 'Thank you for that. We're committed to improving scalability and infrastructure, so your insights are valuable. Anything else you'd like to add?'
+
+Speaker B: 'Just that finding a balance will be key moving forward. But overall, the bug reporting gives me hope for future improvements.'"
+

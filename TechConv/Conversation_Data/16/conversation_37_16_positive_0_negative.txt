@@ -1,0 +1,11 @@
+"Speaker A: 'I was really impressed with how our teams collaborated during the security incident.'
+
+Speaker B: 'Absolutely, the way different departments coordinated was exceptional. It's great how everyone came together.'
+
+Speaker C: 'I agree, but I noticed we had some issues with understanding how certain features were supposed to function.'
+
+Speaker A: 'Yes, there were some challenges there. The details were a bit unclear, which slowed down our response.'
+
+Speaker B: 'That definitely created some confusion. We should ensure clearer documentation for the future.'
+
+Speaker C: 'Agreed. But overall, the communication across teams was a real positive takeaway for everyone involved.'"

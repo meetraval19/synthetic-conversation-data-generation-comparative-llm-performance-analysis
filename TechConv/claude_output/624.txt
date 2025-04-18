@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "User Experience Feedback",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Onboarding or Training Needs",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "neutral"
+    }
+  ]
+}
+```

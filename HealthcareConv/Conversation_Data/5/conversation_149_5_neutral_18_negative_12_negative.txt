@@ -1,0 +1,29 @@
+"Speaker A: 'Thanks for coming in today. How have you been feeling since our last check-up?'
+
+Speaker B: 'Overall, things have been steady. I appreciate these follow-ups for keeping track.'
+
+Speaker A: 'That’s good to hear. Follow-ups are crucial for monitoring your progress.'
+
+Speaker B: 'Definitely helps me stay on top of things.'
+
+Speaker A: 'Have you experienced any new symptoms or situations that might need urgent attention?'
+
+Speaker B: 'Unfortunately, I did have a tough episode last week. It was a bit alarming.'
+
+Speaker A: 'I’m sorry to hear that. Can you explain what happened?'
+
+Speaker B: 'There was some unexpected pain that really worried me.'
+
+Speaker A: 'It’s important to address these concerns quickly. We’ll need to evaluate this further.'
+
+Speaker B: 'Yes, I was quite anxious, but I'm glad it’s being looked into.'
+
+Speaker A: 'Let’s go over your medical documentation from last time to ensure nothing was missed.'
+
+Speaker B: 'I always find the paperwork overwhelming and tricky to make sense of.'
+
+Speaker A: 'I completely understand. We'll go through everything together and clear up any confusion.'
+
+Speaker B: 'Thank you, that would really help. I appreciate your patience.'
+
+Speaker A: 'Of course, your wellbeing is our priority. Let's tackle this one step at a time.'"

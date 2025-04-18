@@ -1,0 +1,17 @@
+"Speaker A: 'Thanks for joining the performance review today. Let's start with the recent challenges we faced. How have you been finding the process of obtaining licenses for new software tools?'
+
+Speaker B: 'It's been quite a hurdle. The delays in securing access rights often slow down our progress. We need a more streamlined approach.'
+
+Speaker A: 'I understand. It's definitely frustrating when access issues lead to project delays.'
+
+Speaker B: 'Yes, it impacts our timelines significantly. Having a more efficient system could boost our productivity.'
+
+Speaker A: 'Let's address that. Moving on, I noticed you've been proactive with system configurations. How has that been going?'
+
+Speaker B: 'It's been great actually. Optimizing those configurations has improved our system performance considerably.'
+
+Speaker A: 'That's wonderful to hear. It shows in the project outcomes, and it seems like it's positively impacting our overall workflow.'
+
+Speaker B: 'Absolutely, the system changes have been a game-changer. The processes are much smoother now.'
+
+Speaker A: 'Well, it's clear you've been doing excellent work in that area. Let's work together to resolve the licensing issues and maintain this positive momentum.'"

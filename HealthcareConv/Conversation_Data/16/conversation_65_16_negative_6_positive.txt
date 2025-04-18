@@ -1,0 +1,12 @@
+"Speaker A: 'I reviewed the patient’s file, and I noticed there were some issues with how the diagnosis was communicated.'
+
+Speaker B: 'Yes, it's challenging when patients receive overwhelming information all at once. It can lead to misunderstandings.'
+
+Speaker A: 'Agreed, it's essential for us to simplify the language and explain things clearly to avoid confusion.'
+
+Speaker B: 'On a brighter note, the referral coordination went smoothly. The patient will see the specialist next week.'
+
+Speaker A: 'That's great to hear! Streamlining the referral process makes such a difference for everyone involved.'
+
+Speaker B: 'Absolutely, when all the departments work together, it really benefits patient care.'"
+

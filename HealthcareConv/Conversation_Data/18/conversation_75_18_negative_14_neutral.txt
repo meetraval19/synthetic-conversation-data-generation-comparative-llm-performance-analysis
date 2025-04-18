@@ -1,0 +1,15 @@
+"Speaker A: 'I’m worried about a possible emergency developing with this patient. The symptoms are getting worse.'
+
+Speaker B: 'That sounds concerning. Did you notice any immediate threats or signs that require urgent attention?'
+
+Speaker A: 'Yes, there's a rapid escalation in symptoms. We might need to escalate this to a specialist.'
+
+Speaker B: 'I agree. It's crucial to act swiftly to prevent it from becoming critical.'
+
+Speaker A: 'On another note, how’s the patient handling the new medication? Any complications?'
+
+Speaker B: 'Interestingly, the medication isn't causing any adverse effects at the moment. The patient reported feeling quite stable.'
+
+Speaker A: 'That’s good news. Balancing effectiveness while minimizing side effects is always key.'
+
+Speaker B: 'Absolutely. It's important to monitor their progress closely and make sure everything stays aligned with their health plan.'"

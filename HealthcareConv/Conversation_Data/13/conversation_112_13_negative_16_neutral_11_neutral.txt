@@ -1,0 +1,21 @@
+"Speaker A: 'I've reviewed your test results, and it looks like you're on the right path.'
+
+Speaker B: 'Thanks, but I'm concerned about what's next. The discharge plan seems a bit unclear.'
+
+Speaker A: 'I understand your frustration. It's important to ensure everything is well-organized before you leave the hospital.'
+
+Speaker B: 'Exactly, I want to make sure there are no hiccups after I get home.'
+
+Speaker A: 'Of course. Let me know if there's anything specific you'd like clarified.'
+
+Speaker B: 'Can you explain more about what the diagnosis means for my daily life?'
+
+Speaker A: 'Certainly. Your condition is manageable with the right lifestyle adjustments. It's important to monitor symptoms regularly.'
+
+Speaker B: 'That's clear, thank you. And how about learning more about managing my condition?'
+
+Speaker A: 'I'll provide you with resources and point you to a few classes that could be helpful. It's crucial to feel empowered with the right knowledge.'
+
+Speaker B: 'I appreciate that. It's good to have all the necessary tools and information.'
+
+Speaker A: 'Absolutely. We want to make sure you feel comfortable and confident taking care of yourself at home.'"

@@ -1,0 +1,19 @@
+"Speaker A: 'Hi, thanks for joining the performance review. Let's start with discussing the recent feedback we've received from users.'
+
+Speaker B: 'Yes, I've read through some of the comments. It seems like users found the interface less intuitive than expected.'
+
+Speaker A: 'Exactly. We need to prioritize these usability issues and address the core concerns. It’s been a bit disappointing.'
+
+Speaker B: 'I agree, and it’s something our team can work on improving. We could perhaps run more user testing sessions.'
+
+Speaker A: 'That sounds like a solid plan. Now, let's talk about the upcoming projects. How do you feel about our current roadmap?'
+
+Speaker B: 'It’s a bit in the middle for me. While I think the directions we're taking are promising, there are still areas that need clarity.'
+
+Speaker A: 'I see what you mean. It's important that we keep evaluating and adjusting our strategies. Feel free to share any ideas with the team.'
+
+Speaker B: 'Absolutely, I'll gather some feedback and see if there are any suggestions that could refine our future plans.'
+
+Speaker A: 'Great. Let’s continue working on both the immediate feedback and strategic improvements. Thanks for the chat!'
+
+Speaker B: 'Thank you, I’ll keep you updated on our progress.'"

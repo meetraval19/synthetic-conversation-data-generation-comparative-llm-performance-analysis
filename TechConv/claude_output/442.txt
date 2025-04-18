@@ -1,0 +1,18 @@
+```json
+{
+  "topics": [
+    {
+      "topic": "Integration or Compatibility Inquiry",
+      "sentiment": "positive"
+    },
+    {
+      "topic": "Scalability and Infrastructure Planning",
+      "sentiment": "neutral"
+    },
+    {
+      "topic": "Support and Escalation Process",
+      "sentiment": "negative"
+    }
+  ]
+}
+```

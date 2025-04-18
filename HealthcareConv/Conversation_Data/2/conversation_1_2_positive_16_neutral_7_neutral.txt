@@ -1,0 +1,24 @@
+"Speaker A: 'I have some good news regarding your test results. Everything looks great!'
+
+Speaker B: 'That's such a relief to hear. I've been quite anxious about them.'
+
+Speaker A: 'I understand. We aim to provide results promptly to ease any concerns.'
+
+Speaker B: 'I appreciate that. Are they sent to my primary doctor as well?'
+
+Speaker A: 'Yes, the team makes sure the information is shared across departments for continuity of care.'
+
+Speaker B: 'That really helps, having everyone on the same page.'
+
+Speaker A: 'Communication within the team is crucial. It's important everyone understands the care plan.'
+
+Speaker B: 'Definitely. It makes it easier to know what's next in terms of my treatment.'
+
+Speaker A: 'Exactly, and speaking of which, how do you feel about our previous discussions on your condition?'
+
+Speaker B: 'I feel informed, but sometimes it's a lot to take in. Is there a way to revisit some details?'
+
+Speaker A: 'Of course. We can provide written summaries or set up another consultation if needed.'
+
+Speaker B: 'That would be great. Thanks for being so accommodating.'"
+

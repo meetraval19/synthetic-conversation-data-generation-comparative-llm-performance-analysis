@@ -1,0 +1,23 @@
+"Speaker A: 'I’ve noticed that the process we have for making decisions with patients hasn’t been going as smoothly as we’d hoped.'
+
+Speaker B: 'Absolutely, there seem to be some challenges in getting everyone on the same page during those discussions.'
+
+Speaker C: 'Yes, it feels like the shared decision-making model isn’t quite delivering the collaborative outcome we intended.'
+
+Speaker A: 'Exactly. Patients sometimes feel overwhelmed with the information presented, and it affects their confidence in the choices.'
+
+Speaker B: 'Perhaps we should look into simplifying the way we present options to them, without sacrificing important details.'
+
+Speaker C: 'That’s a good idea. It might help ease their decision fatigue.'
+
+Speaker A: 'Moving on, how are we doing with scheduling follow-up appointments?'
+
+Speaker B: 'Follow-ups have been running fairly smoothly from what I can see.'
+
+Speaker C: 'I’d agree. Most patients are making it back for their check-ins, and our reminder system seems effective.'
+
+Speaker A: 'That’s good to hear. It’s important we maintain that level of consistency.'
+
+Speaker B: 'Absolutely, reliable follow-ups are key to ensuring ongoing support and care.'
+
+Speaker C: 'Yes, and they help us address any issues that may arise after initial treatment. Let’s keep monitoring both fronts closely.'"

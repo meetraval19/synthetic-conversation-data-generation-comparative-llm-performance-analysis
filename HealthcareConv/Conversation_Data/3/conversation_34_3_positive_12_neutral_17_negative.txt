@@ -1,0 +1,15 @@
+"Speaker A: 'I'm pleased with how well the medication review went. The new prescriptions should be effective for your condition.'
+
+Speaker B: 'That's great to hear! I feel more confident knowing the medications are well-suited to my needs.'
+
+Speaker A: 'Now, let's move on to the paperwork. We'll just ensure all the documentation is in order before you leave.'
+
+Speaker B: 'Of course, I'm ready to go through it. I want to make sure everything is accurate.'
+
+Speaker A: 'One concern we have to address is the potential barriers to care once you're home. Do you foresee any issues?'
+
+Speaker B: 'Well, transportation could be tricky. It’s not always easy to get to follow-up appointments.'
+
+Speaker A: 'I understand. Let’s discuss some support options that might help with that.' 
+
+Speaker B: 'Thank you for addressing these concerns. It’s been on my mind, and I appreciate the support.'"

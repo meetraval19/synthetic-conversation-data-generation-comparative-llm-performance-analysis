@@ -1,0 +1,25 @@
+"Speaker A: 'Thank you for calling tech support. How can I assist you today?'
+
+Speaker B: 'Hi, I'm having trouble understanding how this new feature works. It’s really confusing.'
+
+Speaker A: 'I’m sorry to hear that. Could you tell me what specific part is causing the confusion?'
+
+Speaker B: 'Well, it seems like the feature isn’t doing what it’s supposed to. I followed the instructions, but it doesn't seem right.'
+
+Speaker A: 'I understand your frustration. Let’s see if we can resolve this together.'
+
+Speaker B: 'That would be great.'
+
+Speaker A: 'While we work through this, have you had a chance to look at the user guide or any documentation?'
+
+Speaker B: 'I skimmed through it, but it didn’t really clarify things for me.'
+
+Speaker A: 'The documentation can be quite dense. If there's a specific section you’re unsure about, I can help explain it.'
+
+Speaker B: 'I was looking at the implementation guide, but it’s a lot to take in.'
+
+Speaker A: 'I agree, sometimes it's not straightforward. Let’s focus on the issue at hand and see if we can sort it out step by step.'
+
+Speaker B: 'I appreciate that. I just wish things were explained a bit more clearly in the first place.'
+
+Speaker A: 'Definitely, clearer documentation makes everyone's job easier. Let’s tackle this problem so you can get back on track.'"

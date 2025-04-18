@@ -1,0 +1,17 @@
+"Speaker A: 'I reviewed the risk assessment for our new patient, and it's quite promising. The likelihood of complications is low.'
+
+Speaker B: 'That's great to hear. It gives us more options for treatment.'
+
+Speaker A: 'Exactly. The predictive models really help us plan better.'
+
+Speaker B: 'I agree. It's reassuring to have that data beforehand. Now, about the patient's previous records, I think we need to delve a bit deeper.'
+
+Speaker A: 'Yes, the medical history is quite extensive, but it seems stable. No major changes over the last year.'
+
+Speaker B: 'That’s consistent with what was shared during the referral. It provides a decent baseline for moving forward.'
+
+Speaker A: 'Definitely. I'll ensure we're up to date before we proceed with any interventions.'
+
+Speaker B: 'Sounds like a solid plan. The more we know, the smoother the process will be.'
+
+Speaker A: 'Agreed. Let's keep monitoring and see how things evolve.'"

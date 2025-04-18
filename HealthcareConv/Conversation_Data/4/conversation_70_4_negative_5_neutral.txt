@@ -1,0 +1,18 @@
+"Speaker A: 'I've reviewed your treatment plan, and there are a few concerns I'd like to discuss.'
+
+Speaker B: 'I understand. Could you elaborate on what didn't meet expectations?'
+
+Speaker A: 'Well, the approach seems a bit too aggressive for some patients. There've been complaints about its intensity.'
+
+Speaker B: 'I see. We aimed for comprehensive coverage, but I can adjust based on patient feedback.'
+
+Speaker A: 'That might be wise. Now, moving on to your patient follow-ups.'
+
+Speaker B: 'Yes, I've been ensuring that every patient receives a follow-up call within a week after discharge.'
+
+Speaker A: 'That's good. Patients seem to appreciate the check-ins, though there's not much feedback on the impact yet.'
+
+Speaker B: 'It’s a start, and we can refine the process as we gather more data.'
+
+Speaker A: 'Absolutely. Let’s aim for more detailed feedback on both aspects moving forward.'"
+

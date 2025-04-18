@@ -1,0 +1,24 @@
+{
+    "topics": [
+        {
+            "topic": "Change Request or Feature Suggestion",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Workflow or Process Optimization",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Compliance or Regulatory Concerns",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Tool or Platform Comparison",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "Testing and Validation Status",
+            "sentiment": "neutral"
+        }
+    ]
+}

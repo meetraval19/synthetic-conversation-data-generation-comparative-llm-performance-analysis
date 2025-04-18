@@ -1,0 +1,11 @@
+"Speaker A: 'How have you been finding the support services at our facility? I hope they've been helpful.'  
+Speaker B: 'They've been amazing! The staff is so attentive and supportive. It’s made a big difference in my recovery process.'  
+Speaker A: 'I’m glad to hear that. Now, about your treatment plan—are you comfortable with the decisions we've made together?'  
+Speaker B: 'Yes, I am. I appreciate being involved in the decision-making process. It really helps me understand my treatment better.'  
+Speaker A: 'Great to know. Let’s quickly go over your latest test results and progress documentation. Everything seems consistent with what we expected.'  
+Speaker B: 'Sounds good. I guess that means I’m on the right track?'  
+Speaker A: 'Exactly. We’ll continue monitoring and adjust if necessary, but things are looking steady.'  
+Speaker B: 'Thanks for keeping everything clear and transparent. It makes things feel less overwhelming.'  
+Speaker A: 'Anytime. Feel free to reach out if you need any further assistance or have more questions.'  
+Speaker B: 'Will do. Thanks again for all the support.'  
+Speaker A: 'You’re very welcome!'"

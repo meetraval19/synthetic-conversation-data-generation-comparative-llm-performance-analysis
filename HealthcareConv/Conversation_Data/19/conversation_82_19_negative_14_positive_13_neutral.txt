@@ -1,0 +1,21 @@
+"Speaker A: 'Thanks for visiting today. Have you been managing okay with the support services provided?'
+
+Speaker B: 'Honestly, it's been a bit frustrating. The coordination hasn't been as smooth as expected.'
+
+Speaker A: 'I'm sorry to hear that. We'll look into improving communication between the services for you.'
+
+Speaker B: 'Thank you, that would help a lot. On another note, I was worried about potential side effects from the new medication.'
+
+Speaker A: 'Actually, patients have been reporting minimal side effects, which is encouraging. Many have said they feel much better.'
+
+Speaker B: 'That's a relief to hear. I feel more confident about starting it now.'
+
+Speaker A: 'Great! Now, let's discuss the plan for when you're ready to go home. How do you feel about the discharge process?'
+
+Speaker B: 'It seems straightforward, but I just want to make sure everything is covered before I leave.'
+
+Speaker A: 'Of course. We'll review everything with you and provide all necessary instructions.'
+
+Speaker B: 'I appreciate that. Knowing what's ahead helps me feel more prepared for going home.'
+
+Speaker A: 'Absolutely. We're here to support you every step of the way.'"

@@ -1,0 +1,16 @@
+"Speaker A: 'I understand the diagnosis was quite a shock for you. How are you feeling about the way it was communicated?'
+
+Speaker B: 'Honestly, it was overwhelming. The explanation felt rushed, and I left with more questions than answers.'
+
+Speaker A: 'I’m really sorry to hear that. We’ll make sure to clarify any doubts before you leave. Have you had a chance to discuss your medical background with the team yet?'
+
+Speaker B: 'Yes, that part went smoothly. They had all my records and seemed well-prepared.'
+
+Speaker A: 'I’m glad to hear it. Our team strives to stay updated with each patient’s history to provide the best care.'
+
+Speaker B: 'The nursing staff has been exceptionally supportive though. They made me feel comfortable, and it was clear that they all communicated well with each other.'
+
+Speaker A: 'Thank you for noticing. Our team believes communication is key to providing effective treatment and ensuring a smooth discharge. We’ll ensure you’re fully informed before you go home.'
+
+Speaker B: 'I appreciate that. It’s comforting to know that the team is aligned and focused on patient care.'"
+

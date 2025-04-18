@@ -1,0 +1,21 @@
+“Speaker A: 'I understand you're experiencing some discomfort. Let's go over your symptoms to see how we can best address them.'
+
+Speaker B: 'Yes, I've had some persistent fatigue and occasional dizziness. It’s tough to describe, but it feels different from my usual tiredness.'
+
+Speaker A: 'Noted. It's important to assess these symptoms carefully to determine the next steps. Have you noticed any other changes?'
+
+Speaker B: 'Not really, just the fatigue and dizziness.'
+
+Speaker A: 'Alright. Based on this, we can explore a few possible referrals. But first, I want to reassure you that there are support services available that could really benefit you.'
+
+Speaker B: 'Oh, really? What kind of support services?'
+
+Speaker A: 'We have access to a variety of resources, like dietary consultation and physical therapy, which could greatly enhance your wellbeing and recovery process.'
+
+Speaker B: 'That sounds promising. It’s much better knowing there’s help at hand.'
+
+Speaker A: 'Absolutely. We’ve seen significant improvements using these support strategies, and they’re tailored to each patient's needs.'
+
+Speaker B: 'I’m eager to try that. Thank you for guiding me through this.'
+
+Speaker A: 'Of course, let’s work together to get you feeling better soon.'”

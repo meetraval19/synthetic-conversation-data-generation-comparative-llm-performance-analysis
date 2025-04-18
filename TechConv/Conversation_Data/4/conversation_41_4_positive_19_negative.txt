@@ -1,0 +1,19 @@
+"Speaker A: 'Our software seamlessly integrates with a wide range of platforms, making it incredibly user-friendly for your team.'
+
+Speaker B: 'That sounds promising! Integration has always been a concern for us.'
+
+Speaker A: 'Absolutely, we ensure compatibility with all major tools. It’s designed to simplify your workflow, not complicate it.'
+
+Speaker B: 'That’s a relief to hear. We’ve had some rough experiences when trying to make different systems work together.'
+
+Speaker A: 'I understand those challenges. Let’s discuss how our solution stands out. Have you looked into other similar tools?'
+
+Speaker B: 'Yes, but many have fallen short, especially in terms of features versus cost.'
+
+Speaker A: 'I’ve heard that a lot. We’ve focused on providing a robust set of features at an accessible price. We believe in offering real value to our users.'
+
+Speaker B: 'I appreciate your honesty. It’s refreshing compared to other demos we’ve seen.'
+
+Speaker A: 'We aim to address the core needs without overwhelming you with unnecessary extras. Let me know if you have more questions.' 
+
+Speaker B: 'Thank you. This has been very insightful.'"

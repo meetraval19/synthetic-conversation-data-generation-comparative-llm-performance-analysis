@@ -1,0 +1,13 @@
+"Speaker A: 'Thank you for participating in this feedback session. Let's start with how you felt about the support and escalation process with our tech team?'
+
+Speaker B: 'Honestly, I was impressed. They quickly addressed my issues and followed up to ensure everything was resolved.'
+
+Speaker A: 'That's great to hear! We're committed to providing effective support. Now, regarding the system configuration details, did you encounter any challenges?'
+
+Speaker B: 'Yes, unfortunately. It was quite a hassle. The setup instructions lacked clarity, and I had trouble getting things running smoothly.'
+
+Speaker A: 'I understand, and we appreciate the feedback. We’ll definitely work on making improvements. Lastly, if you could suggest any changes or features, what would you recommend?'
+
+Speaker B: 'A few tweaks could be beneficial, like perhaps adding more automation options. But overall, the features are quite robust as they are.'
+
+Speaker A: 'Thank you for sharing your thoughts. We’ll consider those suggestions for future updates. Your input is invaluable to us!'"

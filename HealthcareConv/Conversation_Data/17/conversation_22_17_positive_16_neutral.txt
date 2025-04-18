@@ -1,0 +1,19 @@
+"Speaker A: 'Hi there! It's great to see you again. How have you been finding the access to care since your last visit?'
+
+Speaker B: 'Honestly, it's been much easier. The new patient portal makes everything so seamless. I'm able to book appointments and access my records quickly!'
+
+Speaker A: 'I'm really glad to hear that. We've put a lot of effort into breaking down those barriers. Now, about your condition, I wanted to discuss the results of your latest tests.'
+
+Speaker B: 'Yes, I was a bit anxious about that. What did the results show?'
+
+Speaker A: 'So, the results are consistent with what we expected. I'd say there's no significant change from your last tests. We’ll need to continue monitoring it closely.'
+
+Speaker B: 'I appreciate your straightforwardness. It's reassuring to know where I stand, even if the news isn’t different from before.'
+
+Speaker A: 'It’s important to stay informed, and I’m always here to clarify any questions you might have.'
+
+Speaker B: 'Thank you, that’s helpful. I’ll definitely reach out if anything comes up.'
+
+Speaker A: 'Perfect. Don’t forget to use the portal for any follow-up questions. It’s a great tool to stay connected.'
+
+Speaker B: 'Absolutely, it’s been invaluable so far. Thanks for everything!'"

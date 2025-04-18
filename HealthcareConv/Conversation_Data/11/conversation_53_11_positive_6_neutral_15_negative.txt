@@ -1,0 +1,21 @@
+"Speaker A: 'We've made great progress with our patient education initiatives recently. Participants are more informed and engaged.' 
+
+Speaker B: 'That's excellent to hear. An informed patient certainly contributes positively to their outcomes.'
+
+Speaker A: 'Absolutely! With more understanding, they follow through with treatments better.'
+
+Speaker C: 'Switching gears, how's our referral coordination system holding up?'
+
+Speaker B: 'It’s running smoothly, though there are still areas we’re refining for efficiency.'
+
+Speaker C: 'It's good to know it's stable, but continuous improvements are always welcome.'
+
+Speaker A: 'Agreed. Now, onto shared decision-making—there seem to be some challenges.'
+
+Speaker C: 'Yes, we’re noticing that it's not as effective as we hoped. Patients often feel overwhelmed by options.'
+
+Speaker B: 'True, and some clinicians feel it complicates the process rather than simplifying it.'
+
+Speaker A: 'Maybe incorporating more tailored support can ease these concerns and improve decision-making.'
+
+Speaker C: 'That sounds like a reasonable approach. We need to ensure clarity for everyone involved.'"

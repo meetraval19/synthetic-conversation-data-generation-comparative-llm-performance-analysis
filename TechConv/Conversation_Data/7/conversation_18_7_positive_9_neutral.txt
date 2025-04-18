@@ -1,0 +1,13 @@
+"Speaker A: 'So, I'd love to hear your thoughts on our support and escalation process. How's it been working for you?'
+
+Speaker B: 'Honestly, I think it’s fantastic. Whenever I encounter an issue, the responses are swift and the team genuinely seems focused on resolving problems quickly.'
+
+Speaker A: 'That's great to hear. We’ve been putting a lot of effort into improving that aspect. What about the way we handle testing and validation? Any feedback there?'
+
+Speaker B: 'Hmm, I'd say it’s doing fine. It seems pretty standard. I don’t have any major concerns, but I do think there’s always room for improvement.'
+
+Speaker A: 'Absolutely, we’re constantly looking at how we can enhance those processes. If you have any specific suggestions down the line, feel free to share.'
+
+Speaker B: 'Will do. Overall, I really appreciate how attentive the team is.'
+
+Speaker A: 'Thank you! Your feedback is invaluable to us.'"

@@ -1,0 +1,19 @@
+"Speaker A: 'I see you're ready to go home today. Let's quickly review the care steps from our plan.'
+
+Speaker B: 'Sure, the plan seems straightforward. I'm glad it was clear and easy to follow.'
+
+Speaker A: 'That's great to hear. Now, about the medication you'll be taking, some patients worry about side effects. How have you been feeling about them?'
+
+Speaker B: 'Actually, I'm feeling quite positive. I was concerned at first, but so far, I've managed well, and the nurses assured me it's typical to feel this way.'
+
+Speaker A: 'That's encouraging. We'll stay in touch to ensure the medication continues to work smoothly for you.'
+
+Speaker B: 'Thank you. It's reassuring to know there's support if I need it once I'm at home.'
+
+Speaker A: 'Absolutely. Feel free to reach out anytime with questions or concerns. Remember, follow-up visits are crucial to track your progress.'
+
+Speaker B: 'I will. Thank you for making everything clear. It makes going home much less stressful.'
+
+Speaker A: 'You're welcome. Take care and stay in touch, alright?' 
+
+Speaker B: 'Definitely. Thanks for everything!'"

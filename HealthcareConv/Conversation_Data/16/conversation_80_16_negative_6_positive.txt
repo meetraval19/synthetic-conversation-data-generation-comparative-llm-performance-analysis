@@ -1,0 +1,15 @@
+"Speaker A: 'Hi there, thanks for coming in today. I reviewed your test results, and we need to discuss them.'
+
+Speaker B: 'I’ve been anxious about this. I hope the news isn’t too overwhelming.'
+
+Speaker A: 'I understand. Communicating a diagnosis can sometimes be challenging, but I’m here to help answer any of your questions.'
+
+Speaker B: 'I appreciate that. Is there a next step we should be looking at?'
+
+Speaker A: 'Yes, we need to coordinate a referral to a specialist who can provide more detailed care.'
+
+Speaker B: 'That sounds reassuring. I've had positive experiences with specialists in the past.'
+
+Speaker A: 'I’m glad to hear that. I'll ensure the referral process is smooth and efficient.'
+
+Speaker B: 'Thank you. Knowing that part will be taken care of is a relief.'"

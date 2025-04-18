@@ -1,0 +1,15 @@
+"Speaker A: 'We've reviewed your test results, and unfortunately, there are some concerns we need to address.'
+
+Speaker B: 'I see, what does that mean for my treatment plan?'
+
+Speaker A: 'We'll need to discuss the next steps carefully. Let’s focus on managing any possible progression early.'
+
+Speaker B: 'Alright, I understand. And what about the symptoms I've been experiencing recently?'
+
+Speaker A: 'Well, during the assessment, it seems like your symptoms are stable for now. It’s important to monitor them closely though.'
+
+Speaker B: 'That’s somewhat reassuring. I guess it's a matter of keeping an eye on things and adjusting the plan as needed.'
+
+Speaker A: 'Exactly. We'll need to schedule follow-ups to ensure everything stays on track.'
+
+Speaker B: 'Thank you for keeping me informed. It really helps to know what the plan is moving forward.'"

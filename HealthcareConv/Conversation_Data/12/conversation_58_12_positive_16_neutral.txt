@@ -1,0 +1,15 @@
+"Speaker A: 'I’ve reviewed your medical history and documentation, and everything is very well-organized.' 
+
+Speaker B: 'I’m glad to hear that. I’ve been trying to keep it all up-to-date.'
+
+Speaker A: 'It really helps us provide better care. Now, regarding your current condition, let’s discuss what the tests indicate.'
+
+Speaker B: 'Sure, I’d like to understand what’s going on.'
+
+Speaker A: 'The results suggest a few possibilities that we should consider. It’s nothing alarming, but it gives us some direction for next steps.'
+
+Speaker B: 'Okay, I appreciate the clarity. It’s important to know all the details so I can manage things properly.'
+
+Speaker A: 'Absolutely. We’ll proceed with further observations and decide the best course of action together.' 
+
+Speaker B: 'That sounds like a solid plan. Thanks for keeping everything straightforward and transparent.'"

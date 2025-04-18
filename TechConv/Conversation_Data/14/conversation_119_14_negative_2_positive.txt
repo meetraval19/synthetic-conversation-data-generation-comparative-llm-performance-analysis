@@ -1,0 +1,13 @@
+"Speaker A: 'Thanks for joining the interview today. Can we start by discussing how you feel about the current analytics dashboard?' 
+
+Speaker B: 'Sure, to be honest, I've found it quite frustrating. The data often seems cluttered, and it's difficult to derive meaningful insights quickly.'
+
+Speaker A: 'I understand, many users have raised similar concerns. We aim to simplify it. How about the app's overall performance?'
+
+Speaker B: 'Oh, that's been fantastic! The speed and responsiveness have noticeably improved, making the experience much smoother.'
+
+Speaker A: 'That's great to hear! We've worked hard on optimizing performance. Are there any features you find particularly beneficial?'
+
+Speaker B: 'Absolutely, the new loading times are amazing, and switching between sections feels seamless now.'
+
+Speaker A: 'Thanks for your feedback on both fronts. We'll address the dashboard issues and continue enhancing performance. Your insights are invaluable to us!'"

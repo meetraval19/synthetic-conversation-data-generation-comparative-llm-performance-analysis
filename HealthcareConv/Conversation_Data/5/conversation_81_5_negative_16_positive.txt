@@ -1,0 +1,19 @@
+"Speaker A: 'Thank you for coming in today. I wanted to discuss the results from your recent tests.'
+
+Speaker B: 'Of course. I appreciate how clearly you explain everything. It really helps me understand my condition better.'
+
+Speaker A: 'I'm glad to hear that. Communication is key when it comes to diagnosis.'
+
+Speaker B: 'Absolutely. It makes a big difference.'
+
+Speaker A: 'Now, I noticed you might feel a bit anxious about needing another follow-up appointment?'
+
+Speaker B: 'Yes, having to come back again feels frustrating and stressful. I was hoping to resolve everything today.'
+
+Speaker A: 'I understand how that can be disheartening. It's important we monitor progress, though.'
+
+Speaker B: 'I know, it's just sometimes hard to deal with the uncertainty of it all.'
+
+Speaker A: 'That's completely understandable. Let's work together to make these follow-ups more manageable for you.'
+
+Speaker B: 'Thank you. It's reassuring to know you're considering my feelings in all this.'"

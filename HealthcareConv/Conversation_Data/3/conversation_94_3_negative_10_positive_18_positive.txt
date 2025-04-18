@@ -1,0 +1,19 @@
+"Speaker A: 'Let's start by reviewing your current medications. Are you experiencing any issues with them?'
+
+Speaker B: 'Actually, yes. I've been feeling quite dizzy since I started the new one.'
+
+Speaker A: 'I'm sorry to hear that. We can definitely look into an alternative that doesn't have these side effects.'
+
+Speaker B: 'That would be great. I really need to feel better.'
+
+Speaker A: 'On a brighter note, it's fantastic to see that you’ve been consistent with your therapy sessions. It’s really helping with your progress.'
+
+Speaker B: 'Thank you, I've noticed a big improvement, and I genuinely feel better.'
+
+Speaker A: 'Wonderful! Your commitment is really paying off. Also, do you have any worries about emergencies, like how to handle an unexpected situation?'
+
+Speaker B: 'Actually, having a clear plan focuses my mind. It’s reassuring to know what steps to take.'
+
+Speaker A: 'That's great to hear. Emergency plans can really provide peace of mind. Let's keep refining it together.'
+
+Speaker B: 'I appreciate that. It makes me feel more secure.'"

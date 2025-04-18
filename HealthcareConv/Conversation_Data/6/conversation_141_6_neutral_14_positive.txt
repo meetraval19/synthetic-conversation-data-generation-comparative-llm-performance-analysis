@@ -1,0 +1,23 @@
+"Speaker A: 'Thanks for meeting to discuss the referral. How do you typically handle coordinating these for your patients?'
+
+Speaker B: 'Oh, the coordination process can be pretty straightforward once you've done it a few times. I usually start by verifying all the insurance details before making any introductions.'
+
+Speaker A: 'That makes sense. Having a streamlined process is key. How do patients usually feel about being referred to specialists?'
+
+Speaker B: 'Most of them are quite understanding, especially when it means getting specialized care. Speaking of which, have you discussed potential outcomes with patients regarding medications?'
+
+Speaker A: 'Yes, and interestingly, a lot of our patients who experience side effects actually share positive feedback. They often mention how much better they feel overall, despite minor inconveniences.'
+
+Speaker B: 'It's good to hear that! It reinforces the importance of talking through any potential experiences beforehand, so patients know what to expect.'
+
+Speaker A: 'Absolutely, setting realistic expectations seems to really help in building trust. And how do you ensure smooth communication between your team and the specialists?'
+
+Speaker B: 'We usually have a standardized report system that keeps everyone in the loop. It's more neutral in sentiment, but ensures no details are overlooked.'
+
+Speaker A: 'That sounds efficient. It must make the referral process a lot less stressful for everyone involved.'
+
+Speaker B: 'Definitely. And once the patients see how well-planned everything is, they're more receptive and less anxious about transitioning to a specialist.' 
+
+Speaker A: 'I'm glad we had this conversation. It's reassuring to know that we're on the same page when it comes to managing patients' care.'
+
+Speaker B: 'Agreed. It's always beneficial to share insights and ensure we provide the best possible outcomes for our patients.'"

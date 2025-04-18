@@ -1,0 +1,15 @@
+"Speaker A: 'Hi Doctor, I've been feeling much better since starting the new medication. The treatment plan seems to be working well.' 
+
+Speaker B: 'That's great to hear! We designed the plan to suit your specific needs, so it's good to see positive results.'
+
+Speaker A: 'Absolutely, I really appreciate the careful consideration that went into it. I just hope all the different specialists I’m seeing are on the same page.'
+
+Speaker B: 'That's important; effective communication among the team can sometimes be a challenge, but we try our best to ensure everyone is informed about your progress.'
+
+Speaker A: 'I understand it can't be perfect, but as long as everyone is generally aligned, I’m happy.'
+
+Speaker B: 'Definitely, we aim for transparency and collaboration. Please don’t hesitate to let us know if there are any inconsistencies you notice.'
+
+Speaker A: 'Thank you, Doctor. I’ll do that. Overall, I'm optimistic and grateful for the support.'
+
+Speaker B: 'Glad to hear it. Let's keep up the momentum with your recovery. If you have any questions or concerns, feel free to reach out anytime.'"

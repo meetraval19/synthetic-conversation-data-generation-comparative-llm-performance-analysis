@@ -1,0 +1,21 @@
+"Speaker A: 'Thanks for joining the demo today. Let’s start by discussing how we ensure quality in our software.'
+
+Speaker B: 'Sure, quality is critical. How do you manage the verification process?'
+
+Speaker A: 'We have a rigorous process in place. Our system undergoes continuous testing to catch any issues early on.'
+
+Speaker B: 'That’s reassuring. Is there anything specific users need to know about this aspect?'
+
+Speaker A: 'Not really, it’s pretty seamless from the user's perspective. Now, let’s move to how we support new users.'
+
+Speaker B: 'Yes, onboarding can be a challenge. What do you offer in terms of support?'
+
+Speaker A: 'We provide comprehensive training sessions and 24/7 access to resources. Most users find our platform quite intuitive and easy to learn.'
+
+Speaker B: 'That sounds great. And the training is included with the software?'
+
+Speaker A: 'Absolutely, we ensure every user feels confident and supported as they begin using our tools.'
+
+Speaker B: 'Perfect, that’s very encouraging. Thanks for covering these points.'
+
+Speaker A: 'My pleasure. Let me know if there’s anything else you’d like to explore further.'"

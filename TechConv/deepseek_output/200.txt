@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "topic": "Performance Concerns",
+            "sentiment": "positive"
+        },
+        {
+            "topic": "Bug or Issue Reporting",
+            "sentiment": "negative"
+        },
+        {
+            "topic": "Feature Functionality Clarification",
+            "sentiment": "neutral"
+        },
+        {
+            "topic": "System Configuration Details",
+            "sentiment": "positive"
+        }
+    ]
+}

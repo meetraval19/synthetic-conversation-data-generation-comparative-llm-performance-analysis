@@ -1,0 +1,16 @@
+"Speaker A: 'I reviewed the patient's chart, and it seems like the new treatment option might be suitable.'
+
+Speaker B: 'That's a good suggestion. How was the symptom assessment during their last visit?'
+
+Speaker A: 'It was quite positive. The patient showed significant improvement in their energy levels and overall mood.'
+
+Speaker B: 'That's encouraging. Managing the symptoms effectively can make a big difference in their recovery process.'
+
+Speaker A: 'Absolutely. Did you get a chance to discuss any potential side effects with the patient?'
+
+Speaker B: 'Yes, we touched on it briefly. The patient was curious, but they seemed to understand that these effects are generally mild and temporary.'
+
+Speaker A: 'It's important they know what to expect, but it's good they're not overly concerned.'
+
+Speaker B: 'Exactly, and keeping that open line of communication helps them feel more supported.'"
+

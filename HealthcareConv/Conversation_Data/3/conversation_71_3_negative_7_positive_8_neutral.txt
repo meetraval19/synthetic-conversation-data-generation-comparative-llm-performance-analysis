@@ -1,0 +1,15 @@
+"Speaker A: 'How have you been feeling since starting the new medication?'
+
+Speaker B: 'Honestly, I've been experiencing some side effects. It's been a bit troublesome.'
+
+Speaker A: 'I'm sorry to hear that. We can look into adjusting your dosage or trying an alternative.'
+
+Speaker B: 'That would be great. I was getting worried these issues would persist.'
+
+Speaker A: 'On a brighter note, I wanted to mention how well the team has been working together on your case. The communication has been excellent.'
+
+Speaker B: 'Really? That's comforting to know. I feel more at ease knowing everyone is on the same page.'
+
+Speaker A: 'Absolutely, it's important for cohesive care. Now, about your care plan, we should go over any updates and see if anything needs adjusting.'
+
+Speaker B: 'Sure, I think everything has been progressing as expected. No major changes needed from my side.'"

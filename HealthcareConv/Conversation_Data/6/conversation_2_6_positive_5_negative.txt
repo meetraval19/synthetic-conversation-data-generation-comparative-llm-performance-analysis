@@ -1,0 +1,17 @@
+"Speaker A: 'I’m glad to see your recovery has gone well. Let's discuss the next steps, starting with coordinating your transfer to outpatient care.'
+
+Speaker B: 'That sounds great. I heard the coordination team is really helpful in making the process smooth.'
+
+Speaker A: 'Absolutely, they’ll handle your referrals, ensuring everything is set for your continued care at home. It’s usually quite seamless.'
+
+Speaker B: 'I’ve also been told that follow-up appointments can be a bit challenging to schedule.'
+
+Speaker A: 'Yes, unfortunately, getting a timely appointment can sometimes be difficult. We’re working on improving that, but I’ll personally make sure we find the earliest slot available for you.'
+
+Speaker B: 'That would be much appreciated. I’m just concerned about delays in getting the necessary care after discharge.'
+
+Speaker A: 'Understandable, but rest assured, we’ll do everything we can to minimize any issues. Please feel free to reach out if anything comes up.'
+
+Speaker B: 'Thanks for your support throughout all this. A bit nervous, but feeling optimistic overall.'
+
+Speaker A: 'You’ve got a great team behind you, so take it one step at a time. We’re here to help.'"

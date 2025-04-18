@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "Cash Flow Management",
+      "sentiment": "negative"
+    },
+    {
+      "topic": "Scenario and Sensitivity Analysis", 
+      "sentiment": "neutral"
+    }
+  ]
+}

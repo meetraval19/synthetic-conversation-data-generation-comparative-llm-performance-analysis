@@ -1,0 +1,16 @@
+"Speaker A: 'Thanks for joining us today to give feedback on our app. Let's start with your understanding of how our features work. Can you share any thoughts?'
+
+Speaker B: 'Of course. I found some areas a bit confusing initially. For example, navigating through the setup took a few tries before I fully grasped it.'
+
+Speaker A: 'We appreciate your input. Now, moving on to your overall experience with the app, how did it feel during daily use?'
+
+Speaker B: 'Honestly, once I got the hang of it, everything felt seamless. The design is clean and intuitive, making my tasks much simpler.'
+
+Speaker A: 'That's great to hear! Our design team will be thrilled about your positive experience. Any specific features you found most helpful?'
+
+Speaker B: 'Yes, the automation feature really stood out. It saved me a lot of time and effort, allowing me to focus on other important tasks.'
+
+Speaker A: 'Fantastic! Your feedback is invaluable as we continue to refine the app. Any additional thoughts you'd like to share?'
+
+Speaker B: 'Just keep up the excellent work. It's exciting to see how the app is evolving, and I'm looking forward to future updates!'"
+

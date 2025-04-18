@@ -1,0 +1,15 @@
+"Speaker A: 'I'm glad to see you today. I've had a look at your medical records and noticed significant improvements in your recovery.'
+
+Speaker B: 'That’s great to hear! I’ve been feeling much better lately.'
+
+Speaker A: 'Wonderful. Now, let’s discuss your ongoing needs after leaving the hospital. How do you feel about the current plan?'
+
+Speaker B: 'I feel okay with it, but I’m still trying to process all the details. It seems a bit overwhelming at times.'
+
+Speaker A: 'That’s understandable. We can go over any parts you’re unsure about. Also, let's review your medications. How are you managing with them?'
+
+Speaker B: 'Honestly, I've been struggling a bit with remembering the dosages and timings. It feels like too much to keep track of.'
+
+Speaker A: 'I see. Let’s see if we can simplify your regimen or set up a reminder system to help you with that.' 
+
+Speaker B: 'I’d appreciate that. Being on top of it would definitely make things easier for me.'"

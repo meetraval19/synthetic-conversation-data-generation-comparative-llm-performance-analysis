@@ -1,0 +1,19 @@
+"Speaker A: 'So, before you're discharged, we need to go over a few details.'
+
+Speaker B: 'Sure, but I hope this time things run more smoothly than they did during my stay. The way the staff communicated was quite frustrating.'
+
+Speaker A: 'I understand, and we’re working to address those issues. We’ve received similar feedback, and it’s something we're actively trying to improve.'
+
+Speaker B: 'I’m glad to hear that. On a positive note, I was impressed with how quickly you managed my specialist referral.'
+
+Speaker A: 'Yes, the new system has really streamlined that process. We aim to coordinate with specialists effectively, so patients aren’t left waiting.'
+
+Speaker B: 'That certainly put me at ease. Now, about these medications... should I be concerned about any unusual reactions?'
+
+Speaker A: 'While every medication has potential side effects, they’re generally uncommon. We'll give you detailed information so you know what to look out for.'
+
+Speaker B: 'I appreciate that. Having some guidance will help me feel more prepared once I’m home.'
+
+Speaker A: 'Absolutely, and feel free to contact us if you have any concerns after you leave.'
+
+Speaker B: 'Thanks. Hopefully, the communication improves for future patients, but I’m grateful for the overall care and coordination.'

@@ -1,0 +1,15 @@
+"Speaker A: 'Thanks for meeting with me to discuss my discharge today. I feel a bit lost about the next steps.'
+
+Speaker B: 'Of course, I'm here to help. I noticed there was some confusion among our team about your discharge plan. I apologize for any inconvenience.'
+
+Speaker A: 'I did sense some miscommunication. It seemed like different team members had different ideas about my medication schedule.'
+
+Speaker B: 'I understand. We've been working on improving our internal communication to provide better care experiences. Let's go over your plan together to ensure everything is clear for you.'
+
+Speaker A: 'That would be great. I appreciate you taking the time. Can we also review my previous conditions? I want to make sure nothing is overlooked when I go home.'
+
+Speaker B: 'Absolutely, let's check your history to align everything. It's crucial to have a thorough understanding so we can manage your health effectively.'
+
+Speaker A: 'I agree. It’s good to know that all my past records are being considered in my current care.'
+
+Speaker B: 'Precisely. We'll make sure your discharge plan is comprehensive and suits your needs, considering everything from your medical background.'"

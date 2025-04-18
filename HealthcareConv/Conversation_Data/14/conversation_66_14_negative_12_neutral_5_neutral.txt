@@ -1,0 +1,11 @@
+"Speaker A: 'Let's start by discussing the patient feedback on medication. There have been some concerns about adverse reactions.'
+
+Speaker B: 'Yes, the side effects reported have been worrying. We need to address these promptly.'
+
+Speaker A: 'Absolutely. Moving on, how would you rate the accuracy and completeness of our patient notes?'
+
+Speaker B: 'The documentation has been consistent, but there's always room for improvement in detailing patient histories.'
+
+Speaker A: 'I agree. Staying organized is key. Now, regarding our post-visit procedures, how do you think we're doing in scheduling follow-ups?'
+
+Speaker B: 'Our system is functioning adequately. Patients are being contacted, but we could streamline the process to make it even more efficient.'"

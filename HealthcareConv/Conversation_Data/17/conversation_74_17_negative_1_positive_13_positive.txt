@@ -1,0 +1,24 @@
+"Speaker A: 'Good to see you again. I noticed your symptoms have improved since our last visit.'
+
+Speaker B: 'Yes, the new medication is working well. I feel more energized and the pain has decreased significantly.'
+
+Speaker A: 'That's excellent to hear. It sounds like the assessment we did was spot-on.'
+
+Speaker B: 'Absolutely, I'm really grateful for the thorough check you did earlier.'
+
+Speaker A: 'Now, have you encountered any difficulties accessing your sessions or medication?'
+
+Speaker B: 'Actually, getting to the clinic has been tough due to transportation issues. It’s been a bit frustrating.'
+
+Speaker A: 'I'm sorry to hear about that. Let’s explore some alternatives to ensure you get the care you need.'
+
+Speaker B: 'That would be really helpful, thank you.'
+
+Speaker A: 'Looking ahead, have you thought about your discharge plan?'
+
+Speaker B: 'Yes, I'm optimistic about it. The suggestions you provided before were very useful.'
+
+Speaker A: 'Great! Let’s make sure everything is in place for when you're ready to transition back home.'
+
+Speaker B: 'Perfect. I feel more confident knowing I’ll have a solid plan.'"
+

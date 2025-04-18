@@ -1,0 +1,14 @@
+"Speaker A: 'Your latest symptom assessment shows great improvement, which is a good sign for your recovery.'
+
+Speaker B: 'That's reassuring to hear. So, does that mean I'm ready to go home?'
+
+Speaker A: 'Yes, it looks like you're on the right track. Just make sure to follow the discharge instructions.'
+
+Speaker B: 'Of course. Are there any emergency situations I should be aware of once I'm home?'
+
+Speaker A: 'There aren’t specific concerns, but it's always good to keep an eye out for unexpected changes and contact us if needed.'
+
+Speaker B: 'Makes sense. I’m feeling more confident about managing once I leave the hospital.'
+
+Speaker A: 'Glad to hear that. Just remember, we're always here if you need further assistance or advice.'"
+

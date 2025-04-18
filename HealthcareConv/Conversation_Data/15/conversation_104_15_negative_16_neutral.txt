@@ -1,0 +1,21 @@
+"Speaker A: 'I’ve noticed our recent trials on patient involvement are hitting some roadblocks.'
+
+Speaker B: 'Yes, the idea of shared decision making sounded promising, but patients often feel overwhelmed with the options.'
+
+Speaker A: 'It complicates things when we aim for inclusivity but end up confusing them instead.'
+
+Speaker B: 'Absolutely, we need to refine our approach to make it more patient-friendly without reducing their involvement.'
+
+Speaker A: 'On another note, how are we doing with how we communicate diagnoses?'
+
+Speaker B: 'It's been a bit mixed. Some patients appreciate the transparency, while others find it unsettling.'
+
+Speaker A: 'That’s expected; we’re navigating a fine line between informative and overwhelming.'
+
+Speaker B: 'True, perhaps more personalized communication could help, balancing fact with empathy.'
+
+Speaker A: 'Agreed. We should consider workshops to improve this area further.'
+
+Speaker B: 'That sounds like a good plan. Let's explore options for better models and training.'
+
+Speaker A: 'Definitely. Both areas need attention, but we’ll find a way forward.'"

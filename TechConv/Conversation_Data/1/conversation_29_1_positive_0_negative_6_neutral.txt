@@ -1,0 +1,17 @@
+"Speaker A: 'Hello, thank you for calling Tech Support. How can I assist you today?'
+
+Speaker B: 'Hi, I'm having a minor glitch with the app. The response time seems slower today.'
+
+Speaker A: 'I’m glad you reached out! Let’s troubleshoot that. It’s always good to address these issues promptly.'
+
+Speaker B: 'Thanks. Also, I've been trying to understand how the new feature is supposed to work. It doesn’t seem very intuitive.'
+
+Speaker A: 'I understand your concern. We've received feedback about the complexity of that feature. The team is working on making it more user-friendly.'
+
+Speaker B: 'That would be great. Overall, though, the app works well. The interface has been consistent, and that's something I appreciate.'
+
+Speaker A: 'Thank you for sharing that. It’s important for us to know the areas where we’re performing well to ensure we keep it that way.’
+
+Speaker B: 'Thanks for your help today. I hope the app's response time improves soon!'
+
+Speaker A: 'We’ll get on it right away. Have a great day!'”

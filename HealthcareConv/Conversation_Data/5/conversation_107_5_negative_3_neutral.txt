@@ -1,0 +1,11 @@
+"Speaker A: 'It's important to discuss your recent lab results in today's follow-up.'
+
+Speaker B: 'I was hoping the results would be better. This part always makes me anxious.'
+
+Speaker A: 'I understand your concerns. Let's ensure we address everything today to put your mind at ease. Shall we move on to reviewing your current medications?'
+
+Speaker B: 'Sure, I think the dosage changes have been working fine, but I'm not entirely certain.'
+
+Speaker A: 'That's completely normal. It's good to hear you're not experiencing any issues so far. We can make adjustments if needed, after discussing your progress and any concerns you might have.'
+
+Speaker B: 'That sounds good. I appreciate you taking the time to go through everything with me.'

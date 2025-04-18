@@ -1,0 +1,17 @@
+"Speaker A: 'How have you been feeling since the surgery?'
+
+Speaker B: 'Honestly, I've noticed significant improvements, especially with the support services available. The physiotherapy sessions have been really encouraging.'
+
+Speaker A: 'I'm glad to hear that! Our support team is dedicated to making recovery as smooth as possible.'
+
+Speaker B: 'Absolutely, they have been wonderful. However, I've experienced some frustrations with the communication among the healthcare team. It seems like messages don't always get through to the right people.'
+
+Speaker A: 'I'm sorry to hear that. We are constantly working on improving our internal communication. I'll make sure to address this with the team to prevent any future issues.'
+
+Speaker B: 'I appreciate that. It's just a bit unsettling when different staff members have conflicting information.'
+
+Speaker A: 'I understand completely. Ensuring clear and consistent communication is crucial, and we'll strive to do better. Thank you for bringing it to my attention.' 
+
+Speaker B: 'Thank you for listening and addressing my concerns. Overall, I'm feeling quite optimistic about my recovery with the support I’ve received.' 
+
+Speaker A: 'That's great to hear. Let’s keep working together to make sure everything else falls into place smoothly.'"

@@ -1,0 +1,27 @@
+"Speaker A: 'Thanks for coming in today. Let’s start with reviewing your progress. How have you been feeling overall?'
+
+Speaker B: 'I think I’m managing okay. I've been following the guidelines from last time.'
+
+Speaker A: 'That’s good to hear. Let’s go over some educational points again to ensure everything is clear. It's important to keep things fresh in mind.'
+
+Speaker B: 'Yes, please. A little refreshment could be helpful.'
+
+Speaker A: 'Alright, now onto your records. I noticed there were some date discrepancies. We’ll need to correct those.'
+
+Speaker B: 'Oh, I didn't realize there were issues. Is that going to be a big problem?'
+
+Speaker A: 'It’s something we can sort out, though it might take a bit of time. Accurate documentation is crucial for tracking your progress.'
+
+Speaker B: 'I see. I’ll make sure to double-check things next time.'
+
+Speaker A: 'Great. Lastly, have you had any situations where you felt you needed urgent care? Any severe symptoms we should be aware of?'
+
+Speaker B: 'Thankfully, nothing severe, but I did worry about a few symptoms and wasn’t sure if they were emergencies.'
+
+Speaker A: 'Understanding when to seek emergency care is vital. Let's discuss the signs to watch out for again to ease your concerns.'
+
+Speaker B: 'I’d appreciate that. It’s sometimes hard to know when to act.'
+
+Speaker A: 'Absolutely, it's better to have peace of mind. Feel free to contact us anytime something doesn't feel right.'
+
+Speaker B: 'Thank you, I will. It's reassuring to have that support.'"

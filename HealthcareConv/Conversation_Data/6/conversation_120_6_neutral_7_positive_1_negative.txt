@@ -1,0 +1,13 @@
+"Speaker A: 'I understand you've been referred here for a further consultation. How has the process of getting here been for you?'
+
+Speaker B: 'It was pretty straightforward. The team at my primary care clinic coordinated everything well, so I didn't have to worry about a thing.'
+
+Speaker A: 'That’s good to hear. We strive to make transitions between services as smooth as possible. Now, let's discuss your main symptoms. How have they been affecting you lately?'
+
+Speaker B: 'Honestly, it's been tough. The symptoms have been quite persistent, and it feels like they're impacting my daily activities more than I expected.'
+
+Speaker A: 'I’m sorry to hear that. We'll do our best to assess and find a suitable treatment plan for you. On another note, one area we focus heavily on is our team's communication. How have you found the interactions with different specialists?'
+
+Speaker B: 'The communication has been excellent. Everyone seems to be on the same page, and I've felt supported throughout the process.'
+
+Speaker A: 'I'm glad to hear that. Effective communication within the team is crucial for providing the best care possible. Let's work together to tackle those symptoms and improve your well-being.'"

@@ -1,0 +1,15 @@
+"Speaker A: 'I noticed some discrepancies in your medical history documentation. It's quite concerning how errors can occur.'
+
+Speaker B: 'I understand. That can be frustrating. I'll make sure to have the records reviewed and updated.'
+
+Speaker A: 'Thank you. I also have some questions about the medication. Are there any common reactions I should be aware of?'
+
+Speaker B: 'Most patients experience mild reactions, such as headaches or drowsiness. It's important to monitor any changes.'
+
+Speaker A: 'Alright, I'll keep an eye on that. Also, are there any resources available if I need additional support?'
+
+Speaker B: 'We offer various support groups and educational programs. They're quite helpful if you need additional guidance.'
+
+Speaker A: 'That sounds reassuring. I may look into those options.'
+
+Speaker B: 'Definitely. Let us know if you need any referrals or more information on our services.'"

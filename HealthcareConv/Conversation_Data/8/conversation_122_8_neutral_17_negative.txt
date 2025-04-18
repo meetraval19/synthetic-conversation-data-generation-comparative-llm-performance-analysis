@@ -1,0 +1,21 @@
+"Speaker A: 'Good to see you again! I wanted to discuss the updates to your treatment plan.'
+
+Speaker B: 'Sure, I'm eager to hear what’s new.'
+
+Speaker A: 'We've added some exercises to your routine, based on recent studies. It seems like a balanced approach to maintain your progress.'
+
+Speaker B: 'That sounds reasonable. I’ve been following the previous plan with no issues.'
+
+Speaker A: 'Glad to hear! However, I’m concerned there might be some challenges hindering your progress. Have you noticed anything?’
+
+Speaker B: 'Actually, yes. The medication schedule is getting a bit difficult to maintain with work commitments.'
+
+Speaker A: 'Understandable. Juggling schedules can be tough, but let’s see if we can adjust the timing.'
+
+Speaker B: 'That would help. I’ve also had trouble making it to therapy sessions due to transportation issues.'
+
+Speaker A: 'I see, transportation can be a real barrier. Let’s explore some options that might make it easier for you.'
+
+Speaker B: 'I appreciate that. It’s been a bit overwhelming, to be honest.'
+
+Speaker A: 'We’ll work through it together. Addressing these obstacles is a key part of ensuring your successful recovery.'"

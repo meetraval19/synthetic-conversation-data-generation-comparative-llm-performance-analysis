@@ -1,0 +1,19 @@
+"Speaker A: 'Thanks for coming in today. Let's start by discussing your recent experiences with our support services.'
+
+Speaker B: 'I appreciate the care, but honestly, reaching support has been a bit challenging. It’s been frustrating.'
+
+Speaker A: 'I’m sorry to hear that. We’re working on improving our response times and accessibility.'
+
+Speaker B: 'That would definitely help. Now, regarding the paperwork you mentioned last time, did you have a chance to review it?'
+
+Speaker A: 'Yes, I looked through your documentation. Everything appears to be in order, but I’d like to go over a few details with you.'
+
+Speaker B: 'Sure, it’s always good to make sure we’re on the same page with that. Has there been any update on my diagnosis?'
+
+Speaker A: 'Related to your diagnosis, everything remains as initially discussed. There are no new findings, but let’s keep monitoring any changes.'
+
+Speaker B: 'Understood. It's reassuring to know it’s not something new at least.'
+
+Speaker A: 'Absolutely. If you have any questions at any point, please don’t hesitate to reach out.'
+
+Speaker B: 'I’ll definitely do that. Thank you for your support and hearing my concerns today.'"

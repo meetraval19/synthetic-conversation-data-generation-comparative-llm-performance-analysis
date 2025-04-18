@@ -1,0 +1,21 @@
+"Speaker A: 'I'm glad you're feeling better. We need to go over your discharge plan.'
+
+Speaker B: 'Sure, but I've been a bit concerned about how decisions were made regarding my treatment.'
+
+Speaker A: 'I understand. Sometimes, the decision-making process can feel a bit one-sided, but your input is crucial as we move forward.'
+
+Speaker B: 'I appreciate that. It’s just that earlier, I felt like I wasn’t fully involved.'
+
+Speaker A: 'We’ll make sure to address that in future consultations. Now, let's discuss your medications and their effects.'
+
+Speaker B: 'I've actually noticed the new medication has fewer side effects than my previous one.'
+
+Speaker A: 'That's great to hear. It's always a relief when treatment options bring better outcomes without added discomfort.'
+
+Speaker B: 'Definitely. It makes the recovery process much more manageable.'
+
+Speaker A: 'We’ll keep monitoring how you respond, and please let us know if anything changes.'
+
+Speaker B: 'I will, thank you. Understanding the positives of my treatment plan helps a lot.'
+
+Speaker A: 'I'm glad. We want your transition home to be as smooth as possible.'"

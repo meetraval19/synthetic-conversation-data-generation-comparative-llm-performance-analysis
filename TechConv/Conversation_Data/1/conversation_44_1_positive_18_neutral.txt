@@ -1,0 +1,14 @@
+"Speaker A: 'Thank you for joining us today. How do you find the process of reporting bugs or issues within our software?'
+
+Speaker B: 'Honestly, I've been quite impressed. The interface for reporting is intuitive, and I've always received timely responses.'
+
+Speaker A: 'That’s great to hear! We’re always striving to improve. Now, how do you feel about navigating the compliance or regulatory aspects of our platform?'
+
+Speaker B: 'It's a bit of a mixed bag. While I appreciate the thoroughness, sometimes the guidelines seem a bit overwhelming.'
+
+Speaker A: 'I understand. Balancing thoroughness with simplicity can be challenging. Any suggestions on how we might improve?'
+
+Speaker B: 'Perhaps clearer summaries or tooltips could help streamline the process.'
+
+Speaker A: 'That’s a valuable suggestion. We’ll definitely consider it moving forward. Thank you for your feedback!'"
+

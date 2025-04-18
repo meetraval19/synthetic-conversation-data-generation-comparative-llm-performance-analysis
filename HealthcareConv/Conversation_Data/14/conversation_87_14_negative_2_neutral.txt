@@ -1,0 +1,21 @@
+"Speaker A: 'Good morning! I see you’ve started the new medication. How are you feeling since you began the treatment?'
+
+Speaker B: 'Morning! I have been a bit concerned about some dizziness and nausea. I read these might be side effects.'
+
+Speaker A: 'I understand your concern. These are indeed common side effects for the first few weeks. It should improve, but if it persists, let’s discuss alternatives.'
+
+Speaker B: 'That’s reassuring. Should I be worried about any serious side effects I haven’t experienced yet?'
+
+Speaker A: 'Serious issues are rare, but it’s important to watch out for any severe symptoms and contact us if you notice anything unusual.'
+
+Speaker B: 'Alright, I’ll keep an eye on it. Now, about those test results you mentioned...'
+
+Speaker A: 'Yes, your tests came back quite normal, which is a good sign. We'll continue to monitor your progress with regular check-ups.'
+
+Speaker B: 'Glad to hear that. I was a bit anxious about what the tests might show.'
+
+Speaker A: 'Understandable. Regular monitoring helps us catch any changes early, keeping everything on track.'
+
+Speaker B: 'Thanks for explaining everything clearly. It’s always a little nerve-wracking waiting for the results.'
+
+Speaker A: 'Of course, it’s natural to feel that way. We’re here to ensure you have all the information and support you need.'"

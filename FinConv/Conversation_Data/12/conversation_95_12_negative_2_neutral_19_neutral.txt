@@ -1,0 +1,17 @@
+"Speaker A: 'I'm concerned about the current state of our liquidity. It's been a bit unsettling with the potential risks that could impact our assets.'
+
+Speaker B: 'Yes, the liquidity situation is not ideal. We need to find ways to mitigate these risks before they become more problematic.'
+
+Speaker A: 'I agree. On a different note, how's the review going on the new regulatory requirements?'
+
+Speaker B: 'It’s a lot to take in, but nothing out of the ordinary at the moment. We’re staying neutral on any immediate changes until we analyze the full impact.'
+
+Speaker A: 'Makes sense. It's important to stay ahead but also to ensure we're compliant without rushing into things.'
+
+Speaker B: 'Exactly. Speaking of which, have you had a chance to look at the recent sensitivity analysis?'
+
+Speaker A: 'I did, actually. The results were as expected, mostly neutral in terms of impact, but it's always good to be prepared for any market volatility.'
+
+Speaker B: 'Absolutely. Scenario analysis helps us see potential futures, but it’s still about making informed decisions today.'
+
+Speaker A: 'Right. We should keep monitoring both aspects closely to ensure we're ready for whatever comes next.'"

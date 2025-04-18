@@ -1,0 +1,11 @@
+"Speaker A: 'I’ve noticed some gaps in how our team has been communicating lately. It’s affecting our workflow.'
+
+Speaker B: 'I agree. Miscommunication has led to a few setbacks during the case this week. We need to address it soon.'
+
+Speaker A: 'Definitely. It’s crucial for efficient patient care. On another note, I read about the new medication we’re using. The side effects seem to be minimal.'
+
+Speaker B: 'Yes, patients have been responding well so far. It’s always encouraging when treatments align with what we expect and have fewer complications.'
+
+Speaker A: 'Absolutely. It’s a relief to see progress in this area. Let’s focus on resolving these communication issues next meeting, though.'
+
+Speaker B: 'Agreed. Fixing that should enhance our overall effectiveness and patient outcomes.'"

@@ -1,0 +1,17 @@
+"Speaker A: 'I’ve been reviewing your care plan, and I'm really happy with the progress we've made.'
+
+Speaker B: 'That's great to hear! I’ve been following your recommendations closely.'
+
+Speaker A: 'I can tell. The adjustments we made seem to be working well for you.'
+
+Speaker B: 'Yes, they definitely are. What’s next in terms of our follow-up?'
+
+Speaker A: 'We’ll keep it straightforward. I'll need to see you back here in about three months to monitor everything.'
+
+Speaker B: 'Sounds good. Anything else I should be focusing on until then?'
+
+Speaker A: 'Just keep up the good work and continue with the current routine. If anything changes or if you have any concerns, feel free to reach out.'
+
+Speaker B: 'Will do. Thanks for the support and guidance.'
+
+Speaker A: 'Anytime. Take care until our next appointment.'"

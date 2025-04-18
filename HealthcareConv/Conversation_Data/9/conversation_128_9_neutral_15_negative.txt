@@ -1,0 +1,17 @@
+"Speaker A: 'How have you been feeling since our last visit? Any changes in your condition?'
+
+Speaker B: 'I've been managing okay, but I'm still unsure about some things. Could we talk about the tests you mentioned?'
+
+Speaker A: 'Of course. The evaluations are pretty standard. They help us understand potential issues and plan accordingly.'
+
+Speaker B: 'I guess it's good to have a clear picture. But, honestly, I’m a bit apprehensive about all these decisions I need to make.'
+
+Speaker A: 'I understand it can be overwhelming. We'll work together to weigh all options carefully. It’s important you feel informed and comfortable.'
+
+Speaker B: 'I appreciate that. It just feels like there are so many factors to consider, and making the right choice is daunting.'
+
+Speaker A: 'I assure you, we'll take it step by step. My goal is to support you in every decision.'
+
+Speaker B: 'Thank you. I feel a bit better knowing we're taking a methodical approach to all this.'
+
+Speaker A: 'Great. You're doing well. Let’s keep this dialog open, and we’ll handle it together.'"

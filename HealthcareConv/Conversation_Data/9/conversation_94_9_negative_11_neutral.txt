@@ -1,0 +1,23 @@
+"Speaker A: 'Hi, thanks for coming in today. Have you had any concerns since our last visit?'
+
+Speaker B: 'Well, I've been thinking a lot about the recent risk assessment. It seemed a bit alarming.'
+
+Speaker A: 'I understand. It’s important to focus on manageable aspects and take preventative steps. It’s not always as daunting as it seems.'
+
+Speaker B: 'That’s good to hear. Is there anything specific I should be doing?'
+
+Speaker A: 'Absolutely. We can go over some educational materials that might clarify things. They’re quite informative and easy to understand.'
+
+Speaker B: 'Great, I’d appreciate that. Sometimes it’s overwhelming figuring out what’s actually important.'
+
+Speaker A: 'That’s perfectly normal. Knowing what to prioritize can make a big difference in how you manage your health.'
+
+Speaker B: 'I agree, and I suppose staying informed helps alleviate some of the worry.'
+
+Speaker A: 'Exactly. And, if any questions come up, feel free to reach out. It's important to stay proactive.'
+
+Speaker B: 'Thanks, that’s reassuring. I’ll definitely take you up on that if anything arises.'
+
+Speaker A: 'Glad to hear it. Let’s make sure everything stays on track, and we’ll see you for the next check-up.' 
+
+Speaker B: 'Sounds good. Thank you for your time today.'"

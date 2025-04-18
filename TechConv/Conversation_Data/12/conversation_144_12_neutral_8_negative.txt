@@ -1,0 +1,28 @@
+"Speaker A: 'Hello, thank you for calling tech support. How can I assist you today?'
+
+Speaker B: 'Hi, I'm having some issues setting up my new server. I've been trying to work through the setup details, but I'm not quite sure about the memory configuration.'
+
+Speaker A: 'No problem. Let's go over the system details together. Can you tell me what information you have so far?'
+
+Speaker B: 'I've got the basic setup done, but I'm unsure if I allocated enough memory resources for optimal performance.'
+
+Speaker A: 'It sounds like you might need to review your configuration settings. We can check if the memory allocation matches your system requirements.'
+
+Speaker B: 'That would be great. I've tried looking through some manuals, but the documentation is really hard to follow.'
+
+Speaker A: 'I understand. Sometimes the technical documentation can be quite confusing.'
+
+Speaker B: 'Exactly. It seems like it's written more for experts rather than end-users.'
+
+Speaker A: 'You're not the first to mention the challenges with those references. Let me guide you through the specifics based on your configuration setup.'
+
+Speaker B: 'Thank you. That would really help as I thought I was missing something critical.'
+
+Speaker A: 'Let's review your setup step by step and make sure everything is configured correctly to avoid any performance issues.'
+
+Speaker B: 'I appreciate the help. Hopefully, we can get this sorted without too much trouble.'
+
+Speaker A: 'I'm confident we can resolve it together. Just let me know if you need any clarification as we proceed.'
+
+Speaker B: 'Will do. Thanks again for your support.'"
+

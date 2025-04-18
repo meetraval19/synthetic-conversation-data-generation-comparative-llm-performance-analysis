@@ -1,0 +1,13 @@
+"Speaker A: 'I’m pleased to tell you that the team feels confident about your health progress. They’ve communicated the diagnosis clearly, ensuring we’re on the same page.'
+
+Speaker B: 'That's a relief to hear. But when it came to deciding the treatment path, it felt like my opinion didn’t hold much weight.'
+
+Speaker A: 'I understand your frustration. It’s crucial for patients to feel involved in decisions about their care. I’ll make sure your feedback reaches the team.'
+
+Speaker B: 'Thank you, I appreciate that. Now, regarding the potential risks of my current treatment plan, can you tell me more about the likelihood of complications?'
+
+Speaker A: 'Certainly, the current assessment shows moderate risk levels, but everything is within manageable limits according to our charts.'
+
+Speaker B: 'It's good to know that it’s being monitored. I’ll keep an eye on any changes as well and report any concerns immediately.'
+
+Speaker A: 'I’m here for any questions you might have throughout the process. Your recovery is our priority.'”

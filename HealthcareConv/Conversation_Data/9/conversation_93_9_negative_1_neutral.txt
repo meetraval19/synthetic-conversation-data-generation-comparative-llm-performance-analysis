@@ -1,0 +1,15 @@
+"Speaker A: 'Hi, thanks for seeing me today. I've been a bit worried since our last session.'
+
+Speaker B: 'Of course. Let's take a closer look at everything. About those recent tests, there were some concerns we discussed, right?'
+
+Speaker A: 'Yes, the risk factors you mentioned have been on my mind a lot.'
+
+Speaker B: 'I understand. Some of those readings do suggest we need to monitor things closely. It's important we address this carefully.'
+
+Speaker A: 'Got it. And about how I've been feeling lately, can we go over that again? I'm not sure how serious it is.'
+
+Speaker B: 'Sure. Your recent symptoms seem consistent with the condition we're monitoring. Nothing alarming, just things to be aware of.'
+
+Speaker A: 'That's a relief to hear. So, nothing drastically wrong right now?'
+
+Speaker B: 'Exactly. Just continue keeping track of any changes, and we'll adjust as needed. It's all about staying ahead of any developments.'"

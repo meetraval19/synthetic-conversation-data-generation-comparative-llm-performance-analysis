@@ -1,0 +1,15 @@
+"Speaker A: 'I noticed you had to visit the emergency room recently. How are you feeling about that experience?'
+
+Speaker B: 'Honestly, it was quite overwhelming. The long wait and uncertainty were stressful.'
+
+Speaker A: 'I'm sorry to hear that. We'll definitely work on a plan to minimize such situations in the future.'
+
+Speaker B: 'That would be great. I appreciate your support.'
+
+Speaker A: 'Let's focus on making decisions together about your treatment going forward. How do you feel about actively participating in the choices regarding your care?'
+
+Speaker B: 'I'm neutral about it. I trust your judgment, but I'm open to understanding more about the options.'
+
+Speaker A: 'That sounds good. We can go over different plans, and you can decide what's best for you with all the information at hand.'
+
+Speaker B: 'I appreciate being involved. It makes me feel more in control of my health.'"

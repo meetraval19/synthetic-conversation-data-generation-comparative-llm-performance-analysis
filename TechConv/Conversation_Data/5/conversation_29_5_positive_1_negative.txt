@@ -1,0 +1,22 @@
+"Speaker A: 'Thank you for joining this feedback session. Let’s start by discussing where you see improvements in our app's future development.'
+
+Speaker B: 'Sure, I’m quite optimistic about the planned new features. They seem promising and align well with what users are looking for.'
+
+Speaker A: 'That’s great to hear! We’re really excited about what's to come in the next updates. Is there a particular feature that stands out to you?'
+
+Speaker B: 'Yes, the upcoming integration with other services sounds particularly useful. It could streamline many tasks for us.'
+
+Speaker A: 'Glad you think so. We’re aiming to enhance user productivity. Now, on the flip side, have you encountered any issues or bugs that we should address?'
+
+Speaker B: 'Unfortunately, yes. Recently, there have been some glitches that disrupt the experience considerably.'
+
+Speaker A: 'I’m sorry to hear that. Could you elaborate on what was affected the most?'
+
+Speaker B: 'The syncing feature sometimes fails, which is crucial for my workflow. It's been quite frustrating.'
+
+Speaker A: 'We appreciate you bringing this up. It's something we’re actively working to fix. Your feedback helps us prioritize.'
+
+Speaker B: 'I’m glad to hear that. If those issues were sorted, it would drastically improve the usability.'
+
+Speaker A: 'Absolutely, we’re committed to making these updates as smooth as possible. Thank you for your insights, they're immensely valuable to us.'"
+
